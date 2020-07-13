@@ -1,0 +1,27 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+logo: /images/isomer-logo.svg
+
+links:
+  - title: About Us
+    collection: about-us
+  - title: Consumers
+    collection: consumers
+  - title: Businesses
+    collection: businesses
+  - title: E-Services
+    sublinks:
+      - title: Registration of Registered Supplier
+        url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=AccountRegistrationRSSubmit.form
+      - title: Registration of Conformity Assessment Body
+        url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationCPS.form%3FAT%3D1&
+  - title: News And Media Centre
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us/
+  - title: FAQ
+    url: /faq/
