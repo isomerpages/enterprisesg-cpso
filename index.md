@@ -2,7 +2,7 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/SA-logo.png
+image: /images/favicon-isomer.ico
 permalink: /
 notification: Annoucement 
 sections:
