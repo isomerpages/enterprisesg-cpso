@@ -1,3 +1,6 @@
-Testing my first page
-
-Testing my first page second line
+---
+title: MyFirstPage
+permalink: /myfirstpage/
+---
+Hello Isomer. This is my first page.
+### **MyFirstPage**
