@@ -2,7 +2,7 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/SAWMO.png
+image: /images/SAWMO-logo.png
 permalink: /
 notification: Testing 123
 sections:
