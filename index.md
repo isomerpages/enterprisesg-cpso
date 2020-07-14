@@ -7,7 +7,7 @@ permalink: /
 notification: Testing 123
 sections:
     - hero:
-        title: Consumer Protection, Weights & Measures
+        title: ## Consumer Protection, Weights & Measures
         subtitle: Testing 123
         background: /images/safety-banner.png
         button: Contact Us
