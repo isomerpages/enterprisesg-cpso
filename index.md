@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/SA-logo.png
 permalink: /
-notification: Testing 123
+notification: Annoucement 
 sections:
     - hero:
         title: Consumer Protection, Weights & Measures
