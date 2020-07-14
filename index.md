@@ -2,14 +2,14 @@
 layout: homepage
 title: Isomer Site
 description: Brief site description here
-image: /images/SAWMO-logo.png
+image: /images/SA-logo.png
 permalink: /
 notification: Testing 123
 sections:
     - hero:
         title: Consumer Protection, Weights & Measures
         subtitle: Testing 123
-        background: /images/hero-banner.png
+        background: /images/SA-logo.png
         button: Contact Us
         url: /contact-us/
         key_highlights:
