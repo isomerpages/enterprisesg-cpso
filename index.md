@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Consumer Protection, Weights & Measures
         subtitle: Testing 123
-        background: /images/SA-logo.png
+        background: /images/SAWMO-logo.png
         button: Contact Us
         url: /contact-us/
         key_highlights:
