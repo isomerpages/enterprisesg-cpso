@@ -1,5 +1,5 @@
 ---
-title: FAQ
-permalink: /faq/
+title: MyTest
+permalink: /testing/
 ---
-Hello, Isomer! This is my very first edit on my first page
+Hello, Isomer! This is my very first test
