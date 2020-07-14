@@ -7,7 +7,7 @@ permalink: /
 notification: Annoucement 
 sections:
     - hero:
-        title: Consumer Protection, Weights & Measures
+        title: 
         subtitle: 
         background: /images/safety-banner.png
         button: 
