@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Javier testing!
+notification: Testing 123
 sections:
     - hero:
         title: Consumer Protection, Weights & Measures
-        subtitle: Javier testing
+        subtitle: Testing 123
         background: /images/hero-banner.png
         button: Contact Us
         url: /contact-us/
