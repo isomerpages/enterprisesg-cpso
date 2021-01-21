@@ -18,9 +18,6 @@ sections:
             - title: Register for SAFETY Mark
               description: Redirects to Google Mail
               url: https://gmail.com
-            - title: More about ACCURACY Label
-              description: Redirects to /privacy
-              url: /privacy/
             - title: Register as Conformity Assessment Body
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationCPS.form%3FAT%3D1&
     - infobar:
