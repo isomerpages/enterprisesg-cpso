@@ -9,16 +9,16 @@ sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/safety-banner.png
+        background: /images/weights-measures-banner.png
         button: 
         url:
         key_highlights:
-            - title: Product Safety Alerts and Recalls
+            - title: Apply to be an Authorised Verifier
               url: /news-and-media-centre/product-safety-alerts-and-recalls/
-            - title: Register for SAFETY Mark
+            - title: Apply to be Recognised Testing Laboratory
               description: Redirects to Google Mail
               url: https://gmail.com
-            - title: Register as Conformity Assessment Body
+            - title: Pattern registration of Instrument
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationCPS.form%3FAT%3D1&
     - infobar:
         title: Infobar title
