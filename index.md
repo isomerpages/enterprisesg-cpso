@@ -14,7 +14,7 @@ sections:
         url:
         key_highlights:
             - title: Product Safety Alerts and Recalls
-            - description: Check for the latest update 
+              description: Check for the latest update 
               url: /news-and-media-centre/product-safety-alerts-and-recalls/
             - title: Registered Controlled Goods
               description: Check if the product has a valid SAFETY Mark
