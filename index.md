@@ -13,12 +13,12 @@ sections:
         button: 
         url:
         key_highlights:
-            - title: Apply to be an Authorised Verifier
+            - title: Product Safety Alerts and Recalls 
               url: /news-and-media-centre/product-safety-alerts-and-recalls/
-            - title: Apply to be Recognised Testing Laboratory
+            - title: Registered Controlled Goods
               description: Redirects to Google Mail
               url: https://gmail.com
-            - title: Pattern registration of Instrument
+            - title: Apply as Registered Supplier
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationCPS.form%3FAT%3D1&
     - infobar:
         title: Infobar title
