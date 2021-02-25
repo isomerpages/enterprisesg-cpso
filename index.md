@@ -8,7 +8,7 @@ notification: Annoucement
 sections:
     - hero:
         title: Consumer Product Safety Office
-        subtitle: 
+        subtitle: Your Trusted Regulator 
         background: /images/safety-banner.png
         button: 
         url:
