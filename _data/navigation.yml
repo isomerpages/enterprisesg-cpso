@@ -12,7 +12,7 @@ links:
   - title: Consumers
     collection: consumers
   - title: Suppliers
-    collection: test-test
+    collection: businesses
   - title: E-Services
     sublinks:
       - title: Registration of Registered Supplier
