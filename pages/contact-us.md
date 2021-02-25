@@ -4,7 +4,7 @@ title: Contact Us
 permalink: /contact-us/
 agency_name: Consumer Product Safety Office
 locations:
-  - title: HQ Address
+  - title: Address
     address:
         - 230 Victoria Street,
         - #09-00 Bugis Junction Office Tower
@@ -17,10 +17,7 @@ locations:
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
+    - phone: 1800 773 3163
+    - email: consumerprotection@enterprisesg.gov.sg 
     - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
 ---
