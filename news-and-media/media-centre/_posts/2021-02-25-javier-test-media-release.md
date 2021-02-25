@@ -21,6 +21,6 @@ Singapore, Tuesday, 8 October 2019
 
 - Look out of SAFETY Mark..
 - Avoid purchasing third party..
-- Approach the supplier..
+- Approach the supplier..\.
 
 6. Consumers can report .. at 1800 773 3163 or consumerprotection@enterprisesg.gov.sg 
