@@ -9,9 +9,11 @@ logo: /images/CPSO.png
 links:
   - title: About Us
     collection: about-us
+  - title: Suppliers
+    collection: suppliers
   - title: Consumers
     collection: consumers
-  - title: Suppliers
+  - title: xx
     collection: businesses
   - title: E-Services
     sublinks:
