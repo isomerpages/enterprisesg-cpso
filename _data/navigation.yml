@@ -13,6 +13,7 @@ links:
     sublinks:
     - title: test
       url: /suppliers/test/
+    - title: test2
       url: /suppliers/test2/
   - title: Consumers
     collection: consumers
