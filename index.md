@@ -7,16 +7,17 @@ permalink: /
 notification: Annoucement 
 sections:
     - hero:
-        title: Consumer Product Safety Office
-        subtitle: Your Trusted Regulator 
+        title: Choose Safer Products, Use Products Safely
+        subtitle: Keep Your Family Safe
         background: /images/safety-banner.png
         button: 
         url:
         key_highlights:
-            - title: Product Safety Alerts and Recalls 
+            - title: Product Safety Alerts and Recalls
+            - description: Check for the latest update 
               url: /news-and-media-centre/product-safety-alerts-and-recalls/
             - title: Registered Controlled Goods
-              description: Redirects to Google Mail
+              description: Check if the product has a valid SAFETY Mark
               url: https://gmail.com
             - title: Apply as Registered Supplier
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationCPS.form%3FAT%3D1&
