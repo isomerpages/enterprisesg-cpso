@@ -19,5 +19,4 @@ contacts:
     content:
     - phone: 1800 773 3163
     - email: consumerprotection@enterprisesg.gov.sg 
-    - other: Any text here <i>including HTML</i>
 ---
