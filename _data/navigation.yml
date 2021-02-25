@@ -10,7 +10,9 @@ links:
   - title: About Us
     collection: about-us
   - title: Suppliers
-    collection: _suppliers
+    sublinks:
+    - title: test
+      url: /suppliers/test
   - title: Consumers
     collection: consumers
   - title: xx
