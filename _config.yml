@@ -28,7 +28,7 @@ collections:
     output: true
   suppliers: 
     output: true
-resources_name: news-and-media-centre
+resources_name: news-and-media
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
