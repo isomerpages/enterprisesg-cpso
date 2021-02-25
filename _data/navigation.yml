@@ -10,7 +10,7 @@ links:
   - title: About Us
     collection: about-us
   - title: Suppliers
-    collection: suppliers
+    collection: _suppliers
   - title: Consumers
     collection: consumers
   - title: xx
