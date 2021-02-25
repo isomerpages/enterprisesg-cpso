@@ -1,4 +1,3 @@
 ---
 title: Overview
-permalink: /suppliers/overview
----
+permalink: /suppliers/1-overview
