@@ -18,8 +18,6 @@ colors:
     - title: media-color-five
       color: '#00838f'
 
-resources_name: news-and-media
-
 collections:
   about-us:
     output: true
@@ -29,6 +27,8 @@ collections:
     output: true
   suppliers: 
     output: true
+    
+resources_name: news-and-media
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
