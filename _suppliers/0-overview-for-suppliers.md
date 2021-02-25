@@ -1,5 +1,5 @@
 ---
 title: Overview
-permalink: /suppliers/overview
+permalink: /suppliers/overview/
 ---
 
