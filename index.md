@@ -17,7 +17,7 @@ sections:
               description: Check for the latest update 
               url: /news-and-media-centre/product-safety-alerts-and-recalls/
             - title: Registered Controlled Goods
-              description: Check if the product has a valid SAFETY Mark
+              description: Verify if the product has a valid SAFETY Mark
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html
             - title: Apply as Registered Supplier
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationCPS.form%3FAT%3D1&
