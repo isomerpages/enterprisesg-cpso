@@ -7,9 +7,9 @@ permalink: /
 notification: Annoucement 
 sections:
     - hero:
-        title: 
+        title: Consumer Product Safety Office
         subtitle: 
-        background: /images/safety-banner2.png
+        background: /images/safety-banner.png
         button: 
         url:
         key_highlights:
