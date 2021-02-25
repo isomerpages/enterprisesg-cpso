@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 
         subtitle: 
-        background: /images/weights-measures-banner.png
+        background: /images/safety-banner2.png
         button: 
         url:
         key_highlights:
