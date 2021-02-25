@@ -27,6 +27,7 @@ sections:
         description: While product safety is a shared responsibility among the government, suppliers, consumers and other stakeholders, suppliers have the prime responsibility to ensure they sell safe products. They must comply with the relevant product safety regulations and ensure their products do not pose a safety risk to consumers.
         button: Learn More
         url: /faq/
+        image: /images/safety-banner.png
     - resources:
         title: News & Media
         subtitle:
