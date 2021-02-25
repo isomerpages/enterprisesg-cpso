@@ -12,7 +12,8 @@ links:
   - title: Suppliers
     sublinks:
     - title: test
-      url: /suppliers/test
+      url: /suppliers/test/
+      url: /suppliers/test2/
   - title: Consumers
     collection: consumers
   - title: xx
