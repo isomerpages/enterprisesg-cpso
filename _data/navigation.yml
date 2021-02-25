@@ -10,14 +10,10 @@ links:
   - title: About Us
     collection: about-us
   - title: Suppliers
-    sublinks:
-    - title: test
-      url: /suppliers/test/
-    - title: test2
-      url: /suppliers/test2/
+    collection: suppliers
   - title: Consumers
     collection: consumers
-  - title: xx
+  - title: Businesses
     collection: businesses
   - title: E-Services
     sublinks:
