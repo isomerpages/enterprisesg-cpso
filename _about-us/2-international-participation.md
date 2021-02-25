@@ -1,4 +1,4 @@
 ---
-title: International Participation
-permalink: /about-us/international-participation/
+title: Our International Participation
+permalink: /about-us/our-international-participation/
 ---
