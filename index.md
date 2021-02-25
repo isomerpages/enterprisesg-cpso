@@ -22,13 +22,13 @@ sections:
             - title: Apply as Registered Supplier
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationCPS.form%3FAT%3D1&
     - infobar:
-        title: Infobar title
+        title: Find Out More About Product Safety Regulations
         subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
+        description: While product safety is a shared responsibility among the government, suppliers, consumers and other stakeholders, suppliers have the prime responsibility to ensure they sell safe products. They must comply with the relevant product safety regulations and ensure their products do not pose a safety risk to consumers.
+        button: Learn More
         url: /faq/
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: News & Media
+        subtitle:
         button: View More
 ---
