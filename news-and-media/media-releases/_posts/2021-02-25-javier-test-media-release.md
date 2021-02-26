@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Javier Test Media Release
-permalink: /news-and-media/media-centre/test2
+permalink: /news-and-media/media-releases/test2
 ---
 ### iPassion Group fined S$50,000 for affixing SAFETY marks on unregistered charging adaptors and selling them
 
