@@ -23,9 +23,9 @@ collections:
     output: true
   consumers:
     output: true
-  businesses:
+  suppliers:
     output: true
-  suppliers: 
+  conformity-assessment-body: 
     output: true
     
 resources_name: news-and-media
