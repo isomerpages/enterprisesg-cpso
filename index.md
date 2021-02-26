@@ -10,7 +10,7 @@ sections:
         title: <h3>Keep your family safe from injuries with the SAFETY Mark</h3>
         subtitle: 
         background: /images/safety-banner.png
-        button: Learn More
+        button:
         url: /consumers/buyers-beware
         key_highlights:
             - title: Product Safety Alerts and Recalls
