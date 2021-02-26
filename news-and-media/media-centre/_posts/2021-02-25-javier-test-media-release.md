@@ -10,11 +10,11 @@ MR No.:058/19
 Singapore, Tuesday, 8 October 2019
 
 1. iPassion Group Pte Ltd (iPassion)...  
-&nbsp  
+<p>&nbsp  </p>  
 2. Investigations on iPassion commencnced in April...  
-
+<p>&nbsp;</p>  
 3. As part of the investigations..  
-
+<p>&nbsp;  </p>  
 4. Consumer safety is of utmost importance...  
 
 5. To ensure requirements..we also encourage consumers to play their part..  
