@@ -12,22 +12,21 @@ $secondary-hover: lighten($primary, 10%);
   ${{- media-color.title -}}: {{- media-color.color -}};
 {%- endfor -%}
 
+//shades of corporate red
+$media-color-one: #E7131A; 
+$media-color-two: #CE5C5C; 
+$media-color-three: #CA3433; 
+$media-color-four: #C00A32; 
+$media-color-five: #960019; 
+$media-color-six: #E7131A; 
+$media-color-seven: #CE5C5C; 
+$media-color-eight: #CA3433; 
+$media-color-nine: #C00A32; 
+$media-color-ten: #960019; 
+
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
-
-//h3 header (e.g. in frontpage banner)
-.display {
-	font-size: 4rem;
-	@include tablet(){
-		font-size: 2.8rem;
-	}
-	b {
-		text-shadow: 2px 2px 4px $secondary;
-	}
-	& + p {
-		text-shadow: 2px 2px 4px $secondary;
-	}
-}
+$tablet: 768px !default;
 	  
 // Mixins
 
