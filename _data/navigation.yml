@@ -22,6 +22,7 @@ links:
       - title: Title 2
         url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationCPS.form%3FAT%3D1&
   - title: News And Media
+    collection: news-and-media 
     resource_room: true
   - title: Contact Us
     url: /contact-us/
