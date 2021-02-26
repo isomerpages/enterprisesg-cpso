@@ -9,15 +9,15 @@ MR No.:058/19
 
 Singapore, Tuesday, 8 October 2019
 
-<p>1. iPassion Group Pte Ltd (iPassion)...</p>
+1. iPassion Group Pte Ltd (iPassion)...  
 
-<p>2. Investigations on iPassion commencnced in April...</p>
+2. Investigations on iPassion commencnced in April...  
 
-<p>3. As part of the investigations..</p>
+3. As part of the investigations..  
 
-<p>4. Consumer safety is of utmost importance...</p>
+4. Consumer safety is of utmost importance...  
 
-<p>5. To ensure requirements..we also encourage consumers to play their part..</p>
+5. To ensure requirements..we also encourage consumers to play their part..  
 
 * Look out of SAFETY Mark..
 
@@ -25,7 +25,7 @@ Singapore, Tuesday, 8 October 2019
 
 * Approach the supplier..
 
-<p>6. Consumers can report .. at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg> or go to [ESG website](https://www.enterprisesg.gov.sg)</p>
+6. Consumers can report .. at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg> or go to [ESG website](https://www.enterprisesg.gov.sg)  
 
 1 test
 
