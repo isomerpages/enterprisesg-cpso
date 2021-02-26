@@ -7,11 +7,11 @@ permalink: /
 notification: Annoucement 
 sections:
     - hero:
-        title: <h3>Keep your family safe from injuries with the SAFETY Mark</h3>
-        subtitle: 
+        title: <h2>Choose Safer Products, Use Products Safely</h2>
+        subtitle: Keep your family safe from injuries with the SAFETY Mark
         background: /images/safety-banner.png
         button:
-        url: /consumers/buyers-beware
+        url:
         key_highlights:
             - title: Product Safety Alerts and Recalls
               description: Check for the latest update 
