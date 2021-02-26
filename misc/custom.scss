@@ -13,7 +13,7 @@ $secondary-hover: lighten($primary, 10%);
 {%- endfor -%}
 
 //shades of corporate red
-$media-color-one: #E7131A; 
+$media-color-one: #CE5C5C; 
 $media-color-two: #CE5C5C; 
 $media-color-three: #CA3433; 
 $media-color-four: #C00A32; 
@@ -54,13 +54,13 @@ $tablet: 768px !default;
   		&-1 {
   			background-color: $media-color-one;
   			&:hover {
-  				background-color: darken($media-color-three, 10%);
+  				background-color: darken($media-color-one, 10%);
 			}
   		}
   		&-2 {
   			background-color: $media-color-two;
   			&:hover {
-  				background-color: darken($media-color-three, 10%);
+  				background-color: darken($media-color-two, 10%);
 			}
   		}
   		&-3 {
