@@ -27,6 +27,8 @@ collections:
     output: true
   conformity-assessment-body: 
     output: true
+  news-and-media:
+    output: true
     
 resources_name: news-and-media
 
