@@ -25,7 +25,7 @@ Singapore, Tuesday, 8 October 2019
 
 * Approach the supplier..
 
-<p>6\. Consumers can report .. at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg> or go to [ESG website](www.enterprisesg.gov.sg)</p>
+<p>6\. Consumers can report .. at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg> or go to [ESG website](https://www.enterprisesg.gov.sg/)</p>
 
 1 test
 
