@@ -10,7 +10,7 @@ MR No.:058/19
 Singapore, Tuesday, 8 October 2019
 
 1. iPassion Group Pte Ltd (iPassion)...  
-
+&nbsp  
 2. Investigations on iPassion commencnced in April...  
 
 3. As part of the investigations..  
