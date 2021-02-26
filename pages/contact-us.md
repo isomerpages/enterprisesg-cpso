@@ -18,5 +18,5 @@ contacts:
   - title: General Enquiries & Feedback
     content:
     - phone: 1800 773 3163
-    - email: consumerprotection@enterprisesg.gov.sg 
+    - email: Email: consumerprotection@enterprisesg.gov.sg 
 ---
