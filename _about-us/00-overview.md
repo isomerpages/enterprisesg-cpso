@@ -1,5 +1,5 @@
 ---
 title: Overview
-permalink: /about-us/overview/
+permalink: /about-us/overview
 ---
 Hola!
