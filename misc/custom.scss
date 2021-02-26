@@ -44,21 +44,73 @@ $tablet: 768px !default;
 
 // Background
 .bg{
-  &-primary{
-    background-color: $primary !important;
-  }
-  &-secondary {
-    background-color: $secondary !important;
-  }
-  &-media-color {
-    {%- for media-color in site.colors.media-colors -%}
-      &-{{- forloop.index -}} {
-        background-color: ${{- media-color.title -}};
-        &:hover {
-          background-color: darken(${{- media-color.title -}}, 10%);
-        }
-      }
-    {%- endfor -%}
+	&-primary{
+   		background-color: $primary !important;
+ 	}
+	&-secondary {
+		background-color: $secondary !important;
+	}
+  	&-media-color {
+  		&-1 {
+  			background-color: $media-color-one;
+  			&:hover {
+  				background-color: darken($media-color-one, 10%);
+			}
+  		}
+  		&-2 {
+  			background-color: $media-color-two;
+  			&:hover {
+  				background-color: darken($media-color-two, 10%);
+			}
+  		}
+  		&-3 {
+  			background-color: $media-color-three;
+  			&:hover {
+  				background-color: darken($media-color-three, 10%);
+			}
+  		}
+  		&-4 {
+  			background-color: $media-color-four;
+  			&:hover {
+  				background-color: darken($media-color-four, 10%);
+			}
+  		}
+  		&-5 {
+  			background-color: $media-color-five;
+  			&:hover {
+  				background-color: darken($media-color-five, 10%);
+			}
+  		}
+		&-6 {
+  			background-color: $media-color-six;
+  			&:hover {
+  				background-color: darken($media-color-six, 10%);
+			}
+  		}
+		&-7 {
+  			background-color: $media-color-seven;
+  			&:hover {
+  				background-color: darken($media-color-seven, 10%);
+			}
+		}
+		&-8 {
+			background-color: $media-color-eight;
+			&:hover {
+				background-color: darken($media-color-eight, 10%);
+			}
+		}
+		&-9 {
+			background-color: $media-color-nine;
+			&:hover {
+				background-color: darken($media-color-nine, 10%);
+			}
+		}
+		&-10 {
+			background-color: $media-color-ten;
+			&:hover {
+				background-color: darken($media-color-ten, 10%);
+			}
+		}
   }
   &-1{
     //background-color: $primary;
