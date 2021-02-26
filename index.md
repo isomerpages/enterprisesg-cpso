@@ -15,7 +15,7 @@ sections:
         key_highlights:
             - title: Product Safety Alerts and Recalls
               description: Check for the latest update 
-              url: /news-and-media-centre/product-safety-alerts-and-recalls/
+              url: https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-consumers/product-safety-alerts-and-recalls
             - title: Registered Controlled Goods
               description: Verify if the product has a valid SAFETY Mark
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html
