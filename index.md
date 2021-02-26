@@ -7,7 +7,7 @@ permalink: /
 notification: Annoucement 
 sections:
     - hero:
-        title: ## Choose Safer Products, Use Products Safely
+        title: <h3>Choose Safer Products, Use Products Safely</h3>
         subtitle: Keep Your Family Safe
         background: /images/safety-banner.png
         button: 
