@@ -17,7 +17,7 @@ Singapore, Tuesday, 8 October 2019
 
 4. Consumer safety is of utmost importance...
 
-5. To ensure requirements..we also encourage consumers to play their part..
+5\. To ensure requirements..we also encourage consumers to play their part..
 
   * Look out of SAFETY Mark..
   * Avoid purchasing third party..
