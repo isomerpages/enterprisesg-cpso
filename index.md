@@ -8,7 +8,7 @@ notification: Annoucement
 sections:
     - hero:
         title: <h2>Choose Safer Products, Use Products Safely</h2>
-        subtitle: 
+        subtitle: test
         background: /images/safety-banner.png
         button:
         url:
