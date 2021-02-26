@@ -9,9 +9,9 @@ MR No.:058/19
 
 Singapore, Tuesday, 8 October 2019
 
-1. iPassion Group Pte Ltd (iPassion)...
+<p>1. iPassion Group Pte Ltd (iPassion)...</p>
 
-2. Investigations on iPassion commencnced in April...
+<p>2. Investigations on iPassion commencnced in April...</p>
 
 3. As part of the investigations..
 
@@ -32,4 +32,4 @@ Singapore, Tuesday, 8 October 2019
 
 2 test test
 
-3 </pre> test test test 
+3 test test test 
