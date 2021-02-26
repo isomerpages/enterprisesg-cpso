@@ -19,11 +19,11 @@ Singapore, Tuesday, 8 October 2019
 
 5\. To ensure requirements..we also encourage consumers to play their part..  
 
-*\. Look out of SAFETY Mark..
+* Look out of SAFETY Mark..
 
-*\. Avoid purchasing third party..
+* Avoid purchasing third party..
 
-*\. Approach the supplier..
+* Approach the supplier..
 
 6\. Consumers can report .. at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg> or go to [ESG website](https://www.enterprisesg.gov.sg)  
 
