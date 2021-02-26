@@ -4,10 +4,10 @@ title: Isomer Site
 description: Brief site description here
 image: /images/favicon-isomer.ico
 permalink: /
-notification: Annoucement 
+notification: Hola! testing 
 sections:
     - hero:
-        title: <h2>Choose Safer Products, Use Products Safely</h2>
+        title: Choose Safer Products, Use Products Safely
         subtitle: test
         background: /images/safety-banner.png
         button:
