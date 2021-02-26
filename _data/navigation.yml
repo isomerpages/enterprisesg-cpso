@@ -11,10 +11,10 @@ links:
     collection: about-us
   - title: Consumers
     collection: consumers
-  - title: Businesses
-    collection: businesses
   - title: Suppliers
     collection: suppliers
+  - title: Conformity Assessmebt Body
+    collection: conformity-assessment-body
   - title: E-Services
     sublinks:
       - title: Registration of Registered Supplier
