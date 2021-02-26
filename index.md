@@ -7,11 +7,11 @@ permalink: /
 notification: Annoucement 
 sections:
     - hero:
-        title: <h3>Choose Safer Products, Use Products Safely</h3>
-        subtitle: Keep Your Family Safe
+        title: <h2>Choose Safer Products, Use Products Safely</h2>
+        subtitle: Keep your family safe from injuries with the SAFETY Mark
         background: /images/safety-banner.png
-        button: 
-        url:
+        button: Learn More
+        url: /consumers/buyers-beware
         key_highlights:
             - title: Product Safety Alerts and Recalls
               description: Check for the latest update 
@@ -26,7 +26,7 @@ sections:
         subtitle: 
         description: While product safety is a shared responsibility among the government, suppliers, consumers and other stakeholders, suppliers have the prime responsibility to ensure they sell safe products. They must comply with the relevant product safety regulations and ensure their products do not pose a safety risk to consumers.
         button: Learn More
-        url: /faq/
+        url: /suppliers/overview
         image: /images/safety-banner2.png
         alt: ""
         
