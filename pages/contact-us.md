@@ -6,7 +6,7 @@ agency_name: Consumer Product Safety Office
 locations:
   - title: Address
     address:
-        - 230 Victoria Street
+        - 230 Victoria Street test
         - \#09-00 Bugis Junction Officer Tower
         - Singapore 188024
     operating_hours:
