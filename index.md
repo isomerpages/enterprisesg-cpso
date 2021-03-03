@@ -7,8 +7,8 @@ permalink: /
 notification: Hola! testing 
 sections:
     - hero:
-        title: Choose Safer Products, Use Products Safely
-        subtitle: test
+        title: ### Choose Safer Products, Use Products Safely
+        subtitle:
         background: /images/safety-banner.png
         key_highlights:
             - title: Product Safety Alerts and Recalls
