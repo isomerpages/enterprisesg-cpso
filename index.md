@@ -8,7 +8,7 @@ notification: Put announcement here!
 sections:
     - hero:
         title: <h2>Choose Safer Products, Use Products Safely<h2>
-        subtitle: Keep your families safe from injuries with the SAFETY Mark
+        subtitle:
         background: /images/safety-banner.png
         key_highlights:
             - title: Product Safety Alerts and Recalls
