@@ -31,9 +31,6 @@ collections:
     output: true
     
 resources_name: news-and-media
-  collections:
-    news-and-media:
-      output: true
     
 future: true
 
