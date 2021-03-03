@@ -10,8 +10,6 @@ sections:
         title: Choose Safer Products, Use Products Safely
         subtitle: test
         background: /images/safety-banner.png
-        button:
-        url:
         key_highlights:
             - title: Product Safety Alerts and Recalls
               description: Check for the latest update 
@@ -28,8 +26,6 @@ sections:
         button: Learn More
         url: /suppliers/overview
         image: /images/safety-banner2.png
-        alt: ""
-        button:
     - resources:
         title: News & Media
         subtitle:
