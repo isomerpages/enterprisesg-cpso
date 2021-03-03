@@ -11,7 +11,7 @@ Our mission is to safeguard consumers from unsafe consumer products and have con
 To safeguard the interest of our consumers, the Consumer Product Safety Office perform the following functions:
 * Register the suppliers of Controlled Goods
 * Register Controlled Goods
-* Educate suppliers on the regulations and requirements of [CPSR][1] and [CGSR][2]
+* Educate suppliers on the regulations and requirements of [CPSR][1]{:target="_blank"} and [CGSR][2]{:target="_blank"}
 * Appoint third-party Conformity Assessment Bodies (CABs) to carry out product testing and ensure compliance with specified safety standards
 * Conduct market surveillance and investigate accidents, incidents or feedback relating to the safety of consumer products
 
