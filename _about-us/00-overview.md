@@ -21,7 +21,7 @@ Consumers have a role to play by making well-informed purchase decisions and usi
 ### What can Suppliers do to ensure they supply safe consumer products?
 Manufacturers, importers (including parallel importers), retailers and traders who are involved in advertising and/or supplying Controlled Goods must ensure that they register the Controlled Goods with the Consumer Product Safety Office. 
 
-Suppliers of general consumer goods should ensure their product conform with the relevant internationally accepted product safety standards.
+Suppliers of general consumer goods under the purview of CGSR should ensure their product conform with the relevant internationally accepted product safety standards.
 
 [1]:https://sso.agc.gov.sg/SL/CPTDSRA1975-RG1?DocDate=20181010&ValidDate=20181011
 [2]:https://sso.agc.gov.sg/SL/CPTDSRA1975-S113-2011
