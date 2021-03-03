@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 $primary: #E7131A; //Corporate Red
-$secondary: #E7131A; //Pantone 432C
+$secondary: #414042; //Pantone 432C
 $secondary-hover: lighten($primary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
