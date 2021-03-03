@@ -15,5 +15,5 @@ To safeguard the interest of our consumers, the Consumer Product Safety Office p
 * Appoint third-party Conformity Assessment Bodies (CABs) to carry out product testing and ensure compliance with specified safety standards
 * Conduct market surveillance and investigate accidents, incidents or feedback relating to the safety of consumer products
 
-[1]:https://sso.agc.gov.sg/SL/CPTDSRA1975-RG1?DocDate=20181010&ValidDate=20181011{:target="_blank"}
-[2]:https://sso.agc.gov.sg/SL/CPTDSRA1975-S113-2011{:target="_blank"}
+[1]:(https://sso.agc.gov.sg/SL/CPTDSRA1975-RG1?DocDate=20181010&ValidDate=20181011){:target="_blank"}
+[2]:(https://sso.agc.gov.sg/SL/CPTDSRA1975-S113-2011){:target="_blank"}
