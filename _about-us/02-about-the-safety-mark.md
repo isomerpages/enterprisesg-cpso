@@ -4,7 +4,7 @@ permalink: /about-us/about-the-safety-mark
 ---
 ## About the SAFETY Mark
 
-<img src="/images/about/safety-mark.jpg" alt="safety mark" width="50px" height="20px"/>
+![safety mark](/images/about-us/safety-mark.jpg)
 
 The SAFETY Mark helps consumers and suppliers identify registered Controlled Goods. These goods must carry the SAFETY Mark on the product. The mark consists of a “safety logo” and the words “SAFETY MARK” in a rectangle on the right. These goods can also be traced with a unique 8-digit registration number to the registrant and the registered models. The register can be found here.
 
