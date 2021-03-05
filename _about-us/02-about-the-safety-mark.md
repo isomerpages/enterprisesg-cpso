@@ -10,6 +10,9 @@ The SAFETY Mark helps consumers and suppliers identify registered [Controlled Go
 
 The validity of the SAFETY Mark may be verified in 3 easy steps:
 
+|Steps|Description|
+|---|---|
+
 | Steps | Description                                                                                                                                   |
 |-------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | **1**   | Visit [cpsa.enterprisesg.gov.sg][1]{:target="_blank"} and click on "Register of Registered Controlled Goods"                                  |
