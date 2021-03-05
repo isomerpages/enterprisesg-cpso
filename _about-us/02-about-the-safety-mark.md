@@ -8,7 +8,7 @@ permalink: /about-us/about-the-safety-mark
 
 The SAFETY Mark helps consumers and suppliers identify registered [Controlled Goods](/about-us/about-controlled-goods). These goods must carry the SAFETY Mark on the product. The mark consists of a “safety logo” and the words “SAFETY MARK” in a rectangle on the right. These goods can also be traced with a unique 8-digit registration number to the registrant and the registered models. 
 
-The validity of the SAFETY Mark may be verified in 3 easy steps:
+You may verify the validity of the SAFETY Mark by the following steps:
 
 |Steps|Description|
 |:---:|----|
