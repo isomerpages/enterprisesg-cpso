@@ -10,6 +10,8 @@ The SAFETY Mark helps consumers and suppliers identify registered [Controlled Go
 
 The validity of the SAFETY Mark may be verified in 3 easy steps:
 
-|Step 1:  |Visit (cpsa.enterprisesg.gov.sg) and click on "Register of Registered Controlled Goods                                                                                                                           |
+|Step 1:  |Visit [cpsa.enterprisesg.gov.sg][1] and click on "Register of Registered Controlled Goods"                                                                                                                       |
 |Step 2:  |Key in either the model number or the 8-digit registration number found on the SAFETY Mark                                                                                                                       |
-|Step 3:  |Check that the product information in the search results tallies with the product. Should there be no matches, contact us at 1800 773 3163 or (consumerprotection@enterprisesg.gov.sg)|
+|Step 3:  |Check that the product information in the search results tallies with the product. Should there be no matches, contact us at 1800 773 3163 or [consumerprotection@enterprisesg.gov.sg]|
+
+[1]: cpsa.enterprisesg.gov.sg
