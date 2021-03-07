@@ -17,7 +17,7 @@ The 33 categories of Controlled Goods are:
 
 ![33 categories of Controlled Goods](/images/about-us/33-categories-controlled-goods/33-cgs.png)
 
-## About the SAFETY Mark
+## What is the SAFETY Mark
 
 ![safety mark](/images/about-us/safety-mark.jpg)
 
