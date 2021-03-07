@@ -1,6 +1,6 @@
 ---
 title: About Controlled Goods
-permalink: /about-us/about-controlled-goods
+permalink: /about-us/the-safety-mark/about-controlled-goods
 third_nav_title: The SAFETY MArk
 ---
 ## What are Controlled Goods?
