@@ -11,7 +11,7 @@ Low Risk
 
 |Controlled Goods|Description|Safety Standards|
 |---|---|---|
-|Air cooler|Air cooler, which is an electrical appliance intended for household use to agitate the air and equipped to use water as a cooling medium, with rated voltage of not more than 250 Vac.|IEC 60335-2-98: 2002
+|Air cooler ![air cooler](/images/about-us/33-categories-controlled-goods/air-cooler.png)|Air cooler, which is an electrical appliance intended for household use to agitate the air and equipped to use water as a cooling medium, with rated voltage of not more than 250 Vac.|IEC 60335-2-98: 2002
 
 Medium Risk
 
