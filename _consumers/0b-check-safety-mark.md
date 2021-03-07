@@ -3,7 +3,7 @@ title: Check validity of the SAFETY Mark in 3 easy steps
 permalink: /consumers/product-safety-tips/check-safety-mark
 third_nav_title: Product Safety Tips
 ---
-#### You may check the validity of the product's SAFETY Mark in 3 easy steps:**
+**You may check the validity of the product's SAFETY Mark in 3 easy steps:**
 
 |Steps|Description|
 |:---:|----|
@@ -13,6 +13,6 @@ third_nav_title: Product Safety Tips
 
 [1]:https://cpsa.enterprisesg.gov.sg
 
-#### What should you do when you detect non-registered Controlled Goods without the SAFETY Mark?
+**What should you do when you detect non-registered Controlled Goods without the SAFETY Mark?**
 
 The Consumer Product Safety Office takes a serious view of any non-compliance. If you are aware of anyone who is supplying or selling non-registered Controlled Goods, please provide us with the relevant information (e.g. product type, brand/model, name of company, location, etc.) so that appropriate enforcement action may be taken against the supplier. You can contact us either at <consumerprotection@enterprisesg.gov.sg> or 1800 773 3163.
