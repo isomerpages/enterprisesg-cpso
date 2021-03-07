@@ -1,6 +1,6 @@
 ---
 title: Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)
-permalink: /about-us/our-regulations/cpsr
+permalink: /about-us/our-regulations/cgsr
 third_nav_title: Our Regulations
 ---
 ## Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)
