@@ -10,7 +10,7 @@ The SAFETY Mark helps consumers and suppliers identify registered Controlled Goo
 
 The SAFETY Mark can either be affixed on the Controlled Goods or their packaging (to be affixed in a prominent location).
 
-To check the validity of the product's SAFETY Mark:
+You may check the validity of the product's SAFETY Mark in 3 easy steps:
 
 |Steps|Description|
 |:---:|----|
