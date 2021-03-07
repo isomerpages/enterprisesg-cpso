@@ -14,3 +14,6 @@ When purchasing new appliances, it is important to keep safety considerations in
 Household gas and electrical appliances posing higher potential hazards to their consumers are required by law to be affixed with a valid SAFETY Mark before they can be sold in Singapore.
 
 Examples of these hazards can include:
+
+|---|---|---|
+|![electrocution](/images/consumers/choose-safer-products/electrocuted-icon.png)Electrocution|![fires](/images/consumers/choose-safer-products/fire-icon.png)Fires|![explosion](/images/consumers/choose-safer-products/explosion-icon.png)Explosion|
