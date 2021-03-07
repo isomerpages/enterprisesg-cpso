@@ -14,6 +14,7 @@ The SAFETY Mark helps consumers and suppliers identify registered Controlled Goo
 |![safety mark](/images/about-us/safety-mark.jpg)|![blank](/images/consumers/blank.png)|![blank](/images/consumers/blank.png)|
 
 **Why should you insist on the SAFETY Mark?**
+
 The SAFETY Mark indicates that the products’ design has been tested and certified to be compliant with the relevant safety standards. For most appliance categories, the presence of the SAFETY Mark also indicates that internal safeguards have been incorporated to protect against fire and electrical hazards.
 
 **You may check the validity of the product's SAFETY Mark in 3 easy steps:**
