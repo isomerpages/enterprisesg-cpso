@@ -20,8 +20,7 @@ The list of Controlled Goods and their applicable safety standards are:
 
 |Controlled Goods|Description|Safety Standards|
 | --- | --- | --- |
-|AC Adaptors ![ac adaptors](/images/about-us/33-categories-controlled-goods/ac-adaptors.png)|A device with rated voltage of not more than 250 Vac, and designed to supply a.c. or d.c. power for applications such as computers, telecommunication equipment, home entertainment equipment or toys|IEC 61558-2-6: 1997 or IEC 61558-2-16: 2009 (applicable for electrical appliances)<br> 
-IEC 60065: 2001 or IEC 62368-1:2014 (applicable for electronic appliances)<br> IEC 60950-1: 2001 or IEC 62368-1:2014 (applicable for computer / telephonic appliances)<br> IEC 60335-2-8: 2002 (applicable for shavers)<br> IEC 60335-2-29: 2002 with A1 or IEC 60335-2-29: 2004 (applicable for battery chargers)<br> IEC 61347-2-13: 2006 (applicable for LED lightings)<br> IEC 60598-2-4: 1997 (applicable for table/standing lamps)|
+|AC Adaptors ![ac adaptors](/images/about-us/33-categories-controlled-goods/ac-adaptors.png)|A device with rated voltage of not more than 250 Vac, and designed to supply a.c. or d.c. power for applications such as computers, telecommunication equipment, home entertainment equipment or toys|IEC 61558-2-6: 1997 or IEC 61558-2-16: 2009 (applicable for electrical appliances)<br> <br> IEC 60065: 2001 or IEC 62368-1:2014 (applicable for electronic appliances)<br> IEC 60950-1: 2001 or IEC 62368-1:2014 (applicable for computer / telephonic appliances)<br> IEC 60335-2-8: 2002 (applicable for shavers)<br> IEC 60335-2-29: 2002 with A1 or IEC 60335-2-29: 2004 (applicable for battery chargers)<br> IEC 61347-2-13: 2006 (applicable for LED lightings)<br> IEC 60598-2-4: 1997 (applicable for table/standing lamps)|
 
 
 **High Risk**
