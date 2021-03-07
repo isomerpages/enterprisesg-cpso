@@ -7,7 +7,7 @@ Under the Consumer Protection (Safety Requirements) Regulations (CPSR), various 
 
 The list of Controlled Goods and their applicable safety standards are:
 
-###### Low Risk
+#### **Low Risk**
 
 |Controlled Goods|Description|Safety Standards|
 | --- | --- | --- |
