@@ -15,6 +15,8 @@ Household gas and electrical appliances posing higher potential hazards to their
 
 Examples of these hazards can include:
 
+|     |   |     |   |     |
 |:---:|---|:---:|---|:---:|
+|     |   |     |   |     |
 |Electrocution![electrocution](/images/consumers/choose-safer-products/electrocuted-icon.png)|![blank](/images/consumers/blank.png)|Fires![fires](/images/consumers/choose-safer-products/fire-icon.png)|![blank](/images/consumers/blank.png)|Explosion![explosion](/images/consumers/choose-safer-products/explosion-icon.png)|
 
