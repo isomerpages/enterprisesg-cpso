@@ -18,7 +18,7 @@ To safeguard the interest of our consumers, the Consumer Product Safety Office p
 ### What can Consumers do to ensure product safety?
 Consumers have a role to play by making well-informed purchase decisions and using products safely. We equip consumers with the latest information on how they can use products responsibly to prevent injuries to themselves and their families. They can also learn more about the latest news and tips on how to make safer choices when purchasing such items.
 
-Find out more about how you can [choose safer products](/consumers/product-safety-tips){:target="_blank"}.
+Find out more about how you can [choose safer products](/consumers/product-safety-tips/choose-safer-products){:target="_blank"}.
 
 ### What can Suppliers do to ensure they supply safe consumer products?
 Manufacturers, importers (including parallel importers), retailers and traders who are involved in advertising and/or supplying Controlled Goods must ensure that they register the Controlled Goods with the Consumer Product Safety Office. 
