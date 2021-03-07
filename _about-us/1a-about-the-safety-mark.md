@@ -1,7 +1,6 @@
 ---
 title: About the SAFETY Mark
 permalink: /about-us/about-the-safety-mark
-third_nav_title: Consumer Protection (Safety Requirements) Regulations (CPSR)
 ---
 ## About the SAFETY Mark
 
