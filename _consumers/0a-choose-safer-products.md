@@ -11,6 +11,6 @@ Consumers are strongly advised to buy only Controlled Goods that are affixed wit
 ## What is the SAFETY Mark?
 The SAFETY Mark helps consumers and suppliers identify registered Controlled Goods. These goods must carry the SAFETY Mark either affixed on the Controlled Goods or their packaging (to be affixed in a prominent location). The mark consists of a “safety logo” and the words “SAFETY MARK” in a rectangle on the right. These goods can also be traced with a unique 8-digit registration number to the registrant and the registered models.
 
-![safety mark](/images/consumers/safety-mark.png)
+|![safety mark](/images/about-us/safety-mark.png)|![blank](/images/consumers/blank.png)|![blank](/images/consumers/blank.png)|
 
 You may check the validity of the product's SAFETY Mark in 3 easy steps:
