@@ -1,6 +1,7 @@
 ---
 title: About Controlled Goods
 permalink: /about-us/about-controlled-goods
+third_nav_title: About the SAFETY MArk
 ---
 ## What are Controlled Goods?
 Under the Consumer Protection (Safety Requirements) Regulations (CPSR), various household electrical, electronic and gas appliances are designated as Controlled Goods. 
