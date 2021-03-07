@@ -7,9 +7,7 @@ The Consumer Protection (Safety Requirements) Regulations (CPSR) requires 33 cat
 
 Registration of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations is based on Certificates of Conformity (CoC) issued by designated third party Conformity Assessment Bodies (CABs), or Supplier’s Declaration of Conformity (SDoC) declared by Registered Suppliers.
 
-Once the model has been registered with the Consumer Product Safety Office, the Controlled Goods can then be advertised for supply and/or supplied in Singapore. This requirement also applies to Controlled Goods sold through online platforms.
-
-When a Registered Supplier transfers ownership of its registered Controlled Goods to another new company, the new company has to apply to be a Registered Supplier and re-register the goods with the Consumer Product Safety Office. In such cases, the former Registered Supplier must submit an authorisation letter to the authority before the new company can be registered.
+Once the model has been registered, the Controlled Goods can then be advertised for supply and/or supplied in Singapore. This requirement also applies to Controlled Goods sold through online platforms.
 
 Any person found guilty of selling unregistered Controlled Goods, is liable upon conviction, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding two years or both. 
 
