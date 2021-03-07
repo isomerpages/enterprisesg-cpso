@@ -1,5 +1,5 @@
 ---
-title: Check validity of the SAFETY Mark in 3 easy steps
+title: Verify the SAFETY Mark in 3 easy steps
 permalink: /consumers/product-safety-tips/check-safety-mark
 third_nav_title: Product Safety Tips
 ---
