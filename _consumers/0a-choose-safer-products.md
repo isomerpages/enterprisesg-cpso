@@ -17,6 +17,12 @@ The SAFETY Mark helps consumers and suppliers identify registered Controlled Goo
 
 The SAFETY Mark indicates that the products’ design has been tested and certified to be compliant with the relevant safety standards. For most appliance categories, the presence of the SAFETY Mark also indicates that internal safeguards have been incorporated to protect against fire and electrical hazards.
 
+**What kind of household products require the SAFETY Mark?**
+
+The 33 categories of Controlled Goods are:
+
+![33 categories of Controlled Goods](/images/about-us/33-categories-controlled-goods/33-cgs.png)
+
 **You may check the validity of the product's SAFETY Mark in 3 easy steps:**
 
 |Steps|Description|
