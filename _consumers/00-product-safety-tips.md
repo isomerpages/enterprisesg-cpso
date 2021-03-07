@@ -5,8 +5,6 @@ permalink: /consumers/product-safety-tips
 ### Choose Safer Products, Use Products Safely
 Consumers can do their part in keeping their families safe by bearing in mind the following pointers:
 
-Consumers can do their part in keeping their families safe by bearing in mind the following pointers:
-
 **Household electrical, electronic and gas appliances and accessories**
 
 * 33 categories of household electrical, electronic and gas appliances and accessories are classified under the Consumer Protection (Safety Requirements) Regulations as Controlled Goods. They are required to be registered with Enterprise Singapore and affixed with the SAFETY Mark on the product or packaging before they can be sold in Singapore. Examples of Controlled Goods are kettles, water heaters, televisions, microwave ovens, portable 3-pin socket-outlets and fans.
