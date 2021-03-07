@@ -1,6 +1,7 @@
 ---
 title: About the SAFETY Mark
 permalink: /about-us/about-the-safety-mark
+third_nav_title: The SAFETY Mark
 ---
 ## About the SAFETY Mark
 
