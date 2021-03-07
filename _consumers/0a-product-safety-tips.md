@@ -17,4 +17,4 @@ Examples of these hazards can include:
 
 
 |:---:|---|:---:|---|:---:|
-|![electrocution](/images/consumers/choose-safer-products/electrocuted-icon.png)Electrocution|xxxxx|![fires](/images/consumers/choose-safer-products/fire-icon.png)Fires|xxxxx|![explosion](/images/consumers/choose-safer-products/explosion-icon.png)Explosion|
+|![electrocution](/images/consumers/choose-safer-products/electrocuted-icon.png)<br>Electrocution|xxxxx|![fires](/images/consumers/choose-safer-products/fire-icon.png)<br>Fires|xxxxx|![explosion](/images/consumers/choose-safer-products/explosion-icon.png)<br>Explosion|
