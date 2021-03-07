@@ -1,5 +1,5 @@
 ---
-title: Our Regulations
+title: Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)
 permalink: /about-us/our-regulations/cpsr
 third_nav_title: Our Regulations
 ---
