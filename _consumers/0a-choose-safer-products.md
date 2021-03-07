@@ -8,14 +8,9 @@ The Consumer Protection (Safety Requirements) Regulations (CPSR) requires 33 cat
 
 Consumers are strongly advised to buy only Controlled Goods that are affixed with the SAFETY Mark.
 
-## Keep your family safe from injuries with the SAFETY Mark
-When purchasing new appliances, it is important to keep safety considerations in mind and not base purchase decisions solely around cost and aesthetics. Protect your family by purchasing products carrying the SAFETY Mark.
+## What is the SAFETY Mark?
+The SAFETY Mark helps consumers and suppliers identify registered Controlled Goods. These goods must carry the SAFETY Mark either affixed on the Controlled Goods or their packaging (to be affixed in a prominent location). The mark consists of a “safety logo” and the words “SAFETY MARK” in a rectangle on the right. These goods can also be traced with a unique 8-digit registration number to the registrant and the registered models.
 
-Household gas and electrical appliances posing higher potential hazards to their consumers are required by law to be affixed with a valid SAFETY Mark before they can be sold in Singapore.
+![safety mark](/images/consumers/safety-mark.png)
 
-Examples of these hazards can include:
-
-|Electrocution|![blank](/images/consumers/blank.png)|Fires|![blank](/images/consumers/blank.png)|Explosion|
-|:---:|---|:---:|---|:---:|
-|![electrocution](/images/consumers/choose-safer-products/electrocuted-icon.png)|![blank](/images/consumers/blank.png)|![fires](/images/consumers/choose-safer-products/fire-icon.png)|![blank](/images/consumers/blank.png)|![explosion](/images/consumers/choose-safer-products/explosion-icon.png)|
-
+You may check the validity of the product's SAFETY Mark in 3 easy steps:
