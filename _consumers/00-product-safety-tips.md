@@ -2,7 +2,7 @@
 title: Product Safety Tips
 permalink: /consumers/product-safety-tips
 ---
-### Choose Safe Products, Use Products Safely
+### Choose Safer Products, Use Products Safely
 Consumers can do their part in keeping their families safe by bearing in mind the following pointers:
 
 Consumers can do their part in keeping their families safe by bearing in mind the following pointers:
