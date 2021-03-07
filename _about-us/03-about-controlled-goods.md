@@ -9,7 +9,7 @@ The list of Controlled Goods and their applicable safety standards are:
 
 ##### **Low Risk**
 
-|<div style="width:180px">Controlled Goods</div>|Description|Safety Standards|
+|Controlled Goods|Description|Safety Standards|
 | --- | --- | --- |
 |Air cooler ![air cooler](/images/about-us/33-categories-controlled-goods/air-cooler.png)|Air cooler, which is an electrical appliance intended for household use to agitate the air and equipped to use water as a cooling medium, with rated voltage of not more than 250 Vac.|IEC 60335-2-98: 2002|
 |Fuse (≤13 amperes) for use in a plug ![fuse](/images/about-us/33-categories-controlled-goods/fuse.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Fuse (13-amp or less) for use in a 13-amp plug, which is a device that, by the fusion of one or more of its specially designed and proportioned components, opens the circuit in which it is inserted and breaks the current when this exceeds a given value for a sufficient time.|SS 167: 1977|
@@ -19,7 +19,7 @@ The list of Controlled Goods and their applicable safety standards are:
 
 ##### **Medium Risk**
 
-|<div style="width:180px">Controlled Goods</div>|Description|Safety Standards|
+|Controlled Goods|Description|Safety Standards|
 | --- | --- | --- |
 |AC Adaptors![ac adaptors](/images/about-us/33-categories-controlled-goods/ac-adaptors.png)|A device with rated voltage of not more than 250 Vac, and designed to supply a.c. or d.c. power for applications such as computers, telecommunication equipment, home entertainment equipment or toys|IEC 61558-2-6: 1997<br>or<br>IEC 61558-2-16: 2009 (applicable for electrical appliances)<br><br>IEC 60065: 2001 <br>or<br> IEC 62368-1:2014 (applicable for electronic appliances)<br><br>IEC 60950-1: 2001<br>or<br>IEC 62368-1:2014 (applicable for computer / telephonic appliances)<br><br>IEC 60335-2-8: 2002 (applicable for shavers)<br><br>IEC 60335-2-29: 2002 with A1 <br>or<br>IEC 60335-2-29: 2004 (applicable for battery chargers)<br><br>IEC 61347-2-13: 2006 (applicable for LED lightings)<br><br>IEC 60598-2-4: 1997 (applicable for table/standing lamps)|
 |Audio and video products![audio video](/images/about-us/33-categories-controlled-goods/audio-video.png)|Audio and video products, which are electronic devices for home entertainment designed to be fed from the supply mains and intended for reception, generation, recording or reproduction, respectively of audio, video and associated signals, with rated voltage of not more than 250 Vac.|IEC 60065: 2001 or IEC 62368-1:2014|
