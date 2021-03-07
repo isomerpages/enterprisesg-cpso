@@ -8,7 +8,9 @@ Under the Consumer Protection (Safety Requirements) Regulations (CPSR), various 
 The list of Controlled Goods and their applicable safety standards are:
 
 Low Risk
-
+|Controlled Goods|Description|Safety Standards|
+|---|---|---|
+|Air cooler|Air cooler, which is an electrical appliance intended for household use to agitate the air and equipped to use water as a cooling medium, with rated voltage of not more than 250 Vac.|IEC 60335-2-98: 2002
 
 Medium Risk
 
