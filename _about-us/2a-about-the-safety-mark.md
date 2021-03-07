@@ -1,6 +1,6 @@
 ---
 title: About the SAFETY Mark
-permalink: /about-us/about-the-safety-mark
+permalink: /about-us/the-safety-mark/about-the-safety-mark
 third_nav_title: The SAFETY Mark
 ---
 ## About the SAFETY Mark
