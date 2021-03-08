@@ -9,4 +9,4 @@ test
 
 test test
 
-click [here](/consumers/product-safety-tips/use-products-safely/safety-tips-x) 
+click [here](/consumers/product-safety-tips/use-products-safely/safety-tips/safety-tips-x) 
