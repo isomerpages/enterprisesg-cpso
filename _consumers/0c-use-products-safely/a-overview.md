@@ -8,3 +8,5 @@ third_nav_title: Product Safety Tips
 test 
 
 test test
+
+click [here](/consumers/product-safety-tips/use-products-safely/safety-tips-x) 
