@@ -1,9 +1,9 @@
 ---
-title: Safety Tips on Hair Straighteners
-permalink: /consumers/use-products-safely/safety-tips-on-hair-straighteners
+title: Safety Tips on Power Adaptors
+permalink: /consumers/use-products-safely/safety-tips-on-power-adaptors
 ---
-## Safety Tips on Power Adapters
-Power adapters are also generally referred to as AC adapters, AC/DC adapters or chargers. They are plugged into the mains power supply and convert the mains electricity voltage to the lower voltage required to power electrical appliances, such as computers, mobile telecommunication devices, home entertainment equipment and toys.
+## Safety Tips on Power Adaptors
+Power adaptors are also generally referred to as AC adapters, AC/DC adapters or chargers. They are plugged into the mains power supply and convert the mains electricity voltage to the lower voltage required to power electrical appliances, such as computers, mobile telecommunication devices, home entertainment equipment and toys.
 
 ![power adaptors](/images/product-safety-tips/power-adaptors.jpg)
 
