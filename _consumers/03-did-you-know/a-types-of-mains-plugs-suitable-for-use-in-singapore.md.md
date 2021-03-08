@@ -13,3 +13,7 @@ Apart from Brunei, Hong Kong, Malaysia or UK, mains plugs that are used in other
 |![mains plugs 3](/images/consumers/did-you-know/types-of-mains-plugs/main-plugs-3.jpg)|**(3) The 15AMP 3 round-pin mains plug** – This is used generally for air-conditioners.|
 
 The 13AMP and 15AMP mains plugs are controlled goods under the Consumer Protection (Safety Requirements) Regulations. They must be affixed with the SAFETY Mark which carries a unique certification number traceable to the supplier. When purchasing a mains-powered electric appliance, always ensure that its mains plug carries a SAFETY Mark.
+
+**Caution: Schuko plugs**
+
+
