@@ -11,7 +11,7 @@ When considering which type of window coverings to buy, do ensure that the produ
 
 **Safety Tips**
 
-*Before purchase*:
+*Before purchase:*
 * Select window coverings with safe design features:
   * Choose window coverings without exposed cords if you have young children at home. You may consider cordless window coverings instead.
 ![window coverings 2](/images/product-safety-tips/window-coverings-2.jpg)
@@ -23,7 +23,7 @@ When considering which type of window coverings to buy, do ensure that the produ
 *Left: Wall-mounted Tension Device<br>
 Right: Wall-mounted cleat*
 
-*During Use*:
+*During Use:*
 * **Safety warnings**: Read all warnings and follow the manufacturer’s usage instructions.
 * **Loose cords**: Ensure that there are no loose accessible cords on the front, side or back of the product.
 * **Secure any cords** onto the wall using safety devices such as a cleat or install a tension device
