@@ -24,10 +24,10 @@ Furthermore, while ‘Schuko’ plugs may come with earthing strips located on t
 
 **Examples of approved mains plugs**
 ![mains plugs 5](/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-5.jpg)<br>
-*From left: 2.5A round pin, 13A rectangular pin, 15A round pin*
+*From left to right: 2.5A round pin, 13A rectangular pin, 15A round pin*
 
 **Examples of non-approved mains plugs**
 ![non approved mains plugs](/images/consumers/did-you-know/types-of-mains-plugs/non-approved-mains-plugs.jpg)<br>
-*From left: Flat-blade plug, Schuko plug with side grounding contact, Schuko plug with side grounding contact, 10/16-Amp round pin, Flat-blade but with round grounding pin, Flat-blade but with round grounding pin*
+*From left to right: Flat-blade plug, Schuko plug with side grounding contact, Schuko plug with side grounding contact, 10/16-Amp round pin, Flat-blade but with round grounding pin, Flat-blade but with round grounding pin*
 
 
