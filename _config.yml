@@ -23,6 +23,8 @@ collections:
     output: true
   consumers:
     output: true
+    electronics-and-appliance-safety:
+      output: true
   suppliers:
     output: true
   conformity-assessment-body: 
