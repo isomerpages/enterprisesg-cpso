@@ -23,11 +23,11 @@ Some appliances are fitted with mains plugs meant for the German market. These a
 Furthermore, while ‘Schuko’ plugs may come with earthing strips located on their sides, they are not safe for use in Singapore as the earthing strips cannot make contact with the earth contact of a local mains socket.
 
 **Examples of approved mains plugs**
-![mains plugs 5](/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-5.jpg)
+![mains plugs 5](/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-5.jpg)<br>
 *From left: 2.5A round pin, 13A rectangular pin, 15A round pin*
 
 **Examples of non-approved mains plugs**
-![non approved mains plugs](/images/consumers/did-you-know/types-of-mains-plugs/non-approved-mains-plugs.jpg)
+![non approved mains plugs](/images/consumers/did-you-know/types-of-mains-plugs/non-approved-mains-plugs.jpg)<br>
 *From left: Flat-blade plug, Schuko plug with side grounding contact, Schuko plug with side grounding contact, 10/16-Amp round pin, Flat-blade but with round grounding pin, Flat-blade but with round grounding pin*
 
 
