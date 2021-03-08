@@ -11,7 +11,8 @@ links:
     collection: about-us
   - title: Consumers
     collection: consumers
-    collection: electronics-and-appliance-safety
+      collection: use-products-safely
+        collection: electronics-and-appliance-safety
   - title: Suppliers
     collection: suppliers
   - title: Conformity Assessmebt Body
