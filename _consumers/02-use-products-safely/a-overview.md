@@ -25,4 +25,13 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 * [Safety Tips on Window Coverings](/consumers/product-safety-tips/safety-tips-on-window-coverings){:target="_blank"}
 * [Using and Maintaining Toughened Glass in Cooking Appliances](/consumers/product-safety-tips/using-and-maintaining-toughened-glass-in-cooking-appliances){:target="_blank"}
 
+**Children Products**
+* [Safety Tips on Baby Slings](/consumers/product-safety-tips/safety-tips-on-baby-slings){:target="_blank"}
+* [Safety Tips on Children Toys](/consumers/product-safety-tips/safety-tips-on-children-toys){:target="_blank"}
+* [Safety Tips on Cycling](/consumers/product-safety-tips-on-cycling){:target="_blank"}
+* [Safety Tips on Strollers](/consumers/product-safety-tips/safety-tips-on-strollers){:target="_blank"}
+
+**Children's Apparel**
+* [Safety Tips on Children’s Apparel](/consumers/product-safety-tips/safety-tips-on-children-apparel){:target="_blank"}
+
 
