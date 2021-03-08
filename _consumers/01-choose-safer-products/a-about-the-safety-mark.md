@@ -13,6 +13,9 @@ The SAFETY Mark helps consumers and suppliers identify registered Controlled Goo
 
 |![safety mark](/images/about-us/safety-mark.jpg)|![blank](/images/consumers/blank.png)|![blank](/images/consumers/blank.png)|
 
+In addition, appliances with a 3-pin plug needs to have two SAFETY Marks on them. One on the appliance and another on the plug itself.
+![appliance with 3 pins](/images/consumers/choose-safer-products/appliance-with-3pins.png)
+
 **Why should you insist on the SAFETY Mark?**<br>
 The SAFETY Mark indicates that the products’ design has been tested and certified to be compliant with the relevant safety standards. For most appliance categories, the presence of the SAFETY Mark also indicates that internal safeguards have been incorporated to protect against fire and electrical hazards.
 
