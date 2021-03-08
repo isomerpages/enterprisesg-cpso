@@ -1,8 +1,8 @@
 ---
 title: Use Products Safely
-permalink: /consumers/product-safety-tips/use-products-safely
+permalink: /consumers/product-safety-tips/use-products-safely/electronics-and-appliance-safety/test
 third_nav_title: Product Safety Tips
 ---
 ## Use Products Safely
 
-[test](/electronics-and-appliance-safety/test) 
+[test](/consumers/product-safety-tips/use-products-safely/electronics-and-appliance-safety/test) 
