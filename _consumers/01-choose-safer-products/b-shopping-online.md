@@ -13,3 +13,4 @@ Here are some tips to keep in mind when buying appliances and electronics online
 |   |   |
 |---|---|
 |![check for safety mark](/images/consumers/choose-safer-products/shopping-online/check-for-the-safety-mark.png)|General household items such as electrical, electronic and gas appliances under Consumer Protection (Safety Requirements) Regulations need to carry the SAFETY Mark before they can be sold in Singapore.<br><br> Photos from online marketplaces may show limited product angles so when in doubt, always ask the seller if the product has been tested for safety and bears a SAFETY Mark.|
+|![ask questions](/images/consumers/choose-safer-products/shopping-online/ask-questions.png)|If the product description, pictures or videos do not clearly explain its features and functionality, never hesitate to contact the seller for more details.|
