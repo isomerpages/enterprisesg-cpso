@@ -15,7 +15,7 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 * [Safety Tips on Decorative Lighting](/consumers/use-products-safely/safety-tips-on-decorative-lighting){:target="_blank"}
 * [Safety Tips When Charging Personal Mobility Devices (PMDs)](/consumers/product-safety-tips/safety-tips-when-charging-personal-mobility-devices){:target="_blank"}
 
-**Safety Tips**
+**Safety At Home**
 * [Risk of Using Hydrocarbon Refrigerants At Home](/consumers/product-safety-tips/risk-of-using-hydrocarbon-refrigerants-at-home){:target="_blank"}
 * 
 
