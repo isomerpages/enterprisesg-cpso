@@ -18,7 +18,7 @@ Consumers are advised to ensure that household products containing hazardous che
 * Read the product label and take note of dangers that the chemical may pose.
 * Do not reuse empty containers or repack chemicals into other containers. Other containers may be made with materials that is designed to safely store chemicals. If not properly labelled, it may lead to mistaken use or accidental consumption.
 * Help your children understand the dangers of chemicals and the importance of proper use and handling.
-* Consider [Green Label](https://www.sgls.sec.org.sg/sgls-standard.php) certified products that have been tested to meet specific environmental and health prerequisites such as reduced toxicity and biodegradability.
+* Consider [Green Label](https://www.sgls.sec.org.sg/sgls-standard.php){:target="_blank"} certified products that have been tested to meet specific environmental and health prerequisites such as reduced toxicity and biodegradability.
 
 *During use*:
 * Follow the manufacturer’s instructions when using household chemicals. This may include adequate ventilation, use of safety gloves or goggles, etc.
