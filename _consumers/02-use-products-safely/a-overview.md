@@ -17,5 +17,6 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 
 **Safety At Home**
 * [Risk of Using Hydrocarbon Refrigerants At Home](/consumers/product-safety-tips/risk-of-using-hydrocarbon-refrigerants-at-home){:target="_blank"}
+* [Safety Tips on Furnitive and TVs](/consumers/product-safety-tips/safety-tips-on-furniture-and-tvs){:target="_blank"}
 * 
 
