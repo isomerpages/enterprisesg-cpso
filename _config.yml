@@ -29,8 +29,6 @@ collections:
     output: true
   news-and-media:
     output: true
-  electronics-and-appliance-safety:
-    output: true
     
 resources_name: news-and-media
     
