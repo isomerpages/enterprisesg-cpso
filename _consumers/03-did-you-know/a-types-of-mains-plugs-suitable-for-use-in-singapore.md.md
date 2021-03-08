@@ -16,7 +16,7 @@ The 13AMP and 15AMP mains plugs are controlled goods under the Consumer Protecti
 
 **Caution: Schuko plugs**
 
-![mains plugs 4](/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-4.jpg)
+|![mains plugs 4](/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-4.jpg)|![](/images/consumers/blank.png)|
 
 Some appliances are fitted with mains plugs meant for the German market. These are **rated at 10/16AMP** and known as **‘Schuko’** plugs (*See image*). This type of mains plug is **not suitable for use in Singapore**. The dimension of the round pins will stress the contacts of the mains socket outlet, subsequently leading to poor contact and overheating.
 
