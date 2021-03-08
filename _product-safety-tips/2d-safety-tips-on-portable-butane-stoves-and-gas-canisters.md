@@ -19,10 +19,9 @@ Gas stoves and gas canisters are among the 33 categories of Controlled Goods tha
   * Do not use pans larger than those indicated in the instruction manual as they will concentrate heat back towards the gas canister, causing it to overheat and explode.
   * Avoid wrapping aluminium foil on or around the burner.
 
-![proper sized pan](/images/product-safety-tips/proper-sized-pan.png)
-
+![proper sized pan](/images/product-safety-tips/proper-sized-pan.png)<br> 
 *Left: Oversized pan<br> 
-Right:Proper-sized pan*
+Right: Proper-sized pan*
 
 * Do not operate the stove longer than what is recommended by the manufacturer.
 * Use the stove at a well-ventilated place.
