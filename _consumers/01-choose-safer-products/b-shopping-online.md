@@ -9,3 +9,6 @@ The affordability and wide selection of household products available online is v
 However, homeowners need to be aware that safety regulations can vary greatly from country to country. You may not be adequately protected should you decide to buy from an overseas retailer. Always ask if a product meets local safety requirements.
 
 Here are some tips to keep in mind when buying appliances and electronics online:
+
+|   |   |
+|---|---|
