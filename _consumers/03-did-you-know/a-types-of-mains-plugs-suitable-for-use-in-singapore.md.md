@@ -8,9 +8,9 @@ Apart from Brunei, Hong Kong, Malaysia or UK, mains plugs that are used in other
 
 **3 types of mains plugs suitable for use in Singapore**
 
-|![mains plugs 1](/images/consumers/did-you-know/types-of-mains-plugs/main-plugs-1.jpg)|**(1) The 2.5AMP 2 round-pin mains plug** – This is generally used for electronics appliances such as TV, DVD and audio sets. These appliances do not rely on the ‘Earth’ wire for protection from a short circuit and therefore only 2 pins are needed – one for the ‘Live’ wire and the other for the ‘Neutral’ wire.|
-|![mains plugs 2](/images/consumers/did-you-know/types-of-mains-plugs/main-plugs-2.jpg)|**(2) The 13AMP 3 pin fused mains plug** – This is used for electrical appliances such as refrigerators, washing machines and microwave ovens. These appliances have a metal body which must be grounded so that in the event of a short circuit, there is no risk of electrocution to the user.|
-|![mains plugs 3](/images/consumers/did-you-know/types-of-mains-plugs/main-plugs-3.jpg)|**(3) The 15AMP 3 round-pin mains plug** – This is used generally for air-conditioners.|
+|![mains plugs 1](/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-1.jpg)|**(1) The 2.5AMP 2 round-pin mains plug** – This is generally used for electronics appliances such as TV, DVD and audio sets. These appliances do not rely on the ‘Earth’ wire for protection from a short circuit and therefore only 2 pins are needed – one for the ‘Live’ wire and the other for the ‘Neutral’ wire.|
+|![mains plugs 2](/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-2.jpg)|**(2) The 13AMP 3 pin fused mains plug** – This is used for electrical appliances such as refrigerators, washing machines and microwave ovens. These appliances have a metal body which must be grounded so that in the event of a short circuit, there is no risk of electrocution to the user.|
+|![mains plugs 3](/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-3.jpg)|**(3) The 15AMP 3 round-pin mains plug** – This is used generally for air-conditioners.|
 
 The 13AMP and 15AMP mains plugs are controlled goods under the Consumer Protection (Safety Requirements) Regulations. They must be affixed with the SAFETY Mark which carries a unique certification number traceable to the supplier. When purchasing a mains-powered electric appliance, always ensure that its mains plug carries a SAFETY Mark.
 
