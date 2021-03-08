@@ -13,3 +13,6 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 * [Safety Tips on Power Adaptors](/consumers/use-products-safely/safety-tips-on-power-adaptors){:target="_blank"}
 * [Safety Tips on Power Banks](/consumers/use-products-safely/safety-tips-on-power-banks){:target="_blank"}
 * [Safety Tips on Decorative Lighting](/consumers/use-products-safely/safety-tips-on-decorative-lighting){:target="_blank"}
+* [Safety Tips When Charging Personal Mobility Devices (PMDs)](/consumers/product-safety-tips/safety-tips-when-charging-personal-mobility-devices){:target="_blank"}
+
+
