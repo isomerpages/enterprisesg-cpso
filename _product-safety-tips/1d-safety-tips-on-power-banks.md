@@ -40,4 +40,4 @@ Take note that certain power banks have been incorrectly advertised as “SPRING
 * **Avoid short circuits**: Keep your power bank away from metal objects such as coins, paper clips and keys. Do not insert any metal objects into the USB output port or joining terminals of the power bank. Short circuits may present risks of excessive heat, fire or explosion.
 * **Storage**: Keep the power bank in a cool and dry place away from heat sources, moisture and dust. Avoid leaving the power bank in places with high temperature such as cars parked under the sun.
 * **Avoid applying excessive force on the power bank or dropping the power bank**: By doing so, it may damage the internal components of the power bank and risk short circuiting the device when used. Always inspect the power bank and refrain from using it if leakage, strange odours, colour changes, deformation or any unusual occurrences are detected.
-* **Do not allow children to use and play with the power bank.** x
+* **Do not allow children to use and play with the power bank.**
