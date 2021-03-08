@@ -10,4 +10,4 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 **Electronics and Appliance Safety**
 * [Safety Tips on Button Batteries](/consumers/use-products-safely/safety-tips-on-button-batteries){:target="_blank"}
 * [Safety Tips on Hair Straighteners](/consumers/use-products-safely/safety-tips-on-hair-straighteners){:target="_blank"}
-* 
+* [Safety Tips on Power Adaptors](/consumers/use-products-safely/safety-tips-on-power-adaptors){:target="_blank"}
