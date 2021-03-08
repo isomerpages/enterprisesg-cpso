@@ -12,7 +12,7 @@ Gas stoves and gas canisters are among the 33 categories of Controlled Goods tha
 
 * Ensure that the both the portable butane gas stove and canister carry the SAFETY Mark. The SAFETY Mark indicates that the product has met specific safety requirements and also carries a unique certification number traceable to the supplier.
 
-|![safety mark cooker and gas canister](/images/product-safety-tips/safety-mark-cooker-and-gas-canister.jpg)|![safety mark cooker and gas canister 2](/images/product-safety-tips/safety-mark-cooker-and-gas-canister-2.jpg)|
+|![safety mark cooker and gas canister](/images/product-safety-tips/safety-mark-cooker-and-gas-canister.jpg)|![safety mark cooker and gas canister 2](/images/product-safety-tips/safety-mark-cooker-and-gas-canister-2.jpg)|![](/images/consumers/blankx2.png)|
 
 * Avoid using the stove in any way that traps heat.
   * Ensure that there is adequate air flow over the top and sides of the stove.
@@ -20,6 +20,7 @@ Gas stoves and gas canisters are among the 33 categories of Controlled Goods tha
   * Avoid wrapping aluminium foil on or around the burner.
 
 |![proper sized pan](/images/product-safety-tips/proper-sized-pan.jpg)|![](/images/consumers/blankx2.png)|
+
 *Left: Oversized pan  Right:Proper-sized pan*
 
 * Do not operate the stove longer than what is recommended by the manufacturer.
