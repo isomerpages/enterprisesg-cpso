@@ -22,5 +22,5 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 * [Safety Tips on Portable Butane Stoves and Gas Canisters](/consumers/product-safety-tips/safety-tips-on-portable-butane-stoves-and-gas-canisters){:target="_blank"}
 * [Safety Tips for Storing Household Chemicals](/consumers/product-safety-tips/safety-tips-for-storing-household-chemicals){:target="_blank"}
 * [Safety Tips on Small Magnets](/consumers/product-safety-tips/safety-tips-on-small-magnets){:target="_blank"}
-
+* [Safety Tips on Window Coverings](/consumers/product-safety-tips/safety-tips-on-window-coverings){:target="_blank"}
 
