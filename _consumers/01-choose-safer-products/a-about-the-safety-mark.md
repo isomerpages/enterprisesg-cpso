@@ -21,8 +21,7 @@ The 33 categories of Controlled Goods are:
 
 ![33 categories of Controlled Goods](/images/about-us/33-categories-controlled-goods/33-cgs.png)
 
-**You may check the validity of the product's SAFETY Mark in 3 easy steps:**
-
+**You may check the validity of the product's SAFETY Mark in 3 easy steps:**<br>
 |Steps|Description|
 |:---:|----|
 | **1**| Visit [cpsa.enterprisesg.gov.sg][1]{:target="_blank"} and click on "Register of Registered Controlled Goods"                                  
