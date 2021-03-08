@@ -33,5 +33,4 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 
 **Children's Apparel**
 * [Safety Tips on Children’s Apparel](/consumers/product-safety-tips/safety-tips-on-children-apparel){:target="_blank"}
-
-
+* [Safety Tips on Costume Jewellery for Children](/consumers/product-safety-tips/safety-tips-on-constume-jewellery-for-children){:target="_blank"}
