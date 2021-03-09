@@ -13,11 +13,11 @@ Proper installation and maintenance of household appliances not only ensures saf
 
 Licensed electrical workers:
 * Help with the installation and maintenance of electrical appliances connected to the mains (e.g. light switches)
-* To search for licensed electrical workers, click here.
+* To search for licensed electrical workers, [click here](https://elise.ema.gov.sg/elise/findworkerservlet?Operation=GetOffer&Item=EL){:target="_blank"}.
 
 Licensed gas service workers:
 * Help with the installation and maintenance of appliances connected to the gas mains (e.g. gas hobs)
-* To search for licensed gas service workers, click here.
+* To search for licensed gas service workers, [click here](https://elise.ema.gov.sg/elise/findworkerservlet?Operation=GetOffer&Item=GS&selectedType=OFFERG){:target="_blank"}.
 
 **Proper placement of electrical appliances**
 Place electrical appliances away from heat sources such as direct sunlight and cookers. It is also recommended to avoid exposing them to moisture from rain or condensation
