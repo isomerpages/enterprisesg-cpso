@@ -17,3 +17,11 @@ Regional or national standards may also be accepted for consumer goods that do n
 The Consumer Product Safety Office does active post-market surveillance to reduce the impact of unsafe general consumer goods as soon as safety issues are discovered.
 
 If consumer goods do not meet applicable safety standards, suppliers will be required to stop the sale of these goods in the market. We will also direct suppliers to inform users of the potential dangers of such goods. The penalty for non-compliance is a fine and/or imprisonment.
+
+**Exclusion under the Regulations**
+
+The following consumer goods are under other regulations or regulatory agencies in Singapore, and do not come under the CGSR.
+
+|Product Type|Regulator|
+|---|---|
+|Food product and products / Contacting food or beverages|[Singapore Food Agency](https://www.sfa.gov.sg/)|
