@@ -35,8 +35,6 @@ collections:
     output: true
   product-safety-tips:
     output: true
-  overview:
-    output: true
     
 resources_name: news-and-media
     
