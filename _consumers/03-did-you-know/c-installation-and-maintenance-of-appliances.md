@@ -20,9 +20,11 @@ Licensed gas service workers:
 * To search for licensed gas service workers, [click here](https://elise.ema.gov.sg/elise/findworkerservlet?Operation=GetOffer&Item=GS&selectedType=OFFERG){:target="_blank"}.
 
 **Proper placement of electrical appliances**
+
 Place electrical appliances away from heat sources such as direct sunlight and cookers. It is also recommended to avoid exposing them to moisture from rain or condensation
 
 **Prevent bulky furniture and appliances from tipping**
+
 To reduce the risk of tip-overs and injuries, furniture and bulky appliances such as televisions should be properly positioned and secured.
 * Look out for anchor cabinets as well as bookcases or dressers with anti-tipping wall brackets, braces or straps
 * Televisions should be mounted to the wall or placed on a suitable stand as recommended by the manufacturer
