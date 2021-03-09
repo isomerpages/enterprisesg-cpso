@@ -19,7 +19,7 @@ The 33 categories of Controlled Goods are:
 
 ## What is the SAFETY Mark
 
-|![safety mark](/images/about-us/safety-mark.jpg)|![blank](/images/consumers/blank.png)|![blank](/images/consumers/blank.png)|
+![safety mark](/images/about-us/safety-mark.jpg)
 
 The SAFETY Mark helps consumers and suppliers identify registered Controlled Goods. These goods must carry the SAFETY Mark on the product. The mark consists of a “safety logo” and the words “SAFETY MARK” in a rectangle on the right. These goods can also be traced with a unique 8-digit registration number to the registrant and the registered models. 
 
