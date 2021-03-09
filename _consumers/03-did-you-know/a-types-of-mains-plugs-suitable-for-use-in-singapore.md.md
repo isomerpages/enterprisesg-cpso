@@ -1,5 +1,5 @@
 ---
-title: Type of Mains Plugs Suitable for use in Singapore
+title: Suitability of Mains Plugs
 permalink: /consumers/did-you-know/types-of-mains-plugs-suitable-for-use-in-singapore
 third_nav_title: Did You Know?
 ---
