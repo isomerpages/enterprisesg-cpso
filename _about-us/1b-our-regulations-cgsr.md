@@ -24,4 +24,10 @@ The following consumer goods are under other regulations or regulatory agencies 
 
 |Product Type|Regulator|
 |---|---|
-|Food product and products / Contacting food or beverages|[Singapore Food Agency](https://www.sfa.gov.sg/)|
+|Food product and products / Contacting food or beverages|[Singapore Food Agency](https://www.sfa.gov.sg/){target="_blank"}|
+|Cosmetics, medical devices, pharmaceuticals and Chinese proprietary medicines|[Health Sciences Authority](https://www.hsa.gov.sg/){target="_blank"}|
+|Motor vehicles|[Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en.html){target="_blank"}|
+|Motorcycle helmets and children car seats|[Traffic Police](https://www.police.gov.sg/Advisories/Traffic/Road-Safety-Tips){target="_blank"}|
+|Hazardous substances|[National Environment Agency](https://www.nea.gov.sg/our-services/pollution-control/chemical-safety/hazardous-substances){target="_blank"}|
+|Pesticides and vector repellents|[National Environment Agency](https://www.nea.gov.sg/our-services/pest-control/registration-of-control-of-public-health-pesticides-and-repellents-against-vectors){target="_blank"}|
+|33 categories of household electrical, electronic and gas products (Controlled Goods)|[Enterprise Singapore](/about-us/our-regulations/cpsr){target="_blank"}|
