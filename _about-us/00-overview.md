@@ -13,7 +13,7 @@ To safeguard the interest of our consumers, the Consumer Product Safety Office p
 * Register Controlled Goods
 * Educate suppliers on the regulations and requirements of CPSR and CGSR
 * Appoint third-party Conformity Assessment Bodies (CABs) to carry out product testing and ensure compliance with specified safety standards
-* Conduct market surveillance and investigate accidents, incidents or feedback relating to the safety of consumer products
+* Conduct market surveillance and investigate accidents, incidents or feedback relating to the safety of consumer products regulated under CPSR and CGSR
 
 ### What can Consumers do to ensure product safety?
 Consumers have a role to play by making well-informed purchase decisions and using products safely. We equip consumers with the latest information on how they can use products responsibly to prevent injuries to themselves and their families. They can also learn more about the latest news and tips on how to make safer choices when purchasing such items.
