@@ -2,7 +2,7 @@
 title: Overview
 permalink: /suppliers/overview
 ---
-## Overview
+## Be a Responsible Supplier
 Suppliers have the prime responsibility to ensure they sell safe products. They must comply with the relevant product safety regulations and ensure their products do not pose a safety risk to consumers.
 
 **Consumer Protection (Safety Requirements) Regulations (CPSR)**
