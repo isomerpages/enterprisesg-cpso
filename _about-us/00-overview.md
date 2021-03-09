@@ -21,7 +21,7 @@ Consumers have a role to play by making well-informed purchase decisions and usi
 Find out more about how you can [choose safer products](/consumers/choose-safer-products/about-the-safety-mark){:target="_blank"}.
 
 ### What can Suppliers do to ensure they supply safe consumer products?
-Manufacturers, importers (including parallel importers), retailers and traders who are involved in advertising and/or supplying Controlled Goods must ensure that they register the Controlled Goods with the Consumer Product Safety Office. 
+Manufacturers, importers (including parallel importers), retailers and traders who are involved in advertising and/or supplying Controlled Goods must ensure that they register the Controlled Goods under CPSR with the Consumer Product Safety Office. 
 
 Suppliers of general consumer goods under the purview of the CGSR should ensure their product conform with the relevant internationally accepted product safety standards.
 
