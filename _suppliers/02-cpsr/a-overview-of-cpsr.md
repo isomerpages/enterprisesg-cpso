@@ -12,6 +12,8 @@ Once the model has been registered, the Controlled Goods can then be advertised 
 
 Click here to find out more about whether the products you are supplying falls into the [33 categories of Controlled Goods under CPSR.](/suppliers/cpsr/list-of-controlled-goods)
 
+Suppliers must also be a Registered Supplier before supplying the Controlled Goods. Click here to find out more on how to [apply as a Registered Supplier](/suppliers/cpsr/apply-to-be-a-registered-supplier) with the Consumer Product Safety Office.
+
 Any person found guilty of selling unregistered Controlled Goods, is liable upon conviction, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding two years or both.
 
 ## What is the SAFETY Mark
