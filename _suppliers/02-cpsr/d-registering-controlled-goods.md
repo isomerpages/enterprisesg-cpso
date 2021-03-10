@@ -11,3 +11,5 @@ The Registerd Supplier (RS) can submit a Supplier’s Declaration of Conformity 
 
 **For Medium and High Risk CGs:**<br>
 The Registered Supplier submits test reports and other relevant documentation to a Conformity Assessmebt Body (Certification) for review. If the CGs meet safety requirements, the CAB (Certification) issues a Certificate of Conformity (CoC) and submits the CoC to the Consumer Product Safety Office.  
+
+If the Consumer Product Safety Office judges that the application is in order, a Letter of Approval (LOA) will be issued to the RS.
