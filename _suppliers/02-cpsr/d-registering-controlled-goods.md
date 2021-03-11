@@ -14,4 +14,4 @@ The Registered Supplier submits test reports and other relevant documentation to
 
 If the Consumer Product Safety Office deems the application is in order, a Letter of Approval (LOA) will be issued to the RS.
 
-You may refer to Chapter 9 and 10 of our information booklet [here] for more information on registering controlled goods. 
+You may refer to Chapter 9 and 10 of our information booklet [here] and our [Resource page](/suppliers/cpsr/resources-and-faq) for more information on registering controlled goods. 
