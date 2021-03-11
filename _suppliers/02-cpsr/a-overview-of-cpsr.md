@@ -3,7 +3,7 @@ title: Overview of CPSR
 permalink: /suppliers/cpsr/overview-of-cpsr
 third_nav_title: Consumer Protection (Safety Requirements) Regulations (CPSR)
 ---
-## Overview
+## Overview of CPSR
 The Consumer Protection (Safety Requirements) Regulations (CPSR) requires 33 categories of household products, also known as Controlled Goods, to be registered with the authority. These products need to be tested to specified safety standards and affixed with the SAFETY Mark before they can be sold in Singapore.
 
 Registration of Controlled Goods under the CPSR is based on Certificates of Conformity (CoC) issued by designated third party Conformity Assessment Bodies (CABs), or Supplier’s Declaration of Conformity (SDoC) declared by Registered Suppliers.
