@@ -7,7 +7,7 @@ The 33 categories of Controlled Goods (CGs) under CPSR are tiered into Low, Medi
 
 **33 Categories of Controlled Goods under CPSR:**
 
-*Low Risk:*
+#### Low Risk:
 
 |Controlled Goods &nbsp; &nbsp; |Definitions &nbsp; &nbsp; |Safety Standards &nbsp; &nbsp; |
 |---|---|---|
@@ -16,7 +16,7 @@ The 33 categories of Controlled Goods (CGs) under CPSR are tiered into Low, Medi
 |Room air-conditioner ![room air conditioner](/images/about-us/33-categories-controlled-goods/room-air-conditioner.png)|Room air-conditioner, which is an electrical appliance intended for household use and designed as a self-contained unit for mounting on a window or through a wall to provide conditioned air to an enclosed area, with rated voltage of not more than 250 Vac.|IEC 60335-2-40: 2002|
 |Table lamp/ standing lamp ![table lamp](/images/about-us/33-categories-controlled-goods/table-lamp.png)|An electrical portable general purpose luminary intended for household use with supply voltage of not more than 250 Vac|IEC 60598-2-4: 1997|
 
-*Medium Risk:*
+#### Medium Risk:
 
 |Controlled Goods &nbsp; &nbsp; |Definitions &nbsp; &nbsp; |Safety Standards &nbsp; &nbsp; |
 |---|---|---|
@@ -43,7 +43,7 @@ The 33 categories of Controlled Goods (CGs) under CPSR are tiered into Low, Medi
 |Washing machine![washing machine](/images/about-us/33-categories-controlled-goods/washing-machine.png)|Washing machine, which is an electrical appliance intended for household use to wash clothes and textiles, with rated voltage of not more than 250 Vac.|IEC 60335-2-7: 2000|
 |3-pin main plugs![3 pins main plugs](/images/about-us/33-categories-controlled-goods/3-pins-main-plugs.png)|3-pin mains plug, limited to 13-amp rectangular types and 15-amp round types, which are portable devices that have rectangular or cylindrical projecting pins designed to engage with the contacts of a corresponding socket-outlet. 3-pin mains plugs also incorporate means for the electrical connection and the mechanical retention of a suitable flexible cord.|SS 145: Part 1: 1997 (3-pin rectangular type 13-amp plug)<br><br> SS 472: 1999 (3-pin round type 15-amp plug)|
 
-*High Risk:*
+#### High Risk:
 
 |Controlled Goods &nbsp; &nbsp; |Definitions &nbsp; &nbsp; |Safety Standards &nbsp; &nbsp; |
 |---|---|---|
