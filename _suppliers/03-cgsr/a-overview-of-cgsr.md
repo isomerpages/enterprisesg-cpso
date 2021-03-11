@@ -1,6 +1,6 @@
 ---
 title: Overview of CGSR
-permalink: /suppliers/overview-of-cgsr
+permalink: /suppliers/cgsr/overview-of-cgsr
 third_nav_title: Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)
 ---
 ## Overview of CGSR
