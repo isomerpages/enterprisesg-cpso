@@ -11,14 +11,19 @@ sections:
         subtitle:
         background: /images/safety-banner.png
         key_highlights:
+            - title: Choose Safer Products
+              description: How to choose safer products
+              url: /consumers/choose-safer-products/about-the-safety-mark
             - title: Product Safety Alerts and Recalls
               description: Check for the latest update 
               url: https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-consumers/product-safety-alerts-and-recalls
+            - title: Supplying Registered Goods
+              description: Supplier's have a primary role to supply safe products
+              url: /suppliers/overview
             - title: Registered Controlled Goods
-              description: Verify if the product has a valid SAFETY Mark
+              description: Check if the product has a valid SAFETY Mark
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html
-            - title: Apply as Registered Supplier
-              url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationCPS.form%3FAT%3D1&
+
     - infopic:
         title: Find Out More About Product Safety Regulations
         subtitle: 
