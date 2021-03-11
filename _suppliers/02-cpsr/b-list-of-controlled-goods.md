@@ -7,8 +7,6 @@ The 33 categories of Controlled Goods (CGs) under CPSR are tiered into <a href="
 
 <a href="#bottom" name="top" id="top">this link</a>
 
-<a href="#top" name="bottom" id="bottom">This link</a>
-
 **33 Categories of Controlled Goods under CPSR:**
 
 <a href="#low" id="low">Low</a>
@@ -20,7 +18,7 @@ The 33 categories of Controlled Goods (CGs) under CPSR are tiered into <a href="
 |Room air-conditioner ![room air conditioner](/images/about-us/33-categories-controlled-goods/room-air-conditioner.png)|Room air-conditioner, which is an electrical appliance intended for household use and designed as a self-contained unit for mounting on a window or through a wall to provide conditioned air to an enclosed area, with rated voltage of not more than 250 Vac.|IEC 60335-2-40: 2002|
 |Table lamp/ standing lamp ![table lamp](/images/about-us/33-categories-controlled-goods/table-lamp.png)|An electrical portable general purpose luminary intended for household use with supply voltage of not more than 250 Vac|IEC 60598-2-4: 1997|
 
-<a name="bottom" id="bottom">This is the anchor text</a>
+<a href="#top" name="bottom" id="bottom">This link</a>
 
 <a href="#medium" id="medium">Medium</a>
 
