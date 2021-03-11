@@ -46,7 +46,7 @@ For registration of low risk CGs, the Registered Supplier will have to submit a 
 |Washing machine![washing machine](/images/about-us/33-categories-controlled-goods/washing-machine.png)|Washing machine, which is an electrical appliance intended for household use to wash clothes and textiles, with rated voltage of not more than 250 Vac.|IEC 60335-2-7: 2000|
 |3-pin main plugs![3 pins main plugs](/images/about-us/33-categories-controlled-goods/3-pins-main-plugs.png)|3-pin mains plug, limited to 13-amp rectangular types and 15-amp round types, which are portable devices that have rectangular or cylindrical projecting pins designed to engage with the contacts of a corresponding socket-outlet. 3-pin mains plugs also incorporate means for the electrical connection and the mechanical retention of a suitable flexible cord.|SS 145: Part 1: 1997 (3-pin rectangular type 13-amp plug)<br><br> SS 472: 1999 (3-pin round type 15-amp plug)|
 
-<a href="#top_high" id="medium high">High Risk CGs</a>
+<a href="#top_high" id="bottom high">High Risk CGs</a>
 
 |Controlled Goods|Definitions|Safety Standards &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |---|---|---|
