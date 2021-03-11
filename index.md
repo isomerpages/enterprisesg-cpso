@@ -4,11 +4,11 @@ title: Isomer Site
 description: Brief site description here
 image: /images/favicon-isomer.ico
 permalink: /
-notification: Put announcement here!
+notification: SS 655:2020 is now available as an alternate minimum edition for registration and renewal of Fans under the CPSR. To learn more, click <a href= "/news-and-media/circulars/news-and-media/circulars/2020-10-19-Circular.pdf"> here</a>.
 sections:
     - hero:
-        title: <h2>Choose Safer Products, Use Products Safely<h2>
-        subtitle:
+        title: <h1>Consumer Product Safety Office<h1>
+        subtitle: <h3>Choose Safer Products, Use Products Safely<h3>
         background: /images/safety-banner.png
         key_highlights:
             - title: Choose Safer Products
