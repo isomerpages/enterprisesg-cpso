@@ -25,7 +25,7 @@ Manufacturers, importers (including parallel importers), retailers and traders w
 
 Suppliers of general consumer goods under the purview of the CGSR should ensure their product conform with the relevant internationally accepted product safety standards.
 
-Find out more here on [your role as a supplier](/suppliers/overview){:target="_blank"}.
+Find out more about [your role as a supplier in ensuring product safety](/suppliers/overview){:target="_blank"}.
 
 [1]:https://sso.agc.gov.sg/SL/CPTDSRA1975-RG1?DocDate=20181010&ValidDate=20181011
 [2]:https://sso.agc.gov.sg/SL/CPTDSRA1975-S113-2011
