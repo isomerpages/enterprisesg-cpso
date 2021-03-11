@@ -12,13 +12,13 @@ sections:
         background: /images/safety-banner.png
         key_highlights:
             - title: Choose Safer Products
-              description: How to choose safer products
+              description: How consumers can choose safer products
               url: /consumers/choose-safer-products/about-the-safety-mark
             - title: Product Safety Alerts and Recalls
               description: Check for the latest update 
               url: https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-consumers/product-safety-alerts-and-recalls
-            - title: Supplying Registered Goods
-              description: Supplier's have a primary role to supply safe products
+            - title: Ensuring safety of products supplied
+              description: Suppliers play a primary role in supplying safe products
               url: /suppliers/overview
             - title: Registered Controlled Goods
               description: Check if the product has a valid SAFETY Mark
