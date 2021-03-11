@@ -14,7 +14,7 @@ Singapore, Thursday, 2 May 2019
 
 3. Enterprise Singapore has issued fines or warnings to the sellers of the above-mentioned products. Sellers found guilty of selling unregistered Controlled Goods are liable upon conviction, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding two years or both.
 
-4. Consumers who purchased the unregistered Controlled Goods listed in Annex 1 are advised to stop using the product immediately, and seek redress from the supplier with proof of purchase. If consumers are unable to do so, they may approach the Consumers Association of Singapore (CASE) for assistance at its hotline +65 6100 0315 or (www.case.org.sg){:target="_blank"}.
+4. Consumers who purchased the unregistered Controlled Goods listed in Annex 1 are advised to stop using the product immediately, and seek redress from the supplier with proof of purchase. If consumers are unable to do so, they may approach the Consumers Association of Singapore (CASE) for assistance at its hotline +65 6100 0315 or <https://www.case.org.sg/>{:target="_blank"}.
 
 **Ensuring safety for consumers**
 5\. In addition to removing the unregistered items immediately upon notification, the nine e-commerce platforms are now working with Enterprise Singapore to make information on the Consumer Protection (Safety Requirements) Regulations (CPSR) and SAFETY Mark available to sellers and consumers (refer to Annex B for details of CPSR). The rise of e-commerce platforms 2 reiterates the importance of product safety for online purchases and for consumers to use products that have gone through safety testing, which addresses electrical, mechanical and fire hazards.
