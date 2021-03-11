@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/favicon-isomer.ico
 permalink: /
-notification: Put announcement here!
+notification: New Circular on Registration of Fans under the Consumer Protection (Safety Requirements) Registration Scheme. Click [here](https://enterprisesg-cpso-staging.netlify.app/news-and-media/circulars/) to find out more!
 sections:
     - hero:
         title: <h2>Choose Safer Products, Use Products Safely<h2>
