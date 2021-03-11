@@ -45,5 +45,4 @@ The following consumer goods are under other regulations or regulatory agencies 
 |Pesticides and vector repellents|[National Environment Agency](https://www.nea.gov.sg/our-services/pest-control/registration-of-control-of-public-health-pesticides-and-repellents-against-vectors){:target="_blank"}|
 
 33 categories of household electrical, electronic and gas products also known as Controlled Goods falls under the [Consumer Protection (Safety Requirements Regulations](/about-us/our-regulations/cpsr)
-Exclusion under the Regulations
-The following consumer goods are under other regulations or regulatory agencies in Singapore, and do not come under the CGSR.
+
