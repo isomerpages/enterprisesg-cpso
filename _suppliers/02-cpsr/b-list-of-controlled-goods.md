@@ -3,13 +3,11 @@ title: List of Controlled Goods
 permalink: /suppliers/cpsr/list-of-controlled-goods
 third_nav_title: Consumer Protection (Safety Requirements) Regulations (CPSR)
 ---
-The 33 categories of Controlled Goods (CGs) under CPSR are tiered into <a href="#low" id="low">Low</a> <a href="#medium" id="medium">Medium</a> and <a href="#high" id="high">High</a> Risk CGs based on XXX.
-
-<a href="#bottom" name="top" id="top">this link</a>
+The 33 categories of Controlled Goods (CGs) under CPSR are tiered into <a href="#bottom_low" id="top_low">Low</a> <a href="#bottom_medium" id="top_medium">Medium</a> and <a href="#bottom_high" id="top_high">High</a> Risk CGs based on XXX.
 
 **33 Categories of Controlled Goods under CPSR:**
 
-<a href="#low" id="low">Low</a>
+<a href="#top_low" id="bottom_low">Low Risk CGs</a>
 
 |Controlled Goods|Definitions|Safety Standards|
 |---|---|---|
@@ -18,9 +16,7 @@ The 33 categories of Controlled Goods (CGs) under CPSR are tiered into <a href="
 |Room air-conditioner ![room air conditioner](/images/about-us/33-categories-controlled-goods/room-air-conditioner.png)|Room air-conditioner, which is an electrical appliance intended for household use and designed as a self-contained unit for mounting on a window or through a wall to provide conditioned air to an enclosed area, with rated voltage of not more than 250 Vac.|IEC 60335-2-40: 2002|
 |Table lamp/ standing lamp ![table lamp](/images/about-us/33-categories-controlled-goods/table-lamp.png)|An electrical portable general purpose luminary intended for household use with supply voltage of not more than 250 Vac|IEC 60598-2-4: 1997|
 
-<a href="#top" name="bottom" id="bottom">This link</a>
-
-<a href="#medium" id="medium">Medium</a>
+<a href="#top_medium" id="bottom_medium">Medium Risk CGs</a>
 
 |Controlled Goods|Definitions|Safety Standards|
 |---|---|---|
@@ -47,7 +43,7 @@ The 33 categories of Controlled Goods (CGs) under CPSR are tiered into <a href="
 |Washing machine![washing machine](/images/about-us/33-categories-controlled-goods/washing-machine.png)|Washing machine, which is an electrical appliance intended for household use to wash clothes and textiles, with rated voltage of not more than 250 Vac.|IEC 60335-2-7: 2000|
 |3-pin main plugs![3 pins main plugs](/images/about-us/33-categories-controlled-goods/3-pins-main-plugs.png)|3-pin mains plug, limited to 13-amp rectangular types and 15-amp round types, which are portable devices that have rectangular or cylindrical projecting pins designed to engage with the contacts of a corresponding socket-outlet. 3-pin mains plugs also incorporate means for the electrical connection and the mechanical retention of a suitable flexible cord.|SS 145: Part 1: 1997 (3-pin rectangular type 13-amp plug)<br><br> SS 472: 1999 (3-pin round type 15-amp plug)|
 
-<a href="#high" id="high">High</a>
+<a href="#top_high" id="medium high">High Risk CGs</a>
 
 |Controlled Goods|Definitions|Safety Standards|
 |---|---|---|
