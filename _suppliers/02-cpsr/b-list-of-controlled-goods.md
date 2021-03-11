@@ -7,7 +7,7 @@ The 33 categories of Controlled Goods (CGs) under CPSR are tiered into Low, Medi
 
 **33 Categories of Controlled Goods under CPSR:**
 
-#### Low Risk:
+##### Low Risk:
 
 |Controlled Goods &nbsp; &nbsp; |Definitions &nbsp; &nbsp; |Safety Standards &nbsp; &nbsp; |
 |---|---|---|
@@ -16,7 +16,7 @@ The 33 categories of Controlled Goods (CGs) under CPSR are tiered into Low, Medi
 |Room air-conditioner ![room air conditioner](/images/about-us/33-categories-controlled-goods/room-air-conditioner.png)|Room air-conditioner, which is an electrical appliance intended for household use and designed as a self-contained unit for mounting on a window or through a wall to provide conditioned air to an enclosed area, with rated voltage of not more than 250 Vac.|IEC 60335-2-40: 2002|
 |Table lamp/ standing lamp ![table lamp](/images/about-us/33-categories-controlled-goods/table-lamp.png)|An electrical portable general purpose luminary intended for household use with supply voltage of not more than 250 Vac|IEC 60598-2-4: 1997|
 
-#### Medium Risk:
+##### Medium Risk:
 
 |Controlled Goods|Definitions &nbsp; &nbsp; |Safety Standards &nbsp; &nbsp; |
 |---|---|---|
