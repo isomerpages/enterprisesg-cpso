@@ -10,6 +10,6 @@ If you are an importer, or parallel importer, retailer or manufacturer importing
 
 Note that when a company (Registered Supplier) transfers ownership of its registered Controlled Goods to another business, the new company has to apply to be a Registered Supplier and re-register the goods with the Consumer Product Safety Office. In such cases, the former Registered Supplier must submit an authorisation letter to the Consumer Product Safety Office before the new company can be registered.
 
-To register as a Registered Supplier, go to our [Consumer Product Safety and Accuracy System (CPSA)](https://cpsa.enterprisesg.gov.sg/TotalAgility/Forms/custom/publicsite/login.html) and click on 'e-Registration of Registered Supplier'.
+To register as a Registered Supplier, go to our [Consumer Product Safety and Accuracy System (CPSA)](https://cpsa.enterprisesg.gov.sg/TotalAgility/Forms/custom/publicsite/login.html){target="_blank"} and click on 'e-Registration of Registered Supplier'.
 
-A register of Registered Suppliers is also available on [CPSA](https://cpsa.enterprisesg.gov.sg/TotalAgility/Forms/custom/publicsite/login.html) 'Register of Registered Suppliers'.
+A register of Registered Suppliers is also available on [CPSA](https://cpsa.enterprisesg.gov.sg/TotalAgility/Forms/custom/publicsite/login.html){target="_blank"} 'Register of Registered Suppliers'.
