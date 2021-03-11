@@ -1,4 +1,4 @@
 ---
-title: Certification and Registrations of AC adaptors to be used with/ bundled together with Personal Mobility Devices (PMDs) to CABs
+title: To CABs - Certification and Registrations of AC adaptors to be used with/ bundled together with Personal Mobility Devices (PMDs) 
 file_url: /news-and-media/circulars/2019-05-24-Circular-b.pdf
 ---
