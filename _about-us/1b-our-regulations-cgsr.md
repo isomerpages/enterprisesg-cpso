@@ -4,7 +4,7 @@ permalink: /about-us/our-regulations/cgsr
 third_nav_title: Our Regulations
 ---
 ### Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)
-The [Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)]https://sso.agc.gov.sg/SL/CPTDSRA1975-S113-2011{:target"_blank"} aims to protect consumers from unsafe general consumer goods such as toys, children’s products, apparel, sports and recreation products, furniture, mattresses and bedding and DIY tools.
+The [Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)](https://sso.agc.gov.sg/SL/CPTDSRA1975-S113-2011){:target="_blank"} aims to protect consumers from unsafe general consumer goods such as toys, children’s products, apparel, sports and recreation products, furniture, mattresses and bedding and DIY tools.
 
 Consumer goods covered by the CGSR must meet any of the following international safety standards:
 * International Organization for Standardization (ISO)
