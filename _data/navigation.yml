@@ -13,7 +13,7 @@ links:
     collection: consumers
   - title: Suppliers
     collection: suppliers
-  - title: Conformity Assessmebt Body
+  - title: Conformity Assessment Body
     collection: conformity-assessment-body
   - title: News And Media
     resource_room: true
