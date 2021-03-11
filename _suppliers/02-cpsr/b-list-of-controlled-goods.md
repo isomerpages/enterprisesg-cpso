@@ -11,7 +11,7 @@ Suppliers must first apply to be a Registered Supplier before supplying these Co
 For registration of low risk CGs, the Registered Supplier will have to submit a Supplier’s Declaration of Conformity to the Consumer Product Safety Office. For medium and high risk CGs, a Certificate of Conformity issued by a Conformity Assessment Body is required for registration of the CG. Click to find out more about [registering CGs.](/suppliers/cpsr/registering-controlled-goods)
 
 **The 33 Categories of Controlled Goods under CPSR are:**<br>
-<a id="bottom_low">Low Risk CGs</a>
+<a href="#top_low" id="bottom_low">Low Risk CGs</a>
 
 |Controlled Goods|Definitions|Safety Standards|
 |---|---|---|
