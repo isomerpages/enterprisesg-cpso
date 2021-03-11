@@ -3,7 +3,7 @@ title: Apply To Be A Registered Supplier
 permalink: /suppliers/cpsr/apply-to-be-a-registered-supplier
 third_nav_title: Consumer Protection (Safety Requirements) Regulations (CPSR)
 ---
-## Register as Suppplier of Controlled Goods
+## Supplying Controlled Goods
 No party shall be allowed to advertise and/or supply the Controlled Goods unless they have been registered with the authority. Registered Suppliers are responsible for the safety and compliance of Controlled Goods registered under their name. The registration will be withdrawn when the party registered as ‘Registered Supplier’ ceases to supply the Controlled Goods registered by it, for instances, where it ceases to carry on such business or is no longer registered with the Accounting & Corporate Regulatory Authority (ACRA).
 
 If you are an importer, or parallel importer, retailer or manufacturer importing and selling anything that has been listed as Controlled Goods, you will need to register the goods. For more details on parties that need to apply to be a Registered Supplier, refer to Chapter 5 of our information booklet [here.]
