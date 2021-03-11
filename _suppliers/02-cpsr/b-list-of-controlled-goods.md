@@ -3,13 +3,15 @@ title: List of Controlled Goods
 permalink: /suppliers/cpsr/list-of-controlled-goods
 third_nav_title: Consumer Protection (Safety Requirements) Regulations (CPSR)
 ---
-The 33 categories of Controlled Goods (CGs) under CPSR are tiered into Low, Medium and High Risk CGs based on XXX. 
+The 33 categories of Controlled Goods (CGs) under CPSR are tiered into <a href="#low" id="low">Low</a> <a href="#medium" id="medium">Medium</a> and <a href="#high" id="high">High</a> Risk CGs based on XXX.
 
-<a href="#bottom">Link to the bottom of the page</a>
+<a href="#bottom" name="top" id="top">this link</a>
+
+<a href="#top" name="bottom" id="bottom">This link</a>
 
 **33 Categories of Controlled Goods under CPSR:**
 
-##### Low Risk:
+<a href="#low" id="low">Low</a>
 
 |Controlled Goods &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |Definitions|Safety Standards &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |---|---|---|
@@ -20,7 +22,7 @@ The 33 categories of Controlled Goods (CGs) under CPSR are tiered into Low, Medi
 
 <a name="bottom" id="bottom">This is the anchor text</a>
 
-##### Medium Risk:
+<a href="#medium" id="medium">Medium</a>
 
 |Controlled Goods &nbsp; &nbsp; |Definitions &nbsp; &nbsp; |Safety Standards &nbsp; &nbsp; |
 |---|---|---|
@@ -47,7 +49,7 @@ The 33 categories of Controlled Goods (CGs) under CPSR are tiered into Low, Medi
 |Washing machine![washing machine](/images/about-us/33-categories-controlled-goods/washing-machine.png)|Washing machine, which is an electrical appliance intended for household use to wash clothes and textiles, with rated voltage of not more than 250 Vac.|IEC 60335-2-7: 2000|
 |3-pin main plugs![3 pins main plugs](/images/about-us/33-categories-controlled-goods/3-pins-main-plugs.png)|3-pin mains plug, limited to 13-amp rectangular types and 15-amp round types, which are portable devices that have rectangular or cylindrical projecting pins designed to engage with the contacts of a corresponding socket-outlet. 3-pin mains plugs also incorporate means for the electrical connection and the mechanical retention of a suitable flexible cord.|SS 145: Part 1: 1997 (3-pin rectangular type 13-amp plug)<br><br> SS 472: 1999 (3-pin round type 15-amp plug)|
 
-#### High Risk:
+<a href="#high" id="high">High</a>
 
 |Controlled Goods &nbsp; &nbsp; |Definitions &nbsp; &nbsp; |Safety Standards &nbsp; &nbsp; |
 |---|---|---|
