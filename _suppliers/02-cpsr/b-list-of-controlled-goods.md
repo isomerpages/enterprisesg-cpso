@@ -50,4 +50,5 @@ For registration of low risk CGs, the Registered Supplier will have to submit a 
 
 |Controlled Goods|Definitions|Safety Standards|
 |---|---|---|
-|Air cooler![air cooler](/images/about-us/33-categories-controlled-goods/air-cooler.png)|Air cooler, which is an electrical appliance intended for household use to agitate the air and equipped to use water as a cooling medium, with rated voltage of not more than 250 Vac.|IEC 60335-2-98: 2002|
+|Components of the Liquefied Petroleum Gas system![components of lpg](/images/about-us/33-categories-controlled-goods/components-lpg.png)|**Hose**<br>
+Hose, namely a hose intended for household use in liquefied petroleum gas vapour phase and liquefied petroleum gas or air appliances not exceeding 5 KPa (50 mbar) operating pressure.<br><br>**Regulator**<br>Regulator, which is a non-adjustable device intended for household use that maintains the outlet pressure constant at a nominal value up to and including 50 mbar, independent, within specified limits, of inlet pressure or flow rate.<br><br>**Valve**<br>Valve, which is a device that is made from brass, bronze or aluminium forging, intended for household use with liquefied petroleum gas cylinders, to control the direction and volume of flow of the liquefied petroleum gas.|IEC 60335-2-98: 2002|
