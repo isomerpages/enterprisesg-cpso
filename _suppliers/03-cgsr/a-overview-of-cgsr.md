@@ -18,7 +18,7 @@ The Consumer Product Safety Office does active post-market surveillance to reduc
 
 If consumer goods do not meet applicable safety standards, suppliers will be required to stop the sale of these goods in the market. We will also direct suppliers to inform users of the potential dangers of such goods. The penalty for non-compliance is a fine and/or imprisonment.
 
-**Who should know the CGSR?**
+**Who should know the CGSR?**<br>
 Suppliers of consumer goods (this includes manufacturers, importers, distributors, retailers and other traders) should sell only safe goods.
 
 Suppliers can enhance the safety of their products by:
