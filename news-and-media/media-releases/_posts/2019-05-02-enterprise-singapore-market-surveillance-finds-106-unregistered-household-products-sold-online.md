@@ -3,9 +3,9 @@ layout: post
 title:  Enterprise Singapore’s Market Surveillance Finds 106 Unregistered Household Products Sold Online
 permalink: /news-and-media/media-releases/2019-05-02-enterprise-singapore-market-surveillance-finds-106-unregistered-household-products-sold-online
 ---
-### Enterprise Singapore’s Market Surveillance Finds 106 Unregistered Household Products Sold Online
+## Enterprise Singapore’s Market Surveillance Finds 106 Unregistered Household Products Sold Online
 
-MR No.: 016/19
+MR No.: 016/19<br>
 Singapore, Thursday, 2 May 2019
 
 1\. Enterprise Singapore found 106 household products classified as Controlled Goods1, which were not registered with the agency, sold by 97 sellers on nine e-commerce platforms in Singapore. The nine platforms were Amazon Prime Now, Carousell, Ebay, Ezbuy, Facebook, Lazada, Qoo10, Redmart and Shopee. These were the findings from market surveillance conducted between December 2018 to February 2019. These unregistered household products have since been removed from sale on the e-commerce platforms (refer to Annex A for a full listing of the unregistered products).
