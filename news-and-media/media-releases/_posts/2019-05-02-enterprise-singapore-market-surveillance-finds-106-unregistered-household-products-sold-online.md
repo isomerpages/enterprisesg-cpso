@@ -28,3 +28,7 @@ Singapore, Thursday, 2 May 2019
 9\. He added that while price may be one of the factors for consumers when shopping online, they should also be mindful of safety issues. “We encourage consumers to look out for the SAFETY Mark, ask sellers if the product carries the SAFETY Mark, and search through Enterprise Singapore’s Register of Controlled Goods at cpsa.enterprisesg.gov.sg. Consumers can reach out to us if they come across household products without the SAFETY Mark as they play a critical role in ensuring safety,” said Mr Sim.
 
 10\. Consumers can report product safety issues directly to Enterprise Singapore at 1800 773 3163 or consumerprotection@enterprisesg.gov.sg. For the latest list of products that have been recalled in Singapore over safety concerns, visit www.enterprisesg.gov.sg/safety-recalls.
+
+Annex A: [List of Unregistered Controlled Goods Found](/news-and-media/media-releases/2019-05-02-mr01619-annex-a-list-of-unregistered-controlled-goods-found.pdf)<br>
+Annex B: [About the Consumer Protection (Safety Requirements) Regulations](/news-and-media/media-releases/2019-05-02-mr01619-annex-b-about-the-consumer-protection-safety-requirements-regulations.pdf)<br>
+Annex C: [Infographic on Online Shopping Product Safety Tips](/news-and-media/media-releases/2019-05-02-mr01619-annex-c-infographic-on-online-shopping-product-safety-tips.pdf)
