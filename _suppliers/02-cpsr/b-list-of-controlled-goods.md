@@ -7,4 +7,6 @@ The 33 categories of Controlled Goods (CGs) under CPSR are tiered into Low, Medi
 **33 Categories of Controlled Goods under CPSR**<br>
 *Low Risk:*
 
-|Controlled Goods|Definitions|Safety Standards|
+|Controlled Goods|Definitions &nsbp; &nsbp; &nsbp; &nsbp; &nsbp; &nsbp; &nsbp; |Safety Standards &nsbp; &nsbp;  &nsbp; &nsbp; |
+|---|---|---|
+|test|test|test|
