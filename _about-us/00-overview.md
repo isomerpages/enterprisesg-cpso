@@ -3,7 +3,7 @@ title: Overview
 permalink: /about-us/overview
 ---
 ## About the Consumer Product Safety Office
-The Consumer Product Safety Office is a department of Enterprise Singapore that oversees the administration of the [Consumer Protection (Safety Requirements) Regulations (CPSR)][1]{:target="_blank"} and [Consumer Protection (Consumer Goods Safety Requirements) Regulations 2011 (CGSR)][2]{:target="_blank"} to ensure that the consumer products suppliers put on the market are safe.
+The Consumer Product Safety Office is a department of Enterprise Singapore that oversees the administration of the [Consumer Protection (Safety Requirements) Regulations (CPSR)](/about-us/our-regulations/cpsr){:target="_blank"} and [Consumer Protection (Consumer Goods Safety Requirements) Regulations 2011 (CGSR)](/about-us/our-regulations/cgsr){:target="_blank"} to ensure that the consumer products suppliers put on the market are safe.
 
 Our mission is to safeguard consumers from unsafe consumer products and have consumers trust in the safety of consumer products supplied in Singapore.
 
@@ -26,6 +26,3 @@ Manufacturers, importers (including parallel importers), retailers and traders w
 Suppliers of general consumer goods under the purview of the CGSR should ensure their product conform with the relevant internationally accepted product safety standards.
 
 Find out more about [your role as a supplier in ensuring product safety](/suppliers/overview){:target="_blank"}.
-
-[1]:https://sso.agc.gov.sg/SL/CPTDSRA1975-RG1?DocDate=20181010&ValidDate=20181011
-[2]:https://sso.agc.gov.sg/SL/CPTDSRA1975-S113-2011
