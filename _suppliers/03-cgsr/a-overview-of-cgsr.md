@@ -43,6 +43,3 @@ The following consumer goods are under other regulations or regulatory agencies 
 |Motorcycle helmets and children car seats|[Traffic Police](https://www.police.gov.sg/Advisories/Traffic/Road-Safety-Tips){:target="_blank"}|
 |Hazardous substances|[National Environment Agency](https://www.nea.gov.sg/our-services/pollution-control/chemical-safety/hazardous-substances){:target="_blank"}|
 |Pesticides and vector repellents|[National Environment Agency](https://www.nea.gov.sg/our-services/pest-control/registration-of-control-of-public-health-pesticides-and-repellents-against-vectors){:target="_blank"}|
-
-33 categories of household electrical, electronic and gas products also known as Controlled Goods falls under the [Consumer Protection (Safety Requirements Regulations](/about-us/our-regulations/cpsr)
-
