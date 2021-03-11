@@ -10,7 +10,7 @@ Registration of Controlled Goods under the CPSR is based on Certificates of Conf
 
 Once the model has been registered, the Controlled Goods can then be advertised for supply and/or supplied in Singapore.
 
-Click to find out more about whether the products you are supplying falls into the [33 categories of Controlled Goods under CPSR.](/suppliers/cpsr/list-of-controlled-goods)
+Click to find out more about the [33 categories of Controlled Goods under CPSR.](/suppliers/cpsr/list-of-controlled-goods)
 
 Suppliers must also be a Registered Supplier before supplying the Controlled Goods. Click to find out more on how to [apply as a Registered Supplier](/suppliers/cpsr/apply-to-be-a-registered-supplier) with the Consumer Product Safety Office.
 
@@ -24,7 +24,7 @@ The SAFETY Mark helps consumers and suppliers identify registered Controlled Goo
 
 The SAFETY Mark can either be affixed on the Controlled Goods or their packaging (to be affixed in a prominent location).
 
-You may check the validity of the product's SAFETY Mark in 3 easy steps:
+**You may check the validity of the product's SAFETY Mark in 3 easy steps:**
 
 |Steps|Description|
 |:---:|----|
