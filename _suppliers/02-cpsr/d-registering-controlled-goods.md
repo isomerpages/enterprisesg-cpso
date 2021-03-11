@@ -5,6 +5,7 @@ third_nav_title: Consumer Protection (Safety Requirements) Regulations (CPSR)
 ---
 ## Registering Controlled Goods
 The 33 categories of Controlled Goods (CGs) under CPSR are tiered into Low, Medium and High Risk CGs based on.. (rationale and benefit). 
+
 **For Low Risk CGs:**<br>
 The Registerd Supplier (RS) can submit a Supplier’s Declaration of Conformity (SDoC) to the Consumer Product Safety Office. In doing so the RS is making a self-declaration that the low risk CGs conform to the requirements of CPSR. 
 
