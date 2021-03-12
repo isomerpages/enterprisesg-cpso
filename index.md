@@ -16,7 +16,7 @@ sections:
               url: /consumers/choose-safer-products/about-the-safety-mark
             - title: Product Safety Alerts and Recalls
               description: Check for the latest update 
-              url: https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-consumers/product-safety-alerts-and-recalls
+              url: /news-and-media/product-safety-alerts-and-recalls/
             - title: Ensuring safety of products supplied
               description: Suppliers play a primary role in supplying safe products
               url: /suppliers/overview
