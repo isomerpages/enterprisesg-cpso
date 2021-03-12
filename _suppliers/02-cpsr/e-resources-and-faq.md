@@ -4,6 +4,8 @@ permalink: /suppliers/cpsr/resources-and-faq
 third_nav_title: Consumer Protection (Safety Requirements) Regulations (CPSR)
 ---
 **Resources**
+* Updated 20 Jun 2019:<br>
+[Frequently Asked Questions on the Consumer Protection (Safety Requirements) Regulations](/images/cpsr-resources/faqs-cps-revised.pdf){:target="_blank"}
 * Updated 23 Nov 2020:<br>
 [Consumer Protection (Safety Requirements) Registration Scheme Information Booklet](/images/cpsr-resources/cps-infobooklet.pdf){:target="_blank"}
 * Updated 19 Jun 2019:<br>
@@ -16,8 +18,7 @@ third_nav_title: Consumer Protection (Safety Requirements) Regulations (CPSR)
 [Conformity Assessment Information Booklet](/images/cpsr-resources/cab-booklet.pdf){:target="_blank"}
 * Updated 26 Oct 2020:<br>
 [List of Conformity Assessment Bodies](/images/cpsr-resources/cpsr-list-of-cabs.pdf){:target="_blank"}
-* Updated 20 Jun 2019:<br>
-[Frequently Asked Questions on the Consumer Protection (Safety Requirements) Regulations](/images/cpsr-resources/faqs-cps-revised.pdf){:target="_blank"}
+
 
 **Application info**
 * Updated 01 Apr 2018:<br>
