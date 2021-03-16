@@ -7,8 +7,8 @@ permalink: /
 notification: SS 655:2020 is now available as an alternate minimum edition for registration and renewal of Fans under the CPSR. To learn more, click <a href= "/news-and-media/circulars/"> here</a>.
 sections:
     - hero:
-        title: <h1>Consumer Product Safety Office<h1>
-        subtitle: <h3>Choose Safer Products, Use Products Safely<h3>
+        title: 
+        subtitle: <h2>Choose Safer Products, Use Products Safely<h2>
         background: /images/safety-banner.png
         key_highlights:
             - title: Choose Safer Products
