@@ -22,7 +22,7 @@ sections:
               url: /suppliers/overview
             - title: Registered Controlled Goods
               description: Check if the product has a valid SAFETY Mark
-              url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html
+              url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PUBSearchCOC.form
 
     - infopic:
         title: Find Out More About Product Safety Regulations
