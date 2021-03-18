@@ -29,8 +29,6 @@ collections:
     output: true
   suppliers:
     output: true
-  conformity-assessment-body: 
-    output: true
   news-and-media:
     output: true
   product-safety-tips:
