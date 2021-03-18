@@ -1,6 +1,6 @@
 ---
-title: Resources and FAQ
-permalink: /suppliers/cpsr/resources-and-faq
+title: Resources
+permalink: /suppliers/cpsr/resources
 third_nav_title: Consumer Protection (Safety Requirements) Regulations (CPSR)
 ---
 **Resources**
