@@ -33,11 +33,8 @@ collections:
     output: true
   product-safety-tips:
     output: true
-  product-safety-alerts-and-recalls:
-    output: true
     
 resources_name: news-and-media
-resources_name: product-safety-alerts-and-recalls
 
 future: true
 
