@@ -35,7 +35,7 @@ collections:
     output: true
     
 resources_name: news-and-media
-resources_name: product-safety-alerts-and-recall 
+resources_name: product-safety-alerts-and-recalls
 
 future: true
 
