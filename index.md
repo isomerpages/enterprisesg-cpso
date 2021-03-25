@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Isomer Site
-description: Brief site description here
+description: View our website to find out more about consumer product safety regulations and how the Consumer Product Safety Office safeguard consumers from unsafe consumer products
 image: /images/favicon-isomer.ico
 permalink: /
 notification: SS 655:2020 is now available as an alternate minimum edition for registration and renewal of Fans under the CPSR. To learn more, click <a href= "/news-and-media/circulars/"> here</a>.
