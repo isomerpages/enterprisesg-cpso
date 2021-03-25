@@ -22,9 +22,9 @@ If consumer goods do not meet applicable safety standards, suppliers will be req
 Suppliers of consumer goods (this includes manufacturers, importers, distributors, retailers and other traders) should sell only safe goods.
 
 Suppliers can enhance the safety of their products by:
-*Ensuring that their products have been tested and/or certified to applicable safety standards by an accredited laboratory
-*Checking their products for safety problems or defects before sale
-*Providing warnings to consumers on potential hazards or risks associated with the use of the product
+* Ensuring that their products have been tested and/or certified to applicable safety standards by an accredited laboratory
+* Checking their products for safety problems or defects before sale
+* Providing warnings to consumers on potential hazards or risks associated with the use of the product
 
 Supplying unsafe goods may result in:
 * Loss of company reputation and consumer confidence
