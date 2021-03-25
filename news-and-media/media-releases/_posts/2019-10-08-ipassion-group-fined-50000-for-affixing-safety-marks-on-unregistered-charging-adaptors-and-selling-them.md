@@ -18,13 +18,13 @@ Singapore, Tuesday, 8 October 2019
 
 5\. To ensure requirements under CPSR are met, our enforcement officers conduct regular checks on suppliers to ensure the safety of these Controlled Goods. We also encourage consumers to play their part by taking into account safety considerations when purchasing and using charging adaptors. They should practise the following:
 
-* Look out for a valid SAFETY Mark. Search through the Register of Controlled Goods at <cpsa.enterprisesg.gov.sg> to check if the product has been registered with Enterprise Singapore;
+* Look out for a valid SAFETY Mark. Search through the Register of Controlled Goods at <a href="https://cpsa.enterprisesg.gov.sg/">cpsa.enterprisesg.gov.sg</a> to check if the product has been registered with Enterprise Singapore;
 
 * Avoid purchasing third party adaptors and chargers that are not from the original suppliers;
 
 * Approach the supplier to replace any faulty adaptor and avoid repairing it on your own.
 
-6\. Consumers can report product safety issues to Enterprise Singapore at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit https://www.enterprisesg.gov.sg/safety-tips. For information on registration of Controlled Goods, suppliers can visit https://www.enterprisesg.gov.sg/cpsr.
+6\. Consumers can report product safety issues to Enterprise Singapore at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>. For information on registration of Controlled Goods, suppliers can visit <a href="https://www.enterprisesg.gov.sg/cpsr">www.enterprisesg.gov.sg/cpsr</a>.
 
 Annex 1: [About the SAFETY Mark](/news-and-media/media-releases/2019-10-08-annex-1-about-the-safety-mark.pdf.pdf)
 
