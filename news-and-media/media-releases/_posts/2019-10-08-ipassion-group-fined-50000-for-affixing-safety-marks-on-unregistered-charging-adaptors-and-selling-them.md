@@ -24,7 +24,7 @@ Singapore, Tuesday, 8 October 2019
 
 * Approach the supplier to replace any faulty adaptor and avoid repairing it on your own.
 
-6\. Consumers can report product safety issues to Enterprise Singapore at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit www.enterprisesg.gov.sg/safety-tips. For information on registration of Controlled Goods, suppliers can visit www.enterprisesg.gov.sg/cpsr.
+6\. Consumers can report product safety issues to Enterprise Singapore at 1800 773 3163 or https://consumerprotection@enterprisesg.gov.sg. For consumer safety tips, visit https://www.enterprisesg.gov.sg/safety-tips. For information on registration of Controlled Goods, suppliers can visit https://www.enterprisesg.gov.sg/cpsr.
 
 Annex 1: [About the SAFETY Mark](/news-and-media/media-releases/2019-10-08-annex-1-about-the-safety-mark.pdf.pdf)
 
