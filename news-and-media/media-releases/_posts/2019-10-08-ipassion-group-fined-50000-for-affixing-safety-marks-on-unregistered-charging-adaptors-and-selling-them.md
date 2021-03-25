@@ -26,7 +26,7 @@ Singapore, Tuesday, 8 October 2019
 
 6\. Consumers can report product safety issues to Enterprise Singapore at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>. For information on registration of Controlled Goods, suppliers can visit <a href="https://www.enterprisesg.gov.sg/cpsr">www.enterprisesg.gov.sg/cpsr</a>.
 
-Annex 1: [About the SAFETY Mark](/news-and-media/media-releases/2019-10-08-annex-1-about-the-safety-mark.pdf.pdf)
+Annex 1: [About the SAFETY Mark](/news-and-media/media-releases/2019-10-08-annex-1-about-the-safety-mark.pdf)
 
 <sup>1</sup>For full listing of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click [here](https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-suppliers/regulations-and-guidelines-for-suppliers/regulations-and-guidelines-for-suppliers/consumer-protection-safety-requirements-regulations/controlled-goods-and-their-applicable-safety-standards). Common products include kitchen appliances such as rice cookers and kettles, electrical products such as 3-pin main plugs and portable socket outlets, and household products such as fans and water heaters.
 
