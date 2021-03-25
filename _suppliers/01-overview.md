@@ -17,4 +17,4 @@ Suppliers must comply with the CGSR and ensure the consumer goods you supply mee
 
 If consumer goods do not meet applicable safety standards, suppliers will be required to stop the sale of these goods in the market. We will also direct suppliers to inform users of the potential dangers of such goods. The penalty for non-compliance is a fine and/or imprisonment.
 
-Find out more about [CGSR and what it means to you as a supplier](/suppliers/cpsr/overview-of-cgsr)
+Find out more about [CGSR and what it means to you as a supplier](/suppliers/cgsr/overview-of-cgsr)
