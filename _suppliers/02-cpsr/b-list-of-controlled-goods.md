@@ -4,7 +4,7 @@ permalink: /suppliers/cpsr/list-of-controlled-goods
 third_nav_title: Consumer Protection (Safety Requirements) Regulations (CPSR)
 ---
 ## 33 Categories of Controlled Goods
-The 33 categories of Controlled Goods (CGs) under CPSR are tiered into <a href="#bottom_low" id="top_low">Low</a>, <a href="#bottom_medium" id="top_medium">Medium</a> and <a href="#bottom_high" id="top_high">High</a> Risk CGs. This tiered-risk assessment framework is based on.. (rationale and benefit).
+The 33 categories of Controlled Goods (CGs) under CPSR are tiered into <a href="#bottom_low" id="top_low">Low</a>, <a href="#bottom_medium" id="top_medium">Medium</a> and <a href="#bottom_high" id="top_high">High</a> Risk CGs. This tiered-risk assessment framework is based on.. (content to be updated).
 
 Suppliers must first apply to be a Registered Supplier before supplying these Controlled Goods. Click to find out more on how to [apply as a Registered Supplier.](/suppliers/cpsr/apply-to-be-a-registered-supplier)
 
