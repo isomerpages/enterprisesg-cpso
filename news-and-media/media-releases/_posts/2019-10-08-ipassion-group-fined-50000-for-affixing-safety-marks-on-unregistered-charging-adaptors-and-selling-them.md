@@ -8,7 +8,7 @@ permalink: /news-and-media/media-releases/2019-10-08-ipassion-group-fined-50000-
 MR No.:058/19<br>
 Singapore, Tuesday, 8 October 2019
 
-1\. iPassion Group Pte Ltd (iPassion), a supplier of gadgets, pleaded guilty to 15 charges for failing to comply with the Consumer Protection (Safety Requirements) Regulations (CPSR) administered by Enterprise Singapore. The court case concluded today, with iPassion being fined a total of S$50,000 by the State Courts for affixing SAFETY Marks to unregistered charging adaptors for Personal Mobility Devices (PMD) and supplying these unregistered adaptors1. 34 other charges for similar offences were taken into consideration.
+1\. iPassion Group Pte Ltd (iPassion), a supplier of gadgets, pleaded guilty to 15 charges for failing to comply with the Consumer Protection (Safety Requirements) Regulations (CPSR) administered by Enterprise Singapore. The court case concluded today, with iPassion being fined a total of S$50,000 by the State Courts for affixing SAFETY Marks to unregistered charging adaptors for Personal Mobility Devices (PMD) and supplying these unregistered adaptors<sup>1</sup>. 34 other charges for similar offences were taken into consideration.
 
 2\. Investigations on iPassion commenced in April 2016 following a consumer feedback on unregistered PMD charging adaptors supplied by the company. The results showed that iPassion was supplying 30 different models of adaptors bearing the SAFETY Marks, together with PMDs sold. This did not match with Enterprise Singapore’s records which reflected that, as at April 2016, iPassion had registered only eight different models of adaptors. These eight models were issued and affixed with a valid SAFETY Mark, each with a unique 8-digit registration number. The remaining 22 models of adaptors supplied by the company were not registered, and had been affixed with SAFETY marks issued to the registered models instead. Consumers might have been misled to believe that the unregistered adaptors met the requirements under CPSR and complied with the regulations.
 
@@ -24,6 +24,8 @@ Singapore, Tuesday, 8 October 2019
 
 * Approach the supplier to replace any faulty adaptor and avoid repairing it on your own.
 
-6\. Consumers can report product safety issues to Enterprise Singapore at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <www.enterprisesg.gov.sg/safety-tips>. For information on registration of Controlled Goods, suppliers can visit <www.enterprisesg.gov.sg/cpsr>.
+6\. Consumers can report product safety issues to Enterprise Singapore at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit www.enterprisesg.gov.sg/safety-tips. For information on registration of Controlled Goods, suppliers can visit www.enterprisesg.gov.sg/cpsr.
 
 Annex 1: [About the SAFETY Mark](/news-and-media/media-releases/2019-10-08-annex-1-about-the-safety-mark.pdf.pdf)
+
+
