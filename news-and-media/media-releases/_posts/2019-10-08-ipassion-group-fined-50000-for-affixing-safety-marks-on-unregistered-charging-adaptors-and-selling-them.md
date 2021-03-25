@@ -34,8 +34,8 @@ Annex 1: [About the SAFETY Mark](/news-and-media/media-releases/2019-10-08-annex
 
 For media enquiries, please contact:
 
-Ms Cheng Kiat Loon
-Deputy Director
-Corporate Communications (Media)
-T : + 65 6433 4465
+Ms Cheng Kiat Loon<br>
+Deputy Director<br>
+Corporate Communications (Media)<br>
+T : + 65 6433 4465<br>
 E : <cheng_kiat_loon@enterprisesg.gov.sg>
