@@ -12,7 +12,7 @@ Singapore, Tuesday, 8 October 2019
 
 2\. Investigations on iPassion commenced in April 2016 following a consumer feedback on unregistered PMD charging adaptors supplied by the company. The results showed that iPassion was supplying 30 different models of adaptors bearing the SAFETY Marks, together with PMDs sold. This did not match with Enterprise Singapore’s records which reflected that, as at April 2016, iPassion had registered only eight different models of adaptors. These eight models were issued and affixed with a valid SAFETY Mark, each with a unique 8-digit registration number. The remaining 22 models of adaptors supplied by the company were not registered, and had been affixed with SAFETY marks issued to the registered models instead. Consumers might have been misled to believe that the unregistered adaptors met the requirements under CPSR and complied with the regulations.
 
-3\. As part of the investigations, Enterprise Singapore seized over 900 unregistered charging adaptors from iPassion. The supplier was ordered to immediately cease supply of the charging adaptors and recall the affected models – XVE-4200200, XVE-5460200, XVE-3740300 and XVE-29402002 – sold between 31 March 2015 to 24 May 2016. More than 90% of affected adaptors have since been recalled. Consumers who still possess these adaptors supplied between the mentioned period, should stop using the adaptors immediately and contact iPassion for redress options.
+3\. As part of the investigations, Enterprise Singapore seized over 900 unregistered charging adaptors from iPassion. The supplier was ordered to immediately cease supply of the charging adaptors and recall the affected models – XVE-4200200, XVE-5460200, XVE-3740300 and XVE-2940200<sup>2</sup> – sold between 31 March 2015 to 24 May 2016. More than 90% of affected adaptors have since been recalled. Consumers who still possess these adaptors supplied between the mentioned period, should stop using the adaptors immediately and contact iPassion for redress options.
 
 4\. Consumer safety is of utmost importance to Enterprise Singapore. We take a serious view towards suppliers who do not comply with the requirements under CPSR, including those who knowingly or unknowingly affix SAFETY Marks on unregistered Controlled Goods, and will not hesitate to take legal action. Under CPSR, suppliers of 33 categories of Controlled Goods, including charging adaptors, must ensure these products are type-tested, certified to meet relevant safety standards, registered with Enterprise Singapore, and affixed with a SAFETY Mark before they can be supplied, displayed, and advertised for sale in Singapore. Any person found guilty of selling unregistered Controlled Goods, is liable upon conviction, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding two years or both, per charge.
 
@@ -28,4 +28,14 @@ Singapore, Tuesday, 8 October 2019
 
 Annex 1: [About the SAFETY Mark](/news-and-media/media-releases/2019-10-08-annex-1-about-the-safety-mark.pdf.pdf)
 
+<sup>1</sup>For full listing of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click [here](https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-suppliers/regulations-and-guidelines-for-suppliers/regulations-and-guidelines-for-suppliers/consumer-protection-safety-requirements-regulations/controlled-goods-and-their-applicable-safety-standards). Common products include kitchen appliances such as rice cookers and kettles, electrical products such as 3-pin main plugs and portable socket outlets, and household products such as fans and water heaters.
 
+<sup>2</sup>There were several variations of these four adaptors, bringing the total to 22 models.
+
+For media enquiries, please contact:
+
+Ms Cheng Kiat Loon
+Deputy Director
+Corporate Communications (Media)
+T : + 65 6433 4465
+E : <cheng_kiat_loon@enterprisesg.gov.sg>
