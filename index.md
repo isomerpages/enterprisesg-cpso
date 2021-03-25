@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Consumer Product Safety Office
 description: Find out more about consumer product safety regulations and how the Consumer Product Safety Office safeguard consumers from unsafe products
 image: /images/favicon-isomer.ico
 permalink: /
