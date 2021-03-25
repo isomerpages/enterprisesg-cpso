@@ -5,7 +5,7 @@ permalink: /news-and-media/media-releases/2019-10-08-ipassion-group-fined-50000-
 ---
 ### iPassion Group fined S$50,000 for affixing SAFETY marks on unregistered charging adaptors and selling them
 
-MR No.:058/19
+MR No.:058/19<br>
 Singapore, Tuesday, 8 October 2019
 
 1\. iPassion Group Pte Ltd (iPassion), a supplier of gadgets, pleaded guilty to 15 charges for failing to comply with the Consumer Protection (Safety Requirements) Regulations (CPSR) administered by Enterprise Singapore. The court case concluded today, with iPassion being fined a total of S$50,000 by the State Courts for affixing SAFETY Marks to unregistered charging adaptors for Personal Mobility Devices (PMD) and supplying these unregistered adaptors1. 34 other charges for similar offences were taken into consideration.
