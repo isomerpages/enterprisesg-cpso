@@ -1,6 +1,6 @@
 ---
 title: Safety Tips When Charging Personal Mobility Devices (PMDs)
-permalink: /consumers/product-safety-tips/safety-tips-when-charging-personal-mobility-devices
+permalink: /consumers/product-safety-tips/removed-safety-tips-when-charging-personal-mobility-devices
 third_nav_title: Electronics and Appliance Safety
 ---
 ## Safety Tips when Charging Personal Mobility Devices (PMDs)
