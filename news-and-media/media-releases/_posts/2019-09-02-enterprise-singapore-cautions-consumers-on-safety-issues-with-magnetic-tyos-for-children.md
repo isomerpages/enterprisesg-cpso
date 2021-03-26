@@ -18,9 +18,9 @@ Singapore, Monday, 2 September 2019
 * Suffocation to young children posed by plastic bags<sup>3</sup> as some of the toy components are stored in them;
 * Other safety matters such as piercing hazard from protruding parts, or finger entrapment due to improper toy design.
 
-4.\ The suppliers of the magnetic toys tested have since removed the toys for sale following the notices issued by Enterprise Singapore to do so. We urge consumers who have bought the models listed in Annex 1 as toys for children to stop using them immediately. Consumers who may have bought similar magnetic toys should also note the above safety issues.
+4\. The suppliers of the magnetic toys tested have since removed the toys for sale following the notices issued by Enterprise Singapore to do so. We urge consumers who have bought the models listed in Annex 1 as toys for children to stop using them immediately. Consumers who may have bought similar magnetic toys should also note the above safety issues.
 
-5.\ Consumers, especially parents with young children, can observe the safety tips below when purchasing toys:
+5\. Consumers, especially parents with young children, can observe the safety tips below when purchasing toys:
 * Buy from reputable brands and sellers;
 * Check the age recommendations and instructions on the toy labels;
 * Check if a safety alert has been issued. Visit <a href="https://www.enterprisesg.gov.sg/consumer-protection">www.enterprisesg.gov.sg/consumer-protection</a>  or other international sites such as US Safer Products at <a href="https://www.saferproducts.gov/">www.saferproducts.gov</a>;
