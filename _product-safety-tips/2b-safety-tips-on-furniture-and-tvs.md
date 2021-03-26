@@ -8,7 +8,7 @@ The consequences of poorly-designed or improperly-installed furniture can be sev
 
 **Staying safe**
 
-Follow these safety tips when choosing and installing storage furniture to keep your children safe from potential tip-over hazards:
+Follow these safety tips when choosing and installing furniture to keep your children safe from potential tip-over hazards:
 
 **Before purchase**:
 * Choose sturdy, stable and well-built furniture. Give the furniture a little nudge to check its stability.
