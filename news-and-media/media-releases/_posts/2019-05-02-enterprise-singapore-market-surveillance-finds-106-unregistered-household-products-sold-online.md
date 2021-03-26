@@ -36,3 +36,10 @@ Annex C: [Infographic on Online Shopping Product Safety Tips](/news-and-media/me
 <sup>1</sup>For full listing of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click [here](https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-suppliers/regulations-and-guidelines-for-suppliers/regulations-and-guidelines-for-suppliers/consumer-protection-safety-requirements-regulations/controlled-goods-and-their-applicable-safety-standards){:target="_blank"}.
 
 <sup>2</sup>The e-commerce market in Singapore is taking off. It is expected to reach US$5 billion by 2025, growing at a compound annual growth rate of 18% between 2015 to 2025 (Source: [Google and Temasek’s e-Conomy SEA 2018 Report](https://www.thinkwithgoogle.com/_qs/documents/6870/Report_e-Conomy_SEA_2018_by_Google_Temasek_121418_cpsLjlQ.pdf){:target="_blank"}). Furthermore, e-commerce user penetration is expected to hit 73.1% by 2023, up from the 68.6% of 4 million users in 2018 (Source: [Statista E-commerce Singapore Data](https://www.statista.com/outlook/dmo/ecommerce/singapore){:target="_blank"})
+
+For media enquiries, please contact:<br>
+Miss Fazilah Latif<br>
+Business Partner<br>
+Corporate Communications<br>
+DID: +65 6279 3751<br>
+Email: fazilah_latif@enterprisesg.gov.sg
