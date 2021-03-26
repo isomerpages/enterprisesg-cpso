@@ -4,13 +4,13 @@ permalink: /consumers/product-safety-tips/safety-tips-on-portable-butane-stoves-
 third_nav_title: Safety At Home
 ---
 ## Safety Tips on Portable Butane Stoves and Gas Canisters
-Gas stoves and gas canisters are among the 33 categories of Controlled Goods that must be registered with Enterprise Singapore and carry the SAFETY Mark.
+Gas stoves and gas canisters are among the 33 categories of Controlled Goods that must be registered with the authority and carry the SAFETY Mark.
 
 |![portable butane stoves](/images/product-safety-tips/portable-butane-stoves.jpg)|![](/images/consumers/blankx2.png)|
 
 **Safety Tips**
 
-* Ensure that the both the portable butane gas stove and canister carry the SAFETY Mark. The SAFETY Mark indicates that the product has met specific safety requirements and also carries a unique certification number traceable to the supplier.
+* Ensure that the both the portable butane gas stove and canister carry the SAFETY Mark. The SAFETY Mark indicates that the product model has been tested to specific standards and also carries a unique certification number traceable to the supplier.
 
 ![safety mark cooker and gas canister](/images/product-safety-tips/safety-mark-cooker-and-gas-canister.png)
 
