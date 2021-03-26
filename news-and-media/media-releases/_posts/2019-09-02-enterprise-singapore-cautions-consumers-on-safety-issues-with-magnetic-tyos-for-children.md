@@ -23,7 +23,7 @@ Singapore, Monday, 2 September 2019
 5\. Consumers, especially parents with young children, can observe the safety tips below when purchasing toys:
 * Buy from reputable brands and sellers;
 * Check the age recommendations and instructions on the toy labels;
-* Check if a safety alert has been issued. Visit <a href="https://www.enterprisesg.gov.sg/consumer-protection">www.enterprisesg.gov.sg/consumer-protection</a>  or other international sites such as US Safer Products at <a href="https://www.saferproducts.gov/">www.saferproducts.gov</a>;
+* Check if a safety alert has been issued. Visit <a href="https://www.enterprisesg.gov.sg/consumer-protection">www.enterprisesg.gov.sg/consumer-protection</a>{:target="_blank"} or other international sites such as US Safer Products at <a href="https://www.saferproducts.gov/">www.saferproducts.gov</a>{:target="_blank"};
 * Supervise your child when they are playing with magnetic toys and ensure that your child does not ingest the toy;
 * Inspect toys for any broken or unsafe parts;
 * Seek medical attention immediately should your child feel unwell during or after play;
@@ -31,12 +31,19 @@ Singapore, Monday, 2 September 2019
 
 6\. Under the Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR), suppliers and manufacturers of all toys have to meet applicable international safety standards such as ISO 8124, EN 71 and ASTM F963. These standards cover the safety aspect of toys such as mechanical hazards and toxicity from hazardous chemicals. Any person who fails to comply with Enterprise Singapore’s directions to stop the sale of unsafe products, is liable upon conviction, up to a fine not exceeding S$10,000 or to an imprisonment for a term not exceeding 2 years or to both.
 
-7\. Consumers also play an important part in making sure that the goods they buy are safe. Consumers can report product safety issues to us at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>.
+7\. Consumers also play an important part in making sure that the goods they buy are safe. Consumers can report product safety issues to us at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>{:target="_blank"}.
 
-Annex 1: [Listing of the magnetic toys tested](/news-and-media/media-releases/2019-09-02-annex-a-listing-of-the-magnetic-toys-tested.pdf)
+Annex 1: [Listing of the magnetic toys tested](/news-and-media/media-releases/2019-09-02-annex-a-listing-of-the-magnetic-toys-tested.pdf){:target="_blank"}
 
 <sup>1</sup>Magnetic toys are commonly sold online and marketed as educational toys, consisting different shapes and sizes that attract each other when put together, allowing for constructive play. The toys are said to help children exercise their creativity, develop motor skills and coordination.
 
 <sup>2</sup>In the United States last year, a 4-year-old child swallowed 13 magnets after a magnetic building block toy broke open. After he started vomiting, he was rushed to a hospital where doctors removed part of his colon, intestine and appendix to extract the magnets. In China last year, a 14-month-old boy swallowed 21 magnetic balls. He had to undergo emergency surgery to remove the balls from his stomach, which had formed a ring while inside his stomach.
 
 <sup>3</sup>Small and thin plastic bags could get moulded to a child’s face and cause suffocation. The standard specifies requirements for such plastic bags, where there must be holes of certain sizes throughout the plastic bag to allow airflow through the plastic bags.
+
+For media enquiries, please contact:<br>
+Ms Fazilah Latif<br>   
+Business Partner<br>
+Corporate Communications<br>
+T : + 65 6279 3751<br>
+E : fazilah_latif@enterprisesg.gov.sg
