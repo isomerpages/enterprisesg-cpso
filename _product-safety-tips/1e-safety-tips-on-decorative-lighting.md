@@ -6,7 +6,7 @@ third_nav_title: Electronics and Appliance Safety
 ## Safety Tips on Purchasing and Using Decorative Lighting
 Decorative lighting helps brighten the festive mood and adds a splash of colour to our home. However, their improper use can cause injuries and fires.
 
-Decorative incandescent lighting is one of the 33 categories of Controlled Goods in Singapore, and must therefore be registered with Enterprise Singapore. For your own safety, please ensure that decorative lighting chains bear the SAFETY Mark before purchase. The SAFETY Mark indicates that the product has met specific safety requirements and also carries a unique certification number traceable to the supplier.
+Decorative incandescent lighting is one of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations. For your own safety, please ensure that decorative lighting chains bear the SAFETY Mark before purchase. The SAFETY Mark indicates that the product model has been tested to specific safety standards and also carries a unique certification number traceable to the supplier.
 
 |![deco lighting](/images/product-safety-tips/decorative-lighting.jpg)|![](/images/consumers/blankx2.png)|
 
