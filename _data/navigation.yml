@@ -9,9 +9,9 @@ logo: /images/cpso-logo.png
 links:
   - title: About Us
     collection: about-us
-  - title: Consumers
+  - title: For Consumers
     collection: consumers
-  - title: Suppliers
+  - title: For Suppliers
     collection: suppliers
   - title: News And Media
     resource_room: true
