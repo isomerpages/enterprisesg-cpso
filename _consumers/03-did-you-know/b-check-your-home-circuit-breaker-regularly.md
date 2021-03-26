@@ -1,5 +1,5 @@
 ---
-title: Circuit Breaker
+title: Check your Home's Circuit Breaker Regularly
 permalink: /consumers/did-you-know/rccb
 third_nav_title: Did You Know?
 ---
