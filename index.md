@@ -18,7 +18,7 @@ sections:
               description: Check for the latest update 
               url: https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-consumers/product-safety-alerts-and-recalls
             - title: Ensuring safety of products supplied
-              description: Suppliers play a primary role in supplying safe products
+              description: What suppliers have to do to ensure the products they sell are safe
               url: /suppliers/overview
             - title: Registered Controlled Goods
               description: Check if the product has a valid SAFETY Mark
