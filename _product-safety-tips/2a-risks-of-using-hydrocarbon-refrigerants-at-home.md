@@ -6,7 +6,7 @@ third_nav_title: Safety At Home
 ## Risks of Using Hydrocarbon Refrigerants at Home
 Hydrocarbon (HC) refrigerants are increasingly seen as suitable replacements for other refrigerants that contribute to global warming. HC refrigerants benefit from better energy efficiency and are more environmentally friendly. However, certain HC refrigerants like R600a are also known to be highly flammable and may be hazardous to consumers in the unlikely event of leakages. To prevent such accidents, all refrigerants must be hermetically sealed within the refrigerator as part of product safety standards.
 
-Refrigerators belong to one of the 33 categories of Controlled Goods in Singapore and must bear the SAFETY Mark before they can be sold in Singapore. The SAFETY Mark indicates that the refrigerator has met specific safety requirements, and also carries a unique certification number traceable to the supplier. For your own safety, it is highly recommended to check for the SAFETY Mark on refrigerators before purchase.
+Refrigerators belong to one of the 33 categories of Controlled Goods in Singapore and must bear the SAFETY Mark before they can be sold in Singapore. The SAFETY Mark indicates that the refrigerator model has been tested to specific safety standards, and also carries a unique certification number traceable to the supplier. For your own safety, it is highly recommended to check for the SAFETY Mark on refrigerators before purchase.
 
 **Safe handling of HC refrigerants**
 
