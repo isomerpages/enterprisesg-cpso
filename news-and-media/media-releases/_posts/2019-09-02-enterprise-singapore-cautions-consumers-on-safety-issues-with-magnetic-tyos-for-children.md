@@ -21,17 +21,17 @@ Singapore, Monday, 2 September 2019
 4.\ The suppliers of the magnetic toys tested have since removed the toys for sale following the notices issued by Enterprise Singapore to do so. We urge consumers who have bought the models listed in Annex 1 as toys for children to stop using them immediately. Consumers who may have bought similar magnetic toys should also note the above safety issues.
 
 5.\ Consumers, especially parents with young children, can observe the safety tips below when purchasing toys:
-a) Buy from reputable brands and sellers;
-b) Check the age recommendations and instructions on the toy labels;
-c) Check if a safety alert has been issued. Visit www.enterprisesg.gov.sg/consumer-protection or other international sites such as US Safer Products at www.saferproducts.gov;
-d) Supervise your child when they are playing with magnetic toys and ensure that your child does not ingest the toy;
-e) Inspect toys for any broken or unsafe parts;
-f) Seek medical attention immediately should your child feel unwell during or after play;
-g) After play, store the magnetic toy out of your child’s sight and reach.
+* Buy from reputable brands and sellers;
+* Check the age recommendations and instructions on the toy labels;
+* Check if a safety alert has been issued. Visit <a href="https://www.enterprisesg.gov.sg/consumer-protection">www.enterprisesg.gov.sg/consumer-protection</a>  or other international sites such as US Safer Products at <a href="https://www.saferproducts.gov/">www.saferproducts.gov</a>;
+* Supervise your child when they are playing with magnetic toys and ensure that your child does not ingest the toy;
+* Inspect toys for any broken or unsafe parts;
+* Seek medical attention immediately should your child feel unwell during or after play;
+* After play, store the magnetic toy out of your child’s sight and reach.
 
 6\. Under the Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR), suppliers and manufacturers of all toys have to meet applicable international safety standards such as ISO 8124, EN 71 and ASTM F963. These standards cover the safety aspect of toys such as mechanical hazards and toxicity from hazardous chemicals. Any person who fails to comply with Enterprise Singapore’s directions to stop the sale of unsafe products, is liable upon conviction, up to a fine not exceeding S$10,000 or to an imprisonment for a term not exceeding 2 years or to both.
 
-7\. Consumers also play an important part in making sure that the goods they buy are safe. Consumers can report product safety issues to us at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit www.enterprisesg.gov.sg/safety-tips.
+7\. Consumers also play an important part in making sure that the goods they buy are safe. Consumers can report product safety issues to us at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>.
 
 Annex 1: [Listing of the magnetic toys tested](/news-and-media/media-releases/2019-09-02-annex-a-listing-of-the-magnetic-toys-tested.pdf)
 
