@@ -12,11 +12,11 @@ Consumer goods covered by the CGSR must meet any of the following international 
 * European Committee for Standardisation
 * ASTM International
 
-Regional or national standards may also be accepted for consumer goods that do not have the applicable international safety standards.
+Regional or national standards may also be accepted for consumer goods that do not have applicable international safety standards.
 
 The Consumer Product Safety Office does active post-market surveillance to reduce the impact of unsafe general consumer goods as soon as safety issues are discovered.
 
-If consumer goods do not meet applicable safety standards, suppliers will be required to stop the sale of these goods in the market. We will also direct suppliers to inform users of the potential dangers of such goods. The penalty for non-compliance is a fine and/or imprisonment.
+If consumer goods do not meet applicable safety standards, the Consumer Product Safety Office can direct suppliers to stop the sale of these goods in the market. We will also direct suppliers to inform users of the potential dangers of such goods. The penalty for non-compliance is a fine and/or imprisonment.
 
 **Who should know the CGSR?**<br>
 Suppliers of consumer goods (this includes manufacturers, importers, distributors, retailers and other traders) should sell only safe goods.
