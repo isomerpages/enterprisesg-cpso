@@ -42,7 +42,7 @@ Annex 1: [Listing of the magnetic toys tested](/news-and-media/media-releases/20
 <sup>3</sup>Small and thin plastic bags could get moulded to a child’s face and cause suffocation. The standard specifies requirements for such plastic bags, where there must be holes of certain sizes throughout the plastic bag to allow airflow through the plastic bags.
 
 For media enquiries, please contact:<br>
-Ms Fazilah Latif<br>   
+Ms Fazilah Latif<br>
 Business Partner<br>
 Corporate Communications<br>
 T : + 65 6279 3751<br>
