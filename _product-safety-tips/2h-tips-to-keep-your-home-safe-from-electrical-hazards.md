@@ -33,10 +33,6 @@ We use a variety of electrical appliances in our everyday lives when we clean or
 * Always disconnect a steam iron from the mains before refilling the container with water.
 * Always disconnect the iron from the mains supply after use.
 
-**Gas hobs**
-* Prevent clogging by cleaning the hob regularly to remove food spillage.
-* Beware of causing damage to the glass surface if using a glass-topped gas hob. Hairline cracks will worsen with appliance use, eventually resulting in shattering.
-
 
 
 
