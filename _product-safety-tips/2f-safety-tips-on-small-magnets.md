@@ -4,7 +4,7 @@ permalink: /consumers/product-safety-tips/safety-tips-on-small-magnets
 third_nav_title: Safety At Home
 ---
 ## Safety Tips on Small Magnets
-Parents and caregivers are advised to be careful when letting children handle products with small magnets which can be life threatening when accidentally swallowed.
+Parents and caregivers are advised to be careful when letting children handle products with small magnets. These can be life threatening when accidentally swallowed.
 
 Small, strong magnets are also increasingly being used in novelty items. Young children may mistake these colourful magnets for candy and swallow them. Children may also be attracted to fridge magnets that are made to look like food.
 
