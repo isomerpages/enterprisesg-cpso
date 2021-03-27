@@ -15,7 +15,3 @@ Here are some tips to keep in mind when buying home appliances and electronics o
 |![do your homework](/images/consumers/choose-safer-products/shopping-online/do-your-homework.png)|A quick search online can often help reveal products that have been recalled by the manufacturer or had its sale stopped by regulatory bodies over safety issues. In addition to price, check out past buyers’ feedback, seller ratings and independent product reviews to thoroughly make sure no safety hazards or reliability issues exist.|
 |![buy from official stores or reputable online marketplaces](/images/consumers/choose-safer-products/shopping-online/buy-from-official-stores-or-reputable-online-marketplaces.png)|Look for a seller that provides full product warranty by the manufacturer, customer service support and a return or exchange policy.|
 |![is it designed for use in singapore](/images/consumers/choose-safer-products/shopping-online/is-it-designed-for-use-in-singapore.png)|When buying electrical appliances online, technical specifications printed on the packaging may not be shown on the product page. Always contact the seller to ensure that it comes with plugs and voltages that are suitable for use locally.|
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
