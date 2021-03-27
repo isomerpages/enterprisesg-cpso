@@ -45,7 +45,7 @@ Singapore, Tuesday, 5 November 2019
 
 6\. Under the Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR), suppliers and manufacturers of general consumer goods have to meet applicable international safety standards by ASTM, EN, ISO, and the International Electro Technical Commission (IEC). Any person who fails to comply with Enterprise Singapore’s directions to stop the sale of unsafe products, is liable upon conviction, up to a fine not exceeding S$10,000 or to an imprisonment for a term not exceeding 2 years or to both.
 
-7\. Consumers also play an important part in making sure that the goods they buy are safe. Consumers can report product safety issues to us at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>.
+7\. Consumers also play an important part in making sure that the goods they buy are safe. Consumers can report product safety issues to us at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>{:target="_blank"}.
 
 Annex 1: [List of unsafe products](/news-and-media/media-releases/2019-11-05-annex-1-list-of-unsafe-products.pdf){:target="_blank"}
 
