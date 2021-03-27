@@ -8,9 +8,9 @@ permalink: /news-and-media/media-releases/2019-11-05-enterprise-singapore-cautio
 MR No.: 068/19<br>
 Singapore, Tuesday, 5 November 2019
 
-1\.&nbsp; Enterprise Singapore, the regulatory agency for product safety of general consumer goods, cautions consumers on safety issues for three types of children’s products – i) baby carriers, ii) cots, and iii) strollers. Surveillance was conducted on 16 samples<sup>1</sup> of these three products that concluded last month. Of the samples tested, 11 were found to be unsafe as they did not comply with the safety requirements by the American Society for Testing and Materials International (ASTM), the International Organisation for Standardisation (ISO), or the European Committee for Standardisation (EN)<sup>2</sup> (Refer to list of unsafe products in **Annex 1**).
+1\. Enterprise Singapore, the regulatory agency for product safety of general consumer goods, cautions consumers on safety issues for three types of children’s products – i) baby carriers, ii) cots, and iii) strollers. Surveillance was conducted on 16 samples<sup>1</sup> of these three products that concluded last month. Of the samples tested, 11 were found to be unsafe as they did not comply with the safety requirements by the American Society for Testing and Materials International (ASTM), the International Organisation for Standardisation (ISO), or the European Committee for Standardisation (EN)<sup>2</sup> (Refer to list of unsafe products in **Annex 1**).
 
-2\.&nbsp; Hazards identified from the surveillance include choking, entrapment, falling, and laceration. Consumers are encouraged to pay a close attention to these safety issues when purchasing and using these children’s products<sup>3</sup>. The key safety issues are:
+2\. Hazards identified from the surveillance include choking, entrapment, falling, and laceration. Consumers are encouraged to pay a close attention to these safety issues when purchasing and using these children’s products<sup>3</sup>. The key safety issues are:
 
 <ins>Baby carriers</ins>
    
@@ -31,11 +31,11 @@ Singapore, Tuesday, 5 November 2019
 * Poor stability of stroller, causing it to tip over when parked on slopes;
 * The product was damaged or collapsed when tested for strength, which resulted in the impairment of safety features such as locking mechanism, restraint system, and parking/braking devices.
 
-3\.&nbsp; All eleven unsafe products tested were also available on e-commerce platforms. Consumers should check that children’s products have undergone the necessary safety tests before making purchases online as it is not possible to check the product physically prior to the purchase.
+3\. All eleven unsafe products tested were also available on e-commerce platforms. Consumers should check that children’s products have undergone the necessary safety tests before making purchases online as it is not possible to check the product physically prior to the purchase.
 
-4\.&nbsp; The suppliers of these products have since removed them for sale following the notices issued by Enterprise Singapore to do so. We urge consumers who have bought the models listed in Annex 1 to stop using them immediately. They may contact the sellers or the Consumers Association of Singapore (CASE) for information on redress options. Those who may have bought similar products should note the above safety issues.
+4\. The suppliers of these products have since removed them for sale following the notices issued by Enterprise Singapore to do so. We urge consumers who have bought the models listed in Annex 1 to stop using them immediately. They may contact the sellers or the Consumers Association of Singapore (CASE) for information on redress options. Those who may have bought similar products should note the above safety issues.
 
-5\.&nbsp; Consumers, especially parents of young children, can observe the safety tips below (refer to **Annex 2** for more tips):
+5\. Consumers, especially parents of young children, can observe the safety tips below (refer to **Annex 2** for more tips):
 
 * Buy from official stores or reputable brands and sellers;
 * Check with the sellers that the product has met relevant safety standards;
@@ -43,9 +43,9 @@ Singapore, Tuesday, 5 November 2019
 * Note and follow the age and weight recommendations;
 * Check if a safety alert has been issued. Visit <a href="https://www.enterprisesg.gov.sg/consumer-protection">www.enterprisesg.gov.sg/consumer-protection</a>{:target="_blank"} or other international sites such as US Safer Products at <a href="https://www.saferproducts.gov/">www.saferproducts.gov</a>{:target="_blank"};
 
-6\.&nbsp; Under the Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR), suppliers and manufacturers of general consumer goods have to meet applicable international safety standards by ASTM, EN, ISO, and the International Electro Technical Commission (IEC). Any person who fails to comply with Enterprise Singapore’s directions to stop the sale of unsafe products, is liable upon conviction, up to a fine not exceeding S$10,000 or to an imprisonment for a term not exceeding 2 years or to both.
+6\. Under the Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR), suppliers and manufacturers of general consumer goods have to meet applicable international safety standards by ASTM, EN, ISO, and the International Electro Technical Commission (IEC). Any person who fails to comply with Enterprise Singapore’s directions to stop the sale of unsafe products, is liable upon conviction, up to a fine not exceeding S$10,000 or to an imprisonment for a term not exceeding 2 years or to both.
 
-7\.&nbsp; Consumers also play an important part in making sure that the goods they buy are safe. Consumers can report product safety issues to us at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>{:target="_blank"}.
+7\. Consumers also play an important part in making sure that the goods they buy are safe. Consumers can report product safety issues to us at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>{:target="_blank"}.
 
 Annex 1: [List of unsafe products](/news-and-media/media-releases/2019-11-05-annex-1-list-of-unsafe-products.pdf){:target="_blank"}
 
