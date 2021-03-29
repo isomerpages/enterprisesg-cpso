@@ -25,6 +25,8 @@ Here are some of the requirements* that common household appliances must meet in
 
 <font size ="1">*Images shown are for illustration purposes only. Position of labelled components may differ in actual appliance.</font>
 
+
+
 **What kind of household products require the SAFETY Mark?**<br>
 The 33 categories of Controlled Goods are:
 
