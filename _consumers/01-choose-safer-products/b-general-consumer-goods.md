@@ -24,3 +24,13 @@ The Consumer Product Safety Office does active post-market surveillance to reduc
 * Inspect the product you are buying for any damage. Look out for sharp edges as well as loose or missing parts.
 
 ## Use products safely 
+* Read safety warnings and instructions on assembly, installation, usage and maintenance. Follow them strictly.
+* Use products only for their intended purpose
+* Do not make assumptions on how to use a product just because you have used a similar product in the past. Always refer to the safety information supplied.
+* Ask the seller for help if the product’s intended use or instructions are not clear.
+* Assess if children need to be supervised when using a product.
+* Assess if you need to keep a product out of the reach of young children.
+* Stop using product when signs of wear and tear such as cracks are observed.
+* Do not use electrical appliances near wet areas and bathtubs, basins or other vessels containing water.
+
+Click [here](/consumers/use-products-safely/overview) for more consumer product safety tips. 
