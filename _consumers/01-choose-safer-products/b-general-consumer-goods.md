@@ -13,4 +13,6 @@ Consumer goods such as toys, children’s products, apparel, sports and recreati
 
 Regional or national standards may also be accepted for consumer goods that do not have applicable international safety standards.
 
+The Consumer Product Safety Office does active post-market surveillance to reduce the impact of unsafe general consumer goods as soon as safety issues are discovered. Consumers may also refer to the [Product Safety Alerts and Recalls](https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-consumers/product-safety-alerts-and-recalls) for the latest news regarding unsafe consumer products identified in Singapore. 
+
 ## Choosing safety
