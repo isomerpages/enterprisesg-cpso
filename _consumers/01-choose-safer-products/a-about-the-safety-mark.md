@@ -23,7 +23,7 @@ The SAFETY Mark indicates that the products’ design has been tested and certif
 **What are the appliances tested for?**<br>
 Here are some of the requirements* that common household appliances must meet in order to qualify for the SAFETY Mark.
 
-<font size ="2">*Images shown are for illustration purposes only. Position of labelled components may differ in actual appliance.<font>
+<font size ="2">*Images shown are for illustration purposes only. Position of labelled components may differ in actual appliance.</font>
 
 |   |   |
 |---|---|
