@@ -21,9 +21,9 @@ In addition, appliances with a 3-pin plug needs to have two SAFETY Marks on them
 The SAFETY Mark indicates that the products’ design has been tested and certified to be compliant with the relevant safety standards. For most appliance categories, the presence of the SAFETY Mark also indicates that internal safeguards have been incorporated to protect against fire and electrical hazards.
 
 **What are the appliances tested for?**<br>
-Here are some of the requirements* that common household appliances must meet in order to qualify for the SAFETY Mark.
+Here are some of the requirements that common household appliances must meet in order to qualify for the SAFETY Mark.
 
-<font size ="1">*Images shown are for illustration purposes only. Position of labelled components may differ in actual appliance.</font>
+Images shown are for illustration purposes only. Position of labelled components may differ in actual appliance.
 
 |   |   |
 |---|---|
