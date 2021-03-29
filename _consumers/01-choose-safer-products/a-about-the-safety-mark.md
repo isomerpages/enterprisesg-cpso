@@ -25,7 +25,9 @@ Here are some of the requirements* that common household appliances must meet in
 
 <font size ="1">*Images shown are for illustration purposes only. Position of labelled components may differ in actual appliance.</font>
 
-
+|   |   |
+|---|---|
+|**Ceiling Fan**<br>![test-on-ceiling-fan](/images/consumers/choose-safer-products/about-the-safety-mark/test-on/ceiling-fan)|1. Suspension must have adequate strength to withstand mechanical stresses from daily use<br>2. Screws, bolts and nuts connecting the suspension system must not come loose<br>3. Moving parts must not cause undue stress to electrical connections|
 
 **What kind of household products require the SAFETY Mark?**<br>
 The 33 categories of Controlled Goods are:
