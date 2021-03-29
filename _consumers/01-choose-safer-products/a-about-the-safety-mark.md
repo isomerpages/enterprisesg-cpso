@@ -21,13 +21,13 @@ In addition, appliances with a 3-pin plug needs to have two SAFETY Marks on them
 The SAFETY Mark indicates that the products’ design has been tested and certified to be compliant with the relevant safety standards. For most appliance categories, the presence of the SAFETY Mark also indicates that internal safeguards have been incorporated to protect against fire and electrical hazards.
 
 **What are the appliances tested for?**<br>
-Here are some of the requirements that common household appliances must meet in order to qualify for the SAFETY Mark.
+Here are some of the requirements* that common household appliances must meet in order to qualify for the SAFETY Mark.
 
-Images shown are for illustration purposes only. Position of labelled components may differ in actual appliance.
+<font size ="2">*Images shown are for illustration purposes only. Position of labelled components may differ in actual appliance.<font>
 
 |   |   |
 |---|---|
-|**Ceiling Fan**<br>![test-on-ceiling-fan](/images/consumers/choose-safer-products/about-the-safety-mark/test-on/ceiling-fan)|1. Suspension must have adequate strength to withstand mechanical stresses from daily use<br>2. Screws, bolts and nuts connecting the suspension system must not come loose<br>3. Moving parts must not cause undue stress to electrical connections|
+|**Ceiling Fan**<br>![test-on-ceiling-fan](/images/consumers/choose-safer-products/about-the-safety-mark/test-on-ceiling-fan.jpg)|1. Suspension must have adequate strength to withstand mechanical stresses from daily use<br>2. Screws, bolts and nuts connecting the suspension system must not come loose<br>3. Moving parts must not cause undue stress to electrical connections|
 
 **What kind of household products require the SAFETY Mark?**<br>
 The 33 categories of Controlled Goods are:
