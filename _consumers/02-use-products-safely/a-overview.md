@@ -26,6 +26,7 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 * [Using and Maintaining Toughened Glass in Cooking Appliances](/consumers/product-safety-tips/using-and-maintaining-toughened-glass-in-cooking-appliances){:target="_blank"}
 * [Type of Mains Plugs Suitable for use in Singapore](/consumers/product-safety-tips/types-of-mains-plugs-suitable-for-use-in-singapore){:target="_blank"}
 * [Check Your Home's Circuit Breaker Regularly](/consumers/product-safety-tips/check-your-home-circuit-breaker-regularly){:target="_blank"}
+* [Tips on Installation and Maintenance](/consumers/product-safety-tips/tips-on-installation-and-maintenance){:target="_blank"}
 
 **Children Products**
 * [Safety Tips on Baby Slings](/consumers/product-safety-tips/safety-tips-on-baby-slings){:target="_blank"}
