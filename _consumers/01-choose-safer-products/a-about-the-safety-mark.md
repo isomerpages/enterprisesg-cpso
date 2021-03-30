@@ -27,7 +27,8 @@ Here are some of the requirements* that common household appliances must meet in
 
 |   |   |
 |---|---|
-|**Ceiling Fan**<br>![test-on-ceiling-fan](/images/consumers/choose-safer-products/about-the-safety-mark/test-on-ceiling-fan.jpg)|1. Suspension must have adequate strength to withstand mechanical stresses from daily use<br>2. Screws, bolts and nuts connecting the suspension system must not come loose<br>3. Moving parts must not cause undue stress to electrical connections|
+|**Ceiling Fan**<br>![test-on-ceiling-fan](/images/consumers/choose-safer-products/about-the-safety-mark/test-on-ceiling-fan.jpg)|1. Suspension must have adequate strength to withstand mechanical stresses from daily use<br><br>2. Screws, bolts and nuts connecting the suspension system must not come loose<br><br>3. Moving parts must not cause undue stress to electrical connections|
+|**Glass-topped Gas Hob**<br>![test-on-glass-topped-gas-hob](/images/consumers/choose-safer-products/about-the-safety-mark/test-on-glass-topped-gas-hob.jpg)|1. Parts exposed to flames must be able to withstand heat and corrosion<br><br>2. Presence of safety devices to avoid accumulation of harmful unburnt gas if flame is extinguished<br><br>3. Internal components must be designed to limit gas leakage<br><br>4. Glass must be resistant to heat and mechanical stress|
 
 **What kind of household products require the SAFETY Mark?**<br>
 The 33 categories of Controlled Goods are:
