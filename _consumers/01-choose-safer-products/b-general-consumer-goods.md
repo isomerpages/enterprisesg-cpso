@@ -15,7 +15,7 @@ Regional or national standards may also be accepted for consumer goods that do n
 
 The Consumer Product Safety Office does active post-market surveillance to reduce the impact of unsafe general consumer goods as soon as safety issues are discovered. Consumers may also refer to the [Product Safety Alerts and Recalls](https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-consumers/product-safety-alerts-and-recalls){:target="_blank"} for the latest news regarding unsafe consumer products identified in Singapore. 
 
-## Consumers are encouraged to:
+**Consumers are encouraged to:**
 * Avoid making your decision to purchase any item solely based on price. Product safety is of equal importance in the consideration process.
 * Research on the type of product you want to buy and gather tips on what to look out for.
 * Check the product description, its functions and age recommendation for the product you are buying.
@@ -23,7 +23,7 @@ The Consumer Product Safety Office does active post-market surveillance to reduc
 * Check if the product comes with instructions and manufacturer/distributor information.
 * Inspect the product you are buying for any damage. Look out for sharp edges as well as loose or missing parts.
 
-## Use products safely 
+**Use products safely** 
 * Read safety warnings and instructions on assembly, installation, usage and maintenance. Follow them strictly.
 * Use products only for their intended purpose
 * Do not make assumptions on how to use a product just because you have used a similar product in the past. Always refer to the safety information supplied.
