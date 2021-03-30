@@ -38,6 +38,10 @@ The 33 categories of Controlled Goods are:
 
 ![33 categories of Controlled Goods](/images/about-us/33-categories-controlled-goods/33-cgs.png)<br>
 
+|   |   |   |   |   |   |   |
+|---|---|---|---|---|---|---|
+|![ac adaptors](/images/about-us/33-categories-controlled-goods/ac-adaptors.png)<br>AC adaptors||![air cooler](/images/about-us/33-categories-controlled-goods/air-cooler.png)<br>Air coolers||![audio & video products](/images/about-us/33-categories-controlled-goods/ac-adaptors.png)<br>AC adaptors||![Ceiling, wall and standing fans](/images/about-us/33-categories-controlled-goods/fans.png)<br>Ceiling, wall and standing fans|![decorative lighting chains](/images/about-us/33-categories-controlled-goods/deco-light-chain.png)<br>Decorative lighting chains|![electrical wall switches](/images/about-us/33-categories-controlled-goods/wall-switch.png)<br>Electrical wall switches|![fuses](/images/about-us/33-categories-controlled-goods/fuse.png)<br>Fuses (≤13 amperes)|
+
 **You may check the validity of the product's SAFETY Mark in 3 easy steps:**
 
 |Steps|Description|
