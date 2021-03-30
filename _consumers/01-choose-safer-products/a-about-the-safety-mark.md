@@ -32,6 +32,7 @@ Here are some of the requirements* that common household appliances must meet in
 |**Instantaneous Heater**<br>![test-on-instantaneous-heater](/images/consumers/choose-safer-products/about-the-safety-mark/test-on-instantaneous-heater.jpg)|1. Heater must be able to withstand humid conditions<br><br>2. Incorporate safeguards (e.g. overcurrent protective device) to reduce risk of fire and electric shocks<br><br>3. Components carrying electrical currents must be properly insulated<br><br>4. External enclosure must be designed to limit risk of potential electric shocks|
 |**Refrigerator**<br>![test-on-refrigerator](/images/consumers/choose-safer-products/about-the-safety-mark/test-on-refrigerator.jpg)|1. Cooling system designed to:<br>
 - Limit fire/explosion risks in event of refrigerant leaks<br>- Withstand refrigerant at high pressure<br><br>2. Compressor must not reach abnormally high temperatures during use<br><br>3. External enclosure must be constructed from material that are resistant to ignition and spread of fire|
+|**3-Pin Plug**<br>![test-on-3-pin-plug](/images/consumers/choose-safer-products/about-the-safety-mark/test-on-3-pin-plug.jpg)|1. Plug incorporates fuse that complies with safety requirements<br><br>2. Insulating material must be sufficiently resistant to electricity and fire<br><br>3. Power cord must be able to withstand mechanical stress. Breakage can cause short circuit and/or electrocution|
 
 **What kind of household products require the SAFETY Mark?**<br>
 The 33 categories of Controlled Goods are:
