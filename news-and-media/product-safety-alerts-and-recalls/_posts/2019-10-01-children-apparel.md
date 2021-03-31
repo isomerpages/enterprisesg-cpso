@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Children Apparel
-permalink: /news-and-media/media-releases/product-safety-alerts-and-recalls/children-apparel
+permalink: /news-and-media/product-safety-alerts-and-recalls/children-apparel
 ---
 ### Recall
 
