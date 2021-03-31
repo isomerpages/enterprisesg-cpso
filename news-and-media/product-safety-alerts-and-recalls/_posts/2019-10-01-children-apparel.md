@@ -14,7 +14,7 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-apparel
 
 |Date|Title|
 |:---:|---|
-|18 Jul 2019|<a href="/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2019-07-18-creative-building-block-magic-cube-magcube-magnetic-cubes.pdf/">125pcs 5mm Creative Building Block Magic Cube MAGCUBE Magnetic Cubes</a>{:target="_blank"}|
+|18 Jul 2019|[125pcs 5mm Creative Building Block Magic Cube MAGCUBE Magnetic Cubes](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2019-07-18-creative-building-block-magic-cube-magcube-magnetic-cubes.pdf)|
 
 
 
