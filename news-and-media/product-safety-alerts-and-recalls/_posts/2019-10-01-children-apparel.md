@@ -31,3 +31,9 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-apparel
 |31 Dec 2015|[Quince Baby Shorts - Pink Checks](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-31-quince-baby-shorts-pink-checks.pdf){:target="_blank"}|
 |15 Dec 2015|[Athletic Time Sleeveless Hoodie](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-15-athletic-time-hoodie-sleeveless-blue.pdf){:target="_blank"}|
 |15 Dec 2015|[Ray O Girl Dress](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-15-ray-o-girl-dress-purple.pdf){:target="_blank"}|
+|04 Dec 2015|[Daisy Dress in Blue](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-04-daisy-dress-blue.pdf){:target="_blank"}|
+|04 Dec 2015|[Floral Dress in Pink](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-04-floral-dress-pink.pdf){:target="_blank"}|
+|04 Dec 2015|[Prescott Sweater](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-04-prescott-sweater-blue-white.pdf){:target="_blank"}|
+|04 Dec 2015|[Safari Vest with Hood](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-04-mini-safari-vest-with-hood-white.pdf){:target="_blank"}|
+|04 Dec 2015|[Velour Bloomers](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-04-velour-bloomers-pink.pdf){:target="_blank"}|
+
