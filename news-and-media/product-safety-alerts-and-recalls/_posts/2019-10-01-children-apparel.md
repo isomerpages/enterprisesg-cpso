@@ -20,5 +20,6 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-apparel
 |01 Aug 2016|[Children’s Apparel: Inner Tank Sugar Glam Girls Blouse (Aug 2016)](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-inner-tank-sugar-glam-girls-blouse.pdf){:target="_blank"}|
 |01 Aug 2016|[Candy Toddler Dress](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-candy-toddler-dress-testing.pdf){:target="_blank"}|
 |01 Aug 2016|[Vintage Riviera Girls Blouse](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-vintage-riviera-girls-blouse-testing.pdf){:target="_blank"}|
-
+|22 Jul 2016|[Striped Dress with Waist String](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-striped-dress-with-waist-string-testing.pdf){:target="_blank"}|
+|22 Jul 2016|[Mao Xian Xiong Boy Belt T-shirt](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-mao-xian-xiong-boy-belt-t-shirt-testing.pdf){:target="_blank"}|
 
