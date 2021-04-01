@@ -15,7 +15,10 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-apparel
 |Date|Title|
 |---|---|
 |18 Jul 2019|[125pcs 5mm Creative Building Block Magic Cube MAGCUBE Magnetic Cubes](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2019-07-18-creative-building-block-magic-cube-magcube-magnetic-cubes.pdf){:target="_blank"}|
-
-
+|27 Sep 2016|[Caper Kids 2-piece Dress](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-09-27-caper-kids-2-piece-dress-testing.pdf){:target="_blank"}|
+|01 Aug 2016|[Huali Kids Boy Pants](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-huali-kids-boy-pants-testing.pdf){:target="_blank"}|
+|01 Aug 2016|[Children’s Apparel: Inner Tank Sugar Glam Girls Blouse (Aug 2016)](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-inner-tank-sugar-glam-girls-blouse.pdf){:target="_blank"}|
+|01 Aug 2016|[Candy Toddler Dress](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-candy-toddler-dress-testing.pdf){:target="_blank"}|
+|01 Aug 2016|[Vintage Riviera Girls Blouse](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-vintage-riviera-girls-blouse-testing.pdf){:target="_blank"}|
 
 
