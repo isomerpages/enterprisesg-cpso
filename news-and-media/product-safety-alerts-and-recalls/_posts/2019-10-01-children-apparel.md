@@ -23,3 +23,10 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-apparel
 |22 Jul 2016|[NOXT Jean Blue Dress)](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-noxt-jean-blue-dress-testing.pdf){:target="_blank"}|
 |22 Jul 2016|[Striped Dress with Waist String](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-striped-dress-with-waist-string-testing.pdf){:target="_blank"}|
 |22 Jul 2016|[Mao Xian Xiong Boy Belt T-shirt](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-mao-xian-xiong-boy-belt-t-shirt-testing.pdf){:target="_blank"}|
+|10 Jun 2016|[Printed White Dress](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-06-10-printed-white-dress.pdf){:target="_blank"}|
+|03 Jun 2016|[Blue Flower Dress](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-06-03-blue-flower-dress.pdf){:target="_blank"}|
+|03 Jun 2016|[Cindy and Tiger Dress](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-06-03-cindy-and-tiger-dress.pdf){:target="_blank"}|
+|03 Jun 2016|[Hush Puppies Sleeveless Top](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-06-03-hush-puppies-sleeveless-top-testing.pdf){:target="_blank"}|
+
+
+
