@@ -29,4 +29,5 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-apparel
 |03 Jun 2016|[Hush Puppies Sleeveless Top](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-06-03-hush-puppies-sleeveless-top-testing.pdf){:target="_blank"}|
 |31 Dec 2015|[Red Lily dress with white horses](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-31-red-lily-dress-with-white-horses.pdf){:target="_blank"}|
 |31 Dec 2015|[Quince Baby Shorts - Pink Checks](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-31-quince-baby-shorts-pink-checks.pdf){:target="_blank"}|
-
+|15 Dec 2015|[Athletic Time Sleeveless Hoodie](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-15-athletic-time-hoodie-sleeveless-blue.pdf){:target="_blank"}|
+|15 Dec 2015|[Ray O Girl Dress](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-15-ray-o-girl-dress-purple.pdf){:target="_blank"}|
