@@ -36,4 +36,4 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-apparel
 |04 Dec 2015|[Prescott Sweater](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-04-prescott-sweater-blue-white.pdf){:target="_blank"}|
 |04 Dec 2015|[Safari Vest with Hood](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-04-mini-safari-vest-with-hood-white.pdf){:target="_blank"}|
 |04 Dec 2015|[Velour Bloomers](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-04-velour-bloomers-pink.pdf){:target="_blank"}|
-
+|25 Nov 2015|[Sweet Polka Dots Dress with green waist ribbon](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-11-25-sweet-polka-dots-dress-with-green-waist-ribbon.pdf){:target="_blank"}|
