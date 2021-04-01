@@ -37,3 +37,6 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-apparel
 |04 Dec 2015|[Safari Vest with Hood](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-04-mini-safari-vest-with-hood-white.pdf){:target="_blank"}|
 |04 Dec 2015|[Velour Bloomers](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-12-04-velour-bloomers-pink.pdf){:target="_blank"}|
 |25 Nov 2015|[Sweet Polka Dots Dress with green waist ribbon](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-11-25-sweet-polka-dots-dress-with-green-waist-ribbon.pdf){:target="_blank"}|
+|25 Nov 2015|[Elizabeth Dress in Premier Pink](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-11-25-elizabeth-dress-premier-pink.pdf){:target="_blank"}|
+|25 Nov 2015|[888 Dress #311](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-11-25-888-Dress-311.pdf){:target="_blank"}|
+|01 Nov 2012|[Children’s Apparel Testing (Nov/Dec 2012)](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2012-11-01-children-apparels.pdf){:target="_blank"}|
