@@ -21,7 +21,7 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-products
 |---|---|
 |19 Feb 2020|[Pacifier Clip D-16X-2](/news-and-media/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-pacifier-clip-d-16x-2.pdf){:target="_blank"}|
 |19 Feb 2020|[Fancyqube Cute Baby Dummy Pacifier Clip Chain Purple – INTL](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2020-02-19-fancyqube-cute-baby-dummy-pacifier-clip-chain-purple-intl.pdf){:target="_blank"}|
-|19 Feb 2020|[Baby Wooden Pacifier Clips with Silicone Colourful Beads, Nature Wood Pacifier](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2020-19-02-baby-wooden-pacifier-clips-with-silicone-colourful-beads-nature-wood-pacifier.pdf){:target="_blank"}|
+|19 Feb 2020|[Baby Wooden Pacifier Clips with Silicone Colourful Beads, Nature Wood Pacifier](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2020-02-19-baby-wooden-pacifier-clips-with-silicone-colourful-beads-nature-wood-pacifier.pdf){:target="_blank"}|
 |05 Nov 2019|[OEM Adapt 3 Position Baby Carrier](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2019-11-05-oem-adapt-3-position-baby-carrier.pdf){:target="_blank"}|
 |05 Nov 2019|[Sorbebe Airo Robic Hip Seat Baby Carrier](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2019-11-05-sorbebe-airo-robic-hip-seat-baby-carrier.pdf){:target="_blank"}|
 |05 Nov 2019|[MINE 4 Position Baby Carrier](/news-and-media/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-11-05-mine-4-position-baby-carrier.pdf){:target="_blank"}|
