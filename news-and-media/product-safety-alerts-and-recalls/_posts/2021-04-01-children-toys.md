@@ -13,3 +13,4 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-toys
 
 |Date|Title|
 |---|---|
+|18 Jul 2019|[KEAIHAO Magnetic Building Block Set](/news-and-media/product-safety-alerts-and-recalls//children-toys/children-toys-alert-2019-07-18-keaihao-magnetic-building-block-set.pdf){:target="_blank"}|
