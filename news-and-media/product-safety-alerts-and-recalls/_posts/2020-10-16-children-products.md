@@ -42,6 +42,7 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-products
 |28 Mar 2016|[Pacifiers: Bobo Massage Pacifier](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-28-bobo-massage-pacifier.pdf){:target="_blank"}|
 |28 Mar 2016|[Pacifiers: Camera Brand Silicone Soother](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-28-camera-brand-silicone-soother.pdf){:target="_blank"}|
 |28 Mar 2016|[Pacifiers: Chica Thumb Shape Soother](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-28-chica-thumb-shape-soother.pdf){:target="_blank"}|
+|15 Mar 2016|[Cots and cribs: Jarrons & Co JCB-101 Happy Sleep 5-in-1 convertible cot (Mar 2016)](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-15-jarrons-co-jcb101-happy-sleep-5-in-1-convertible-cot-testing.pdf){:target="_blank"}|
 
 
 
