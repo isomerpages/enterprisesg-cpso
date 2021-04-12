@@ -34,14 +34,14 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-products
 |27 Nov 2018|[Baby YOYA](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2018-11-27-baby-yoga-baby-cabin-travel.pdf){:target="_blank"}|
 |20 Sep 2017|[Vanille Pinewood 4 – In – 1 Cot](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2017-09-20-vanille-pinewood-4-in-1-cot.pdf){:target="_blank"}|
 |24 Apr 2017|[Bonbijou Playpen](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2017-04-24-bonbijou-playpen.pdf){:target="_blank"}|
-
-
-
-
-
-
-
-
+|13 Sep 2016|[Strollers: Baby Star Stroller B201](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-09-13-baby-star-stroller-b201.pdf){:target="_blank"}|
+|13 Sep 2016|[High chairs: Baby High Chair Item No. HC523](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-09-13-baby-high-chair-item-no-hc523.pdf){:target="_blank"}|
+|13 Sep 2016|[High chairs: Dapper Highchair](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-09-13-dapper-highchair.pdf){:target="_blank"}|
+|27 Apr 2016|[Little Bobdog Soother](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-04-27-little-bobdog-soother.pdf){:target="_blank"}|
+|31 Mar 2016|[Strollers: Baobaohao Stroller](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-31-baobaohao-stroller.pdf){:target="_blank"}|
+|28 Mar 2016|[Pacifiers: Bobo Massage Pacifier](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-28-bobo-massage-pacifier.pdf){:target="_blank"}|
+|28 Mar 2016|[Pacifiers: Camera Brand Silicone Soother](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-28-camera-brand-silicone-soother.pdf){:target="_blank"}|
+|28 Mar 2016|[Pacifiers: Chica Thumb Shape Soother](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-28-chica-thumb-shape-soother.pdf){:target="_blank"}|
 
 
 
