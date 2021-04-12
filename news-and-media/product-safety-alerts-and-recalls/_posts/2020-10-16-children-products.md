@@ -19,3 +19,4 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-products
 
 |Date|Title|
 |---|---|
+|19 Feb 2020|[Pacifier Clip D-16X-2](/news-and-media/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-pacifier-clip-d-16x-2.pdf){:target="_blank"}|
