@@ -20,7 +20,8 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-apparel
 |01 Aug 2016|[Children’s Apparel: Inner Tank Sugar Glam Girls Blouse (Aug 2016)](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-inner-tank-sugar-glam-girls-blouse.pdf){:target="_blank"}|
 |01 Aug 2016|[Candy Toddler Dress](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-candy-toddler-dress-testing.pdf){:target="_blank"}|
 |01 Aug 2016|[Vintage Riviera Girls Blouse](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-vintage-riviera-girls-blouse-testing.pdf){:target="_blank"}|
-|22 Jul 2016|[NOXT Jean Blue Dress)](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-noxt-jean-blue-dress-testing.pdf){:target="_blank"}|
+|22 Jul 2016|[Winne the Pooh Pants)](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-winnie-the-pooh-pants-testing.pdf){:target="_blank"}|
+|22 Jul 2016|[NOXT Jean Blue Dress](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-noxt-jean-blue-dress-testing.pdf){:target="_blank"}|
 |22 Jul 2016|[Striped Dress with Waist String](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-striped-dress-with-waist-string-testing.pdf){:target="_blank"}|
 |22 Jul 2016|[Mao Xian Xiong Boy Belt T-shirt](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-mao-xian-xiong-boy-belt-t-shirt-testing.pdf){:target="_blank"}|
 |10 Jun 2016|[Printed White Dress](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-06-10-printed-white-dress.pdf){:target="_blank"}|
@@ -40,3 +41,5 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-apparel
 |25 Nov 2015|[Elizabeth Dress in Premier Pink](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-11-25-elizabeth-dress-premier-pink.pdf){:target="_blank"}|
 |25 Nov 2015|[888 Dress #311](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2015-11-25-888-Dress-311.pdf){:target="_blank"}|
 |01 Nov 2012|[Children’s Apparel Testing (Nov/Dec 2012)](/news-and-media/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2012-11-01-children-apparels.pdf){:target="_blank"}|
+
+
