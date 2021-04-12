@@ -58,9 +58,9 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-products
 |10 Jun 2014|[Baby Walkers: Puku Baby Walker (Model no: HW-8168)](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2014-06-10-puku-baby-walker-model-no-hw-8168.pdf){:target="_blank"}|
 |15 Jan 2014|[Cots and cribs: Baby One Folding Cot BO 770 F](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2014-01-15-baby-one-folding-cot-bo-770-f.pdf){:target="_blank"}|
 |09 Dec 2013|[Cots and cribs: Baby Cot TW-CB17D](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2013-12-09-baby-cot-tw-cb17d.pdf){:target="_blank"}|
-
-
-
+|09 Dec 2013|[Cots and cribs: Marco Baby Cot Foldable BC-1622-NA](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2013-12-09-marco-baby-cot-foldable-bc-1622-na.pdf){:target="_blank"}|
+|01 May 2012|[Jewellery and accessories: Children’s Products Testing](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2012-05-01-children-products-testing.pdf){:target="_blank"}|
+|01 May 2012|[Cots and cribs, Baby walkers and Strollers: Children’s Products Testing](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2012-05-01-children-cots.pdf){:target="_blank"}|
 
 
 
