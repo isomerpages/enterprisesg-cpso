@@ -29,11 +29,11 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-products
 |24 Jul 2019|[Premium Baby Bed Set (Model No: Hope HP 810M](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2019-07-24-premium-baby-bed-set-model-no-hope-hp-810m.pdf){:target="_blank"}|
 |24 Jul 2019|[Puku Izzy Foldable Baby Cot (Model No: P30112)](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2019-07-24-puku-izzy-foldable-baby-cot-model-no-p30112.pdf){:target="_blank"}|
 |24 Jul 2019|[Milano – Oxford 4 in 1 Convertible Cot (Model No: BD302)](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2019-07-24-milano-oxford-4-in-1-convertible-cot-model-no-bd302.pdf){:target="_blank"}|
-|07 Dec 2018|[Belecoo Compact](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2018-12-07-belecoo-compact.pdf){:target="_blank"}|
-|27 Nov 2018|[Seebaby Little Monster](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2018-11-27-seebaby-little-monster.pdf){:target="_blank"}|
-|27 Nov 2018|[Baby YOYA](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2018-11-27-baby-yoga-baby-cabin-travel.pdf){:target="_blank"}|
-|20 Sep 2017|[Vanille Pinewood 4 – In – 1 Cot](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2017-09-20-vanille-pinewood-4-in-1-cot.pdf){:target="_blank"}|
-|24 Apr 2017|[Bonbijou Playpen](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2017-04-24-bonbijou-playpen.pdf){:target="_blank"}|
+|07 Dec 2018|[Strollers: Belecoo Compact](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2018-12-07-belecoo-compact.pdf){:target="_blank"}|
+|27 Nov 2018|[Strollers: Seebaby Little Monster](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2018-11-27-seebaby-little-monster.pdf){:target="_blank"}|
+|27 Nov 2018|[Strollers: Baby YOYA](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2018-11-27-baby-yoga-baby-cabin-travel.pdf){:target="_blank"}|
+|20 Sep 2017|[Cots and cribs: Vanille Pinewood 4 – In – 1 Cot](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2017-09-20-vanille-pinewood-4-in-1-cot.pdf){:target="_blank"}|
+|24 Apr 2017|[Cots and cribs: Bonbijou Playpen](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2017-04-24-bonbijou-playpen.pdf){:target="_blank"}|
 |13 Sep 2016|[Strollers: Baby Star Stroller B201](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-09-13-baby-star-stroller-b201.pdf){:target="_blank"}|
 |13 Sep 2016|[High chairs: Baby High Chair Item No. HC523](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-09-13-baby-high-chair-item-no-hc523.pdf){:target="_blank"}|
 |13 Sep 2016|[High chairs: Dapper Highchair](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-09-13-dapper-highchair.pdf){:target="_blank"}|
@@ -42,6 +42,12 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-products
 |28 Mar 2016|[Pacifiers: Bobo Massage Pacifier](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-28-bobo-massage-pacifier.pdf){:target="_blank"}|
 |28 Mar 2016|[Pacifiers: Camera Brand Silicone Soother](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-28-camera-brand-silicone-soother.pdf){:target="_blank"}|
 |28 Mar 2016|[Pacifiers: Chica Thumb Shape Soother](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-28-chica-thumb-shape-soother.pdf){:target="_blank"}|
+
+
+
+
+
+
 
 
 
