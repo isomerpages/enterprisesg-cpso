@@ -42,7 +42,23 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-products
 |28 Mar 2016|[Pacifiers: Bobo Massage Pacifier](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-28-bobo-massage-pacifier.pdf){:target="_blank"}|
 |28 Mar 2016|[Pacifiers: Camera Brand Silicone Soother](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-28-camera-brand-silicone-soother.pdf){:target="_blank"}|
 |28 Mar 2016|[Pacifiers: Chica Thumb Shape Soother](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-28-chica-thumb-shape-soother.pdf){:target="_blank"}|
-|15 Mar 2016|[Cots and cribs: Jarrons & Co JCB-101 Happy Sleep 5-in-1 convertible cot (Mar 2016)](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-15-jarrons-co-jcb101-happy-sleep-5-in-1-convertible-cot-testing.pdf){:target="_blank"}|
+|15 Mar 2016|[Cots and cribs: Jarrons & Co JCB-101 Happy Sleep 5-in-1 convertible cot](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-03-15-jarrons-co-jcb101-happy-sleep-5-in-1-convertible-cot-testing.pdf){:target="_blank"}|
+|26 Feb 2016|[Cots and cribs: Sheares Spring Baby Crib](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-02-26-sheares-spring-baby-crib.pdf){:target="_blank"}|
+|18 Feb 2016|[Jewellery and accessories: Crown Hair Clip](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-02-18-crown-hair-clip.pdf){:target="_blank"}|
+|18 Feb 2016|[Jewellery and accessories: Choker and Bracelet](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-02-18-choker-and-bracelet.pdf){:target="_blank"}|
+|16 Feb 2016|[Cots and cribs: BabyHome Eat High Chair](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-02-16-babyhome-eat-high-chair.pdf){:target="_blank"}|
+|05 Feb 2016|[Cots and cribs: Magne 2 in 1 Portable Crib](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-02-05-magne-2-in-1-portable-crib.pdf){:target="_blank"}|
+|05 Feb 2016|[High chairs: Marco High Chair](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-02-05-marco-high-chair.pdf){:target="_blank"}|
+|29 Jan 2016|[Strollers: Polka QQ2 Baby Simple Stroller](/news-and-media/product-safety-alerts-and-recalls/children-products-alert-2016-01-29-polka-qq2-baby-simple-stroller.pdf){:target="_blank"}|
+
+
+
+
+
+
+
+
+
 
 
 
