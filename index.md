@@ -8,7 +8,7 @@ notification: SS 655:2020 is now available as an alternate minimum edition for r
 sections:
     - hero:
         title: 
-        subtitle: <h2>Consumer product safety for consumers and suppliers<h2>
+        subtitle: <h3>Consumer product safety for consumers and suppliers<h3>
         background: /images/safety-banner.png
         key_highlights:
             - title: Use products safely
