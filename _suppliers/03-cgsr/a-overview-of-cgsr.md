@@ -1,7 +1,7 @@
 ---
-title: Overview of CGSR
+title: Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)
 permalink: /suppliers/cgsr/overview-of-cgsr
-third_nav_title: Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)
+third_nav_title: Supplying consumer goods
 ---
 ## Overview of CGSR
 The Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR) aims to protect consumers from unsafe general consumer goods such as toys, children’s products, apparel, sports and recreation products, furniture, mattresses and bedding and DIY tools.
