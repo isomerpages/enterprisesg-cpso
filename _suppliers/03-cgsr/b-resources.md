@@ -1,7 +1,7 @@
 ---
 title: Resources
 permalink: /suppliers/cgsr/resources
-third_nav_title: Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)
+third_nav_title: Supplying consumer goods
 ---
 **Resources**<br>
 * Updated on 5 Sep 2019:<br>
