@@ -22,7 +22,7 @@ sections:
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PUBSearchCOC.form
 
     - infopic:
-        title: Find Out More About Product Safety Regulations
+        title: Find out more about product safety regulations
         subtitle: 
         description: Suppliers must comply product safety regulations to ensure their products do not pose safety risks to consumers.
         button: Learn More
