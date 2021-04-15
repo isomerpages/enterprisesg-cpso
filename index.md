@@ -13,7 +13,7 @@ sections:
         key_highlights:
             - title: Use products safely
               description: Learn product safety tips to prevent injuries to you and your family
-              url: /consumers/use-products-safely/overview
+              url: /consumers/use-products-safely/electronics-and-appliance-safety
             - title: Product safety alerts and recalls
               description: Stay up to date with the latest news on consumer product safety in Singapore
               url: news-and-media/product-safety-alerts-and-recalls/
