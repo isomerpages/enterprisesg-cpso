@@ -1,7 +1,7 @@
 ---
 title: Overview of CPSR
 permalink: /suppliers/cpsr/overview-of-cpsr
-third_nav_title: Consumer Protection (Safety Requirements) Regulations (CPSR)
+third_nav_title: Supplying Controlled Goods
 ---
 ## Overview of CPSR
 The Consumer Protection (Safety Requirements) Regulations (CPSR) requires 33 categories of household electrical, electronic and gas appliances & accessories also known as Controlled Goods, to be tested to specified safety standards, registered with the authority, and affixed with the SAFETY Mark before they can be sold in Singapore.
