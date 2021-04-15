@@ -11,23 +11,20 @@ sections:
         subtitle: <h2>Choose Safer Products, Use Products Safely<h2>
         background: /images/safety-banner.png
         key_highlights:
-            - title: Choose Safer Products
-              description: How consumers can choose safer products
-              url: /consumers/choose-safer-products/about-the-safety-mark
-            - title: Product Safety Alerts and Recalls
-              description: Check for the latest update 
-              url: https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-consumers/product-safety-alerts-and-recalls
-            - title: Ensuring safety of products supplied
-              description: What suppliers have to do to ensure the products they sell are safe
-              url: /suppliers/overview
-            - title: Registered Controlled Goods
-              description: Check if the product has a valid SAFETY Mark
+            - title: Use products safely
+              description: Learn product safety tips to prevent injuries to you and your family
+              url: /consumers/use-products-safely/overview
+            - title: Product safety alerts and recalls
+              description: Stay up to date with the latest news on consumer product safety in Singapore
+              url: news-and-media/product-safety-alerts-and-recalls/
+            - title: Check if the product has a valid SAFETY Mark
+              description: 
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PUBSearchCOC.form
 
     - infopic:
         title: Find Out More About Product Safety Regulations
         subtitle: 
-        description: While product safety is a shared responsibility among the government, suppliers, consumers and other stakeholders, suppliers have the prime responsibility to ensure they sell safe products. They must comply with the relevant product safety regulations and ensure their products do not pose a safety risk to consumers.
+        description: Suppliers must comply product safety regulations to ensure their products do not pose safety risks to consumers.
         button: Learn More
         url: /suppliers/overview
         image: /images/safety-banner2.png
