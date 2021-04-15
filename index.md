@@ -1,14 +1,14 @@
 ---
 layout: homepage
 title: Consumer Product Safety Office
-description: Find out more about consumer product safety regulations and how the Consumer Product Safety Office safeguard consumers from unsafe products
+description: Find out more about product safety regulations and how the Consumer Product Safety Office safeguards consumers
 image: /images/favicon-isomer.ico
 permalink: /
 notification: SS 655:2020 is now available as an alternate minimum edition for registration and renewal of Fans under the CPSR. To learn more, click <a href= "/news-and-media/circulars/"> here</a>.
 sections:
     - hero:
         title: 
-        subtitle: <h2>Choose Safer Products, Use Products Safely<h2>
+        subtitle: <h2>Consumer product safety for consumers and suppliers<h2>
         background: /images/safety-banner.png
         key_highlights:
             - title: Use products safely
