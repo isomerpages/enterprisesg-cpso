@@ -7,14 +7,14 @@
 logo: /images/cpso-logo.png
 
 links:
-  - title: About Us
-    collection: about-us
-  - title: For Consumers
+  - title: Consumers
     collection: consumers
-  - title: For Suppliers
+  - title: Suppliers
     collection: suppliers
   - title: News And Media
     resource_room: true
+  - title: About Us
+    collection: about-us
   - title: Contact Us
     url: /contact-us/
   - title: FAQ
