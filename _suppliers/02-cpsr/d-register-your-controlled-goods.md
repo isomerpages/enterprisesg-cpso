@@ -1,7 +1,7 @@
 ---
-title: Registering Controlled Goods
-permalink: /suppliers/cpsr/registering-controlled-goods
-third_nav_title: Consumer Protection (Safety Requirements) Regulations (CPSR)
+title: Register your controlled goods
+permalink: /suppliers/cpsr/register-your-controlled-goods
+third_nav_title: Supplying controlled goods
 ---
 ## Registering Controlled Goods
 For registration of the Controlled Goods, Registered Suppliers (RS) need to first obtain the necessary test reports for their products, showing compliance to the relevant safety standards.
