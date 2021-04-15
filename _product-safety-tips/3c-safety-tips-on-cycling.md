@@ -1,7 +1,7 @@
 ---
 title: Safety Tips on Cycling
 permalink: /consumers/product-safety-tips-on-cycling
-third_nav_title: Children Products
+third_nav_title: Children products
 ---
 ## Safety Tips on Cycling
 Cycling around the neighbourhood is a great way for you and your child to bond over a fun and healthy activity. However, bicycle injuries can be a cause for concern.
