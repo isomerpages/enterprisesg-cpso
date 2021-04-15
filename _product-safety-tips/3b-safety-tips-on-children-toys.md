@@ -1,7 +1,7 @@
 ---
 title: Safety Tips on Children Toys
 permalink: /consumers/product-safety-tips/safety-tips-on-children-toys
-third_nav_title: Children Products
+third_nav_title: Children products
 ---
 ## Safety Tips on Children Toys
 A study conducted by KK Women’s and Children’s Hospital found that many parents are buying toys that are not age-appropriate for their children. This resulted in a 15% rise in toy-related injuries in children under the age of 5 in 2013, compared to the same period in 2012.
