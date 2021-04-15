@@ -30,4 +30,4 @@ The following consumer goods are under other regulations or regulatory agencies 
 |Hazardous substances|[National Environment Agency](https://www.nea.gov.sg/our-services/pollution-control/chemical-safety/hazardous-substances){:target="_blank"}|
 |Pesticides and vector repellents|[National Environment Agency](https://www.nea.gov.sg/our-services/pest-control/registration-of-control-of-public-health-pesticides-and-repellents-against-vectors){:target="_blank"}|
 
-[Frequently Asked Questions on the Consumer Protection (Consumer Goods Safety Requirements) Regulations](/about_us/faqs-cgsr-revised.pdf){:target="_blank"}
+[Frequently Asked Questions on the Consumer Protection (Consumer Goods Safety Requirements) Regulations](/about-us/faqs-cgsr-revised.pdf){:target="_blank"}
