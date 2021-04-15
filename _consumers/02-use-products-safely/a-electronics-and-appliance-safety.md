@@ -1,7 +1,7 @@
 ---
 title: Electronics and appliance safety
 permalink: /consumers/use-products-safely/overview
-third_nav_title: Electronics and appliance safety
+third_nav_title: Use products safely
 ---
 ## Product safety tips for electronics and appliances
 
