@@ -1,7 +1,7 @@
 ---
-title: Shopping Online
-permalink: /consumers/choose-safer-products/shopping-online
-third_nav_title: Choose Safer Products
+title: shopping for safe products online
+permalink: /consumers/choose-safer-products/shopping-for-safe-products-online
+third_nav_title: Choose safer products
 ---
 ## What to Look out for When Buying from Online or Overseas Retailers
 The affordability and wide selection of household products available online is very attractive to those in search of a bargain. Many new homeowners arrange bulk purchases or rely on home renovation contractors to source for appliances and furniture, most of which are bought overseas.
