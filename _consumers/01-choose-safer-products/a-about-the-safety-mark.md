@@ -1,7 +1,7 @@
 ---
-title: About the SAFETY Mark
+title: Look for the SAFETY Mark
 permalink: /consumers/choose-safer-products/about-the-safety-mark
-third_nav_title: Choose Safer Products
+third_nav_title: Choose safer products
 ---
 ## Controlled Goods Must have the SAFETY Mark
 Consumers can do their part in keeping their families safe by looking out for the SAFETY Mark when purchasing household electrical, electronic and gas appliances.
