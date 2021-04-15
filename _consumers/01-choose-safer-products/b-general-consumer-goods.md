@@ -1,7 +1,7 @@
 ---
-title: General Consumer Goods
+title: Choose safer consumer goods
 permalink: /consumers/choose-safer-products/general-consumer-goods
-third_nav_title: Choose Safer Products
+third_nav_title: Choose safer products
 ---
 ## General Consumer Goods
 Consumer goods such as toys, children’s products, apparel, sports and recreation products, furniture, mattresses and bedding and DIY tools, which are not regulated under other product safety Regulations, fall under the Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR). Consumer goods under the CGSR do not require pre-market approval by the authority. However, they must comply with international safety standards such as:
