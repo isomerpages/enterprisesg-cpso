@@ -13,6 +13,8 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 * [Safety Tips on Power Banks](/consumers/use-products-safely/safety-tips-on-power-banks){:target="_blank"}
 * [Safety Tips on Decorative Lighting](/consumers/use-products-safely/safety-tips-on-decorative-lighting){:target="_blank"}
 * [Safety Tips on Ceiling Fans](/consumers/product-safety-tips/safety-tips-on-ceiling-fans){:target="_blank"}
+
+**Safety At Home**
 * [Risk of Using Hydrocarbon Refrigerants At Home](/consumers/product-safety-tips/risk-of-using-hydrocarbon-refrigerants-at-home){:target="_blank"}
 * [Safety Tips on Furnitive and TVs](/consumers/product-safety-tips/safety-tips-on-furniture-and-tvs){:target="_blank"}
 * [Safety Tips on Washing Machines and Tumble Dryers](/consumers/product-safety-tips/safety-tips-on-washing-machines-and-tumble-dryers){:target="_blank"}
