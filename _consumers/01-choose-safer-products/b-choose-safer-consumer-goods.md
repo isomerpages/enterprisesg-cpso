@@ -1,6 +1,6 @@
 ---
 title: Choose safer consumer goods
-permalink: /consumers/choose-safer-products/general-consumer-goods
+permalink: /consumers/choose-safer-products/choose-safer-consumer-goods
 third_nav_title: Choose safer products
 ---
 ## General Consumer Goods
