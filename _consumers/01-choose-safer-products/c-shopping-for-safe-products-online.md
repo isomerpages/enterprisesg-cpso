@@ -1,5 +1,5 @@
 ---
-title: shopping for safe products online
+title: Shopping for safe products online
 permalink: /consumers/choose-safer-products/shopping-for-safe-products-online
 third_nav_title: Choose safer products
 ---
