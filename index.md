@@ -17,8 +17,8 @@ sections:
             - title: Product safety alerts and recalls
               description: Stay up to date with the latest news on consumer product safety in Singapore
               url: news-and-media/product-safety-alerts-and-recalls/
-            - title: Check if the product has a valid SAFETY Mark
-              description: 
+            - title: Check if your Controlled Goods are registered
+              description: Check if the product has a valid SAFETY Mark
               url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PUBSearchCOC.form
 
     - infopic:
