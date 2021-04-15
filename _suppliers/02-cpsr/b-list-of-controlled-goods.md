@@ -1,5 +1,5 @@
 ---
-title: List of Controlled Goods
+title: List of controlled goods
 permalink: /suppliers/cpsr/list-of-controlled-goods
 third_nav_title: Supplying controlled goods
 ---
