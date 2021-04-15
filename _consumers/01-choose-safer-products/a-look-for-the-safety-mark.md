@@ -1,6 +1,6 @@
 ---
 title: Look for the SAFETY Mark
-permalink: /consumers/choose-safer-products/about-the-safety-mark
+permalink: /consumers/choose-safer-products/look-for-the-safety-mark
 third_nav_title: Choose safer products
 ---
 ## Controlled Goods Must have the SAFETY Mark
