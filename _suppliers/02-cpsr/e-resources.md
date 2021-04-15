@@ -1,7 +1,7 @@
 ---
 title: Resources
 permalink: /suppliers/cpsr/resources
-third_nav_title: Consumer Protection (Safety Requirements) Regulations (CPSR)
+third_nav_title: Supplying controlled goods
 ---
 **Resources**
 * Updated 23 Nov 2020:<br>
