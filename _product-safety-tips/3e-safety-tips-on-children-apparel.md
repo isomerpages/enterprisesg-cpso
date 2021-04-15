@@ -1,7 +1,7 @@
 ---
 title: Safety Tips on Children's Apparel
 permalink: /consumers/product-safety-tips/safety-tips-on-children-apparel
-third_nav_title: Children's Apparel
+third_nav_title: Children products
 ---
 ## Safety Tips on Children’s Apparel
 When choosing which apparel to buy for their children, parents and caregivers should take note of areas that could potentially cause harm. Embellishments such as bows, cords and drawstrings that make clothing fit better can also pose a strangulation hazard. Likewise, loose buttons or other small parts on the apparel may pose choking hazards.
