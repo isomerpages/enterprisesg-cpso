@@ -13,7 +13,7 @@ links:
     collection: suppliers
   - title: News And Media
     resource_room: true
-  - title: About Us
+  - title: About
     collection: about-us
   - title: Contact Us
     url: /contact-us/
