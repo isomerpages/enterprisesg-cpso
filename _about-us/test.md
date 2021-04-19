@@ -47,8 +47,10 @@ input:checked + label + .accordion-content {
 </style>
 <!-- End of accordion -->
 
+<body>
+<input type="checkbox" id="title1"  /><label for="title1">Understanding The Science Of Weather And Climate</label>
+<div class="accordion-content">
+	<p>Singapore will deepen research capabilities in climate science and study the impacts of climate change, particularly on South East Asia.</p>
+</div>
 
-	<input type="checkbox" id="title1"  /><label for="title1">Understanding The Science Of Weather And Climate</label>
-	<div class="accordion-content">
-		<p>Singapore will deepen research capabilities in climate science and study the impacts of climate change, particularly on South East Asia.</p>
-	</div>
+</body>
