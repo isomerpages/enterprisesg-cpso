@@ -7,7 +7,7 @@ third_nav_title: Use products safely
 
 We use a variety of electrical appliances in our everyday lives. Overlooking basic product safety practices can lead to accidents, injuries, fires, and even deaths. Keep the following tips in mind to safeguard your family.
 
-* [Safety Tips on Button Batteries](/consumers/use-products-safely/safety-tips-on-button-batteries){:target="_blank"}
+* [Safety Tips on Button Batteries](/consumers/use-products-safely/electronics-and-appliance-safety/safety-tips-on-button-batteries){:target="_blank"}
 * [Safety Tips on Hair Straighteners](/consumers/use-products-safely/safety-tips-on-hair-straighteners){:target="_blank"}
 * [Safety Tips on Power Adaptors](/consumers/use-products-safely/safety-tips-on-power-adaptors){:target="_blank"}
 * [Safety Tips on Power Banks](/consumers/use-products-safely/safety-tips-on-power-banks){:target="_blank"}
