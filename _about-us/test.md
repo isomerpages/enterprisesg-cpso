@@ -56,17 +56,8 @@ input:checked + label + .accordion-content {
 </div>
 
 <input type="checkbox" id="title2"  /><label for="title2">Title 2</label>
-<div class="accordion-content">
+<div class="accordion-content"><i class="sgds-icon sgds-icon-chevron-down"></i>
 	<p>my content 2 my content 2 my content 2 my content 2</p>
-</div>
-
-<div class="sgds-accordion">
-    <a href="#!" class="sgds-accordion-header" role="button" aria-expanded="false">
-        I also have content below me <i class="sgds-icon sgds-icon-chevron-down"></i>
-    </a>
-    <div class="sgds-accordion-body">
-        <p>This is my accordion content</p>
-    </div>
 </div>
 
 </body>
