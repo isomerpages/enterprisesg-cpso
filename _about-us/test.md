@@ -17,11 +17,27 @@ label {
 	color: #484848;
 	transition: ease .5s;
 	font-size: 1.5em;
+	position: relative;
 }
 
 label:hover {
 	background: #4a96b0;
 	color: #FFF;
+}
+
+label::after {
+    content: '+';
+    font-size: 22px;
+    font-weight: bold;
+    position: absolute;
+    right: 10px;
+    top: 2px;
+}
+
+input:checked + label::after {
+    content: '-';
+    right: 14px;
+    top: 3px;
 }
 
 .accordion-content {
