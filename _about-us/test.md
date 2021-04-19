@@ -64,8 +64,6 @@ input:checked + label + .accordion-content {
 </style>
 <!-- End of accordion -->
 
-<script src="https://kit.fontawesome.com/c94f43b1bf.js" crossorigin="anonymous"></script>
-
 <body>
 
 <input type="checkbox" id="title1"  /><label for="title1">Title 1</label>
