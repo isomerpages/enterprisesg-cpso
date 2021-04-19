@@ -2,6 +2,8 @@
 title: FAQ
 permalink: /about/faq
 ---
+<style>
+
 input {
     display: none;
 }
@@ -29,13 +31,13 @@ label::after {
     font-weight: bold;
     position: absolute;
     right: 10px;
-    top: 2px;
+    top: 7px;
 }
 
 input:checked + label::after {
     content: '-';
     right: 14px;
-    top: 3px;
+    top: 7px;
 }
 
 .content {
