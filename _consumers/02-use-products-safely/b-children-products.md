@@ -5,6 +5,7 @@ third_nav_title: Use products safely
 ---
 
 **Children Products**
+* [Safety Tips on Baby Slings](/consumers/product-safety-tips/safety-tips-on-baby-slings){:target="_blank"}
 * [Safety Tips on Children Toys](/consumers/product-safety-tips/safety-tips-on-children-toys){:target="_blank"}
 * [Safety Tips on Cycling](/consumers/product-safety-tips-on-cycling){:target="_blank"}
 * [Safety Tips on Strollers](/consumers/product-safety-tips/safety-tips-on-strollers){:target="_blank"}
