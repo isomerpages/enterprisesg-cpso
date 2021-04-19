@@ -25,22 +25,6 @@ label:hover {
 	color: #FFF;
 }
 
-label::after {
-    	font-family: "Font Awesome 5 Free"
-	accordion-content: '\f067';
-    	font-size: 22px;
-    	font-weight: bold;
-    	position: absolute;
-    	right: 10px;
-    	top: 7px;
-}
-
-input:checked + label::after {
-    	accordion-content: '\f068';
-    	right: 14px;
-    	top: 7px;
-}
-
 .accordion-content {
 	background: #E2E5F6;
 	padding: 10px 0px 30px 30px;
