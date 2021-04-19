@@ -26,18 +26,18 @@ label:hover {
 }
 
 label::after {
-    accordion-content: "+";
-    font-size: 22px;
-    font-weight: bold;
-    position: absolute;
-    right: 10px;
-    top: 7px;
+    	accordion-content: "+";
+    	font-size: 22px;
+    	font-weight: bold;
+    	position: absolute;
+    	right: 10px;
+    	top: 7px;
 }
 
 input:checked + label::after {
-    accordion-content: "-";
-    right: 14px;
-    top: 7px;
+    	accordion-content: "-";
+    	right: 14px;
+    	top: 7px;
 }
 
 .accordion-content {
@@ -62,6 +62,8 @@ input:checked + label + .accordion-content {
 
 </style>
 <!-- End of accordion -->
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <body>
 
