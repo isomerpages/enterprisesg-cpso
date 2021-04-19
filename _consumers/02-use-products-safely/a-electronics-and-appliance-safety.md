@@ -22,7 +22,7 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 * [Safety Tips for Storing Household Chemicals](/consumers/product-safety-tips/safety-tips-for-storing-household-chemicals){:target="_blank"}
 * [Safety Tips on Small Magnets](/consumers/product-safety-tips/safety-tips-on-small-magnets){:target="_blank"}
 * [Safety Tips on Window Coverings](/consumers/product-safety-tips/safety-tips-on-window-coverings){:target="_blank"}
-* [Tips to Keep your Home Safe from Electrical Hazards]((/consumers/product-safety-tips/tips-to-keep-your-home-safe-from-electrical-hazards){:target="_blank"}
+* [Tips to Keep your Home Safe from Electrical Hazards](/consumers/product-safety-tips/tips-to-keep-your-home-safe-from-electrical-hazards){:target="_blank"}
 * [Using and Maintaining Toughened Glass in Cooking Appliances](/consumers/product-safety-tips/using-and-maintaining-toughened-glass-in-cooking-appliances){:target="_blank"}
 * [Type of Mains Plugs Suitable for use in Singapore](/consumers/product-safety-tips/types-of-mains-plugs-suitable-for-use-in-singapore){:target="_blank"}
 * [Check Your Home's Circuit Breaker Regularly](/consumers/product-safety-tips/check-your-home-circuit-breaker-regularly){:target="_blank"}
