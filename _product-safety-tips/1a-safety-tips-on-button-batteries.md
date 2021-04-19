@@ -1,7 +1,14 @@
 ---
 title: Safety Tips on Button Batteries
-permalink: /consumers/use-products-safely/electronics-and-appliance-safety/safety-tips-on-button-batteries
-breadcrumbs: /consumers/use-products-safely/electronics-and-appliance-safety/safety-tips-on-button-batteries
+permalink: /consumers/use-products-safely/safety-tips-on-button-batteries
+<nav class="sgds-breadcrumb" aria-label="breadcrumbs">
+    <ul>
+        <li><a href="https://enterprisesg-cpso-staging.netlify.app/">HOME</a></li>
+        <li><a href="https://enterprisesg-cpso-staging.netlify.app/consumers/choose-safer-products/look-for-the-safety-mark">CONSUMERS</a></li>
+        <li><a href="https://enterprisesg-cpso-staging.netlify.app/consumers/use-products-safely/electronics-and-appliance-safety">USE PRODUCTS SAFELY</a></li>
+        <li><a href="https://enterprisesg-cpso-staging.netlify.app/consumers/use-products-safely/electronics-and-appliance-safety">ELECTRONICS AND APPLIANCE SAFETY</a></li>
+    </ul>
+</nav>
 third_nav_title: Electronics and appliance safety
 ---
 ## Safety Tips on Button Batteries
