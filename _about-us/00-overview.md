@@ -3,7 +3,7 @@ title: Overview
 permalink: /about/overview
 ---
 ## About the Consumer Product Safety Office
-<placeholder for CPSO boiler plate>
+placeholder for CPSO boiler plate
 
 Our mission is to safeguard consumers from unsafe consumer products and build trust in the safety of consumer products supplied in Singapore.
 
