@@ -56,7 +56,7 @@ input:checked + label + .accordion-content {
 </div>
 
 <input type="checkbox" id="title2"  /><label for="title2">Title 2</label>
-<div class="accordion-content"><i class="sgds-icon sgds-icon-chevron-down"></i>
+<div class="accordion-content sgds-icon sgds-icon-chevron-down">
 	<p>my content 2 my content 2 my content 2 my content 2</p>
 </div>
 
