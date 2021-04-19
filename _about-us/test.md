@@ -26,7 +26,8 @@ label:hover {
 }
 
 label::after {
-    	accordion-content: "+";
+    	font-family: "Font Awesome 5 Free"
+	accordion-content: '\f067';
     	font-size: 22px;
     	font-weight: bold;
     	position: absolute;
@@ -35,15 +36,15 @@ label::after {
 }
 
 input:checked + label::after {
-    	accordion-content: "-";
+    	accordion-content: '\f068';
     	right: 14px;
     	top: 7px;
 }
 
 .accordion-content {
-	/* background: #E2E5F6; */
+	background: #E2E5F6;
 	padding: 10px 0px 30px 30px;
-	/* border: 1px solid #484848; */
+	border: 1px solid #484848;
 	margin: 0 0 1px 0;
 	border-radius: 3px;
 }
@@ -63,7 +64,7 @@ input:checked + label + .accordion-content {
 </style>
 <!-- End of accordion -->
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<script src="https://kit.fontawesome.com/c94f43b1bf.js" crossorigin="anonymous"></script>
 
 <body>
 
