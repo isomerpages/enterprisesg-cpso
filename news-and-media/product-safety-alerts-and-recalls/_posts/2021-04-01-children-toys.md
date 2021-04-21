@@ -24,8 +24,8 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-toys
 |18 Jul 2019|[TENSOGER Magnetic Building Block Set](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-tensoger-magnetic-building-block-set.pdf){:target="_blank"}|
 |18 Jul 2019|[MAG-FUN Magnetic Building Block Set](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-mag-fun-magnetic-building-block-set.pdf){:target="_blank"}|
 |25 Jul 2018|[Magnetic Putty](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2018-07-25-magnetic-putty.pdf){:target="_blank"}|
-
-
-
-
-
+|31 Mar 2017|[Train Track](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2017-03-31-train-track.pdf){:target="_blank"}|
+|31 Mar 2017|[The Sniper 998B](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2017-03-31-the-sniper-998b.pdf){:target="_blank"}|
+|07 Jul 2016|[Rattle](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2016-07-07-rattle.pdf){:target="_blank"}|
+|01 Jul 2016|[Novel Special](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2016-07-01-novel-special.pdf){:target="_blank"}|
+|08 Jun 2016|[Monkey Doll](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2016-06-08-monkey-doll.pdf){:target="_blank"}|
