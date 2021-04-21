@@ -27,7 +27,7 @@ label:hover {
 }
 
 label::after {
-    content: '+';
+    accordion-content: '+';
     font-size: 22px;
     font-weight: bold;
     position: absolute;
@@ -36,7 +36,7 @@ label::after {
 }
 
 input:checked + label::after {
-    content: '-';
+    accordion-content: '-';
     right: 14px;
     top: 3px;
 }
