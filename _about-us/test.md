@@ -67,7 +67,7 @@ input:checked + label + .accordion-content {
 
 <body>
 
-<input type="checkbox" id="title1"  /><label for="title1" class=sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"">Title 1</label>
+<input type="checkbox" id="title1"  /><label for="title1" class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button">Title 1</label>
 <div class="accordion-content">
 	<p>Singapore will deepen research capabilities in climate science and study the impacts of climate change, particularly on South East Asia.</p>
 	
