@@ -77,3 +77,15 @@ input:checked + label + .accordion-content {
 </div>
 
 </body>
+
+<div class="col is-large bp-accordion-header padding has-icons-right field has-addons is-marginless">
+	<div class="col is-expanded is-fullwidth is-paddingless">
+		<h5 class="has-text-grey-dark is-marginless"><b> {{- milestone-section.title -}}
+		</b></h5>
+	</div>
+	<span class="sgds-icon sgds-icon-plus is-size-4 bp-accordion-button"></span>
+</div>
+
+milestone:
+  - title: 1986-1990
+  - line: test
