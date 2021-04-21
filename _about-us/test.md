@@ -27,7 +27,7 @@ label:hover {
 }
 
 label::after {
-    accordion-content: '+';
+    /* accordion-content: '+'; */
     font-size: 22px;
     font-weight: bold;
     position: absolute;
