@@ -23,7 +23,7 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-toys
 |18 Jul 2019|[ZHOND TOY Magnetic Building Block Set](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-zhond-toy-magnetic-building-block-set.pdf){:target="_blank"}|
 |18 Jul 2019|[TENSOGER Magnetic Building Block Set](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-tensoger-magnetic-building-block-set.pdf){:target="_blank"}|
 |18 Jul 2019|[MAG-FUN Magnetic Building Block Set](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-mag-fun-magnetic-building-block-set.pdf){:target="_blank"}|
-
+|25 Jul 2018|[Magnetic Putty](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2018-07-25-magnetic-putty.pdf){:target="_blank"}|
 
 
 
