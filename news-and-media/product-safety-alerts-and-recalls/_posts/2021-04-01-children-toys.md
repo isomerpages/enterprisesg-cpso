@@ -17,3 +17,15 @@ permalink: /news-and-media/product-safety-alerts-and-recalls/children-toys
 |18 Jul 2019|[125pcs 5mm Creative Building Block Magic Cube MAGCUBE Magnetic Cubes](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-125pcs-5mm-creative-building-block-magic-cube-magcube-magnetic-cubes.pdf){:target="_blank"}|
 |18 Jul 2019|[216pcs 5mm Buckyballs Neocube Magnetic Balls](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-216pcs-5mm-buckyballs-neocube-magnetic-balls.pdf){:target="_blank"}|
 |18 Jul 2019|[216pcs 5mm Magnetic Magic Cube Puzzle Magnetic Balls](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-216pcs-5mm-magnetic-magic-cube-puzzle-magnetic-balls.pdf){:target="_blank"}|
+|18 Jul 2019|[216pcs 5mm Bucky Balls Rare Earth Magnetic Balls](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-216pcs-5mm-bucky-balls-rare-earth-magnetic-balls.pdf){:target="_blank"}|
+|18 Jul 2019|[216pcs 3mm Buck Balls MAGCUBE Magnetic Balls](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-216pcs-3mm-buck-balls-magcube-magnetic-balls.pdf){:target="_blank"}|
+|18 Jul 2019|[TONGYUAN Magnetic Building Block Set](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-tongyuan-magnetic-building-block-set.pdf){:target="_blank"}|
+|18 Jul 2019|[ZHOND TOY Magnetic Building Block Set](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-zhond-toy-magnetic-building-block-set.pdf){:target="_blank"}|
+|18 Jul 2019|[TENSOGER Magnetic Building Block Set](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-tensoger-magnetic-building-block-set.pdf){:target="_blank"}|
+|18 Jul 2019|[MAG-FUN Magnetic Building Block Set](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-mag-fun-magnetic-building-block-set.pdf){:target="_blank"}|
+
+
+
+
+
+
