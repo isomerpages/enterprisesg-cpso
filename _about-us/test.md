@@ -36,8 +36,6 @@ label:hover {
 
 label::after {
     accordion-content: 'sgds-icon sgds-icon-plus is-size-4 bp-accordion-button'; 
-    font-size: 22px;
-    font-weight: bold;
     position: absolute;
     right: 10px;
     top: 2px;
