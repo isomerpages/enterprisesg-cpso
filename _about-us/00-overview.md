@@ -26,12 +26,3 @@ Manufacturers, importers (including parallel importers), retailers and traders w
 Suppliers of general consumer goods under the purview of the CGSR should ensure their products conform with relevant internationally accepted product safety standards.
 
 Find out more about [your role as a supplier in ensuring product safety](/suppliers/overview).
-
-<div class="sgds-accordion">
-    <a href="#!" class="sgds-accordion-header" role="button" aria-expanded="false">
-        I also have content below me <i class="sgds-icon sgds-icon-chevron-down"></i>
-    </a>
-    <div class="sgds-accordion-body">
-        <p>This is my accordion content</p>
-    </div>
-</div>
