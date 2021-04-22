@@ -27,14 +27,11 @@ Suppliers of general consumer goods under the purview of the CGSR should ensure 
 
 Find out more about [your role as a supplier in ensuring product safety](/suppliers/overview).
 
-<details><summary>CLICK ME</summary>
-<p>
-
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
+<div class="sgds-accordion">
+    <a href="#!" class="sgds-accordion-header" role="button" aria-expanded="false">
+        I also have content below me <i class="sgds-icon sgds-icon-chevron-down"></i>
+    </a>
+    <div class="sgds-accordion-body">
+        <p>This is my accordion content</p>
+    </div>
+</div>
