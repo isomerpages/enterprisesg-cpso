@@ -4,4 +4,4 @@ permalink: /about/faq/cgsr
 third_nav_title: FAQ
 ---
 
-#### Frequently Asked Questions on Consumer Protection (Consumer Goods Safety Requirements) Regulations
+<font size="4"><b>Frequently Asked Questions on Consumer Protection (Consuemr Goods Safety Requirements) Regulations</b></font>
