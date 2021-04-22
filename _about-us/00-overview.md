@@ -30,6 +30,6 @@ Find out more about [your role as a supplier in ensuring product safety](/suppli
 <details>
   <summary>Click to expand!</summary>
   
-## Heading
+### Heading<br>
 xyz
 </details>
