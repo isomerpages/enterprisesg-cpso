@@ -23,11 +23,11 @@ Click [here](/suppliers/cpsr/list-of-controlled-goods) for the list of 33 catego
 
 
 **3. How do I register the controlled goods?**<br>
-<ins>For Low Risk CGs:</ins><br>
+*For Low Risk CGs:*<br>
 The RS can submit a Supplier’s Declaration of Conformity (SDoC) to the Consumer Product Safety Office. In doing so the RS is making a self-declaration that the low risk CGs conform to the requirements of CPSR.
 If the Consumer Product Safety Office deems the declaration is in order, a Letter of Approval (LOA) will be issued to the RS.
 
-<ins>For Medium and High Risk CGs:</ins><br>
+*For Medium and High Risk CGs:*<br>
 The RS submits test reports and other relevant documentation to a Conformity Assessment Body (Certification) for review. If the CGs meets safety requirements, the CAB (Certification) issues a Certificate of Conformity (CoC) and submits the CoC to the Consumer Product Safety Office.
 If the Consumer Product Safety Office deems the application is in order, a Letter of Approval (LOA) will be issued to the RS.
 
