@@ -48,9 +48,7 @@ For certifcation and testing of Controlled Goods, suppliers can refer to the lis
 Information on displaying the SAFETY Mark can be found in Appendix N of the Consumer Protection (Safety Requirements) Registration Scheme Information Booklet. 
 
 **7. What is the validity period of the registration of the Controlled Goods?**<br>
-The registration of Controlled Goods is valid for three years, and may be renewed. 
-
-RS are encouraged to initiate the renewal process 6 months prior to the expiration date. 
+The registration of Controlled Goods is valid for three years, and may be renewed. RS are encouraged to initiate the renewal process 6 months prior to the expiration date. 
 
 **8. Would the Consumer Product Safety Office be conducting checks to ensure that the SDoC is genuine?**<br>
 Yes, the Consumer Product Safety Office will conduct audits to ensure that submissions are done appropriately. 
