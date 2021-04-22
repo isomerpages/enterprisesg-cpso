@@ -18,7 +18,7 @@ Click [here](/suppliers/cpsr/list-of-controlled-goods) for the list of 33 catego
 
 |Steps|Description|
 |:---:|----|
-| **1**| Visit [cpsa.enterprisesg.gov.sg][1]{:target="_blank"} and click on "Register of Registered Controlled Goods"                                  
+| **1**| Visit [cpsa.enterprisesg.gov.sg](https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html){:target="_blank"} and click on "Register of Registered Controlled Goods"                                  
 | **2**| Key in either the product model number or the 8-digit registration number found on the SAFETY Mark                                                    
 | **3**| Check that the product information in the search results tallies with the product. 
 
