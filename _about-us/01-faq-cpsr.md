@@ -25,10 +25,10 @@ Click [here](/suppliers/cpsr/list-of-controlled-goods) for the list of 33 catego
 
 **3. How do I register the Controlled Goods?**<br>
 
-For low risk Controlled Goods:<br>
+*For low risk Controlled Goods:*<br>
 The RS can submit a Supplier’s Declaration of Conformity (SDoC) to the Consumer Product Safety Office. In doing so the RS is making a self-declaration that the low risk CGs conform to the requirements of CPSR.
 
-For Medium and High Risk Controlled Goods:<br>
+*For medium and high risk Controlled Goods:*<br>
 The RS submits test reports and other relevant documentation to a Conformity Assessment Body (Certification) for review. If the CGs meets safety requirements, the CAB (Certification) issues a Certificate of Conformity (CoC) and submits the CoC to the Consumer Product Safety Office.
 
 If the Consumer Product Safety Office deems the application is in order, a Letter of Approval (LOA) will be issued to the RS.
@@ -49,10 +49,6 @@ Information on displaying the SAFETY Mark can be found in Appendix N of the Cons
 
 **7. What is the validity period of the registration of the Controlled Goods?**<br>
 The registration of Controlled Goods is valid for three years, and may be renewed. 
-
-For low risk level Controlled Goods, RS may renew the SDoC online through the [Consumer Product Safety and Accuracy (CPSA) System](https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html). 
-
-For medium and high risk level Controlled Goods, RS may approach the CAB who issued their CoC to have the Controlled Goods re-certified.
 
 RS are encouraged to initiate the renewal process 6 months prior to the expiration date. 
 
