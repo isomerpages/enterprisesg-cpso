@@ -30,9 +30,6 @@ Find out more about [your role as a supplier in ensuring product safety](/suppli
 <details>
   <summary>Click to expand!</summary>
   
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+## Heading
+xyz
 </details>
