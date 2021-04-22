@@ -4,4 +4,4 @@ permalink: /about/faq/cpsr
 third_nav_title: FAQ
 ---
 
-#### Frequently Asked Questions on Consumer Protection (Safety Requirements) Regulations 
+<font size="6">**<br>Frequently Asked Questions on Consumer Protection (Safety Requirements) Regulations</b></font>
