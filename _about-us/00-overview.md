@@ -27,9 +27,14 @@ Suppliers of general consumer goods under the purview of the CGSR should ensure 
 
 Find out more about [your role as a supplier in ensuring product safety](/suppliers/overview).
 
-<details>
-  <summary>Click to expand!</summary>
-  
-### Heading<br>
-xyz
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
 </details>
