@@ -39,7 +39,7 @@ Click [here](/suppliers/cpsr/register-your-controlled-goods) to find out more on
 
 The registration fee for SDoC is $180 (exclusive of GST) for new application which is the same as the registration for CoC. 
 
-**5. Does the CPSO conduct safety tests on products for purpose registering Controlled Goods?**<br>
+**5. Does the Consumer Product Safety Office conduct safety tests on products for purpose registering Controlled Goods?**<br>
 The CPSO is not a test laboratory and does not perform any testing. 
 
 For certifcation and testing of Controlled Goods, suppliers can refer to the list of CAB (Certification), CAB (Certification-MRA), CAB (Testing) and CAB (TestingMRA), found  in our Resource page [here](/images/cpsr-resources/cpsr-list-of-cabs.pdf)
@@ -47,9 +47,17 @@ For certifcation and testing of Controlled Goods, suppliers can refer to the lis
 **6. How should I display the SAFETY Mark?**<br>
 Information on displaying the SAFETY Mark can be found in Appendix N of the Consumer Protection (Safety Requirements) Registration Scheme Information Booklet. 
 
-**7. What is the validity period of the registration of the Controlled Goods?**
+**7. What is the validity period of the registration of the Controlled Goods?**<br>
 The registration of Controlled Goods is valid for three years, and may be renewed. 
 
 For low risk level Controlled Goods, RS may renew the SDoC online through the [Consumer Product Safety and Accuracy (CPSA) System](https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html). 
 
+For medium and high risk level Controlled Goods, RS may approach the CAB who issued their CoC to have the Controlled Goods re-certified.
 
+RS are encouraged to initiate the renewal process 6 months prior to the expiration date. 
+
+**8. Would the Consumer Product Safety Office be conducting checks to ensure that the SDoC is genuine?**<br>
+Yes, the Consumer Product Safety Office will conduct audits to ensure that submissions are done appropriately. 
+
+**9. What is the penalty of supplying unregistered Controlled Goods?**<br>
+Any person found guilty of selling unregistered controlled goods, is liable upon conviction, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding two years or both. 
