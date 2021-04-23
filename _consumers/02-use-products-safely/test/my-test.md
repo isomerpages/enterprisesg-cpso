@@ -1,6 +1,5 @@
 ---
-title: 
+title: test
 permalink: /consumers/use-products-safely/my-test
-nonav: true
-nav_exclude: true
+hidden: true
 ---
