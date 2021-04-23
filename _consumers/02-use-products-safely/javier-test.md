@@ -8,7 +8,7 @@ third_nav_title: Use products safely
 details > summary {
   font-size: 20px;
   padding: 4px;
-  width: 200px;
+  width: 600px;
   border: none;
   cursor: pointer;
 }
