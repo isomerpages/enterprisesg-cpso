@@ -35,7 +35,7 @@ third_nav_title: Use products safely
   <li>Reading lights</li>
   <li>Spread the word – many parents do not know of the dangers of button batteries.</li>
 </ul>
-</details>
+</details><br>
 
 <details>
   <summary><b>Safety Tips on Button Batteries</b></summary>
