@@ -4,12 +4,6 @@ permalink: /consumers/use-products-safely/electronics-and-appliance-safety
 third_nav_title: Use products safely
 ---
 
-<style>
-.alignleft {
-    text-align: left;
-}
-</style>
-
 ## Product safety tips for electronics and appliances
 
 We use a variety of electrical appliances in our everyday lives. Overlooking basic product safety practices can lead to accidents, injuries, fires, and even deaths. Keep the following tips in mind to safeguard your family.
