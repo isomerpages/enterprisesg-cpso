@@ -27,3 +27,11 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 * [Type of Mains Plugs Suitable for use in Singapore](/consumers/product-safety-tips/types-of-mains-plugs-suitable-for-use-in-singapore){:target="_blank"}
 * [Check Your Home's Circuit Breaker Regularly](/consumers/product-safety-tips/check-your-home-circuit-breaker-regularly){:target="_blank"}
 * [Tips on Installation and Maintenance](/consumers/product-safety-tips/tips-on-installation-and-maintenance){:target="_blank"}
+
+
+<details>
+  <summary>Your header here! (Click to expand)</summary>
+  Your content here...
+  > markup like blockquote's should even work on github!
+  more content here...
+</details>
