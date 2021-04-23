@@ -27,12 +27,12 @@ third_nav_title: Use products safely
 
 <p>Precautions parents and caregivers can take include the following:</p>
 <ul>
-  <li>Make sure the battery compartment of any device containing a button battery is secured and cannot be easily opened by young children.</i>
-  <li>Keep devices with button batteries out of reach of young children.</i>
-  <li>Inspect old button batteries for leakage and dispose of leaking batteries immediately.</i>
-  <li>Do not allow children to play with button batteries.</i>
-  <li>If a child is suspected of swallowing a button battery, seek emergency medical help immediately.</i>
-  <li>Spread the word – many parents do not know of the dangers of button batteries.</i>
+  <li>ake sure the battery compartment of any device containing a button battery is secured and cannot be easily opened by young children.</li>
+  <li>Keep devices with button batteries out of reach of young children.</li>
+  <li>Inspect old button batteries for leakage and dispose of leaking batteries immediately.</li>
+  <li>Do not allow children to play with button batteries.</li>
+  <li>If a child is suspected of swallowing a button battery, seek emergency medical help immediately.</li>
+  <li>Reading lights</li>
+  <li>Spread the word – many parents do not know of the dangers of button batteries.</li>
 </ul>
-
 </details>
