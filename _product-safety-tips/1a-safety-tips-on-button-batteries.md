@@ -3,10 +3,6 @@ title: Safety Tips on Button Batteries
 permalink: /consumers/use-products-safely/safety-tips-on-button-batteries
 third_nav_title: Electronics and appliance safety
 ---
-/* hide breadcrumb */
-.page-title .breadcrumb {
-	display: none;
-}
 
 ## Safety Tips on Button Batteries
 Parents and caregivers must be aware of the dangers that button batteries can pose to young children. These batteries are found in many common household devices like remote controls, toys and flashlights. They should be kept out of the reach of small children as they may be accidentally swallowed or inserted into their ears or noses. Parents should get medical help fast if these batteries are swallowed as they can get stuck in the throat and cause severe burns.
