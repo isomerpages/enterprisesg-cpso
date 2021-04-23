@@ -33,22 +33,24 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
   <summary><b>Safety Tips on Button Batteries</b></summary>
 <p>Parents and caregivers must be aware of the dangers that button batteries can pose to young children. These batteries are found in many common household devices like remote controls, toys and flashlights. They should be kept out of the reach of small children as they may be accidentally swallowed or inserted into their ears or noses. Parents should get medical help fast if these batteries are swallowed as they can get stuck in the throat and cause severe burns.</p>
 
-According to the Australian Competition and Consumer Commission, the coin-sized lithium button batteries can lodge in the throats of children, where saliva immediately triggers an electrical current, causing a chemical reaction that can severely burn through the oesophagus in as little as two hours.<br><br>
+<p>According to the Australian Competition and Consumer Commission, the coin-sized lithium button batteries can lodge in the throats of children, where saliva immediately triggers an electrical current, causing a chemical reaction that can severely burn through the oesophagus in as little as two hours.</p>
 
-Button batteries are found in devices such as:<br>
-* Remote controls<br>
-* Electric toys<br>
-* Calculators<br>
-* Watches<br>
-* Bathroom scales<br>
-* Reading lights<br>
-* Flameless candles<br>
-* Flashlights<br>
-* Talking and singing books and greeting cards<br><br>
+<p>Button batteries are found in devices such as:</p>
+<ul>
+  <li>Remote controls</li>
+  <li>Electric toys</li>
+  <li>Calculators</li>
+  <li>Watches</li>
+  <li>Bathroom scales</li>
+  <li>Reading lights</li>
+  <li>Flameless candles</li>
+  <li>Flashlights</li>
+  <li>Talking and singing books and greeting cards</li>
+</ul>
 
 <b>Safety Tips</b><br><br>
 
-Precautions parents and caregivers can take include the following:<br>
+<p>Precautions parents and caregivers can take include the following:</p>
 <ul>
 <li>Make sure the battery compartment of any device containing a button battery is secured and cannot be easily opened by young children.</i><br>
 <li>Keep devices with button batteries out of reach of young children.</i><br>
