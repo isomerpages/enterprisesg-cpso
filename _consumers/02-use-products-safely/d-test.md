@@ -1,5 +1,5 @@
 ---
 title: test
 permalink: /consumers/use-products-safely/test
-hide: true
+third_nav_title: Electronics and appliance safety
 ---
