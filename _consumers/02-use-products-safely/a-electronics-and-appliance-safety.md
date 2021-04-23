@@ -48,7 +48,7 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
   <li>Talking and singing books and greeting cards</li>
 </ul>
 
-<b>Safety Tips</b><br><br>
+<p><b>Safety Tips</b></p>
 
 <p>Precautions parents and caregivers can take include the following:</p>
 <ul>
