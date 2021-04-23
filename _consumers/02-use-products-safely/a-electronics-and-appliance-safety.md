@@ -73,7 +73,5 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
   
 <p>Power adapters are one of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Registration Scheme, and are therefore required to carry the SAFETY Mark.</p>
 
-<p>Always check that adapters carry the SAFETY Mark before purchase. The SAFETY Mark indicates that the product has been tested to specific safety standards, and also carries a unique certification number traceable to the supplier. Adapters without the SAFETY Mark may lack the proper safeguards to prevent short circuits, fires, and electrocutions.</p>
-
 </details>
 
