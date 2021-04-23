@@ -1,7 +1,7 @@
 ---
 title: Safety Tips on Button Batteries
 permalink: /consumers/use-products-safely/safety-tips-on-button-batteries-test
-published: false
+second_nav_title: test
 ---
 
 ## Safety Tips on Button Batteries
