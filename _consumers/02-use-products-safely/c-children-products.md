@@ -3,8 +3,10 @@ title: Children's products
 permalink: /consumers/use-products-safely/children-product
 third_nav_title: Use products safely
 ---
+## Children's product safety tips
 
-**Children Products**
+Children and toddlers are especially vulnerable to unsafe products. Keep the following product safety tips in mind to safeguard your children.
+
 * [Safety Tips on Baby Slings](/consumers/product-safety-tips/safety-tips-on-baby-slings){:target="_blank"}
 * [Safety Tips on Children Toys](/consumers/product-safety-tips/safety-tips-on-children-toys){:target="_blank"}
 * [Safety Tips on Cycling](/consumers/product-safety-tips-on-cycling){:target="_blank"}
