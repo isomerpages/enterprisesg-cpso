@@ -65,6 +65,8 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
   <summary><b>Safety Tips on Power Adaptors</b></summary>
 <p>Power adaptors are also generally referred to as AC adapters, AC/DC adapters or chargers. They are plugged into the mains power supply and convert the mains electricity voltage to the lower voltage required to power electrical appliances, such as computers, mobile telecommunication devices, home entertainment equipment and toys.</p>
 
+<img src="/images/product-safety-tips/power-adaptors.jpg" alt="power adaptors" style="width:400px;height:210px;">
+
 <p>Here are some tips to help ensure you enjoy safe and long-lasting use of your electrical appliances and electronic devices.</p>
 </details>
 
