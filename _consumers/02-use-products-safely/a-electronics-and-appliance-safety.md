@@ -77,3 +77,30 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 <p>Always check that adapters carry the SAFETY Mark before purchase. The SAFETY Mark indicates that the product has been tested to specific safety standards, and also carries a unique certification number traceable to the supplier. Adapters without the SAFETY Mark may lack the proper safeguards to prevent short circuits, fires, and electrocutions.</p>
 
 </details>
+
+<div class="sgds-accordion-set">
+    <div class="sgds-accordion">
+        <a href="#!" class="sgds-accordion-header" role="button" aria-expanded="false">
+            accordion bar 1 <i class="sgds-icon sgds-icon-chevron-down"></i>
+        </a>
+        <div class="sgds-accordion-body">
+            <p>your content 1</p>
+        </div>
+    </div>
+    <div class="sgds-accordion is-open">
+        <a class="sgds-accordion-header is-active" role="button" aria-expanded="true">
+            accordion bar 2 <i class="sgds-icon sgds-icon-chevron-up"></i>
+        </a>
+        <div class="sgds-accordion-body">
+            <p>This is an example of a open section</p>
+        </div>
+    </div>
+    <div class="sgds-accordion">
+        <a class="sgds-accordion-header" role="button" aria-expanded="false">
+            accordion bar 3 <i class="sgds-icon sgds-icon-chevron-down"></i>
+        </a>
+        <div class="sgds-accordion-body">
+            <p>your content 3</p>
+        </div>
+    </div>
+</div>
