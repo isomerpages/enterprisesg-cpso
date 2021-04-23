@@ -4,6 +4,21 @@ permalink: /consumers/use-products-safely/javier-test
 third_nav_title: Use products safely
 ---
 
+<style>
+details > summary {
+  font-size: 20px;
+  padding: 4px;
+  width: 200px;
+  border: none;
+  cursor: pointer;
+}
+
+details > p {
+  padding: 4px;
+  margin: 0;
+}
+</style>
+
 <details>
   <summary><b>Safety Tips on Button Batteries</b></summary>
 <p>Parents and caregivers must be aware of the dangers that button batteries can pose to young children. These batteries are found in many common household devices like remote controls, toys and flashlights. They should be kept out of the reach of small children as they may be accidentally swallowed or inserted into their ears or noses. Parents should get medical help fast if these batteries are swallowed as they can get stuck in the throat and cause severe burns.</p>
@@ -35,7 +50,9 @@ third_nav_title: Use products safely
   <li>Reading lights</li>
   <li>Spread the word – many parents do not know of the dangers of button batteries.</li>
 </ul>
-</details><br>
+</details>
+
+<div>
 
 <details>
   <summary><b>Safety Tips on Button Batteries</b></summary>
