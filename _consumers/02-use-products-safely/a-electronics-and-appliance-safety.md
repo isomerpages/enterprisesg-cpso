@@ -30,8 +30,8 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 
 
 <details>
-  <summary><h3>Safety Tips on Button Batteries</h3></summary>
-Parents and caregivers must be aware of the dangers that button batteries can pose to young children. These batteries are found in many common household devices like remote controls, toys and flashlights. They should be kept out of the reach of small children as they may be accidentally swallowed or inserted into their ears or noses. Parents should get medical help fast if these batteries are swallowed as they can get stuck in the throat and cause severe burns.<br><br>
+  <summary><b>Safety Tips on Button Batteries</b></summary>
+<p>Parents and caregivers must be aware of the dangers that button batteries can pose to young children. These batteries are found in many common household devices like remote controls, toys and flashlights. They should be kept out of the reach of small children as they may be accidentally swallowed or inserted into their ears or noses. Parents should get medical help fast if these batteries are swallowed as they can get stuck in the throat and cause severe burns.</p>
 
 According to the Australian Competition and Consumer Commission, the coin-sized lithium button batteries can lodge in the throats of children, where saliva immediately triggers an electrical current, causing a chemical reaction that can severely burn through the oesophagus in as little as two hours.<br><br>
 
@@ -50,12 +50,12 @@ Button batteries are found in devices such as:<br>
 
 Precautions parents and caregivers can take include the following:<br>
 <ul>
-  <li>Make sure the battery compartment of any device containing a button battery is secured and cannot be easily opened by young children.</i><br>
-  <li>Keep devices with button batteries out of reach of young children.</i><br>
-  <li>Inspect old button batteries for leakage and dispose of leaking batteries immediately.</i><br>
-  <li>Do not allow children to play with button batteries.</i><br>
-  <li>If a child is suspected of swallowing a button battery, seek emergency medical help immediately.</i><br>
-  <li>Spread the word – many parents do not know of the dangers of button batteries.</i><br>
+<li>Make sure the battery compartment of any device containing a button battery is secured and cannot be easily opened by young children.</i><br>
+<li>Keep devices with button batteries out of reach of young children.</i><br>
+<li>Inspect old button batteries for leakage and dispose of leaking batteries immediately.</i><br>
+<li>Do not allow children to play with button batteries.</i><br>
+<li>If a child is suspected of swallowing a button battery, seek emergency medical help immediately.</i><br>
+<li>Spread the word – many parents do not know of the dangers of button batteries.</i><br>
 </ul>
 
 </details>
