@@ -30,7 +30,7 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 
 
 <details>
-  <summary><br>Safety Tips on Button Batteries</br></summary>
+  <summary><b>Safety Tips on Button Batteries</b></summary>
 Parents and caregivers must be aware of the dangers that button batteries can pose to young children. These batteries are found in many common household devices like remote controls, toys and flashlights. They should be kept out of the reach of small children as they may be accidentally swallowed or inserted into their ears or noses. Parents should get medical help fast if these batteries are swallowed as they can get stuck in the throat and cause severe burns.<br>
 
 According to the Australian Competition and Consumer Commission, the coin-sized lithium button batteries can lodge in the throats of children, where saliva immediately triggers an electrical current, causing a chemical reaction that can severely burn through the oesophagus in as little as two hours.<br>
