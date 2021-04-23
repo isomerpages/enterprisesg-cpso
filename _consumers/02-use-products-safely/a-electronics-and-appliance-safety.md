@@ -16,7 +16,6 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 * [Safety Tips on Ceiling Fans](/consumers/product-safety-tips/safety-tips-on-ceiling-fans){:target="_blank"}
 
 <details class="sgds-accordion-set">
-<details>
   <summary><b>Safety Tips on Button Batteries</b></summary>
 <p>Parents and caregivers must be aware of the dangers that button batteries can pose to young children. These batteries are found in many common household devices like remote controls, toys and flashlights. They should be kept out of the reach of small children as they may be accidentally swallowed or inserted into their ears or noses. Parents should get medical help fast if these batteries are swallowed as they can get stuck in the throat and cause severe burns.</p>
 
@@ -77,5 +76,4 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 
 <p>Always check that adapters carry the SAFETY Mark before purchase. The SAFETY Mark indicates that the product has been tested to specific safety standards, and also carries a unique certification number traceable to the supplier. Adapters without the SAFETY Mark may lack the proper safeguards to prevent short circuits, fires, and electrocutions.</p>
 
-</details>
 </details>
