@@ -34,8 +34,6 @@ collections:
     
 resources_name: news-and-media
 
-exclude: test.md
-
 future: true
 
 
