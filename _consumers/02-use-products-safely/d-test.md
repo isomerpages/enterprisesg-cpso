@@ -1,6 +1,7 @@
 ---
 title: test
 permalink: /consumers/use-products-safely/test
+show_in_nav: false
 <ul>
 {% for p in pages %}
     {% unless show_in_nav == false %}
@@ -8,7 +9,6 @@ permalink: /consumers/use-products-safely/test
     {% endunless %}
 {% endfor %}
 </ul>
-show_in_nav: false
 ---
 
 test
