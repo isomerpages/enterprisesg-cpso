@@ -8,7 +8,11 @@ logo: /images/cpso-logo.png
 
 links:
   - title: Consumers
-    collection: consumers      
+    collection: consumers
+      sub-links:
+      - title: test
+      - url: test.html
+      - show_in_nav: false
   - title: Suppliers
     collection: suppliers
   - title: News And Media
