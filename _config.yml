@@ -35,8 +35,7 @@ collections:
 resources_name: news-and-media
 
 exclude: [d-test.md]
-
-ask-jamie: true
+exclude: [d-test]
 
 future: true
 
