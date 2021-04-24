@@ -18,9 +18,3 @@ links:
   - title: Contact Us
     url: /contact-us/
 
-docs2_list_title: ACME Documentation
-docs2:
-
-- title: test
-  url: test.html
-  version: 2
