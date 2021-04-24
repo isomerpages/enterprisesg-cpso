@@ -1,6 +1,7 @@
 ---
-title:
+title: safety of button batteries
 permalink: /consumers/use-products-safely/test
+third_nav_title: Use products safely
 <ul>
 {% for p in pages %}
     {% unless show_in_nav == false %}
@@ -9,7 +10,6 @@ permalink: /consumers/use-products-safely/test
 {% endfor %}
 </ul>
 show_in_nav: false
-third_nav_title: Use products safely
 ---
 
 test
