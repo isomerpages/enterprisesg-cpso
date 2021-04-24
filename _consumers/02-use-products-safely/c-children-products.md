@@ -16,4 +16,3 @@ Children and toddlers are vulnerable group and requires greater care when using 
 * [Safety Tips on Children’s Apparel](/consumers/product-safety-tips/safety-tips-on-children-apparel){:target="_blank"}
 * [Safety Tips on Costume Jewellery for Children](/consumers/product-safety-tips/safety-tips-on-constume-jewellery-for-children){:target="_blank"}
 
-[test2](/consumers/use-products-safely/test2)
