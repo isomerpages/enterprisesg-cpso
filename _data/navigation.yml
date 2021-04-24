@@ -18,8 +18,8 @@ links:
   - title: Contact Us
     url: /contact-us/
     
-exclude: d-test.md
+exclude: [d-test.md]
 
-exclude: d-test
+exclude: [d-test]
 
-exclude: test
+exclude: [test]
