@@ -6,4 +6,4 @@ third_nav_title: Use products safely
 
 insert content
 
-[test](/_consumers/02-use-products-safely/x)
+[test](/consumers/02-use-products-safely/x)
