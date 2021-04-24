@@ -6,4 +6,3 @@ third_nav_title: Use products safely
 
 insert content
 
-[test](/consumers/safety-of-button-batts)
