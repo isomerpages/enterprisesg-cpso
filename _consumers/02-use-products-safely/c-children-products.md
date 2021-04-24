@@ -5,7 +5,7 @@ third_nav_title: Use products safely
 ---
 ## Children's product safety tips
 
-test for exclude: d-test.md in config
+test for exclude: d-test.md in config. i also added into the jekyll
 
 Children and toddlers are vulnerable group and requires greater care when using products. Keep the following product safety tips in mind to safeguard your children from injuries.
 
