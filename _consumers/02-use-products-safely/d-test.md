@@ -9,6 +9,7 @@ permalink: /consumers/use-products-safely/test
 {% endfor %}
 </ul>
 show_in_nav: false
+third_nav_title: Use products safely
 ---
 
 test
