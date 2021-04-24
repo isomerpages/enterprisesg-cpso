@@ -1,5 +1,5 @@
 ---
-title: test
+title:
 permalink: /consumers/use-products-safely/test
 <ul>
 {% for p in pages %}
