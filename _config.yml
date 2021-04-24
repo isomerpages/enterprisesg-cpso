@@ -41,6 +41,8 @@ exclude: [consumers/d-test.md]
 exclude: [consumers/02-use-products-safely/d-test/]
 exclude: [consumers/02-use-products-safely/d-test]
 exclude: [consumers/02-use-products-safely/d-test.md]
+exclude: [consumers]
+exclude: [_consumers]
 
 future: true
 
