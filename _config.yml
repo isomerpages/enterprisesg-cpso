@@ -34,7 +34,11 @@ collections:
     
 resources_name: news-and-media
 
-exclude: [d-test.md]
+exclude:
+  d-test.md
+
+exclude:
+  - d-test.md
 
 future: true
 
