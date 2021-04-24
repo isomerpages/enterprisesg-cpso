@@ -36,6 +36,11 @@ resources_name: news-and-media
 
 exclude: [d-test.md]
 exclude: [d-test]
+exclude: [consumers/d-test/]
+exclude: [consumers/d-test.md]
+exclude: [consumers/02-use-products-safely/d-test/]
+exclude: [consumers/02-use-products-safely/d-test]
+exclude: [consumers/02-use-products-safely/d-test.md]
 
 future: true
 
