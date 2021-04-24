@@ -38,6 +38,9 @@ future: true
 
 exclude: [test]
 exclude: ['test']
+exclude: [my-test.md]
+exclude:
+  - my-test.md
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
