@@ -38,10 +38,6 @@ exclude: [d-test.md]
 
 future: true
 
-breadcrumbs:
-  root:
-    hide: true  # show breadcrumbs on root/home page
-
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
