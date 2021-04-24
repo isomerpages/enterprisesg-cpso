@@ -3,13 +3,13 @@ title: safety of button batteries
 permalink: /consumers/use-products-safely/test
 third_nav_title: Use products safely
 
-<ul>
-{% for p in pages %}
-    {% unless show_in_nav == false %}
-    <li><a href="{{ site.baseurl }}{{ p.url }}">{{ p.title }}</a></li>
+{% for page in site.pages %}
+    {% unless page.exclude %}
+        <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">
+            {{ page.title }}
+        </a>
     {% endunless %}
 {% endfor %}
-</ul>
-show_in_nav: false
+exclude: true
 ---
 test
