@@ -33,7 +33,7 @@ collections:
     output: true
     
 resources_name: news-and-media
-
+exclude: [consumers]
 future: true
 
 ##################################################################################################################
