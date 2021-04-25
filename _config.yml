@@ -31,6 +31,7 @@ collections:
     output: true
   product-safety-tips:
     output: true
+    directory: /consumers/02-use-products-safely
     
 resources_name: news-and-media
 
