@@ -2,7 +2,6 @@
 layout: post
 title: Children Apparel
 permalink: /news-and-media/product-safety-alerts-and-recalls/children-apparel
-hidedate: true
 ---
 ### Product Recalls
 
