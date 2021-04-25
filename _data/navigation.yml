@@ -8,9 +8,9 @@ logo: /images/cpso-logo.png
 
 links:
   - title: Consumers
-    collection: consumers
-    url: /consumers/use-products-safely/safety-at-home
-    output: false
+    url: /consumers/
+    sub-links:
+    - collection: consumers
   - title: Suppliers
     collection: suppliers
   - title: News And Media
