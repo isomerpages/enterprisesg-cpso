@@ -8,7 +8,6 @@ logo: /images/cpso-logo.png
 
 links:
   - title: Consumers
-    url: /consumers/
     collection: consumers
   - title: Suppliers
     collection: suppliers
