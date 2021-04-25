@@ -1,6 +1,6 @@
 ---
 title: Safety at home
-permalink: /consumers/use-products-safely/safety-at-home
+permalink: /consumers/product-safety-tips/safety-at-home
 third_nav_title: Product safety tips
 ---
 ## Safety at home
