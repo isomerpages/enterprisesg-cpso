@@ -31,7 +31,6 @@ collections:
     output: true
   product-safety-tips:
     output: true
-    directory: /consumers/02-use-products-safely
     
 resources_name: news-and-media
 
@@ -49,6 +48,7 @@ defaults:
       path: ""
     values:
       layout: "page"
+      show_in_nav: true
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
