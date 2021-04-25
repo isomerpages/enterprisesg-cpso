@@ -1,7 +1,7 @@
 ---
 title: Safety at home
 permalink: /consumers/use-products-safely/safety-at-home
-third_nav_title: Use products safely
+third_nav_title: Product safety tips
 ---
 ## Safety at home
 
