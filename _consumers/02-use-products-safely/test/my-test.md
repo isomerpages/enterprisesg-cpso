@@ -1,7 +1,4 @@
 ---
-permalink: /consumers/use-products-safely/product-type
-third_nav_title: Use products safely
-show_in_nav: false
 ---
 
 <ul>
