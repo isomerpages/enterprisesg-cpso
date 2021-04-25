@@ -1,7 +1,7 @@
 ---
 title: Children's products
 permalink: /consumers/use-products-safely/children-product
-third_nav_title: Use products safely
+third_nav_title: Product safety tips
 ---
 ## Children's product safety tips
 
