@@ -1,6 +1,6 @@
 ---
 title: Children's products
-permalink: /consumers/use-products-safely/children-product
+permalink: /consumers/product-safety-tips/children-product
 third_nav_title: Product safety tips
 ---
 ## Children's product safety tips
