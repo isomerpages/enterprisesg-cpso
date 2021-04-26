@@ -12,7 +12,7 @@ The [Consumer Protection (Safety Requirements) Regulations (CPSR)](https://sso.a
 
 Click [here](/suppliers/cpsr/list-of-controlled-goods) for the list of 33 categories of controlled goods regulated under CPSR.
 
-<sup>1</sup>On 15 January 2018, amendments to the CPSR and the Enterprise Singapore Board (Conformity Assessment) Regulations (“ESGBR”) brought about changes to the conformity assessment framework and product categories of Controlled Goods. The product categories have since been reduced and refined to 33 product categories.<font>
+<sup>1</sup>On 15 January 2018, amendments to the CPSR and the Enterprise Singapore Board (Conformity Assessment) Regulations (“ESGBR”) brought about changes to the conformity assessment framework and product categories of Controlled Goods. The product categories have since been reduced and refined to 33 product categories.
 
 **2. How do I check if a particular Controlled Good is registered?**<br>
 
