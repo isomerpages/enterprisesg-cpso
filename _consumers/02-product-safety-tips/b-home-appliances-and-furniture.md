@@ -1,6 +1,6 @@
 ---
-title: Safety at home
-permalink: /consumers/product-safety-tips/safety-at-home
+title: Home appliances and furniture
+permalink: /consumers/product-safety-tips/home-appliances-and-furniture
 third_nav_title: Product safety tips
 ---
 ## Safety at home
