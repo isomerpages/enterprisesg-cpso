@@ -1,6 +1,6 @@
 ---
-title: Electronics and appliance safety
-permalink: /consumers/product-safety-tips/electronics-and-appliance-safety 
+title: Electronics and appliances
+permalink: /consumers/product-safety-tips/electronics-and-appliances
 third_nav_title: Product safety tips
 ---
 
