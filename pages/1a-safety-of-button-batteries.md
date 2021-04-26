@@ -1,7 +1,7 @@
 ---
 title: Safety Tips on Button Batteries
 permalink: /consumers/product-safety-tips/safety-tips-on-button-batteries
-third_nav_title: Electronics and appliance safety
+third_nav_title: Electronics and appliances
 ---
 
 ## Safety Tips on Button Batteries
