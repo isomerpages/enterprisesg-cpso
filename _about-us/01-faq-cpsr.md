@@ -6,7 +6,7 @@ third_nav_title: FAQ
 
 ### Frequently Asked Questions on Consumer Protection (Safety Requirements) Regulations (CPSR)
 
-**1. What is the CPSR about?**<br>
+**1. What is the Consumer Protection (Safety Requirements) Regulations about?**<br>
 The [Consumer Protection (Safety Requirements) Regulations (CPSR)](https://sso.agc.gov.sg/SL/CPTDSRA1975-RG1?DocDate=20181010){:target="_blank"}( requires 33 categories<sup>1</sup> of household electrical, electronic and gas appliances & accessories, also known as Controlled Goods, to be tested to specified safety standards, registered with the authority, and affixed with the SAFETY Mark before they can be sold in Singapore.
 
 Click [here](/suppliers/cpsr/list-of-controlled-goods) for the list of 33 categories of controlled goods regulated under CPSR.
