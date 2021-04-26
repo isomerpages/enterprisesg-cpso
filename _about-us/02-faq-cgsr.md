@@ -83,12 +83,12 @@ The CPSO will notify the supplier and the public of the unsafe product and instr
 **11. What are the offences under the CGSR?**<br>
 Any person who:<br>
 a. continues selling the goods on or after the day following the issue of a public notice declaring any consumer goods to be unsafe or;<br>
-b. fails to comply with a direction issued by Ethe CPSO, shall be guilty of an offence.
+b. fails to comply with a direction issued by the CPSO, shall be guilty of an offence.
 
 First time offenders, on conviction, shall be liable to a fine not exceeding $2,000 or to an imprisonment for a term not exceeding 12 months or to both. In the case of a second or subsequent offence, the offender shall be liable to a fine not exceeding $10,000 or to an imprisonment for a term not exceeding two years or to both.
 
 **12. How do I find out more about CGSR?**<br>
-Consumers may learn more about the CGSR via this [link](/consumers/choose-safer-products/choose-safer-consumer-goods).
+Consumers may learn more about the CGSR via this [link](/consumers/choose-safer-products/choose-safer-consumer-goods).<br>
 Suppliers may learn more about the CGSR via this [link](/suppliers/cgsr/overview-of-cgsr).
 
 **13. I am a supplier of (consumer product under CGSR). What are the applicable standards for my product?**<br>
