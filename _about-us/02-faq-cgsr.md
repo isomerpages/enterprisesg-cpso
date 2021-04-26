@@ -9,7 +9,7 @@ third_nav_title: FAQ
 **1. What is the CGSR about?**<br>
 The CGSR which came into effect on 1 April 2011,  seeks to enhance the safety of general consumer goods that are currently not under the purview of other regulations or regulatory agencies in Singapore. This generally covers physical/mechanical hazards and electric shock/fire hazards related to consumer products.
 
-**2. What are consuemer goods?**<br>
+**2. What are consumer goods?**<br>
 Consumer goods are items bought by people for their own use, rather than by businesses. They are goods that satisfy personal needs rather than those required for the production of other goods or services.
 
 **3. What products are covered under CGSR?**<br>
@@ -66,4 +66,52 @@ Consumers should be aware of various safety/conformity marks and their limitatio
 For example, the CE marking is based on suppliers’ declaration of conformity and there is no assurance that consumer goods marked CE have actually been tested to the relevant safety standards.
 
 **9. I suspect that my product is unsafe. What should I do?**<br>
+If you are a
+* Consumer: Immediately stop using the product and inform the Supplier and the Consumer Product Safety Office at consumerprotection@enterprisesg.gov.sg
+* Supplier: Immediately stop the supply of the product and notify the Consumer Product Safety Office at consumerprotection@enterprisesg.gov.sg.
+
+**10. I suspect that my product is unsafe, and I have contacted the CPSO. What action will the CPSO take?**<br>
+The CPSO carries out routine market surveillance regularly as part of its enforcement efforts. 
+
+If a product is <ins>reported to be unsafe</ins>:
+The CPSO will investigate whether the product is indeed unsafe. The CPSO will require you to assist to provide information such as when and where the product was purchased.
+
+If a product is <ins>found to be unsafe</ins>:
+The CPSO will notify the supplier and the public of the unsafe product and instruct the supplier to stop the supply of the unsafe product. The CPSO may also instruct suppliers to inform users of the potential dangers of the product.
+
+**11. What are the offences under the CGSR?**<br>
+Any person who
+a. continues selling the goods on or after the day following the issue of a public notice declaring any consumer goods to be unsafe or;
+b. fails to comply with a direction issued by Ethe CPSO, shall be guilty of an offence.
+
+First time offenders, on conviction, shall be liable to a fine not exceeding $2,000 or to an imprisonment for a term not exceeding 12 months or to both. In the case of a second or subsequent offence, the offender shall be liable to a fine not exceeding $10,000 or to an imprisonment for a term not exceeding two years or to both.
+
+
+**12. How do I find out more about CGSR?**<br>
+* Consumers may learn more about the CGSR via this [link](/consumers/choose-safer-products/choose-safer-consumer-goods).
+* Suppliers may learn more about the CGSR via this [link](/suppliers/cgsr/overview-of-cgsr).
+
+**13. I am a supplier of (consumer product under CGSR). What are the applicable standards for my product?**<br>
+Suppliers can refer to Appendix E and Appendix F of the CGSR Information Booklet [here](/images/cgsr-resources/cgsr-infobooklet-revised.pdf) for a listing of the applicable international standards for some products. Suppliers should note, however, that this is list is not exhaustive. For information on what are the relevant standards for your product, please check with your manufacturer.
+
+If your product is not in the list, or if you are unsure about what are the relevant standards for your product, please check with your manufacturer.
+
+If you have questions regarding a particular standard, you may contact an accredited laboratory that will be in a better position to assist you. Look up a listing of laboratories, their areas of expertise and contact information at http://www.sac-accreditation.gov.sg.
+
+**14. I am an overseas supplier and I wish to supply (consumer product under CGSR) to Singapore. What are the local requirements for such products? Do I need to register/apply for certification for these products?**<br>
+Under the CGSR regulations there is no requirement for pre-market certification or approval from the CPSO.
+
+Consumer goods covered by the CGSR regulations are required to meet applicable safety standards.
+
+Those that have applicable standards published by the International Organization for Standardization (ISO), the International Electro-technical Commission (IEC), EN Standards published by the European Committee for Standardisation (CEN) or ASTM International (ASTM standards), will need to meet the safety requirements specified in those standards. For consumer goods for which applicable standards are not published by any of these standards bodies, compliance to applicable regional or national standards will be accepted.
+
+If your products are known to meet any of the above-mentioned standards (where appropriate) then it can be assumed that they meet the requirements of CGSR. However, if any tests show that the products fail to meet the safety requirements of any of the applicable standards, the CPSO has the authority to stop the sale of such products and also publicise the test results to the public.
+
+**15. My (consumer product under CGSR) is malfunctioning/faulty/broken. Can the CPSO help me with compensation?**<br>
+Matters of compensation and warranty do not fall under the purview of the CGSR regulations. If you detect a defect in your product within 6 months of purchase, it is presumed that the defect existed at the time of sale or delivery, and unless the supplier can prove otherwise, you may seek redress under the Lemon Law.
+
+If your product does not fall under the purview of the Lemon Law, you may still seek recourse with the Small Claims Tribunal under the Sale of Goods Act, which provides a platform to resolve small claims between consumers and suppliers.
+
+Contact the Consumer Association of Singapore (CASE) at 6100 0315 for further assistance on such matters.
+
 
