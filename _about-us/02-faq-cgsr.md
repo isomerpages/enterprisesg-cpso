@@ -47,7 +47,7 @@ The following products do not fall under the purview of CGSR and other regulatio
 * The long-term health effects of consumer products
 
 **5. How is CGSR different from the CPSR?**<br>
-CGSR covers all general consumer goods that do not come under the purview of other regulations or regulatory agencies in Singapore, and is based on post-market surveillance and action. There is no requirement for pre-market testing, certification or approval from the Consumer Product Safety Office (CPSO) of Enterprise Singapore.
+CGSR covers all general consumer goods that do not come under the purview of other regulations or regulatory agencies in Singapore, and is based on post-market surveillance and action. There is no requirement for pre-market testing, certification or approval from the Consumer Product Safety Office (CPSO).
 
 On the other hand, the CPSR covers only 33 categories of household electrical, electronic and gas products, and is based on pre-market control which requires registration with the CPSO.
 
