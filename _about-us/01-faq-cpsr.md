@@ -7,7 +7,6 @@ third_nav_title: FAQ
 ### Frequently Asked Questions on Consumer Protection (Safety Requirements) Regulations (CPSR)
 
 **1. What is the CPSR about?**<br>
-
 The [Consumer Protection (Safety Requirements) Regulations (CPSR)](https://sso.agc.gov.sg/SL/CPTDSRA1975-RG1?DocDate=20181010){:target="_blank"}( requires 33 categories<sup>1</sup> of household electrical, electronic and gas appliances & accessories, also known as Controlled Goods, to be tested to specified safety standards, registered with the authority, and affixed with the SAFETY Mark before they can be sold in Singapore.
 
 Click [here](/suppliers/cpsr/list-of-controlled-goods) for the list of 33 categories of controlled goods regulated under CPSR.
@@ -15,7 +14,6 @@ Click [here](/suppliers/cpsr/list-of-controlled-goods) for the list of 33 catego
 <sup>1</sup>On 15 January 2018, amendments to the CPSR and the Enterprise Singapore Board (Conformity Assessment) Regulations (“ESGBR”) brought about changes to the conformity assessment framework and product categories of Controlled Goods. The product categories have since been reduced and refined to 33 product categories.
 
 **2. How do I check if a particular Controlled Good is registered?**<br>
-
 |Steps|Description|
 |:---:|----|
 | **1**| Visit [cpsa.enterprisesg.gov.sg](https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html){:target="_blank"} and click on "Register of Registered Controlled Goods"                                  
@@ -24,7 +22,6 @@ Click [here](/suppliers/cpsr/list-of-controlled-goods) for the list of 33 catego
 
 
 **3. How do I register the Controlled Goods?**<br>
-
 *For low risk Controlled Goods:*<br>
 The RS can submit a Supplier’s Declaration of Conformity (SDoC) to the Consumer Product Safety Office. In doing so the RS is making a self-declaration that the low risk CGs conform to the requirements of CPSR.
 
@@ -36,7 +33,6 @@ If the Consumer Product Safety Office deems the application is in order, a Lette
 Click [here](/suppliers/cpsr/register-your-controlled-goods) to find out more on how to register controlled goods.
 
 **4. What is the registration fee for SDoC?**<br>
-
 The registration fee for SDoC is $180 (exclusive of GST) for new application which is the same as the registration for CoC. 
 
 **5. Does the Consumer Product Safety Office conduct safety tests on products for purpose registering Controlled Goods?**<br>
