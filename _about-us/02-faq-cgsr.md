@@ -47,9 +47,9 @@ The following products do not fall under the purview of CGSR and other regulatio
 * The long-term health effects of consumer products
 
 **5. How is CGSR different from the CPSR?**<br>
-CGSR covers all general consumer goods that do not come under the purview of other regulations or regulatory agencies in Singapore, and is based on post-market surveillance and action. There is no requirement for pre-market testing, certification or approval from the Consumer Product Safety Office of Enterprise Singapore.
+CGSR covers all general consumer goods that do not come under the purview of other regulations or regulatory agencies in Singapore, and is based on post-market surveillance and action. There is no requirement for pre-market testing, certification or approval from the Consumer Product Safety Office (CPSO) of Enterprise Singapore.
 
-On the other hand, the CPSR covers only 33 categories of household electrical, electronic and gas products, and is based on pre-market control which requires registration with Enterprise Singapore.
+On the other hand, the CPSR covers only 33 categories of household electrical, electronic and gas products, and is based on pre-market control which requires registration with the CPSO.
 
 **6. Who will be affected by CGSR?**<br>
 Suppliers (includes manufacturers, importers, distributors, retailers and traders) of general consumer goods that are not under the purview of other regulations or regulatory agencies in Singapore will be affected by CGSR.
@@ -58,6 +58,7 @@ Suppliers (includes manufacturers, importers, distributors, retailers and trader
 One of the roles of the Consumer Product Safety Office is to investigate and instruct suppliers of unsafe consumer goods to stop selling them.
 
 * Role of suppliers: To supply safe products. If any consumer goods are found to be unsafe, they should stop selling the goods immediately.
+*
 * Role of consumers: To take ownership of their own safety when purchasing and using products, and to take note of unsafe products and recall notices. They should also inform the Consumer Product Safety Office and suppliers if they suspect any product is unsafe.
 
 **8. Are safety/conformity marks (e.g. CE marking) sufficient to ensure that the products are safe?**<br>
@@ -66,30 +67,29 @@ Consumers should be aware of various safety/conformity marks and their limitatio
 For example, the CE marking is based on suppliers’ declaration of conformity and there is no assurance that consumer goods marked CE have actually been tested to the relevant safety standards.
 
 **9. I suspect that my product is unsafe. What should I do?**<br>
-If you are a
+If you are a:
 * Consumer: Immediately stop using the product and inform the Supplier and the Consumer Product Safety Office at consumerprotection@enterprisesg.gov.sg
 * Supplier: Immediately stop the supply of the product and notify the Consumer Product Safety Office at consumerprotection@enterprisesg.gov.sg.
 
 **10. I suspect that my product is unsafe, and I have contacted the CPSO. What action will the CPSO take?**<br>
 The CPSO carries out routine market surveillance regularly as part of its enforcement efforts. 
 
-If a product is <ins>reported to be unsafe</ins>:
+<ins>If a product is reported to be unsafe</ins>:<br>
 The CPSO will investigate whether the product is indeed unsafe. The CPSO will require you to assist to provide information such as when and where the product was purchased.
 
-If a product is <ins>found to be unsafe</ins>:
+<ins>If a product is found to be unsafe</ins>:<br>
 The CPSO will notify the supplier and the public of the unsafe product and instruct the supplier to stop the supply of the unsafe product. The CPSO may also instruct suppliers to inform users of the potential dangers of the product.
 
 **11. What are the offences under the CGSR?**<br>
-Any person who
-a. continues selling the goods on or after the day following the issue of a public notice declaring any consumer goods to be unsafe or;
+Any person who:<br>
+a. continues selling the goods on or after the day following the issue of a public notice declaring any consumer goods to be unsafe or;<br>
 b. fails to comply with a direction issued by Ethe CPSO, shall be guilty of an offence.
 
 First time offenders, on conviction, shall be liable to a fine not exceeding $2,000 or to an imprisonment for a term not exceeding 12 months or to both. In the case of a second or subsequent offence, the offender shall be liable to a fine not exceeding $10,000 or to an imprisonment for a term not exceeding two years or to both.
 
-
 **12. How do I find out more about CGSR?**<br>
-* Consumers may learn more about the CGSR via this [link](/consumers/choose-safer-products/choose-safer-consumer-goods).
-* Suppliers may learn more about the CGSR via this [link](/suppliers/cgsr/overview-of-cgsr).
+Consumers may learn more about the CGSR via this [link](/consumers/choose-safer-products/choose-safer-consumer-goods).
+Suppliers may learn more about the CGSR via this [link](/suppliers/cgsr/overview-of-cgsr).
 
 **13. I am a supplier of (consumer product under CGSR). What are the applicable standards for my product?**<br>
 Suppliers can refer to Appendix E and Appendix F of the CGSR Information Booklet [here](/images/cgsr-resources/cgsr-infobooklet-revised.pdf) for a listing of the applicable international standards for some products. Suppliers should note, however, that this is list is not exhaustive. For information on what are the relevant standards for your product, please check with your manufacturer.
