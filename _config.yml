@@ -33,6 +33,8 @@ collections:
     output: true
   test-collection-not-hide:
     output: true
+  test-collection:
+    output: true
     
 resources_name: news-and-media
 
