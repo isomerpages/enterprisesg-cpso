@@ -14,3 +14,5 @@ Keep your family safe – follow these safety guidelines and exercise caution wh
 * Do not use electrical appliances near bathtubs, basins or other vessels containing water.
 
 **&leftarrow; [Return to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+
+<br><a href="/consumers/product-safety-tips/electronics-and-appliances">&leftarrow; Return to Product safety tips</a></b>
