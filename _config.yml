@@ -31,8 +31,6 @@ collections:
     output: true
   product-safety-tips:
     output: true
-  test-collection-hide:
-    output: true
   test-collection-not-hide:
     output: true
 
