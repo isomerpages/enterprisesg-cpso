@@ -16,3 +16,5 @@ Keep your family safe – follow these safety guidelines and exercise caution wh
 &leftarrow; **[Return to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
 
 <a href="/consumers/product-safety-tips/electronics-and-appliances"><b>"&leftarrow;" Return to Product safety tips</b></a>
+
+&#8592;
