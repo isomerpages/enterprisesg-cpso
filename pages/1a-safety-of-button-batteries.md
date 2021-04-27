@@ -1,6 +1,6 @@
 ---
 title: Safety Tips on Button Batteries
-permalink: /consumers/product-safety-tips/safety-tips-on-button-batteries
+permalink: /safety-tips-on-button-batteries
 third_nav_title: Electronics and appliances
 ---
 
@@ -29,3 +29,5 @@ Precautions parents and caregivers can take include the following:
 * Do not allow children to play with button batteries.
 * If a child is suspected of swallowing a button battery, seek emergency medical help immediately.
 * Spread the word – many parents do not know of the dangers of button batteries.
+
+[Return to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)
