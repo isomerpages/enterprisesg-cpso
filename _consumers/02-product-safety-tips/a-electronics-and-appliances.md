@@ -15,4 +15,4 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 * [Safety Tips on Decorative Lighting](/consumers/use-products-safely/safety-tips-on-decorative-lighting){:target="_blank"}
 * [Safety Tips on Ceiling Fans](/consumers/product-safety-tips/safety-tips-on-ceiling-fans){:target="_blank"}
 
-
+[test](/consumers/product-safety-tips/test)
