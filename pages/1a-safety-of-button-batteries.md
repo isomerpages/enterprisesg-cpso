@@ -30,4 +30,4 @@ Precautions parents and caregivers can take include the following:
 * If a child is suspected of swallowing a button battery, seek emergency medical help immediately.
 * Spread the word – many parents do not know of the dangers of button batteries.
 
-[Return to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)
+**[&#8592; Return to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
