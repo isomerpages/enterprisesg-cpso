@@ -3,16 +3,16 @@ title: Children Toys
 permalink: /consumers/product-safety-alerts-and-recalls/children-toys
 third_nav_title: Product Safety Alerts and Recalls
 ---
-## Product Safety Alerts and Recalls
+## Children Toys Safety Alerts and Recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**Product Recalls** 
+**Product recalls** 
 
 |Date|Title|
 |---|---|
 |01 Apr 2021 &nbsp; &nbsp; |[Sunnylife Sydney Australia (Sunnylife) recalls ‘Croc Family Bath Toys Set of 3, with and without squeaker](/news-and-media/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-04-01-sunnylife-sydney-australia-sunnylife-recalls-croc-family-bath-toys-set-of-3-with-and-without-squeaker.pdf){:target="_blank"}|
 
-**Product Safety Alerts**
+**Product safety alerts**
 
 |Date|Title|
 |---|---|
