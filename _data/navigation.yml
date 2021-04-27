@@ -18,6 +18,5 @@ links:
   - title: Contact Us
     url: /contact-us/
   - title: test collection
-    collection: test collection not hide
-    collection: test collection hide
+    collection: test collection
 
