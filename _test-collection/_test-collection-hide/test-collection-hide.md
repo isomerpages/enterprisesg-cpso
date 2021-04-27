@@ -1,5 +1,5 @@
 ---
 title: test collection hide
-permalink: ""
+permalink: /test-collection-hide
 ---
 
