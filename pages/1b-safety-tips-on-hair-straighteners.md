@@ -1,6 +1,6 @@
 ---
 title: Safety Tips on Hair Straighteners
-permalink: /consumers/product-safety-tips/safety-tips-on-hair-straighteners
+permalink: /safety-tips-on-hair-straighteners
 third_nav_title: Electronics and appliances
 ---
 ## Safety Tips on Hair Straighteners
@@ -12,3 +12,5 @@ Keep your family safe – follow these safety guidelines and exercise caution wh
 * Keep hair straighteners out of reach of children while waiting for the plates to cool down.
 * Store them in a safe place immediately after the plates have cooled down. If possible, place them in a special heat resistant pouch.
 * Do not use electrical appliances near bathtubs, basins or other vessels containing water.
+
+[Return to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)
