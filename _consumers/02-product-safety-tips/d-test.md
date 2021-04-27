@@ -1,8 +1,8 @@
 ---
 layout: deviation
-title: Test
+title: _Test
 permalink: /consumers/product-safety-tips/test
-show_in_nav = false
+third_nav_title: Product Safety Tips
 ---
 
-test show in nav false
+test underscore in title
