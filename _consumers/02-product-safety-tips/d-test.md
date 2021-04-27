@@ -2,7 +2,7 @@
 layout: deviation
 title: Test
 permalink: /consumers/product-safety-tips/test
-show_in_nav: false
+exclude: true
 ---
 
-test page layout
+test exclude true
