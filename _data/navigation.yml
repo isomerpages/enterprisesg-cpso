@@ -11,12 +11,13 @@ links:
     collection: consumers
   - title: Suppliers
     collection: suppliers
+  - title: Test Collection
+    collection: test collection
   - title: News And Media
     resource_room: true
   - title: About
     collection: about-us
   - title: Contact Us
     url: /contact-us/
-  - title: test collection
-    collection: test collection
+
 
