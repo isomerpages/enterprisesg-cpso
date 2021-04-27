@@ -11,9 +11,6 @@ links:
     collection: consumers
   - title: Suppliers
     collection: suppliers
-  - title: Test Collection
-    collection: test-collection-not-hide
-    collection: test-collection-hide
   - title: News And Media
     resource_room: true
   - title: About
