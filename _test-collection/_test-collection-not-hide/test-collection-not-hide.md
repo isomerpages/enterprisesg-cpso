@@ -1,5 +1,5 @@
 ---
 title: test collection not hide
-permalink: ""
+permalink: test collection not hide
 ---
 
