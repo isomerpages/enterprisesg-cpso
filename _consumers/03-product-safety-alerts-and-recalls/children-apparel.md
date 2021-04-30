@@ -10,7 +10,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 
 |Date|Title|
 |---|---|
-|01 Oct 2019|[IKEA recalls MATVRÅ blue/red children’s bib](/consumers/product-safety-alerts-and-recalls/children-apparel/children-apparel-recall-2019-10-01-ikea-recalls-matvra-children-bib.pdf){:target="_blank"}|
+|01 Oct 2019|[IKEA recalls MATVRÅ blue/red children’s bib](/consumers/03-product-safety-alerts-and-recalls/children-apparel/children-apparel-recall-2019-10-01-ikea-recalls-matvra-children-bib.pdf){:target="_blank"}|
 |25 Apr 2019|[Mattel Singapore recalls Fisher-Price Rock ‘N Play infant rocker](/consumers/product-safety-alerts-and-recalls/children-apparel/children-apparel-recall-2019-04-25-mattel-singapore-recalls-fisher-price-rock-n-play-infant-rocker.pdf){:target="_blank"} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 
 **Product safety alerts**
