@@ -24,3 +24,23 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 |28 Aug 2018|[Chairs: Red Tolix chair](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2018-08-28-red-tolix-chair.pdf){:target="_blank"}|
 |28 Aug 2018|[Chairs: 7-92-Zircon barstool](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2018-08-28-7-92-zircon-barstool.pdf){:target="_blank"}|
 |28 Aug 2018|[Table: Montreal Rhea sofa table](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2018-08-28-montreal-rhea-sofa-table.pdf){:target="_blank"}|
+|13 Jun 2018|[Coffee Table: ARTHY coffee table](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2018-06-13-arthy-coffee-table.pdf){:target="_blank"}|
+|13 Jun 2018|[Coffee Table: Tempered glass side table](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2018-06-13-tempered-glass-side-table-black.pdf){:target="_blank"}|
+|13 Jun 2018|[Chairs: Silver Tolix chair](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2018-06-13-tolix-chair-industrial-silver.pdf){:target="_blank"}|
+|31 Mar 2017|[Chairs: Miley Conference chair](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2017-03-31-miley-conference-chair.pdf){:target="_blank"}|
+|13 Mar 2017|[Chairs: Rex Office Chair (Mar 2017)](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2017-03-13-rex-office-chair.pdf){:target="_blank"}|
+|09 Feb 2017|[Chairs: Office Chair (Model No. DA-B118)](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2017-02-09-office-chair-model-da-b118.pdf){:target="_blank"}|
+|09 Feb 2017|[Chairs: High Back Office Chair (Model No. LK202)](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2017-02-09-high-back-office-chair-model-lk202.pdf){:target="_blank"}|
+|09 Feb 2017|[hairs: Office Chair (Model No. XL001)](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2017-02-09-office-chair-model-xl001.pdf){:target="_blank"}|
+
+
+
+
+
+
+
+
+
+
+
+
