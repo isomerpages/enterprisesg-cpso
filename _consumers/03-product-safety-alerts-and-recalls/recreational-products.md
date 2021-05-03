@@ -10,7 +10,10 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 
 |Date|Title|
 |---|---|
-|08 Oct 2018|[Miniso Ultrathin 4000mAh Power Bank](/consumers/03-product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2018-10-08-miniso-ultrathin-4000mah.pdf){:target="_blank"}|
+|31 Oct 2019|[Decathlon recalls OnNight 410 Trail Running Headlamp](/consumers/03-product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-10-31-decathlon-recalls-onnight-410-trail-running-headlamp.pdf){:target="_blank"}|
+|02 Sep 2019|[Decathlon recalls BTWIN Bike Carrier Adaptor](/consumers/03-product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-09-02-decathlon-recalls-bttwin-bike-carrier-adaptor.pdf){:target="_blank"}|
+|02 Sep 2019|[Trek Bicycle Corporation recalls Trek Kickster Balance Bicycles](/consumers/03-product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-09-02-trek-bicycle-corporation-recalls-trek-kickster-balance-bicycles.pdf){:target="_blank"}|
+|29 Jul 2019|[Decathlon recalls Rocky Screwgate Carabiner](/consumers/03-product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-07-29-decathlon-recalls-rocky-screwgate-carabiner.pdf){:target="_blank"}|
 
 **Product safety alerts**
 
