@@ -36,11 +36,14 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 |29 Feb 2016|[Lighting: AC Self-ballasted LED Lamp](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2016-02-29-ac-self-ballasted-led-lamp.pdf){:target="_blank"}|
 |29 Feb 2016|[Lighting: Mag Lit Self-ballasted LED Lamp](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2016-02-29-mag-lit-self-ballasted-led-lamp.pdf){:target="_blank"}|
 |18 Feb 2016|[Lighting: Casiotec GP-05WDL Self-ballasted LED Lamp](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2016-02-18-casiotec-gp-05wdl-self-ballasted-led-lamp.pdf){:target="_blank"}|
-
-
-
-
-
+|18 Feb 2016|[Lighting: LC Self-ballasted LED Lamp (Feb 2016)](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2016-02-18-lc-self-ballasted-led-lamp.pdf){:target="_blank"}|
+|02 Feb 2016|[Lighting: Spark E14 Self-ballasted LED Lamp (Feb 2016)](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2016-02-02-spark-e14-self-ballasted-led-lamp.pdf){:target="_blank"}|
+|02 Feb 2016|[Lighting: Leili LNGY-101B Self-ballasted LED Lamp (Feb 2016)](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2016-02-02-leili-lngy-101b-self-ballasted-led-lamp.pdf){:target="_blank"}|
+|02 Feb 2016|[Lighting: DL STB4W WWB Self-ballasted LED Lamp (Feb 2016)](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2016-02-02-dl-stb4w-wwb-self-ballasted-led-lamp.pdf){:target="_blank"}|
+|02 Feb 2016|[Lighting: High Power Self-ballasted LED Lamp (Feb 2016)](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2016-02-02-high-power-self-ballasted-led-lamp.pdf){:target="_blank"}|
+|02 Feb 2016|[Lighting: AZ e-lite AZCEND Globe Self-ballasted LED Lamp (Feb 2016)](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2016-02-02-az-e-lite-azcend-globe-self-ballasted-led-lamp.pdf){:target="_blank"}|
+|28 Dec 2015|[Electric Drill: SKIL 450W 10mm Impact Drill (Dec 2015)](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2015-12-28-skil-450w-10mm-impact-drill.pdf){:target="_blank"}|
+|17 Feb 2015|[Lighting: 3W Unicell LED Lamp (Feb 2015)](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2015-02-17-3w-unicell-led-lamp.pdf){:target="_blank"}|
 
 
 
