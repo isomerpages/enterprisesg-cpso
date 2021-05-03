@@ -37,9 +37,18 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 |03 Jun 2016|[Chairs: Nano Chair](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2016-06-03-nano-chair.pdf){:target="_blank"}|
 |25 Apr 2016|[Bookcases: 4-Door Bookcase](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2016-04-25-4-door-bookcase.pdf){:target="_blank"}|
 |08 Mar 2016|[Bookcases: Eddy Office Chair](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2016-03-08-eddy-office-chair.pdf){:target="_blank"}|
-|19 Mar 2015|[Chests of drawers and dressers: Chest of Drawer Walnut (DA CD-250WN)](/consumers/03-product-safety-alerts-and-recalls/furniture-alert-2015-03-19-chest-of-drawer-walnut-da-cd-250wn.pdf){:target="_blank"}|
-|12 Aug 2014|[Chairs: Office Swivel Chair + Arm MDL50 (High Back – Col: 6173 Purple)](/consumers/03-product-safety-alerts-and-recalls/furniture-alert-2014-08-12-office-swivel-chair-arm-mdl50.pdf){:target="_blank"}|
-|02 Jul 2014|[Chests of drawers and dressers: 2’4 Chest Drawer Cherry](/consumers/03-product-safety-alerts-and-recalls/furniture-alert-2014-07-02-2-4-chest-drawer-cherry.pdf){:target="_blank"}|
+|19 Mar 2015|[Chests of drawers and dressers: Chest of Drawer Walnut (DA CD-250WN)](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2015-03-19-chest-of-drawer-walnut-da-cd-250wn.pdf){:target="_blank"}|
+|12 Aug 2014|[Chairs: Office Swivel Chair + Arm MDL50 (High Back – Col: 6173 Purple)](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2014-08-12-office-swivel-chair-arm-mdl50.pdf){:target="_blank"}|
+|02 Jul 2014|[Chests of drawers and dressers: 2’4 Chest Drawer Cherry](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2014-07-02-2-4-chest-drawer-cherry.pdf){:target="_blank"}|
+|02 Jul 2014|[Bookcases: M1538 Bookcase](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2014-07-02-m1538-bookcase.pdf){:target="_blank"}|
+|02 Jul 2014|[Chests of drawers and dressers: R5428 5 Drawer Chest](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2014-07-02-r5428-5-drawer-chest.pdf){:target="_blank"}|
+|02 Jul 2014|[Bookcases: Bookcase](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2014-07-02-bookcase.pdf){:target="_blank"}|
+|02 Jul 2014|[Bookcases: 80cm Bookcase Cherry SK666](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2014-07-02-80cm-bookcase-cherry.pdf){:target="_blank"}|
+|10 Jun 2014|[Chests of drawers and dressers: Noida Chest 510](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2014-06-10-noida-chest-510.pdf){:target="_blank"}|
+|23 Aug 2013|[Chests of drawers and dressers: Qubiq Chest 4 Drawers, Walnut](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2013-08-23-qubiq-chest-4-drawers-walnut.pdf){:target="_blank"}|
+|23 Aug 2013|[Chests of drawers and dressers: Chest of Drawers, Brown Cherry](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2013-08-23-chest-of-drawers-brown-cherry.pdf){:target="_blank"}|
+|23 Aug 2013|[Chests of drawers and dressers: SL CD15.5 Chest of Drawers, Pink/White](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2013-08-23-sl-cd15-5-chest-of-drawers.pdf){:target="_blank"}|
+|23 Aug 2013|[Chests of drawers and dressers: Silentnight Pavillion 4 Chest Drawer](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2013-08-23-silentnight-pavillion-4-chest-drawer.pdf){:target="_blank"}|
 
 
 
