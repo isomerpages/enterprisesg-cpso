@@ -51,7 +51,16 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 |05 Sep 2014|[Haircare: Bronson 218 Hair Straightener](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-09-05-bronson-218.pdf){:target="_blank"}|
 |05 Sep 2014|[Haircare: Bronson BBL-128 Hair Straightener](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-09-05-bronson-bbl-128.pdf){:target="_blank"}|
 |05 Sep 2014|[Haircare: Bronson BBL-608 Hair Straightener](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-09-05-bronson-bbl-608.pdf){:target="_blank"}|
-|25 Aug 2014|[Lighting: "UK" LED bulb (Aug 2014)](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-08-25-uk-led-bulb.pdf){:target="_blank"}|
+|25 Aug 2014|[Lighting: "UK" LED bulb](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-08-25-uk-led-bulb.pdf){:target="_blank"}|
+|14 Aug 2014|[Lighting: Go-Pro GPY10510-SC LED Bulb](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-08-14-go-pro-gpy10510-sc.pdf){:target="_blank"}|
+|06 Aug 2014|[Lighting: PowerPac “Crystalline” LED Bulb](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-08-06-powerpac-crystalline-led-bulb.pdf){:target="_blank"}|
+|03 Apr 2014|[Haircare: Junma HB-25 Hair Curling Iron](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-04-03-junma-hb-25.pdf){:target="_blank"}|
+|03 Apr 2014|[Haircare: Blueidea - BLD 838 Hair Straightener](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-04-03-blueidea-bld-838.pdf){:target="_blank"}|
+|07 Mar 2014|[Haircare: Panasonic EH-HW13 Hair Straightener](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-03-07-panasonic-eh-hw13.pdf){:target="_blank"}|
+|07 Mar 2014|[Haircare: Revlon RVST2029A Hair Straightener](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-03-07-revlon-rvst2029a.pdf){:target="_blank"}|
+|07 Mar 2014|[Haircare: Revlon RVST2029B Hair Straightener](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-03-07-revlon-rvst2029b.pdf){:target="_blank"}|
+
+
 
 
 
