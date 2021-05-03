@@ -16,7 +16,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 
 |Date|Title|
 |---|---|
-|18 Jul 2019|[KEAIHAO Magnetic Building Block Set]((/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-keaihao-magnetic-building-block-set.pdf){:target="_blank"}|
+|18 Jul 2019|[KEAIHAO Magnetic Building Block Set](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-keaihao-magnetic-building-block-set.pdf){:target="_blank"}|
 |18 Jul 2019|[125pcs 5mm Creative Building Block Magic Cube MAGCUBE Magnetic Cubes](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-125pcs-5mm-creative-building-block-magic-cube-magcube-magnetic-cubes.pdf){:target="_blank"}|
 |18 Jul 2019|[216pcs 5mm Buckyballs Neocube Magnetic Balls](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-216pcs-5mm-buckyballs-neocube-magnetic-balls.pdf){:target="_blank"}|
 |18 Jul 2019|[216pcs 5mm Magnetic Magic Cube Puzzle Magnetic Balls](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-216pcs-5mm-magnetic-magic-cube-puzzle-magnetic-balls.pdf){:target="_blank"}|
