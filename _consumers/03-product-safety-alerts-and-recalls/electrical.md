@@ -28,3 +28,4 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 
 |Date|Title|
 |---|---|
+|23 Apr 2021|[Electrolux refrigerators (model number ENN2754AOW) installed at Riversails condominum](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2021-04-23-electrolux-refrigerators-model-number-enn2754aow-installed-at-riversails-condominium.pdf){:target="_blank"}|
