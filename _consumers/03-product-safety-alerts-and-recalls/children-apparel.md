@@ -9,7 +9,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 01 Oct 2019<br>
 **IKEA recalls MATVRÅ blue/red children’s bib**<br><br>
 IKEA has announced a voluntary recall of the MATVRÅ blue/red children’s bib. The button on the bib can come off when pulled, posing a choking hazard to children.<br><br>
-<img src="/consumers/03-product-safety-alerts-and-recalls/children-apparel/blue-red-children-bib.png" alt="IKEA children's bib" style="width:365px;height:313px;"><br><br>
+<img src="/images/product-safety-alerts-and-recalls/children-apparel/blue-red-children-bib.png" alt="IKEA children's bib" style="width:365px;height:313px;"><br><br>
 Consumers who own the bib are advised to stop using it immediately and visit the nearest IKEA store for a full refund or a product replacement.<br><br>For more information, please visit [IKEA’s website](https://www.ikea.com/sg/en/customer-service/product-support/recalls/) or contact IKEA’s Customer Contact Centre at +65 6786 6868.
 
 Refer to the listing below for more product safety alerts and recalls.
