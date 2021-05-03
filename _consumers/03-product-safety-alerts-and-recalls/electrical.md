@@ -29,3 +29,26 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 |Date|Title|
 |---|---|
 |23 Apr 2021|[Electrolux refrigerators (model number ENN2754AOW) installed at Riversails condominum](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2021-04-23-electrolux-refrigerators-model-number-enn2754aow-installed-at-riversails-condominium.pdf){:target="_blank"}|
+|02 Sep 2019|[Whirlpool, Hotpoint, Indesit, Creda, Swan and Proline tumble dryers](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2019-09-02-whirlpool-hotpoint-indesit-creda-swan-and-proline-tumble-dryers.pdf){:target="_blank"}|
+|31 Mar 2017|[Lighting: Wits 5W P20 AC86-265V E27 Self-ballasted LED Lamp](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2017-03-31-wits-5w-p20-ac86-265v-e27-self-ballasted-led-lamp.pdf){:target="_blank"}|
+|31 Mar 2017|[Lighting: UK 3W E14 Self-ballasted LED Lamp](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2017-03-31-uk-3w-e14-self-ballasted-led-lamp.pdf){:target="_blank"}|
+|29 Feb 2016|[Lighting: High Power Self-ballasted LED Lamp](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2016-02-29-high-power-self-ballasted-led-lamp.pdf){:target="_blank"}|
+|29 Feb 2016|[Lighting: AC Self-ballasted LED Lamp](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2016-02-29-ac-self-ballasted-led-lamp.pdf){:target="_blank"}|
+|29 Feb 2016|[Lighting: Mag Lit Self-ballasted LED Lamp](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2016-02-29-mag-lit-self-ballasted-led-lamp.pdf){:target="_blank"}|
+|18 Feb 2016|[Lighting: Casiotec GP-05WDL Self-ballasted LED Lamp](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2016-02-18-casiotec-gp-05wdl-self-ballasted-led-lamp.pdf){:target="_blank"}|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
