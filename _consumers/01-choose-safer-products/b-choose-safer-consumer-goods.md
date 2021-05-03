@@ -33,4 +33,4 @@ The Consumer Product Safety Office does active post-market surveillance to reduc
 * Stop using the product when signs of wear and tear such as cracks are observed.
 * Do not use electrical appliances near wet areas and bathtubs, basins or other vessels containing water.
 
-Click [here](/consumers/use-products-safely/overview) for more consumer product safety tips. 
+Click [here](/consumers/product-safety-tips/electronics-and-appliances) for more consumer product safety tips. 
