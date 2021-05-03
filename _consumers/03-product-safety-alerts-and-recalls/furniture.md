@@ -31,7 +31,26 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 |13 Mar 2017|[Chairs: Rex Office Chair (Mar 2017)](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2017-03-13-rex-office-chair.pdf){:target="_blank"}|
 |09 Feb 2017|[Chairs: Office Chair (Model No. DA-B118)](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2017-02-09-office-chair-model-da-b118.pdf){:target="_blank"}|
 |09 Feb 2017|[Chairs: High Back Office Chair (Model No. LK202)](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2017-02-09-high-back-office-chair-model-lk202.pdf){:target="_blank"}|
-|09 Feb 2017|[hairs: Office Chair (Model No. XL001)](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2017-02-09-office-chair-model-xl001.pdf){:target="_blank"}|
+|09 Feb 2017|[Chairs: Office Chair (Model No. XL001)](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2017-02-09-office-chair-model-xl001.pdf){:target="_blank"}|
+|14 Sep 2016|[Bookcases: Bookshelf (3M-BC4014)](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2016-09-14-bookshelf-3m-bc4014.pdf){:target="_blank"}|
+|14 Sep 2016|[Bookcases: Book Rack DA258CR](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2016-09-14-book-rack-da258cr.pdf){:target="_blank"}|
+|03 Jun 2016|[Chairs: Nano Chair](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2016-06-03-nano-chair.pdf){:target="_blank"}|
+|25 Apr 2016|[Bookcases: 4-Door Bookcase](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2016-04-25-4-door-bookcase.pdf){:target="_blank"}|
+|08 Mar 2016|[Bookcases: Eddy Office Chair](/consumers/03-product-safety-alerts-and-recalls/furniture/furniture-alert-2016-03-08-eddy-office-chair.pdf){:target="_blank"}|
+|19 Mar 2015|[Chests of drawers and dressers: Chest of Drawer Walnut (DA CD-250WN)](/consumers/03-product-safety-alerts-and-recalls/furniture-alert-2015-03-19-chest-of-drawer-walnut-da-cd-250wn.pdf){:target="_blank"}|
+|12 Aug 2014|[Chairs: Office Swivel Chair + Arm MDL50 (High Back – Col: 6173 Purple)](/consumers/03-product-safety-alerts-and-recalls/furniture-alert-2014-08-12-office-swivel-chair-arm-mdl50.pdf){:target="_blank"}|
+|02 Jul 2014|[Chests of drawers and dressers: 2’4 Chest Drawer Cherry](/consumers/03-product-safety-alerts-and-recalls/furniture-alert-2014-07-02-2-4-chest-drawer-cherry.pdf){:target="_blank"}|
+
+
+
+
+
+
+
+
+
+
+
 
 
 
