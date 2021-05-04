@@ -44,7 +44,7 @@ The Terms and Conditions set out here may be edited from time to time. Updated v
 Your use of the web site is subject to the Consumer Product Safety Office's Privacy Policy.<br><br>
 
 **11. Registration on Web Site and e-Services Web Sites**<br>
-Information collected from our users may be used for various reasons.<br><br>
+Information collected from our users may be used for various reasons.<br>
 
 We are committed to safeguarding your privacy. We do not disclose specific information about our users to any third parties unless so required by law or any government agencies. In the event that you participate in contests or other promotional programs on our site sponsored or organized by third parties or purchase goods and services offered by third parties or offer goods and services to third parties on our sites, your information may be disclosed to and used by such third parties.  
 
