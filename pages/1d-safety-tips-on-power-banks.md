@@ -1,6 +1,6 @@
 ---
 title: Safety Tips on Power Banks
-permalink:/safety-tips-on-power-banks
+permalink: /safety-tips-on-power-banks
 ---
 
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
