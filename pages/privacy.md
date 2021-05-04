@@ -5,4 +5,4 @@ permalink: /privacy/
 
 ### **Government of Singapore Privacy Statement**
 
-1. 
+1. &nbsp; &nbsp; This is a Government of Singapore digital service.
