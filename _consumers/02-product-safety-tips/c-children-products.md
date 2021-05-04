@@ -7,10 +7,10 @@ third_nav_title: Product safety tips
 
 Children and toddlers are vulnerable group and requires greater care when using products. Keep the following product safety tips in mind to safeguard your children from injuries.
 
-* [Safety Tips on Baby Slings](/consumers/product-safety-tips/safety-tips-on-baby-slings){:target="_blank"}
-* [Safety Tips on Children Toys](/consumers/product-safety-tips/safety-tips-on-children-toys){:target="_blank"}
+* [Safety Tips on Baby Slings](/safety-tips-on-baby-slings)
+* [Safety Tips on Children Toys](/safety-tips-on-children-toys)
 * [Safety Tips on Cycling](/safety-tips-on-cycling)
-* [Safety Tips on Strollers](/consumers/product-safety-tips/safety-tips-on-strollers){:target="_blank"}
-* [Safety Tips on Children’s Apparel](/consumers/product-safety-tips/safety-tips-on-children-apparel){:target="_blank"}
-* [Safety Tips on Costume Jewellery for Children](/consumers/product-safety-tips/safety-tips-on-constume-jewellery-for-children){:target="_blank"}
+* [Safety Tips on Strollers](/safety-tips-on-strollers)
+* [Safety Tips on Children’s Apparel](/safety-tips-on-children-apparel)
+* [Safety Tips on Costume Jewellery for Children](/safety-tips-on-constume-jewellery-for-children)
 
