@@ -3,6 +3,7 @@ title: Safety Tips on Hair Straighteners
 permalink: /safety-tips-on-hair-straighteners
 third_nav_title: Electronics and appliances
 ---
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
 ## Safety Tips on Hair Straighteners
 Hair straighteners generate high heat which can be applied to hair to smoothen out tangles. It is important to know that the heat generated can reach temperatures exceeding 200°C. While they heat up rapidly, a considerable amount of time is needed for the appliance to cool down after use. If they are not put away safely during the cooling down process, there is a risk of contact burns from the hot plates when young children pick them up. This could result in injuries ranging from the superficial to the severe.
 
