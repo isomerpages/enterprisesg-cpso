@@ -15,7 +15,7 @@ third_nav_title: Supplying controlled goods
 * Updated 01 Apr 2018:<br>
 [Conformity Assessment Information Booklet](/images/cpsr-resources/cab-booklet.pdf){:target="_blank"}
 * Updated 26 Oct 2020:<br>
-[List of Conformity Assessment Bodies](/images/cpsr-resources/cpsr-list-of-cabs.pdf){:target="_blank"}
+[List of Conformity Assessment Bodies](/images/cpsr-resources/list-of-cab-cps-scheme-ver-22-04-21.xlsx){:target="_blank"}
 
 
 **Application info**
@@ -29,5 +29,3 @@ third_nav_title: Supplying controlled goods
 [Notification of Change of Registered Supplier's Particulars](/images/cpsr-application-info/notification-of-change-of-registered-suppliers-particulars.pdf){:target="_blank"}
 * Updated 01 Apr 2018:<br>
 [Notification of Modification to Registered Controlled Goods](/images/cpsr-application-info/notification-of-modification-to-registered-controlled-goods.pdf){:target="_blank"}
-
-[list of CABs](/images/cpsr-resources/list-of-cab-cps-scheme-ver-22-04-21.xlsx)
