@@ -48,5 +48,5 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 |14 Aug 2014|[Musical Toy Nursery](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-alert-2014-08-14-musical-toy-nursery.pdf){:target="_blank"}|
 |08 Jul 2014|[Poppers](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-alert-2014-07-08-poppers.pdf){:target="_blank"}|
 |07 Mar 2014|[Transcend Toy Gun](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-alert-2014-03-07-transcend-toy-gun.pdf){:target="_blank"}|
-|01 Nov 2011|[Toys not meeting safety requirements](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-alert-2011-11-01-toys-not-meeting-safety-requirements){:target="_blank"}|
-|01 Jun 2011|[Toys not meeting safety requirements2](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-alert-2011-06-01-toys-not-meeting-safety-requirements2){:target="_blank"}|
+|01 Nov 2011|[Toys not meeting safety requirements](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-alert-2011-11-01-toys-not-meeting-safety-requirements.pdf){:target="_blank"}|
+|01 Jun 2011|[Toys not meeting safety requirements](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-alert-2011-06-01-toys-not-meeting-safety-requirements2.pdf){:target="_blank"}|
