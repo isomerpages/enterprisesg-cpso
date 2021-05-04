@@ -7,7 +7,7 @@ third_nav_title: FAQ
 ### Frequently Asked Questions on Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)
 
 **1. What is the Consumer Protection (Consumer Goods Safety Requirements) Regulations 2011 (CGSR) about?**<br>
-The CGSR seeks to enhance the safety of general consumer goods in Singapore. This generally covers physical/mechanical hazards and electric shock/fire hazards related to consumer products.
+The [Consumer Protection (Consumer goods Safety Requirements) Regulations](https://sso.agc.gov.sg/SL-Supp/S184-2018/Published/20180329?DocDate=20180329){:target="_blank"} seeks to enhance the safety of general consumer goods in Singapore. This generally covers physical/mechanical hazards and electric shock/fire hazards related to consumer products.
 
 For products not under the purview of the CGSR please see Q4.
 
