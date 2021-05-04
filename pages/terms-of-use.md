@@ -3,7 +3,7 @@ title: Terms of Use
 permalink: /terms-of-use/
 ---
 
-### Terms of Use
+### **Terms of Use**
 
 **1. Agreement - Terms**<br>
 All access to any area on our website is governed by the terms and conditions below ("Terms"). If you are not comfortable with any of these Terms, we would advise you to exit. Please continue only if you can accept these Terms.
