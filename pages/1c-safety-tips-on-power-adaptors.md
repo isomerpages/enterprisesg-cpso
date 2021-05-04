@@ -1,5 +1,5 @@
 ---
-title: Safety Tips on Button Batteries
+title: Safety Tips on Power Adaptors
 permalink: /safety-tips-on-power-adaptors
 ---
 
