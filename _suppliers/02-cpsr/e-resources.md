@@ -30,3 +30,4 @@ third_nav_title: Supplying controlled goods
 * Updated 01 Apr 2018:<br>
 [Notification of Modification to Registered Controlled Goods](/images/cpsr-application-info/notification-of-modification-to-registered-controlled-goods.pdf){:target="_blank"}
 
+[list of CABs](/images/cpsr-resources/list-of-cab-cps-scheme-ver-22-04-21.xlsx)
