@@ -20,3 +20,6 @@ b. We will NOT share your personal data with non-Government entities, except whe
 
 c. For your convenience, we may also display to you data you had previously supplied us or other Government Agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data.
 
+6. To safeguard your personal data, all electronic storage and transmission of personal data is secured with appropriate security technologies.
+
+7.	This digital service may contain links to non-Government digital service whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other digital service and encourage you to consult the privacy notices of those digital service.
