@@ -90,8 +90,8 @@ Any person who –
 
   a.	continues selling the goods on or after the day following the issue of a public notice declaring any consumer goods to be unsafe; or<br>
   b.	fails to comply with a direction issued by the Consumer Product Safety Office to –<br>
-    (i)	control or cease the supply; and
-    (ii)	inform users of the potential dangers of the goods
+      (i)	control or cease the supply; and<br>
+      (ii)	inform users of the potential dangers of the goods
 
 shall be guilty of an offence.
 
