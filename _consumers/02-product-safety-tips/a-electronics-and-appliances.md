@@ -10,7 +10,7 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 
 * [Safety Tips on Button Batteries](/safety-tips-on-button-batteries)
 * [Safety Tips on Hair Straighteners](/safety-tips-on-hair-straighteners)
-* [Safety Tips on Power Adaptors](/consumers/use-products-safely/safety-tips-on-power-adaptors){:target="_blank"}
-* [Safety Tips on Power Banks](/consumers/use-products-safely/safety-tips-on-power-banks){:target="_blank"}
-* [Safety Tips on Decorative Lighting](/consumers/use-products-safely/safety-tips-on-decorative-lighting){:target="_blank"}
-* [Safety Tips on Ceiling Fans](/consumers/product-safety-tips/safety-tips-on-ceiling-fans){:target="_blank"}
+* [Safety Tips on Power Adaptors](/safety-tips-on-power-adaptors){:target="_blank"}
+* [Safety Tips on Power Banks](/safety-tips-on-power-banks){:target="_blank"}
+* [Safety Tips on Decorative Lighting](/safety-tips-on-decorative-lighting){:target="_blank"}
+* [Safety Tips on Ceiling Fans](/safety-tips-on-ceiling-fans){:target="_blank"}
