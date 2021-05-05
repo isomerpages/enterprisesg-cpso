@@ -1,9 +1,9 @@
 ---
-title: Children Apparel
+title: Children apparel
 permalink: /consumers/product-safety-alerts-and-recalls/children-apparel
 third_nav_title: Product safety alerts and recalls
 ---
-## Children Apparel Safety Alerts and Recalls
+## Children apparel safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
 **01 Oct 2019**<br>
