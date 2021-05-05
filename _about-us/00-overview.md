@@ -7,8 +7,8 @@ The Consumer Product Safety Office (CPSO) implements the Consumer Protection (Sa
 
 ### What we do
 To safeguard the interest of our consumers, the Consumer Product Safety Office perform the following functions:
-* Register the suppliers of Controlled Goods
-* Register Controlled Goods
+* Register the suppliers of controlled goods
+* Register controlled goods
 * Educate suppliers on the requirements of the CPSR and CGSR
 * Appoint third-party Conformity Assessment Bodies (CABs) to carry out product testing and ensure compliance with specified safety standards
 * Conduct market surveillance and investigate accidents, incidents or feedback relating to the safety of consumer products regulated under the CPSR and CGSR
