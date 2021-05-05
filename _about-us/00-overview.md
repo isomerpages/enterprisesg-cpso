@@ -3,9 +3,7 @@ title: Overview
 permalink: /about/overview
 ---
 ## About the Consumer Product Safety Office
-placeholder for CPSO boiler plate
-
-Our mission is to safeguard consumers from unsafe consumer products and build trust in the safety of consumer products supplied in Singapore.
+The Consumer Product Safety Office (CPSO) implements the Consumer Protection (Safety Requirements) Regulations (CPSR) and Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR) to ensure products supplied in Singapore are safe for use by requiring them to comply with applicable safety standards. Controlled goods under the CPSR are further required to be registered with the CPSO and affixed with the Safety Mark before they can be sold. The CPSO is overseen by Enterprise Singapore. 
 
 ### What we do
 To safeguard the interest of our consumers, the Consumer Product Safety Office perform the following functions:
