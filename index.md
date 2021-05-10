@@ -24,7 +24,7 @@ sections:
     - infopic:
         title: Find out more about product safety regulations
         subtitle: 
-        description: Suppliers must comply with the product safety regulations to ensure your products do not pose safety risks to consumers.
+        description: Suppliers must comply with product safety regulations to ensure your products do not pose safety risks to consumers.
         button: Learn More
         url: /suppliers/overview
         image: /images/safety-banner2.png
