@@ -12,6 +12,12 @@ IKEA issued a safety notice for its HEMNES bookcase and glass-door cabinet. The 
 
 <img src="/images/product-safety-alerts-and-recalls/furniture/ikea-hemnes-bookcase.png" alt="Ikea Hemnes bookcase 1" style="width:546px;height:337px;"><br>
 
+The shelves of the affected bookcases & glass-door cabinets may shrink and fall in temperate countries, causing injury.
+
+Such phenomenon is observed in cold climates for households using indoor heaters. The warm and dry air may cause the shelves, which are made of wood, to dry and shrink in the process. Tropical countries like Singapore are unlikely to be affected by this but consumers who wish to exercise precautionary measures can contact IKEA to obtain a free kit containing longer shelf support pins.
+
+For more information, please contact IKEA at customerservice.ikeasg@ikano.asia or +6586 6868.
+
 Refer to the listing below for more product safety alerts and recalls.
 
 **Product recalls**
