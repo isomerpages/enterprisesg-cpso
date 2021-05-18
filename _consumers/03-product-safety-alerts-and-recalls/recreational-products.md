@@ -10,7 +10,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **Decathlon recalls OnNight 410 Trail Running Headlamp**<br>
 Decathlon has announced a voluntary recall of the OnNight 410 Trail Running Headlamp. The battery may overheat during recharging, exposing users to a potential fire and burn risks.
 
-<img src="/images/product-safety-alerts-and-recalls/recreational-products/onnight-410-trail-running-headlamp.png" alt="Decathlon running headlamp" style="width:729px;height:618px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/recreational-products/onnight-410-trail-running-headlamp.png" alt="Decathlon running headlamp" style="width:243px;height:208px;"><br>
 
 Refer to the listing below for more product safety alerts and recalls.
 
