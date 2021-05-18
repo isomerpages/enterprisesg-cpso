@@ -6,6 +6,18 @@ third_nav_title: Product safety alerts and recalls
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
+**16 Oct 2020**<br>
+**Cotton On Group recalls Typo Harry Potter ‘Lumos’ and Marvel ‘Avengers Assemble’ Projection Pens**<br>
+Cotton On Group has announced a voluntary recall of the Typo Harry Potter ‘Lumos’ (style number 138316-08) and Marvel ‘Avengers Assemble’ (style number 138316-09) Projection Pens. The button battery compartment of the Projection Pen may not be adequately secured and has the potential to allow children easy access to the button batteries by simple twisting, which may cause a choking hazard.
+
+<img src="/images/product-safety-alerts-and-recalls/children-products/bcotton-on-marvel-projection-pens.png" alt="Cotton On Marvel Projection Pens" style="width:299px;height:209px;"><br>
+
+Affected units were sold between November 2019 and September 2020.
+
+Consumers are advised to return the affected product at any Typo store for a refund or exchange. For more information, consumers may contact Cotton On’s customer service team at +65 800 852 6326, email customerenquiries@cottonon.com, or use the chat function at cottonon.com/SG.
+
+Refer to the listing below for more product safety alerts and recalls.
+
 **Product recalls** 
 
 |Date|Title|
