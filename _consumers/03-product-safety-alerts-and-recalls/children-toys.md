@@ -22,7 +22,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|16 Apr 2021|[Toys’R’Us recalls ‘Squish-dee-lish Series 5’ and ‘Mickey Mouse & Minnie Mouse Tumbler’]((/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-04-16-toysrus-recalls-squish-dee-lish-series-5-and-mickey-mouse-and-minnie-mouse-tumbler.pdf){:target="_blank"}|
+|16 Apr 2021|[Toys’R’Us recalls ‘Squish-dee-lish Series 5’ and ‘Mickey Mouse & Minnie Mouse Tumbler’](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-04-16-toysrus-recalls-squish-dee-lish-series-5-and-mickey-mouse-and-minnie-mouse-tumbler.pdf){:target="_blank"}|
 |01 Apr 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |[Sunnylife Sydney Australia (Sunnylife) recalls ‘Croc Family Bath Toys Set of 3, with and without squeaker](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-04-01-sunnylife-sydney-australia-sunnylife-recalls-croc-family-bath-toys-set-of-3-with-and-without-squeaker.pdf){:target="_blank"}|
 
 **Product safety alerts**
