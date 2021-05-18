@@ -12,6 +12,10 @@ Decathlon has announced a voluntary recall of the OnNight 410 Trail Running Head
 
 <img src="/images/product-safety-alerts-and-recalls/recreational-products/onnight-410-trail-running-headlamp.png" alt="Decathlon running headlamp" style="width:243px;height:208px;"><br>
 
+Affected units were sold between 18 February 2014 to 20 September 2018.
+
+Consumers are advised to return the affected product at any Decathlon store for a refund. For more information, please visit Decathlon Singapore recall website at www.decathlon.sg/content/32-product-recall.
+
 Refer to the listing below for more product safety alerts and recalls.
 
 **Product recalls**
