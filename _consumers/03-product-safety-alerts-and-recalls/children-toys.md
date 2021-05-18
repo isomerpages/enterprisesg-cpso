@@ -6,10 +6,23 @@ third_nav_title: Product safety alerts and recalls
 ## Children toys safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
+**16 Apr 2021**<br>
+**Toys’R’Us recalls ‘Squish-dee-lish Series 5’ and ‘Mickey Mouse & Minnie Mouse Tumbler’**<br>
+Toys’R’Us has announced a voluntary recall for Squish-dee-lish Series 5 and Mickey Mouse & Minnie Mouse Tumbler. Squish-dee-lish Series 5 contained elevated levels of phthalates while Mickey Mouse & Minnie Mouse Tumbler contained elevated levels of phthalates and barium which may pose a potential chemical hazard to the consumers.
+
+<img src="/images/product-safety-alerts-and-recalls/children-toys/toysrus-recalls-squish-dee-lish-series-5-and-mickey-mouse-and-minnie-mouse-tumbler.png" alt="Toys’R’Us ‘Squish-dee-lish Series 5’ and ‘Mickey Mouse & Minnie Mouse Tumbler’" style="width:524px;height:242px;"><br>
+
+Affected units of Mickey Mouse & Minnie Mouse Tumbler were sold between November 2017 and December 2020, while affected units of Squish-dee-list Series 5 were sold between November 2018 and December 2020.
+
+Consumers who own the products are advised to stop using them and return them to any Toys’R’Us store for a refund. For more information, consumers may contact Toys’R’Us at +65 6733 0190 or help@toysrus.com.sg, or visit their website.
+
+Refer to the listing below for more product safety alerts and recalls.
+
 **Product recalls** 
 
 |Date|Title|
 |---|---|
+|16 Apr 2021|[Toys’R’Us recalls ‘Squish-dee-lish Series 5’ and ‘Mickey Mouse & Minnie Mouse Tumbler’]((/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-04-16-toysrus-recalls-squish-dee-lish-series-5-and-mickey-mouse-and-minnie-mouse-tumbler.pdf){:target="_blank"}|
 |01 Apr 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |[Sunnylife Sydney Australia (Sunnylife) recalls ‘Croc Family Bath Toys Set of 3, with and without squeaker](/consumers/03-product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-04-01-sunnylife-sydney-australia-sunnylife-recalls-croc-family-bath-toys-set-of-3-with-and-without-squeaker.pdf){:target="_blank"}|
 
 **Product safety alerts**
