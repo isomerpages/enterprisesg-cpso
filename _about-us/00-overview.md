@@ -3,7 +3,11 @@ title: Overview
 permalink: /about/overview
 ---
 ## About the Consumer Product Safety Office
-The Consumer Product Safety Office (CPSO) implements the Consumer Protection (Safety Requirements) Regulations (CPSR) and Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR) to ensure products supplied in Singapore are safe for use by requiring them to comply with applicable safety standards. Controlled goods under the CPSR are further required to be registered with the CPSO and affixed with the Safety Mark before they can be sold. The CPSO is overseen by Enterprise Singapore. 
+The Consumer Product Safety Office (CPSO) safeguards consumer safety by ensuring consumer products supplied in Singapore are safe for use and comply with applicable safety standards.
+
+To ensure consumer safety, the CPSO implements the Consumer Protection (Safety Requirements) Regulations (CPSR) and Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR). Products regulated under these regulations must be registered with the CPSO and affixed with SAFETY Mark before they can be sold. The CPSO conducts market surveillance to verify products' compliance with safety requirements and investigates feedback on consumer product safety. We also keep consumers informed about the latest product safety information.
+
+The CPSO is an office overseen by Enterprise Singapore. 
 
 ## What we do
 To safeguard the interest of our consumers, the Consumer Product Safety Office perform the following functions:
