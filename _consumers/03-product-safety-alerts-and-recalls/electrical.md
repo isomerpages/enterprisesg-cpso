@@ -6,6 +6,18 @@ third_nav_title: Product safety alerts and recalls
 ## Electrical safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
+**23 Apr 2021**<br>
+**SAFETY ALERT: Electrolux refrigerators (model number ENN2754AOW) installed at Riversails condominum**<br>
+Electrolux initiated a removal programme for its refrigerators (model number ENN2754AOW) installed at Riversails condominum due to the potential of a fire risk. These are built-in refrigerators and are not sold at retail stores.
+
+Enterprise Singapore has issued two safety advisories to residents at Riversails Condominium on 30 March 2021 and 20 April 2021 urging them to stop using their Electrolux refrigerators immediately. Riversails residents have been advised to contact Electrolux to remove the refrigerators from their homes.
+
+You can verify the model number of your refrigerator by checking the product label located on the left-hand side of the top compartment. If your built-in refrigerator is the same model number – ENN2754AOW – as the one used in Riversails Condominium, you can contact Electrolux at 6727 3699.
+
+<img src="/images/product-safety-alerts-and-recalls/electrical/electrolux-refrigerators.JPG" alt="Electrolux refrigerators" style="width:400px;height:141px;"><br>
+
+Refer to the listing below for more product safety alerts and recalls.
+
 **Product recalls**
 
 |Date|Title|
