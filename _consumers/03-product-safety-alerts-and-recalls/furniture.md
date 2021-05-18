@@ -6,6 +6,14 @@ third_nav_title: Product safety alerts and recalls
 ## Furniture safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
+**07 Aug 2019**<br>
+**SAFETY ALERT: IKEA HEMNES bookcase and glass-door cabinet**<br>
+IKEA issued a safety notice for its HEMNES bookcase and glass-door cabinet. The affected products were sold from April 2010 to April 2017.
+
+<img src="/images/product-safety-alerts-and-recalls/furniture/ikea-hemnes-bookcase.png" alt="Ikea Hemnes bookcase 1" style="width:501px;height:501px;"><br>
+
+Refer to the listing below for more product safety alerts and recalls.
+
 **Product recalls**
 
 |Date|Title|
