@@ -10,7 +10,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **Toys’R’Us recalls ‘Squish-dee-lish Series 5’ and ‘Mickey Mouse & Minnie Mouse Tumbler’**<br>
 Toys’R’Us has announced a voluntary recall for Squish-dee-lish Series 5 and Mickey Mouse & Minnie Mouse Tumbler. Squish-dee-lish Series 5 contained elevated levels of phthalates while Mickey Mouse & Minnie Mouse Tumbler contained elevated levels of phthalates and barium which may pose a potential chemical hazard to the consumers.
 
-<img src="/images/product-safety-alerts-and-recalls/children-toys/toysrus-recalls-squish-dee-lish-series-5-and-mickey-mouse-and-minnie-mouse-tumbler.png" alt="Toys R Us Squish-dee-lish Series 5 and Mickey Mouse & Minnie Mouse Tumbler" style="width:524px;height:242px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-toys/toysrus-recalls-squish-dee-lish-series-5-and-mickey-mouse-and-minnie-mouse-tumbler.jpg" alt="Toys R Us Squish-dee-lish Series 5 and Mickey Mouse & Minnie Mouse Tumbler" style="width:524px;height:242px;"><br>
 
 Affected units of Mickey Mouse & Minnie Mouse Tumbler were sold between November 2017 and December 2020, while affected units of Squish-dee-list Series 5 were sold between November 2018 and December 2020.
 
