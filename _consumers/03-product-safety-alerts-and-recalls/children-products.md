@@ -10,7 +10,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **Cotton On Group recalls Typo Harry Potter ‘Lumos’ and Marvel ‘Avengers Assemble’ Projection Pens**<br>
 Cotton On Group has announced a voluntary recall of the Typo Harry Potter ‘Lumos’ (style number 138316-08) and Marvel ‘Avengers Assemble’ (style number 138316-09) Projection Pens. The button battery compartment of the Projection Pen may not be adequately secured and has the potential to allow children easy access to the button batteries by simple twisting, which may cause a choking hazard.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/bcotton-on-marvel-projection-pens.png" alt="Cotton On Marvel Projection Pens" style="width:299px;height:209px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-products/cotton-on-marvel-projection-pens.png" alt="Cotton On Marvel Projection Pens" style="width:299px;height:209px;"><br>
 
 Affected units were sold between November 2019 and September 2020.
 
