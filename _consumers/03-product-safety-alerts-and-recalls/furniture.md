@@ -10,7 +10,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **SAFETY ALERT: IKEA HEMNES bookcase and glass-door cabinet**<br>
 IKEA issued a safety notice for its HEMNES bookcase and glass-door cabinet. The affected products were sold from April 2010 to April 2017.
 
-<img src="/images/product-safety-alerts-and-recalls/furniture/ikea-hemnes-bookcase.png" alt="Ikea Hemnes bookcase 1" style="width:167px;height:167px;"><img src="/images/product-safety-alerts-and-recalls/furniture/ikea-hemnes-bookcase-2.png" alt="Ikea Hemnes bookcase 1" style="width:167px;height:167px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/furniture/ikea-hemnes-bookcase.png" alt="Ikea Hemnes bookcase 1" style="width:501px;height:501px;"><img src="/images/product-safety-alerts-and-recalls/furniture/ikea-hemnes-bookcase-2.png" alt="Ikea Hemnes bookcase 1" style="width:501px;height:501px;"><br>
 
 Refer to the listing below for more product safety alerts and recalls.
 
