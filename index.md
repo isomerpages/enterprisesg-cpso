@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 
         subtitle: <h3>Consumer product safety for consumers and suppliers<h3>
-        background: /images/safety-banner.png
+        background: /images/familytwo.jpg
         key_highlights:
             - title: Use products safely
               description: Learn product safety tips to prevent injuries to you and your family
@@ -27,8 +27,8 @@ sections:
         description: Suppliers must comply with product safety regulations to ensure your products do not pose safety risks to consumers.
         button: Learn More
         url: /suppliers/overview
-        image: /images/safety-banner2.png
-        alt: image of safety banner
+        image: /images/microwave.jpg
+        alt: image of microwave
     - resources:
         title: News & Media
         subtitle:
