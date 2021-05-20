@@ -9,7 +9,7 @@ sections:
     - hero:
         title: 
         subtitle: <h3>Consumer product safety for consumers and suppliers<h3>
-        background: /images/familytwo.jpg
+        background: /images/familythree.jpg
         key_highlights:
             - title: Use products safely
               description: Learn product safety tips to prevent injuries to you and your family
