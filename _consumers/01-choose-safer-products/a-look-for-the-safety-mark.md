@@ -41,6 +41,6 @@ The 33 categories of Controlled Goods are:
 The Consumer Product Safety Office takes a serious view of any non-compliance. If you are aware of anyone who is supplying or selling non-registered Controlled Goods, please provide us with the relevant information (e.g. product type, brand/model, name of company, location, etc.) so that appropriate enforcement action may be taken against the supplier. You can contact us either at <consumerprotection@enterprisesg.gov.sg> or 1800 773 3163.
 
 <video width="320" height="240" autoplay>
-  <source src="/images/test-video.mov" type="video/mov">
+  <source src="/images/test-video.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
