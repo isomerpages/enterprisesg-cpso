@@ -42,5 +42,4 @@ The Consumer Product Safety Office takes a serious view of any non-compliance. I
 
 <video width="320" height="240" controls>
   <source src="/images/test-video.mp4" type="video/mp4">
-Your browser does not support the video tag.
 </video>
