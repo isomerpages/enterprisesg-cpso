@@ -14,6 +14,34 @@ Singapore, Monday, 23 December 2019
 
 2\. Elmark is recalling these ceiling fans with immediate effect. The affected models are set out in the list below. We advise consumers to check this list and visit Elmark’s website at <https://www.elmark.com.sg/>, call 6741 0729, or email <recall@elmark.com.sg> for further details on the recall, including exact recall instructions, and how to identify the model number to ascertain whether they are in possession of any affected model. Affected consumers can contact the Consumers Association of Singapore (CASE) at its hotline +65 6100 0315 or <https://www.case.org.sg/> should they require further assistance.
 
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+  
+th {
+  padding: 5px;
+  text-align: center;
+}
+
+td {
+  padding: 5px;
+  text-align: left;
+}
+
+<table style="width:100%">
+  <tr>
+    <th>No.</th>
+    <th>Model Number of Elmark Ceiling Fans</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>AC 4054</td>
+  </tr>
+
+</style>
+
 |No.| Model Number of Elmark Ceiling Fans|
 |:---:|:---:|
 |1|AC 4054|
