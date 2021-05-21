@@ -52,7 +52,7 @@ Singapore, Monday, 23 December 2019
   f. Take care not to press down on, or bend fan blades during cleaning;<br>
   g. Maintain the fan blade by cleaning it frequently with warm water only. Soap or strong detergent is not recommended.
   
- 6\. Consumers can report product safety issues to Enterprise Singapore at 1800 773 3163 or consumerprotection@enterprisesg.gov.sg. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>{:target="_blank"}. For information on registration of Controlled Goods, suppliers can visit <a href="https://www.enterprisesg.gov.sg/cpsr">www.enterprisesg.gov.sg/cpsr</a>{:target="_blank"}.
+ 6\. Consumers can report product safety issues to Enterprise Singapore at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>{:target="_blank"}. For information on registration of Controlled Goods, suppliers can visit <a href="https://www.enterprisesg.gov.sg/cpsr">www.enterprisesg.gov.sg/cpsr</a>{:target="_blank"}.
 
 <sup>1</sup>For full listing of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click [here](https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-suppliers/regulations-and-guidelines-for-suppliers/regulations-and-guidelines-for-suppliers/consumer-protection-safety-requirements-regulations/controlled-goods-and-their-applicable-safety-standards)
 
