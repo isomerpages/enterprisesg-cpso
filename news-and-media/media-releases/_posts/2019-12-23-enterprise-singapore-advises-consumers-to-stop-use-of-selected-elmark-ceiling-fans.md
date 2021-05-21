@@ -43,7 +43,7 @@ Singapore, Monday, 23 December 2019
 5\. We urge consumers to play their part by prioritising safety considerations when purchasing and using household products. Consumers should practise the following:
 
   a. Look out for a valid SAFETY Mark. Search through the Register of Controlled Goods at cpsa.enterprisesg.gov.sg to check if the product has been registered with Enterprise Singapore;<br>
-  b. Check if a safety alert has been issued. Visit www.enterprisesg.gov.sg/consumer-protection or other international sites such as US Safer Products at www.saferproducts.gov;<br>
+  b. Check if a safety alert has been issued. Visit <www.enterprisesg.gov.sg/consumer-protection> or other international sites such as US Safer Products at <www.saferproducts.gov>;<br>
   c. For purchases online, buy from official stores or reputable brands and sellers, and check with the sellers that the product has met relevant safety standards.<br><br>
 <ins>Specifically for ceiling fans<ins>
   
