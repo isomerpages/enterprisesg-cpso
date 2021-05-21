@@ -16,7 +16,7 @@ Singapore, Monday, 23 December 2019
 
 |No.| Model Number of Elmark Ceiling Fans||
 |:---:|:---:|---|
-|1|AC 4054|&nbsp; |
+|1|AC 4054|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |2|E502 Aeratron|
 |3|EC 888|
 |4|EC 999|
@@ -44,7 +44,7 @@ Singapore, Monday, 23 December 2019
 
 &nbsp; &nbsp; a. Look out for a valid SAFETY Mark. Search through the Register of Controlled Goods at cpsa.enterprisesg.gov.sg to check if the product has been registered with Enterprise Singapore;<br>
 &nbsp; &nbsp; b. Check if a safety alert has been issued. Visit www.enterprisesg.gov.sg/consumer-protection or other international sites such as US Safer Products at www.saferproducts.gov;<br>
-&nbsp; &nbsp; c. For purchases online, buy from official stores or reputable brands and sellers, and check with the sellers that the product has met relevant safety standards.<br>
+&nbsp; &nbsp; c. For purchases online, buy from official stores or reputable brands and sellers, and check with the sellers that the product has met relevant safety standards.<br><br>
 <ins>Specifically for ceiling fans<ins>
   
 &nbsp; &nbsp; d. Consumers are recommended to contact the fan supplier for checks. This includes checking the suspension system of the ceiling fan and fan blade for any crack once every two years;<br>
