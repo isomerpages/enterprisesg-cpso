@@ -44,8 +44,7 @@ Singapore, Monday, 23 December 2019
 
   a. Look out for a valid SAFETY Mark. Search through the Register of Controlled Goods at cpsa.enterprisesg.gov.sg to check if the product has been registered with Enterprise Singapore;<br>
   b. Check if a safety alert has been issued. Visit www.enterprisesg.gov.sg/consumer-protection or other international sites such as US Safer Products at www.saferproducts.gov;<br>
-  c. For purchases online, buy from official stores or reputable brands and sellers, and check with the sellers that the product has met relevant safety standards.<br><br>
-
+  c. For purchases online, buy from official stores or reputable brands and sellers, and check with the sellers that the product has met relevant safety standards.<br>
 <ins>Specifically for ceiling fans<ins>
   
   d. Consumers are recommended to contact the fan supplier for checks. This includes checking the suspension system of the ceiling fan and fan blade for any crack once every two years;<br>
@@ -55,7 +54,14 @@ Singapore, Monday, 23 December 2019
   
  6\. Consumers can report product safety issues to Enterprise Singapore at 1800 773 3163 or consumerprotection@enterprisesg.gov.sg. For consumer safety tips, visit www.enterprisesg.gov.sg/safety-tips. For information on registration of Controlled Goods, suppliers can visit www.enterprisesg.gov.sg/cpsr.
 
+<sup>1</sup>For full listing of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click [here](https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-suppliers/regulations-and-guidelines-for-suppliers/regulations-and-guidelines-for-suppliers/consumer-protection-safety-requirements-regulations/controlled-goods-and-their-applicable-safety-standards)
 
+For media enquiries, please contact:<br>
+Miss Fazilah Latif<br>
+Business Partner<br>
+Corporate Communications<br>
+DID: +65 6279 3751<br>
+Email: fazilah_latif@enterprisesg.gov.sg
 
 
 
