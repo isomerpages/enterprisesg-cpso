@@ -12,7 +12,7 @@ Singapore, Monday, 23 December 2019
 
 1\. Enterprise Singapore, the Safety Authority, advises consumers to stop the use of 17 models of ceiling fans by Elmark Marketing (Elmark) due to potential safety hazards such as electrocution, falling hazard, laceration and fire. While no reports of injuries were made to Enterprise Singapore, consumers should exercise caution as these ceiling fans (categorised as Controlled Goods<sup>1</sup>) did not comply with our product safety requirements.
 
-2\. Elmark is recalling these ceiling fans with immediate effect. The affected models are set out in the list below. We advise consumers to check this list and visit Elmark’s website at <www.elmark.com.sg>, call 6741 0729, or email recall@elmark.com.sg for further details on the recall, including exact recall instructions, and how to identify the model number to ascertain whether they are in possession of any affected model. Affected consumers can contact the Consumers Association of Singapore (CASE) at its hotline +65 6100 0315 or www.case.org.sg should they require further assistance.
+2\. Elmark is recalling these ceiling fans with immediate effect. The affected models are set out in the list below. We advise consumers to check this list and visit Elmark’s website at https://www.elmark.com.sg/, call 6741 0729, or email <recall@elmark.com.sg> for further details on the recall, including exact recall instructions, and how to identify the model number to ascertain whether they are in possession of any affected model. Affected consumers can contact the Consumers Association of Singapore (CASE) at its hotline +65 6100 0315 or https://www.case.org.sg/ should they require further assistance.
 
 |No.| Model Number of Elmark Ceiling Fans|
 |:---:|:---:|
