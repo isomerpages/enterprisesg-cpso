@@ -29,6 +29,7 @@ td {
   padding: 5px;
   text-align: left;
 }
+</style>
 
 <table style="width:100%">
   <tr>
@@ -39,8 +40,8 @@ td {
     <td>1</td>
     <td>AC 4054</td>
   </tr>
+</table>
 
-</style>
 
 |No.| Model Number of Elmark Ceiling Fans|
 |:---:|:---:|
