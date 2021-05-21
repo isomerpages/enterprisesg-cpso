@@ -14,9 +14,9 @@ Singapore, Monday, 23 December 2019
 
 2\. Elmark is recalling these ceiling fans with immediate effect. The affected models are set out in the list below. We advise consumers to check this list and visit Elmark’s website at www.elmark.com.sg, call 6741 0729, or email recall@elmark.com.sg for further details on the recall, including exact recall instructions, and how to identify the model number to ascertain whether they are in possession of any affected model. Affected consumers can contact the Consumers Association of Singapore (CASE) at its hotline +65 6100 0315 or www.case.org.sg should they require further assistance.
 
-|No.| Model Number of Elmark Ceiling Fans|
-|:---:|:---:|
-|1|AC 4054|
+|No.| Model Number of Elmark Ceiling Fans||
+|:---:|:---:|---|
+|1|AC 4054|&nbsp; |
 |2|E502 Aeratron|
 |3|EC 888|
 |4|EC 999|
@@ -42,15 +42,15 @@ Singapore, Monday, 23 December 2019
 
 5\. We urge consumers to play their part by prioritising safety considerations when purchasing and using household products. Consumers should practise the following:
 
-  a. Look out for a valid SAFETY Mark. Search through the Register of Controlled Goods at cpsa.enterprisesg.gov.sg to check if the product has been registered with Enterprise Singapore;<br>
-  b. Check if a safety alert has been issued. Visit www.enterprisesg.gov.sg/consumer-protection or other international sites such as US Safer Products at www.saferproducts.gov;<br>
-  c. For purchases online, buy from official stores or reputable brands and sellers, and check with the sellers that the product has met relevant safety standards.<br>
+&nbsp; &nbsp; a. Look out for a valid SAFETY Mark. Search through the Register of Controlled Goods at cpsa.enterprisesg.gov.sg to check if the product has been registered with Enterprise Singapore;<br>
+&nbsp; &nbsp; b. Check if a safety alert has been issued. Visit www.enterprisesg.gov.sg/consumer-protection or other international sites such as US Safer Products at www.saferproducts.gov;<br>
+&nbsp; &nbsp; c. For purchases online, buy from official stores or reputable brands and sellers, and check with the sellers that the product has met relevant safety standards.<br>
 <ins>Specifically for ceiling fans<ins>
   
-  d. Consumers are recommended to contact the fan supplier for checks. This includes checking the suspension system of the ceiling fan and fan blade for any crack once every two years;<br>
-  e. Do not install the ceiling fan on an unstable ceiling or in a wet or moist area;<br>
-  f. Take care not to press down on, or bend fan blades during cleaning;<br>
-  g. Maintain the fan blade by cleaning it frequently with warm water only. Soap or strong detergent is not recommended.
+&nbsp; &nbsp; d. Consumers are recommended to contact the fan supplier for checks. This includes checking the suspension system of the ceiling fan and fan blade for any crack once every two years;<br>
+&nbsp; &nbsp; e. Do not install the ceiling fan on an unstable ceiling or in a wet or moist area;<br>
+&nbsp; &nbsp; f. Take care not to press down on, or bend fan blades during cleaning;<br>
+&nbsp; &nbsp; g. Maintain the fan blade by cleaning it frequently with warm water only. Soap or strong detergent is not recommended.
   
  6\. Consumers can report product safety issues to Enterprise Singapore at 1800 773 3163 or consumerprotection@enterprisesg.gov.sg. For consumer safety tips, visit www.enterprisesg.gov.sg/safety-tips. For information on registration of Controlled Goods, suppliers can visit www.enterprisesg.gov.sg/cpsr.
 
