@@ -8,7 +8,7 @@ permalink: /terms-of-use/
 **1. Agreement - Terms**<br>
 All access to any area on our website is governed by the terms and conditions below ("Terms"). If you are not comfortable with any of these Terms, we would advise you to exit. Please continue only if you can accept these Terms.
 
-In these Terms, the words "we", "our" and "us" refers to the Consumer Product Safety Office of Enterprise Singapore.
+In these Terms, the words "we", "our" and "us" refers to the Consumer Product Safety Office overseen by Enterprise Singapore.
 
 **2. Access to the Consumer Product Safety Office**<br>
 The accessibility and operation of our website relies on technologies outside our control. We are not able to guarantee continuous accessibility or uninterrupted operation of our website.
