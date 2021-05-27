@@ -4,28 +4,24 @@ permalink: /suppliers/cpsr/resources
 third_nav_title: Supplying controlled goods
 ---
 **Resources**
-* Updated 23 Nov 2020:<br>
-[Consumer Protection (Safety Requirements) Registration Scheme Information Booklet](/images/cpsr-resources/cps-infobooklet.pdf){:target="_blank"}
-* Updated 19 Jun 2019:<br>
-[Overview of Registration Process](/images/cpsr-resources/overview-of-cps-registration-process.pdf){:target="_blank"}
-* Updated 19 Jun 2019:<br>
+* Updated 31 May 2021:<br>
+[Consumer Protection (Safety Requirements) Regulations Information Booklet](/images/cpsr-resources/cps-info-booklet.pdf){:target="_blank"}
+* Updated 31 May 2021:<br>
+[Overview of Registration Process](/images/cpsr-resources/overview-cps-registration.pdf){:target="_blank"}
+* Updated 31 May 2021:<br>
 [Guide to SDoC registration](/images/cpsr-resources/guide-to-sdoc-application-and-renewal.pdf){:target="_blank"}
-* Updated 01 Apr 2018:<br>
-[Guidelines on the Usage of the SAFETY Mark](/images/cpsr-resources/guide-on-safety-mark-use.pdf){:target="_blank"}
-* Updated 01 Apr 2018:<br>
-[Conformity Assessment Information Booklet](/images/cpsr-resources/cab-booklet.pdf){:target="_blank"}
-* Updated 26 Oct 2020:<br>
+* Updated 31 May 2021:<br>
+[Guidelines on the Usage of the SAFETY Mark](/images/cpsr-resources/guidelines-on-the-usage-of-the-safety-mark.pdf){:target="_blank"}
+* Updated 31 May 2021:<br>
+[Conformity Assessment Information Booklet](/images/cpsr-resources/cab-info-booklet.pdf){:target="_blank"}
+* Updated 31 May 2021:<br>
 [List of Conformity Assessment Bodies](/images/cpsr-resources/list-of-cab-cps-scheme-ver-22-04-21.xlsx){:target="_blank"}
 
 
 **Application info**
-* Updated 01 Apr 2018:<br>
-[Application for Renewal of Certified Controlled Goods](/images/cpsr-application-info/application-for-renewal-of-certified-controlled-goods.pdf){:target="_blank"}
-* Updated 01 Apr 2018:<br>
-[Application to be a Registered Supplier of Controlled Goods](/images/cpsr-application-info/application-to-be-a-registered-supplier-of-controlled-goods.pdf){:target="_blank"}
-* Updated 06 Jul 2018:<br>
+* Updated 31 May 2021:<br>
+[Application for Renewal of Certified Controlled Goods](/images/cpsr-application-info/coc07-application-for-renewal-of-certified-controlled-goods.pdf){:target="_blank"}
+* Updated 31 May 2021:<br>
 [New or Renewal of Supplier Application of High Risk Controlled Goodss](/images/cpsr-application-info/new-renewal-of-supplier-application-of-high-risk-controlled-goods.pdf){:target="_blank"}
-* Updated 01 Apr 2018:<br>
-[Notification of Change of Registered Supplier's Particulars](/images/cpsr-application-info/notification-of-change-of-registered-suppliers-particulars.pdf){:target="_blank"}
-* Updated 01 Apr 2018:<br>
-[Notification of Modification to Registered Controlled Goods](/images/cpsr-application-info/notification-of-modification-to-registered-controlled-goods.pdf){:target="_blank"}
+* Updated 31 May 2021:<br>
+[Notification of Modification to Registered Controlled Goods](/images/cpsr-application-info/rs03-notification-of-modification-to-registered-controlled-goods.pdf){:target="_blank"}
