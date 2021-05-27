@@ -6,7 +6,7 @@ third_nav_title: Supplying controlled goods
 **Resources**
 * Updated 31 May 2021:<br>
 [Consumer Protection (Safety Requirements) Regulations Information Booklet](/images/cpsr-resources/cps-info-booklet.pdf){:target="_blank"}
-* Updated 31 May 2021:<br>
+* Updated 24 May 2021:<br>
 [Overview of Registration Process](/images/cpsr-resources/overview-cps-registration.pdf){:target="_blank"}
 * Updated 31 May 2021:<br>
 [Guide to SDoC registration](/images/cpsr-resources/guide-to-sdoc-application-and-renewal.pdf){:target="_blank"}
