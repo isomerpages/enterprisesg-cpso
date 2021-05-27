@@ -99,7 +99,7 @@ shall be guilty of an offence.
 The first-time offender on conviction shall be liable to a fine up to $2,000 or to an imprisonment for a term up to 12 months or to both. In the case of a second or subsequent offence, the offender shall be, on conviction, liable to a fine up to $10,000 or to an imprisonment for a term up to 2 years or to both.
 
 **14.	How do I find out more about CGSR?**<br>
-Details on the CGSR are available at https://www.consumerproductsafety.gov.sg
+Details on the CGSR are available at ,https://www.consumerproductsafety.gov.sg>
 
 **15.	How do I contact the Consumer Product Safety Office to report on safety issues related to general consumer goods covered under the CGSR?**<br>
 You may report safety issues to the Consumer Product Safety Office using the recommended form provided in Appendix D of the Consumer Protection (Consumer Goods Safety Requirements) Regulations Information Booklet and send it to the following mailing address, or contact us via email at <consumerproductsafety@enterprisesg.gov.sg> or our hotline at 6898 1800
