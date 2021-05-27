@@ -102,4 +102,4 @@ The first-time offender on conviction shall be liable to a fine up to $2,000 or 
 Details on the CGSR are available at www.cpso.gov.sg
 
 **15.	How do I contact the Consumer Product Safety Office to report on safety issues related to general consumer goods covered under the CGSR?**<br>
-You may report safety issues to the Consumer Product Safety Office using the recommended form provided in Appendix D of the Consumer Protection (Consumer Goods Safety Requirements) Regulations Information Booklet and send it to the following mailing address, or contact us via email at <consumerprotection@enterprisesg.gov.sg> or our hotline at 6898 1800
+You may report safety issues to the Consumer Product Safety Office using the recommended form provided in Appendix D of the Consumer Protection (Consumer Goods Safety Requirements) Regulations Information Booklet and send it to the following mailing address, or contact us via email at <consumerproductsafety@enterprisesg.gov.sg> or our hotline at 6898 1800
