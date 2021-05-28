@@ -3,7 +3,7 @@ title: Safety Tips on Strollers
 permalink: /safety-tips-on-strollers
 ---
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 ## Safety Tips on Strollers
 Strollers are a convenient way to bring your child around with you. When buying one, look beyond style and comfort to also consider whether it is safe for your child. Neglecting safety considerations or inappropriate use can have severe consequences.
@@ -28,4 +28,4 @@ Always follow the instructions provided in the manual and pay attention to warni
 * After your child is secured in the harness, ensure that there are no straps or cords that can pose a strangulation hazard.
 * Do not leave your child unattended. Ensure that the brakes are engaged when the stroller is not in motion.
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
