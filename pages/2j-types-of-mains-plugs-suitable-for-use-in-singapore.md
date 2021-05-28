@@ -3,7 +3,7 @@ title: Type of Mains Plugs Suitable for use in Singapore
 permalink: /types-of-mains-plugs-suitable-for-use-in-singapore
 ---
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
 ## Type of Mains Plugs Suitable for use in Singapore
 Apart from Brunei, Hong Kong, Malaysia or UK, mains plugs that are used in other countries are different from those intended for use in Singapore. It is important to ensure that the correct plug is used with a local wall socket to avoid hazards such as fires and electrocution.
@@ -32,4 +32,4 @@ Furthermore, while ‘Schuko’ plugs may come with earthing strips located on t
 ![non approved mains plugs](/images/consumers/did-you-know/types-of-mains-plugs/non-approved-mains-plugs.jpg)<br>
 *From left to right: Flat-blade plug, Schuko plug with side grounding contact, Schuko plug with side grounding contact, 10/16-Amp round pin, Flat-blade but with round grounding pin, Flat-blade but with round grounding pin*
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
