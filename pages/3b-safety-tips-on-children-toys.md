@@ -3,7 +3,7 @@ title: Safety Tips on Children Toys
 permalink: /safety-tips-on-children-toys
 ---
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 ## Safety Tips on Children Toys
 A study conducted by KK Women’s and Children’s Hospital found that many parents are buying toys that are not age-appropriate for their children. This resulted in a 15% rise in toy-related injuries in children under the age of 5 in 2013, compared to the same period in 2012.
@@ -31,7 +31,7 @@ You can protect your child from hazards like choking, falls, cuts and bruises by
 * Remove the batteries in electronic toys when they are not in use. Batteries that are left unused for a long time may leak harmful chemicals.
 * Seek medical attention immediately if a child swallows a battery.
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 
 
