@@ -5,5 +5,5 @@ third_nav_title: Supplying consumer goods
 ---
 **Resources**<br>
 * Updated on 31 May 2021:<br>
-[Consumer Protection (Consumer Goods Safety Requirements) Regulations Information Booklet](/images/cgsr-resources/cgsr-info-booklet.pdf){:target="_blank"}
+[Consumer Protection (Consumer Goods Safety Requirements) Regulations Information Booklet](/images/cgsr-resources/cgsr-info-book.pdf){:target="_blank"}
 
