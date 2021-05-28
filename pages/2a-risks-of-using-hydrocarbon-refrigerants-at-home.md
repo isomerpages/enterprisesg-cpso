@@ -3,7 +3,7 @@ title: Risk of Using Hydrocarbon Refrigerants At Home
 permalink: /risk-of-using-hydrocarbon-refrigerants-at-home
 ---
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
 ## Risks of Using Hydrocarbon Refrigerants at Home
 Hydrocarbon (HC) refrigerants are increasingly seen as suitable replacements for other refrigerants that contribute to global warming. HC refrigerants benefit from better energy efficiency and are more environmentally friendly. However, certain HC refrigerants like R600a are also known to be highly flammable and may be hazardous to consumers in the unlikely event of leakages. To prevent such accidents, all refrigerants must be hermetically sealed within the refrigerator as part of product safety standards.
@@ -28,4 +28,4 @@ In order to achieve this, three general guidelines should be followed:
 
 For more details, you may wish to refer to Singapore Civil Defence Force (SCDF) circular on [Review of Hydrocarbon Refrigerant.](https://www.scdf.gov.sg/docs/default-source/scdf-library/fssd-downloads/circulars/scdf-circular-on-hydrocarbon-refrigerants-june-2015.pdf)
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
