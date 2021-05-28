@@ -3,7 +3,7 @@ title: Safety Tips for Storing Household Chemicals
 permalink: /safety-tips-for-storing-household-chemicals
 ---
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
 ## Safety Tips for Storing Household Chemicals
 Consumers are advised to ensure that household products containing hazardous chemicals are properly stored. Many products found at home can be harmful if swallowed or come into contact with the skin or eyes.
@@ -27,4 +27,4 @@ Consumers are advised to ensure that household products containing hazardous che
 * Do not leave chemicals unattended during use. This may unintentionally expose your children to danger.
 * Store chemicals in a cabinet which cannot be reached by children and keep it locked at all times. They often come in brightly coloured packaging that look attractive to children who may mistake them for food or drinks.
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
