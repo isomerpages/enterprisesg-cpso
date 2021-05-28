@@ -3,7 +3,7 @@ title: Safety Tips on Window Coverings
 permalink: /safety-tips-on-window-coverings
 ---
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
 ## Safety Tips on Window Coverings
 Window blinds are becoming an increasingly popular type of window covering not just to block out sunlight, but also to provide privacy and an aesthetic appeal when used in home decoration.
@@ -34,4 +34,4 @@ Right: Wall-mounted cleat*
 
 *All pictures reproduced with permission of Hunter Douglas. Hunter Douglas is part of the Window Covering Safety Council in US.*
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
