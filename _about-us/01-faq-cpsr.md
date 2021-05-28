@@ -39,7 +39,7 @@ The registration fee for SDoC is $180 (exclusive of GST) for new application whi
 **5. Does the Consumer Product Safety Office conduct safety tests on products for purpose registering Controlled Goods?**<br>
 The CPSO is not a test laboratory and does not perform any testing. 
 
-For certifcation and testing of Controlled Goods, suppliers can refer to the list of CAB (Certification), CAB (Certification-MRA), CAB (Testing) and CAB (TestingMRA) found [here](/images/cpsr-resources/list-of-cab-cps-scheme-ver-22-04-21.xlsx){:target="_blank"})
+For certifcation and testing of Controlled Goods, suppliers can refer to the list of CAB (Certification), CAB (Certification-MRA), CAB (Testing) and CAB (TestingMRA) found [here](/images/cpsr-resources/list-of-cab-cps-scheme-ver-22-04-21.xlsx){:target="_blank"}
 
 **6. How should I display the SAFETY Mark?**<br>
 Information on displaying the SAFETY Mark can be found in Appendix N of the Consumer Protection (Safety Requirements) Registration Scheme Information Booklet. 
