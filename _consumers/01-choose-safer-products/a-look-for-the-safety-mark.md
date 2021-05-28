@@ -38,4 +38,4 @@ The 33 categories of Controlled Goods are:
 [1]:https://cpsa.enterprisesg.gov.sg
 
 **What should you do when you detect non-registered Controlled Goods without the SAFETY Mark?**<br>
-The Consumer Product Safety Office takes a serious view of any non-compliance. If you are aware of anyone who is supplying or selling non-registered Controlled Goods, please provide us with the relevant information (e.g. product type, brand/model, name of company, location, etc.) so that appropriate enforcement action may be taken against the supplier. You can contact us either at <consumerprotection@enterprisesg.gov.sg> or 1800 773 3163.
+The Consumer Product Safety Office takes a serious view of any non-compliance. If you are aware of anyone who is supplying or selling non-registered Controlled Goods, please provide us with the relevant information (e.g. product type, brand/model, name of company, location, etc.) so that appropriate enforcement action may be taken against the supplier. You can contact us either at <consumerproductsafety@enterprisesg.gov.sg> or 6898 1800.
