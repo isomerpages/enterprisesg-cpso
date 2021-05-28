@@ -3,7 +3,7 @@ title: Safety Tips on Cycling
 permalink: /safety-tips-on-cycling
 ---
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 ## Safety Tips on Cycling
 Cycling around the neighbourhood is a great way for you and your child to bond over a fun and healthy activity. However, bicycle injuries can be a cause for concern.
@@ -43,4 +43,4 @@ The same study by KKH also found that 76% of the injured children were pillion r
 
 The Singapore Road Safety Council advises against carrying a pillion rider when cycling on the road. If it is absolutely necessary, use a well-fitted children’s bicycle seat with an accompanying footrest. Also check that the buckles, clips and straps are correctly and securely adjusted and fastened, and make sure that your child is wearing a helmet when riding with you.
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
