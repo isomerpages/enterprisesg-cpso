@@ -3,7 +3,7 @@ title: Safety Tips on Costume Jewellery for Children
 permalink: /safety-tips-on-constume-jewellery-for-children
 ---
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 ## Safety Tips on Costume Jewellery for Children
 It is easy to just pick designs that are trendy or cute when buying jewellery for your young children. However, parents and caregivers should never overlook safety. Avoid accessories with small parts that can pose a choking hazard. Harmful metals can also be a concern, especially since young children tend to put things into their mouths.
@@ -21,4 +21,4 @@ It is easy to just pick designs that are trendy or cute when buying jewellery fo
 * Make sure your children do not place jewellery into their mouths.
 * If your children have the tendency to put objects in their mouths, do not give them metal chains or pendants to wear. Metals like lead, cadmium or nickel tend to leach out when chewed or swallowed.
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
