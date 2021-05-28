@@ -10,7 +10,7 @@ Parents believed that the toy would benefit their child educationally and though
 
 You can protect your child from hazards like choking, falls, cuts and bruises by following the manufacturer’s recommendations and guidelines. Pay attention to the age-appropriateness of the toy and look out for labels such as this:
 
-![age appropriateness labels of the toy](/images/product-safety-tips/age-appropriateness-labels-of-the-toy.png)
+<img src="/images/product-safety-tips/age-appropriateness-labels-of-the-toy.png" alt="age appropriateness labels of the toy" style="width:274px;height:264px;"><br>
 
 *Before purchase:*
 * Ensure that the toy you are buying is appropriate for your child’s age. Toys for older children should be kept out of the reach of younger ones.
