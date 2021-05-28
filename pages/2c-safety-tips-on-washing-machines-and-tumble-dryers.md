@@ -3,7 +3,7 @@ title: Safety Tips on Washing Machines and Tumble Dryers
 permalink: /safety-tips-on-washing-machines-and-tumble-dryers
 ---
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
 ## Safety Tips on Washing Machines and Tumble Dryers
 Follow these safety tips to help ensure that the washing machine and clothes dryer do not pose any safety hazards.
@@ -22,4 +22,4 @@ Follow these safety tips to help ensure that the washing machine and clothes dry
 * Refer to the operating instructions prior to washing or drying a clothing that has been soiled with substances such as oil or paint.
 * Always engage the authorized servicing agent or supplier to conduct regular servicing, repairs or when there are signs of faults or defects.
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
