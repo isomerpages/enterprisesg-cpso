@@ -3,7 +3,7 @@ title: Tips on Installation and Maintenance
 permalink: /tips-on-installation-and-maintenance
 ---
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
 ## Tips on Installation and Maintenance
 
@@ -31,4 +31,4 @@ To reduce the risk of tip-overs and injuries, furniture and bulky appliances suc
 * Look out for anchor cabinets as well as bookcases or dressers with anti-tipping wall brackets, braces or straps
 * Televisions should be mounted to the wall or placed on a suitable stand as recommended by the manufacturer
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
