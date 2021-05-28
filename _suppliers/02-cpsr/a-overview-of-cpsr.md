@@ -28,6 +28,6 @@ The SAFETY Mark helps consumers and suppliers identify registered Controlled Goo
 |:---:|----|
 | **1**| Visit [cpsa.enterprisesg.gov.sg][1]{:target="_blank"} and click on "Register of Registered Controlled Goods"                                  
 | **2**| Key in either the product model number or the 8-digit registration number found on the SAFETY Mark                                                    
-| **3**| Check that the product information in the search results tallies with the product. Should there be no matches, contact us at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>
+| **3**| Check that the product information in the search results tallies with the product. Should there be no matches, contact us at 6898 1800 or <consumerproductsafety@enterprisesg.gov.sg>
 
 [1]:https://cpsa.enterprisesg.gov.sg
