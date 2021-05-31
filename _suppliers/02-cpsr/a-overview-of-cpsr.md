@@ -12,7 +12,7 @@ Once the model of a particular Controlled Good has been registered, it can then 
 
 Click to find out more about the [33 categories of Controlled Goods under CPSR.](/suppliers/cpsr/list-of-controlled-goods)
 
-Suppliers must also be a Registered Supplier before supplying the Controlled Goods. Click to find out more on how to [apply to be Registered Supplier](/suppliers/cpsr/apply-to-be-a-registered-supplier) and how to [register Controlled Goods](/suppliers/cpsr/registering-controlled-goods).
+Suppliers must also be a Registered Supplier before supplying the Controlled Goods. Click to find out more on how to [apply to be Registered Supplier](/suppliers/cpsr/apply-to-be-a-registered-supplier) and how to [register Controlled Goods](/suppliers/cpsr/register-your-controlled-goods).
 
 Any person found guilty of selling unregistered Controlled Goods, is liable upon conviction, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding two years or both.
 
