@@ -4,18 +4,30 @@
 
 @charset "utf-8";
 
-// Agency brand colors
-$primary: {{- site.colors.primary-color -}};
-$secondary: {{- site.colors.secondary-color -}};
-$secondary-hover: lighten($secondary, 10%);
+$primary: #E7131A; //Corporate Red
+$secondary: #E7131A; //Pantone 432C
+$secondary-hover: lighten($primary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
   ${{- media-color.title -}}: {{- media-color.color -}};
 {%- endfor -%}
 
+//shades of corporate red
+$media-color-one: #E7131A; 
+$media-color-two: #960019; 
+$media-color-three: #CA3433; 
+$media-color-four: #C00A32; 
+$media-color-five: #960019; 
+$media-color-six: #E7131A; 
+$media-color-seven: #CE5C5C; 
+$media-color-eight: #CA3433; 
+$media-color-nine: #C00A32; 
+$media-color-ten: #960019; 
+
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
-
+$tablet: 768px !default;
+	  
 // Mixins
 
 @mixin touch() {
@@ -32,21 +44,73 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Background
 .bg{
-  &-primary{
-    background-color: $primary !important;
-  }
-  &-secondary {
-    background-color: $secondary !important;
-  }
-  &-media-color {
-    {%- for media-color in site.colors.media-colors -%}
-      &-{{- forloop.index -}} {
-        background-color: ${{- media-color.title -}};
-        &:hover {
-          background-color: darken(${{- media-color.title -}}, 10%);
-        }
-      }
-    {%- endfor -%}
+	&-primary{
+   		background-color: $primary !important;
+ 	}
+	&-secondary {
+		background-color: $secondary !important;
+	}
+  	&-media-color {
+  		&-1 {
+  			background-color: $media-color-one;
+  			&:hover {
+  				background-color: darken($media-color-one, 10%);
+			}
+  		}
+  		&-2 {
+  			background-color: $media-color-two;
+  			&:hover {
+  				background-color: darken($media-color-two, 10%);
+			}
+  		}
+  		&-3 {
+  			background-color: $media-color-three;
+  			&:hover {
+  				background-color: darken($media-color-three, 10%);
+			}
+  		}
+  		&-4 {
+  			background-color: $media-color-four;
+  			&:hover {
+  				background-color: darken($media-color-four, 10%);
+			}
+  		}
+  		&-5 {
+  			background-color: $media-color-five;
+  			&:hover {
+  				background-color: darken($media-color-five, 10%);
+			}
+  		}
+		&-6 {
+  			background-color: $media-color-six;
+  			&:hover {
+  				background-color: darken($media-color-six, 10%);
+			}
+  		}
+		&-7 {
+  			background-color: $media-color-seven;
+  			&:hover {
+  				background-color: darken($media-color-seven, 10%);
+			}
+		}
+		&-8 {
+			background-color: $media-color-eight;
+			&:hover {
+				background-color: darken($media-color-eight, 10%);
+			}
+		}
+		&-9 {
+			background-color: $media-color-nine;
+			&:hover {
+				background-color: darken($media-color-nine, 10%);
+			}
+		}
+		&-10 {
+			background-color: $media-color-ten;
+			&:hover {
+				background-color: darken($media-color-ten, 10%);
+			}
+		}
   }
   &-1{
     //background-color: $primary;
@@ -255,6 +319,11 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Post-content
 .content {
+	p {
+		@include desktop(){
+			text-align: justify;
+		}
+	}
 	h1, h2, h3, h4, h5 {
 		color: $secondary;
 		strong {

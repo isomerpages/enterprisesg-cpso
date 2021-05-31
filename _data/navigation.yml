@@ -4,24 +4,18 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/cpso-logo.png
 
 links:
-  - title: About Us
-    collection: about-us
   - title: Consumers
     collection: consumers
-  - title: Businesses
-    collection: businesses
-  - title: E-Services
-    sublinks:
-      - title: Registration of Registered Supplier
-        url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=AccountRegistrationRSSubmit.form
-      - title: Registration of Conformity Assessment Body
-        url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationCPS.form%3FAT%3D1&
-  - title: News And Media Centre
+  - title: Suppliers
+    collection: suppliers
+  - title: News And Media
     resource_room: true
+  - title: About
+    collection: about-us
   - title: Contact Us
     url: /contact-us/
-  - title: FAQ
-    url: /faq/
+
+

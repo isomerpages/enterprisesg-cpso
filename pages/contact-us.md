@@ -2,31 +2,21 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Consumer Product Safety Office
 locations:
-  - title: Main Office
+  - title: Address
     address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
+        - 230 Victoria Street 
+        - 09-00 Bugis Junction Office Tower
+        - Singapore 188024
     operating_hours:
       - days: Mon - Fri
         time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+        description: Closed on Weekends and Public Holidays
+    maps_link: https://www.google.com/maps/place/Bugis+Junction+Towers/@1.2999657,103.8562714,15z/data=!4m5!3m4!1s0x0:0xb3cb17f62b246e40!8m2!3d1.2999657!4d103.8562714
 contacts:
   - title: General Enquiries & Feedback
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+    - phone: 6898 1800
+    - email: consumerproductsafety@enterprisesg.gov.sg 
 ---

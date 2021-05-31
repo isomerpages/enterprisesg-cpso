@@ -1,36 +1,36 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Consumer Product Safety Office
+description: Find out more about product safety regulations and how the Consumer Product Safety Office safeguards consumers
+image: /images/favicon-isomer.ico
 permalink: /
-notification: Here's a notification bar you can use!
+notification: 
 sections:
     - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
+        title: 
+        subtitle: <h3>Consumer product safety for consumers and suppliers<h3>
+        background: /images/familythree.jpg
         key_highlights:
-            - title: Product Safety Alerts and Recalls
-              url: /news-and-media-centre/product-safety-alerts-and-recalls/
-            - title: Register for SAFETY Mark
-              description: Redirects to Google Mail
-              url: https://gmail.com
-            - title: More about ACCURACY Label
-              description: Redirects to /privacy
-              url: /privacy/
-            - title: Register as Conformity Assessment Body
-              url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PublicTermsAndCondition.form?STR_FORM=DesnApplicationCPS.form%3FAT%3D1&
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+            - title: Use products safely
+              description: Learn product safety tips to prevent injuries to you and your family
+              url: /consumers/product-safety-tips/electronics-and-appliances
+            - title: Product safety alerts and recalls
+              description: Stay up to date with the latest news on consumer product safety in Singapore
+              url: /consumers/product-safety-alerts-and-recalls/children-apparel
+            - title: Check if your Controlled Goods are registered
+              description: Check if the product has a valid SAFETY Mark
+              url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PUBSearchCOC.form
+
+    - infopic:
+        title: Find out more about product safety regulations
+        subtitle: 
+        description: Suppliers must comply with product safety regulations to ensure your products do not pose safety risks to consumers.
+        button: Learn More
+        url: /suppliers/overview
+        image: /images/microwave.jpg
+        alt: image of microwave
     - resources:
-        title: Media
-        subtitle: Learn more
+        title: News & Media
+        subtitle:
         button: View More
 ---
