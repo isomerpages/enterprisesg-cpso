@@ -32,6 +32,7 @@ collections:
   product-safety-tips:
     output: true
 
+google_analytics: UA-198468316-1
 resources_name: news-and-media
 
 future: true
