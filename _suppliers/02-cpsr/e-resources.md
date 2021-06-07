@@ -22,6 +22,10 @@ third_nav_title: Supplying controlled goods
 * Updated 31 May 2021:<br>
 [Application for Renewal of Certified Controlled Goods](/images/cpsr-application-info/coc07-application-for-renewal-of-certified-controlled-goods.pdf){:target="_blank"}
 * Updated 31 May 2021:<br>
-[New or Renewal of Supplier Application of High Risk Controlled Goodss](/images/cpsr-application-info/new-renewal-of-supplier-application-of-high-risk-controlled-goods.pdf){:target="_blank"}
-* Updated 31 May 2021:<br>
+[New or Renewal of Supplier Application of High Risk Controlled Goods](/images/cpsr-application-info/new-renewal-of-supplier-application-of-high-risk-controlled-goods.pdf){:target="_blank"}
+* Updated 07 Jun 2021:<br>
 [Notification of Modification to Registered Controlled Goods](/images/cpsr-application-info/rs03-notification-of-modification-to-registered-controlled-goods.pdf){:target="_blank"}
+* Updated 07 Jun 2021:<br>
+[Application for Withdrawal of Controlled Goods Registration and Handing Over of Technical Files](/images/cpsr-application-info/coc-11a-transfer-of-coc.pdf){:target="_blank"}
+* Updated 07 Jun 2021:<br>
+[Application for Resubmission of Controlled Goods Registration and Taking Over of Technical Files](/images/cpsr-application-info/coc-11b-transfer-of-coc.pdf){:target="_blank"}
