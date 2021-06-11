@@ -28,9 +28,7 @@ In general, you should practice the following:
 
 |   |   |
 |---|---|
-|![tip1](/images/product-safety-tips/toughened-glass/tg-tip1.png)|Ensure installation, repair and servicing of gas hobs is carried out by qualified service personnel. You can do this by: <br> 
-* Engaging authorised contractors recommended by the gas hob manufacturer where possible.<br>  
-* Contacting a licensed gas service work for all gas service working like connecting or disconnecting gas hobs to the piped gas supply.|
+|![tip1](/images/product-safety-tips/toughened-glass/tg-tip1.png)|Ensure installation, repair and servicing of gas hobs is carried out by qualified service personnel. You can do this by: <br> - Engaging authorised contractors recommended by the gas hob manufacturer where possible.<br> - Contacting a licensed gas service work for all gas service working like connecting or disconnecting gas hobs to the piped gas supply.|
 |![tip2](/images/product-safety-tips/toughened-glass/tg-tip2.png)|Be careful when handling heavy or sharp objects around appliances to prevent damage to the glas. Minor scratches can eventually result in glass shattering.|
 |![tip3](/images/product-safety-tips/toughened-glass/tg-tip3.png)|Report any irregularity or damage (e.g. clogged or non-functional burners, cracked or chipped glass) to the manufacturer, authorised agent or a product service centre.|
 |![tip4](/images/product-safety-tips/toughened-glass/tg-tip4.png)|Clean the hob regularly ro remove food liquid spillage.<br> &nbsp; &nbsp; &nbsp; Pay particular attention when cleaning the gas burners to prevent them from being clogged by spillage.<br> &nbsp; &nbsp; &nbsp; Ensure that spillage does not leak into the hob's interior (i.e., through the burner) as it can cause the internal components to rust.|
