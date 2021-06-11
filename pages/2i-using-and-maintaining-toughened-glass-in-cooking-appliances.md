@@ -42,6 +42,14 @@ If the toughened glass on your gas hob shatters, you should:
 * Photograph the damaged appliance
 * Clean up glass fragments and keep them out of reach of childern.
 * Report the indicident to the manufacturer of the appliance. Provide the following information when reporting the incident: 
-    test
+    * Appliance Brand
+    * Model number
+    * Date of purchase
+    * Description of incident (e.g. time of incident, activity prior to shattering of glass etc.)
+    * Proof of purchase (e.g. receipt, warranty card)
+    * Photos of the damaged appliance 
+    * Your contact details
+* Keep the damaged product as it may be examined or sent for testing as part of the investigation.
+
 
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
