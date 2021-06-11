@@ -2,7 +2,8 @@
 title: Safety Tips on Ceiling Fans
 permalink: /safety-tips-on-ceiling-fans
 ---
+## Safety Tips on Ceiling Fans
 
-[The Essential Safety Guide To Ceiling Fans](/images/product-safety-tips/safety-tips-on-ceiling-fans.pdf){:target="_blank"}
+![Safety tips on ceiling fans](/images/product-safety-tips/ceiling-fan.png)
 
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
