@@ -3,4 +3,24 @@ title: Using and Maintaining Toughened Glass in Cooking Appliances
 permalink: /consumers/product-safety-tips/using-and-maintaining-toughened-glass-in-cooking-appliances
 third_nav_title: Safety At Home
 ---
-[Brochure for Using and Maintaining Toughened Glass in Cooking Appliances](/images/product-safety-tips/toughened-glass-brochure.pdf){:target="_blank"}
+
+## Safety tips on Toughened Glass in Cooking Appliances
+
+**Where can you find toughened glass?**
+Toughened glass (also known as tempered glass) is used in a variety of consumer products, ranging from windshields to cooking appliances like gas hobs.
+
+Gas hobs are regulated by the CPSO under the [Consumer Protection (Safety Requirements) Regulations](/suppliers/cpsr/overview-of-cpsr). Gas hobs must be tested to specified safety standards and affixed with the SAFETY Mark before they can be sold in Singapore. 
+
+**Why does the toughened glass in gas hobs shatter?**
+In many cases, the main reason the glass shatters is due to tiny hairline cracks that form as a result of accidental damage. These hairline cracks tend to widen over time due to expansion and contraction caused by cycles of heating and cooling as the appliance is switched on and off during use. This continues until the glass eventually shatters. 
+
+Hairline cracks can also develop when hard objects such as pots and pans are placed too forcefully onto the jobs' toughened glass surface. 
+
+**Safety tips for using and maintaining toughened glass**
+In general, you should practice the following:
+* Buy registered electrical and gas appliancs bearing the SAFETY Mark.
+<img src="/images/about-us/safety-mark.jpg" alt="SAFETY Mark" style="width:727px;height:420px;">
+
+Learn more about the SAFETY Mark and how to check if the electrical or gas appliance is a registered Controlled Good [here](/consumers/choose-safer-products/look-for-the-safety-mark).
+
+* Read the instruction manual before using appliances.
