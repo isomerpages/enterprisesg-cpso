@@ -33,6 +33,15 @@ In general, you should practice the following:
 |![tip3](/images/product-safety-tips/toughened-glass/tg-tip3.png)|Report any irregularity or damage (e.g. clogged or non-functional burners, cracked or chipped glass) to the manufacturer, authorised agent or a product service centre.|
 |![tip4](/images/product-safety-tips/toughened-glass/tg-tip4.png)|Clean the hob regularly ro remove food liquid spillage.<br> - Pay particular attention when cleaning the gas burners to prevent them from being clogged by spillage.<br> - Ensure that spillage does not leak into the hob's interior (i.e., through the burner) as it can cause the internal components to rust.|
 |![tip5](/images/product-safety-tips/toughened-glass/tg-tip5.png)|Avoid placing additional weight (e.g. unused pots and pans) directly on the glass top.|
-|![tip6](/images/product-safety-tips/toughened-glass/tg-tip6-1.png)|Prevent the glass surface of the gas hob from overheating.<br> - Do not cover the glass top (e.g. with aluminium foil as this will prevent heat from dissipating.<br> - Do not leave the wok stand around the gas burnger as heat trapped by wok stand will be deflected to glass top.<br> <img src="/images/product-safety-tips/toughened-glass/tg-tip6-2.png" alt="tip6-2" style="width:129.5px;height:117px;"><br> - Avoid using oversized cooking utensils (e.g. pans or woks). Heat will be deflected to the glass top from the pan bottom. Refer to the user manual to determine the size of utensils that can be used.<br> <img src="/images/product-safety-tips/toughened-glass/tg-tip6-3.png" alt="tip6-3" align="left" style="width:169.5px;height:123px;"><br>|
+|![tip6](/images/product-safety-tips/toughened-glass/tg-tip6-1.png)|Prevent the glass surface of the gas hob from overheating.<br> - Do not cover the glass top (e.g. with aluminium foil as this will prevent heat from dissipating.<br> - Do not leave the wok stand around the gas burnger as heat trapped by wok stand will be deflected to glass top.<br> <img src="/images/product-safety-tips/toughened-glass/tg-tip6-2.png" alt="tip6-2" style="width:129.5px;height:117px;"><br> - Avoid using oversized cooking utensils (e.g. pans or woks). Heat will be deflected to the glass top from the pan bottom. Refer to the user manual to determine the size of utensils that can be used.<br> <img src="/images/product-safety-tips/toughened-glass/tg-tip6-3.png" alt="tip6-3" style="width:169.5px;height:123px;"><br>|
+
+**What to do if toughened glass shatters**<br>
+If the toughened glass on your gas hob shatters, you should:
+
+* Remain calm. While shattering may cause a loud cracking noise, the glass will crumble into small rounded pieces which are less likely to cause injury.
+* Photograph the damaged appliance
+* Clean up glass fragments and keep them out of reach of childern.
+* Report the indicident to the manufacturer of the appliance. Provide the following information when reporting the incident: 
+    test
 
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
