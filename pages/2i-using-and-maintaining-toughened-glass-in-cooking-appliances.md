@@ -28,6 +28,6 @@ In general, you should practice the following:
 
 |   |   |
 |---|---|
-|![tip1](/images/product-safety-tips/toughened-glass/tg-tip1.png]|Ensure installation, repair and servicing of gas hobs is carried out by qualified service personnel. You can do this by: <br> - Engaging authorised contractors recommended by the gas hob manufacturer where possible.<br> - Contacting a licensed gas service work for all gas service working like connecting or disconnecting gas hobs to the piped gas supply.|
+|![tip1](/images/product-safety-tips/toughened-glass/tg-tip1.png)|Ensure installation, repair and servicing of gas hobs is carried out by qualified service personnel. You can do this by: <br> - Engaging authorised contractors recommended by the gas hob manufacturer where possible.<br> - Contacting a licensed gas service work for all gas service working like connecting or disconnecting gas hobs to the piped gas supply.|
 
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
