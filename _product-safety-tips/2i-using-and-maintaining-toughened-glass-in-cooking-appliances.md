@@ -18,9 +18,7 @@ Hairline cracks can also develop when hard objects such as pots and pans are pla
 
 **Safety tips for using and maintaining toughened glass**
 In general, you should practice the following:
-* Buy registered electrical and gas appliancs bearing the SAFETY Mark.
+* Buy registered electrical and gas appliancs bearing the SAFETY Mark. Learn more about the SAFETY Mark and how to check if the electrical or gas appliance is a registered Controlled Good [here](/consumers/choose-safer-products/look-for-the-safety-mark).
 <img src="/images/about-us/safety-mark.jpg" alt="SAFETY Mark" style="width:727px;height:420px;">
-
-Learn more about the SAFETY Mark and how to check if the electrical or gas appliance is a registered Controlled Good [here](/consumers/choose-safer-products/look-for-the-safety-mark).
 
 * Read the instruction manual before using appliances.
