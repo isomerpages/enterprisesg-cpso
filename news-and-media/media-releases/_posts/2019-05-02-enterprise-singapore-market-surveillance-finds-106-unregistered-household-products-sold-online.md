@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Enterprise Singapore’s Market Surveillance Finds 106 Unregistered Household Products Sold Online
+title:  'Enterprise Singapore’s Market Surveillance Finds 106 Unregistered Household Products Sold Online'
 permalink: /news-and-media/media-releases/2019-05-02-enterprise-singapore-market-surveillance-finds-106-unregistered-household-products-sold-online
 ---
 ## Enterprise Singapore’s Market Surveillance Finds 106 Unregistered Household Products Sold Online
