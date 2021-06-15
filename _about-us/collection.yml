@@ -1,0 +1,10 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - overview.md
+      - faq/.keep
+      - faq/frequently-asked-questions-on-cpsr.md
+      - faq/frequently-asked-questions-on-cgsr.md
+      - consumer-protection-consumer-goods-safety-requirements-regulations-cgsr.md
+      - consumer-protection-safety-requirements-regulations-cpsr.md
