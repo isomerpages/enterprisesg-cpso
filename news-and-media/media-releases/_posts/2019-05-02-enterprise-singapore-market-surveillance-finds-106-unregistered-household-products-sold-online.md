@@ -29,9 +29,9 @@ Singapore, Thursday, 2 May 2019
 
 10\. Consumers can report product safety issues directly to Enterprise Singapore at 1800 773 3163 or consumerprotection@enterprisesg.gov.sg. For the latest list of products that have been recalled in Singapore over safety concerns, visit <a href="https://www.enterprisesg.gov.sg/safety-recalls">www.enterprisesg.gov.sg/safety-recalls</a>{:target="_blank"}.
 
-Annex A: [List of Unregistered Controlled Goods Found](/news-and-media/media-releases/2019-05-02-mr01619-annex-a-list-of-unregistered-controlled-goods-found.pdf){:target="_blank"}<br>
-Annex B: [About the Consumer Protection (Safety Requirements) Regulations](/news-and-media/media-releases/2019-05-02-mr01619-annex-b-about-the-consumer-protection-safety-requirements-regulations.pdf){:target="_blank"}<br>
-Annex C: [Infographic on Online Shopping Product Safety Tips](/news-and-media/media-releases/2019-05-02-mr01619-annex-c-infographic-on-online-shopping-product-safety-tips.pdf){:target="_blank"}
+Annex A: [List of Unregistered Controlled Goods Found](/files/media-releases/2019-05-02-mr01619-annex-a-list-of-unregistered-controlled-goods-found.pdf){:target="_blank"}<br>
+Annex B: [About the Consumer Protection (Safety Requirements) Regulations](/files/media-releases/2019-05-02-mr01619-annex-b-about-the-consumer-protection-safety-requirements-regulations.pdf){:target="_blank"}<br>
+Annex C: [Infographic on Online Shopping Product Safety Tips](/files/media-releases/2019-05-02-mr01619-annex-c-infographic-on-online-shopping-product-safety-tips.pdf){:target="_blank"}
 
 <sup>1</sup>For full listing of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click [here](https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-suppliers/regulations-and-guidelines-for-suppliers/regulations-and-guidelines-for-suppliers/consumer-protection-safety-requirements-regulations/controlled-goods-and-their-applicable-safety-standards){:target="_blank"}.
 

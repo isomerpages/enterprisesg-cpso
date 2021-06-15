@@ -47,9 +47,9 @@ Singapore, Tuesday, 5 November 2019
 
 7\. Consumers also play an important part in making sure that the goods they buy are safe. Consumers can report product safety issues to us at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>{:target="_blank"}.
 
-Annex 1: [List of unsafe products](/news-and-media/media-releases/2019-11-05-annex-1-list-of-unsafe-products.pdf){:target="_blank"}
+Annex 1: [List of unsafe products](/files/media-releases/2019-11-05-annex-1-list-of-unsafe-products.pdf){:target="_blank"}
 
-Annex 2: [Tips on usage of cots and strollers](/news-and-media/media-releases/2019-11-05-annex-2-tips-on-usage-of-cots-and-strollers.pdf){:target="_blank"}
+Annex 2: [Tips on usage of cots and strollers](/files/media-releases/2019-11-05-annex-2-tips-on-usage-of-cots-and-strollers.pdf){:target="_blank"}
 
 <sup>1</sup>The breakdown of 16 samples tested are as such – six baby carriers, five cots, and five strollers.
 

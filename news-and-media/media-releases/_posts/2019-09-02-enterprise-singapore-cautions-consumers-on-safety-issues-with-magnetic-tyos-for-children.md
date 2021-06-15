@@ -33,7 +33,7 @@ Singapore, Monday, 2 September 2019
 
 7\. Consumers also play an important part in making sure that the goods they buy are safe. Consumers can report product safety issues to us at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>{:target="_blank"}.
 
-Annex 1: [Listing of the magnetic toys tested](/news-and-media/media-releases/2019-09-02-annex-a-listing-of-the-magnetic-toys-tested.pdf){:target="_blank"}
+Annex 1: [Listing of the magnetic toys tested](/files/media-releases/2019-09-02-annex-a-listing-of-the-magnetic-toys-tested.pdf){:target="_blank"}
 
 <sup>1</sup>Magnetic toys are commonly sold online and marketed as educational toys, consisting different shapes and sizes that attract each other when put together, allowing for constructive play. The toys are said to help children exercise their creativity, develop motor skills and coordination.
 
