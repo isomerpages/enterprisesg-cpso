@@ -3,9 +3,8 @@ title: Resources
 permalink: /suppliers/cpsr/resources
 third_nav_title: Supplying controlled goods
 ---
-**Resources**
 * Updated 31 May 2021:<br>
-[Consumer Protection (Safety Requirements) Regulations Information Booklet](/files/cpsr-resources/cps-info-booklet.pdf){:target="_blank"}
+[Consumer Protection (Safety Requirements) Regulations Information Booklet](/files/cps-info-booklet.pdf){:target="_blank"}
 * Updated 24 May 2021:<br>
 [Overview of Registration Process](/images/cpsr-resources/overview-cps-registration.pdf){:target="_blank"}
 * Updated 31 May 2021:<br>
