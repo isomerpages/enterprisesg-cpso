@@ -14,7 +14,7 @@ Cotton On Group has announced a voluntary recall of the Cotton On Kids Projector
 
 Affected units were sold between December 2018 and May 2021.
 
-Consumers are advised to return the affected product to any Cotton On Kids or Cotton On store for a refund or exchange. For more information, consumers can email productrecall@cotton.zendesk.com, call +65 800 852 6326, or visit their website www.cottonon.com.
+Consumers are advised to return the affected product to any Cotton On Kids or Cotton On store for a refund or exchange. For more information, consumers can email [productrecall@cotton.zendesk.com](productrecall@cotton.zendesk.com), call +65 800 852 6326, or visit their website [www.cottonon.com](https://www.cottonon.com).
 
 Refer to the listing below for more product safety alerts and recalls.
 
