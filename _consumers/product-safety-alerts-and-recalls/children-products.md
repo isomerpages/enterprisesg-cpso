@@ -10,7 +10,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10**<br>
 Cotton On Group has announced a voluntary recall of the Cotton On Kids Projector Light, Product Code 790691 followed by a Colour Code number ranging from 01-10. The button battery compartment within the product may not be adequately secured and the batteries may be easily accessible. If young children gain access to the button batteries and ingest them, they may suffer internal burn injuries, which can result in serious illness and even death. In addition, the batteries may pose a choking hazard to young children.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/cotto-on-group-recalls-kids-projector-light.png" alt="Cotton On Kids projector light" style="width:438px;height:468px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-products/cotto-on-group-recalls-kids-projector-light.png" alt="Cotton On Kids projector light" style="width:838px;height:468px;"><br>
 
 Affected units were sold between December 2018 and May 2021.
 
