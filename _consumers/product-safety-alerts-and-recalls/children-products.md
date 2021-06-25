@@ -6,15 +6,15 @@ third_nav_title: Product safety alerts and recalls
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**16 Oct 2020**<br>
-**Cotton On Group recalls Typo Harry Potter ‘Lumos’ and Marvel ‘Avengers Assemble’ Projection Pens**<br>
-Cotton On Group has announced a voluntary recall of the Typo Harry Potter ‘Lumos’ (style number 138316-08) and Marvel ‘Avengers Assemble’ (style number 138316-09) Projection Pens. The button battery compartment of the Projection Pen may not be adequately secured and has the potential to allow children easy access to the button batteries by simple twisting, which may cause a choking hazard.
+**25 Jun 2021**<br>
+**Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10**<br>
+Cotton On Group has announced a voluntary recall of the Cotton On Kids Projector Light, Product Code 790691 followed by a Colour Code number ranging from 01-10. The button battery compartment within the product may not be adequately secured and the batteries may be easily accessible. If young children gain access to the button batteries and ingest them, they may suffer internal burn injuries, which can result in serious illness and even death. In addition, the batteries may pose a choking hazard to young children.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/cotton-on-marvel-projection-pens.png" alt="Cotton On Marvel Projection Pens" style="width:299px;height:209px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-products/cotto-on-group-recalls-kids-projector-light.png" alt="Cotton On Kids projector light" style="width:838px;height:468px;"><br>
 
-Affected units were sold between November 2019 and September 2020.
+Affected units were sold between December 2018 and May 2021.
 
-Consumers are advised to return the affected product at any Typo store for a refund or exchange. For more information, consumers may contact Cotton On’s customer service team at +65 800 852 6326, email customerenquiries@cottonon.com, or use the chat function at cottonon.com/SG.
+Consumers are advised to return the affected product to any Cotton On Kids or Cotton On store for a refund or exchange. For more information, consumers can email productrecall@cotton.zendesk.com, call +65 800 852 6326, or visit their website www.cottonon.com.
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -22,6 +22,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|25 Jun 2021|[Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10](/children-products-recall-2021-06-25-cotto-on-group-recalls-kids-projector-light.pdf){:target="_blank"}|
 |16 Oct 2020 &nbsp; &nbsp; |[Cotton On Group recalls Typo Harry Potter ‘Lumos’ and Marvel ‘Avengers Assemble’ Projection Pens](/consumers/03-product-safety-alerts-and-recalls/children-products/children-products-recall-2020-10-16-cotton-on-group-recalls-typo-harry-potter-projection-pens.pdf){:target="_blank"}|
 |13 Jan 2020|[Philips recalls Digital Video Baby Monitor (SCD620)](/consumers/03-product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-13-philips-recalls-digital-video-baby-monitor.pdf){:target="_blank"}|
 |08 Jan 2020|[Decathlon recalls Baby Seat 100 BClip](/consumers/03-product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-08-decathlon-recalls-baby-seat-100-bclip.pdf){:target="_blank"}|
