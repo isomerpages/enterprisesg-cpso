@@ -13,8 +13,8 @@ third_nav_title: Supplying controlled goods
 [Guidelines on the Usage of the SAFETY Mark](/images/cpsr-resources/guidelines-on-the-usage-of-the-safety-mark.pdf){:target="_blank"}
 * Updated 31 May 2021:<br>
 [Conformity Assessment Information Booklet](/images/cpsr-resources/cab-info-booklet.pdf){:target="_blank"}
-* Updated 31 May 2021:<br>
-[List of Conformity Assessment Bodies](/images/cpsr-resources/list-of-cab-cps-scheme-ver-22-04-21.xlsx){:target="_blank"}
+* Updated 02 August 2021:<br>
+[List of Conformity Assessment Bodies](/files/list-of-cab-cps-scheme-ver-02-08-21.xlsx){:target="_blank"}
 
 
 **Application info**
