@@ -15,7 +15,7 @@ third_nav_title: Supplying controlled goods
 [Conformity Assessment Information Booklet](/images/cpsr-resources/cab-info-booklet.pdf){:target="_blank"}
 * Updated 02 August 2021:<br>
 [List of Conformity Assessment Bodies](/files/list-of-cab-cps-scheme-ver-02-08-21.xlsx){:target="_blank"}<br>
-[Download list of  Conformity Assessment Bodies](www.go.gov.sg/list-of-cab)
+[Download list of  Conformity Assessment Bodies](https://www.go.gov.sg/list-of-cab)
 
 **Application info**
 * Updated 31 May 2021:<br>
