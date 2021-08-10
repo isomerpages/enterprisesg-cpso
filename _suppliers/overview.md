@@ -3,7 +3,7 @@ title: Overview
 permalink: /suppliers/overview
 ---
 ## Be a Responsible Supplier
-Suppliers have the prime responsibility to ensure the safety of the products sold. You must comply with the relevant product safety regulations and ensure their products do not pose a safety risk to consumers.
+Suppliers have the prime responsibility to ensure the safety of the products sold. You must comply with the relevant product safety regulations and ensure their products do not pose a safety risk to consumers..
 
 **Consumer Protection (Safety Requirements) Regulations (CPSR)**<br>
 Suppliers of household electrical, electronic and gas products regulated under the CPSR, must comply with the Regulations and ensure that the Controlled Goods you supply meet relevant safety standards, are registered with the authority and affixed with the SAFETY Mark.
