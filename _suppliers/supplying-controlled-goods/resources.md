@@ -13,7 +13,8 @@ third_nav_title: Supplying controlled goods
 [Guidelines on the Usage of the SAFETY Mark](/images/cpsr-resources/guidelines-on-the-usage-of-the-safety-mark.pdf){:target="_blank"}
 * Updated 31 May 2021:<br>
 [Conformity Assessment Information Booklet](/images/cpsr-resources/cab-info-booklet.pdf){:target="_blank"}
-* [Download latest list of  Conformity Assessment Bodies](https://www.go.gov.sg/list-of-cps-cab)
+* Updated 27 Aug 2021:<br>
+ [Download latest list of  Conformity Assessment Bodies](https://www.go.gov.sg/list-of-cps-cab)
 
 **Application info**
 * Updated 31 May 2021:<br>
