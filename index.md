@@ -5,9 +5,10 @@ description: Find out more about product safety regulations and how the Consumer
   Product Safety Office safeguards consumers
 image: /images/favicon-isomer.ico
 permalink: /
-notification: Please be informed effective 30 November 2021, the CPSA website
-  has been replaced by our new CPSA+ website. Click <a href =
-  "https://www.cpsaplus.gov.sg">here</a> to find out more.
+notification: Please be informed effective 30 November 2021, the <a href =
+  "https://cpsa.enterprisesg.gov.sg">CPSA</a> website has been replaced by our
+  new CPSA+ website. Click <a href = "https://www.cpsaplus.gov.sg">here</a> to
+  find out more about CPSA+.
 sections:
   - hero:
       subtitle: <h3>Consumer product safety for consumers and suppliers<h3>
