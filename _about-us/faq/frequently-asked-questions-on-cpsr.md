@@ -3,7 +3,6 @@ title: Frequently Asked Questions on CPSR
 permalink: /about/faq/cpsr
 third_nav_title: FAQ
 ---
-
 ### Frequently Asked Questions on Consumer Protection (Safety Requirements) Regulations (CPSR)
 
 **1. What is the Consumer Protection (Safety Requirements) Regulations about?**<br>
@@ -17,7 +16,7 @@ Click [here](/suppliers/cpsr/list-of-controlled-goods) for the list of 33 catego
 
 |Steps|Description|
 |:---:|----|
-| **1**| Visit [cpsa.enterprisesg.gov.sg](https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html){:target="_blank"} and click on "Register of Registered Controlled Goods"                                  
+| **1**| Visit [go.gov.sg/safety-mark](https://www.go.gov.sg/safety-mark){:target="_blank"} and click on "Register of Registered Controlled Goods"                                  
 | **2**| Key in either the product model number or the 8-digit registration number found on the SAFETY Mark                                                    
 | **3**| Check that the product information in the search results tallies with the product. 
 
@@ -51,4 +50,4 @@ The registration of Controlled Goods is valid for three years, and may be renewe
 Yes, the Consumer Product Safety Office will conduct audits to ensure that submissions are done appropriately. 
 
 **9. What is the penalty of supplying unregistered Controlled Goods?**<br>
-Any person found guilty of selling unregistered controlled goods, is liable upon conviction, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding two years or both. 
+Any person found guilty of selling unregistered controlled goods, is liable upon conviction, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding two years or both.
