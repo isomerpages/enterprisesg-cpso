@@ -31,7 +31,7 @@ The 33 categories of Controlled Goods are:
 
 |Steps|Description|
 |:---:|----|
-| **1**| Visit [go.gov.sg/safety-mark](https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods){:target="_blank"} and click on "Register of Registered Controlled Goods"                                  
+| **1**| Visit [go.gov.sg/safety-mark](https://www.go.gov.sg/safety-mark)){:target="_blank"} and click on "Register of Registered Controlled Goods"                                  
 | **2**| Key in either the product model number or the 8-digit registration number found on the SAFETY Mark                                                    
 | **3**| Check that the product information in the search results tallies with the product. 
 
