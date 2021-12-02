@@ -6,7 +6,7 @@ third_nav_title: Supplying controlled goods
 * Updated 02 December 2021:<br>
 [Overview of Registration Process](/files/overview-cps-registration.pdf){:target="_blank"}
 * Updated 02 December 2021:<br>
-[Guide to SDoC registration](/images/cpsr-resources/guide-to-sdoc-application-and-renewal.pdf){:target="_blank"}
+[Guide to using CPSA+](/images/cpsr-resources/guide-to-sdoc-application-and-renewal.pdf){:target="_blank"}
 * Updated 01 Nov 2021:<br>
 [Conformity Assessment Information Booklet](/images/cpsr-resources/cab-info-booklet.pdf){:target="_blank"}
 * Updated 16 September 2021:<br>
