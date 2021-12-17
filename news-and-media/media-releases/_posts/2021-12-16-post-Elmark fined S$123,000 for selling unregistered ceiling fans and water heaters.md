@@ -5,7 +5,6 @@ date: 2021-12-16
 layout: post
 description: ""
 ---
-
 ## Elmark fined $123,000 for selling unregistered fans and water heaters
 
 MR No.: 107/21<br>
@@ -31,7 +30,7 @@ to<br> &emsp;check if the product has been registered with Enterprise Singapore;
   
  6\. Consumers can report product safety issues to the CPSO at 6898 1800 or consumerproductsafety@enterprisesg.gov.sg.
 
-Annex A:
+Annex A:[E-commerce Platforms’ Efforts to Safeguard Product Safety](/files/media-releases/2021-12-17-mr10921-annex-a-ecommerce-platform-efforts-to-safeguard-product-safety.pdf){:target="_blank"}<br>
 
 <sup>1</sup>The Consumer Product Safety Office (CPSO) was previously known as the Safety Authority under Enterprise Singapore.
 	
