@@ -8,57 +8,36 @@ description: ""
 ## Elmark fined $123,000 for selling unregistered fans and water heaters
 
 MR No.: 107/21<br>
-Singapore, Monday, 23 December 2019
+Singapore, Thursday, 16 December 2021
 
-1\. Enterprise Singapore, the Safety Authority, advises consumers to stop the use of 17 models of ceiling fans by Elmark Marketing (Elmark) due to potential safety hazards such as electrocution, falling hazard, laceration and fire. While no reports of injuries were made to Enterprise Singapore, consumers should exercise caution as these ceiling fans (categorised as Controlled Goods<sup>1</sup>) did not comply with our product safety requirements.
+1\. Elmark Marketing (Elmark), a supplier and distributor of ceiling fans and water heaters pleaded guilty to 25 charges for failing to comply with the Consumer Protection (Safety Requirements) Regulations (CPSR) administered by the Consumer Product Safety Office (CPSO)<sup>1</sup>. These requirements include failing to register its ceiling fans and water heaters, which are classified as Controlled Goods<sup>2</sup>, failing to have these tested and certified to relevant safety standards, and selling them with invalid SAFETY Marks affixed. The court case concluded today, with Elmark being fined a total of S$123,000 by the State Courts for violating requirements under the CPSR. 17 charges for other similar offences were taken into consideration for the sentence.
 
-2\. Elmark is recalling these ceiling fans with immediate effect. The affected models are set out in the list below. We advise consumers to check this list and visit Elmark’s website at <a href="https://www.elmark.com.sg/">www.elmark.com.sg</a>{:target="_blank"}, call 6741 0729, or email <recall@elmark.com.sg> for further details on the recall, including exact recall instructions, and how to identify the model number to ascertain whether they are in possession of any affected model. Affected consumers can contact the Consumers Association of Singapore (CASE) at its hotline +65 6100 0315 or <a href="https://www.case.org.sg/">www.case.org.sg</a>{:target="_blank"} should they require further assistance.
+2\. The CPSO began investigation in February 2019 after receiving a consumer’s feedback on a broken fan blade from an unregistered model of a ceiling fan supplied by the company. Investigations revealed that:<br>
+a. Elmark had been supplying unregistered models of ceiling fans and water <br> &emsp;heaters (refer to <b>Annex 1</b> for details of models sold);<br>
+b. six models of Elmark’s ceiling fans were subsequently found to fail safety<br> &emsp;tests which pose a potential safety risk for electrocution and fire.
 
-|No.| Model Number of Elmark Ceiling Fans|
-|:---:|:---:|
-|1|AC 4054|
-|2|E502 Aeratron|
-|3|EC 888|
-|4|EC 999|
-|5|ED 866|
-|6|EL03 Cane|
-|7|EL03 Leaf|
-|8|ELS 52 HHA|
-|9|EL 3888 Elegant|
-|10|ES 380S|
-|11|ES 803|
-|12|ES 803 Mini|
-|13|Fanaway|
-|14|Fantasy UFO 38|
-|15|V6 Mini|
-|16|V8 Jazz|
-|17|VIP 99|
 
-3\. Ceiling fans are classified as Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR). All Controlled Goods must be type-tested, certified to meet relevant safety standards, registered with Enterprise Singapore, and affixed with a SAFETY Mark before they can be supplied, displayed and/or advertised for sale in Singapore.
 
-4\. Enterprise Singapore takes a serious view towards suppliers who do not comply with the requirements under CPSR and will not hesitate to take action against errant suppliers. Any person found guilty of supplying unregistered Controlled Goods, is liable upon conviction, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding two years or both.
+3\. Pursuant to investigations, an advisory was issued to consumers in December 2019 to discontinue the use of 17 models of ceiling fans due to potential safety hazards. No reports of injuries were made to the CPSO. Elmark also recalled the ceiling fans with immediate effect. However, Elmark continued to contravene the CPSR by supplying two of the non-compliant models even after recall. These additional offences were included in the charges against Elmark.
 
-**Consumers encouraged to prioritise safety**
+4\. Consumers who still possess these ceiling fans are advised to stop using them, and contact Elmark for redress options. Under the CPSR, suppliers of Controlled Goods, including ceiling fans and water heaters, must ensure these products are type-tested, certified to meet relevant safety standards, registered with the CPSO, and affixed with a SAFETY Mark before they can be supplied, displayed, and advertised for sale in Singapore3. Any person found guilty of supplying unregistered Controlled Goods, is liable upon conviction, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding two years or both.
 
-5\. We urge consumers to play their part by prioritising safety considerations when purchasing and using household products. Consumers should practise the following:
+5\. We also encourage consumers to play their part by taking safety considerations into account when purchasing ceiling fans and water heaters. They should practise the following:
 
-  a. Look out for a valid SAFETY Mark. Search through the Register of Controlled Goods at cpsa.enterprisesg.gov.sg to check if the product has been registered with Enterprise Singapore;<br>
-  b. Check if a safety alert has been issued. Visit <a href="https://www.enterprisesg.gov.sg/consumer-protection">www.enterprisesg.gov.sg/consumer-protection</a>{:target="_blank"} or other international sites such as US Safer Products at <a href="https://www.saferproducts.gov/">www.saferproducts.gov</a>{:target="_blank"};<br>
-  c. For purchases online, buy from official stores or reputable brands and sellers, and check with the sellers that the product has met relevant safety standards.<br><br>
-<ins>Specifically for ceiling fans<ins>
+  a. Look out for a valid SAFETY Mark. Search through the Register of<br> &emsp;Controlled Goods at <a href="https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PUBSearchCOC.form">consumerproductsafety.gov.sg</a>{:target="_blank"}
+to<br> &emsp;check if the product has been registered with Enterprise Singapore;<br>
+  b. Consumers are also encouraged to check if a safety alert has been issued<br> &emsp; for a particular product, by visiting<br> &emsp; <a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-alerts-and-recalls/children-apparel">consumerproductsafety.gov.sg.</a>{:target="_blank"}
   
-  d. Consumers are recommended to contact the fan supplier for checks. This includes checking the suspension system of the ceiling fan and fan blade for any crack once every two years;<br>
-  e. Do not install the ceiling fan on an unstable ceiling or in a wet or moist area;<br>
-  f. Take care not to press down on, or bend fan blades during cleaning;<br>
-  g. Maintain the fan blade by cleaning it frequently with warm water only. Soap or strong detergent is not recommended.
-  
- 6\. Consumers can report product safety issues to Enterprise Singapore at 1800 773 3163 or <consumerprotection@enterprisesg.gov.sg>. For consumer safety tips, visit <a href="https://www.enterprisesg.gov.sg/safety-tips">www.enterprisesg.gov.sg/safety-tips</a>{:target="_blank"}. For information on registration of Controlled Goods, suppliers can visit <a href="https://www.enterprisesg.gov.sg/cpsr">www.enterprisesg.gov.sg/cpsr</a>{:target="_blank"}.
+ 6\. Consumers can report product safety issues to the CPSO at 6898 1800 or consumerproductsafety@enterprisesg.gov.sg.
 
-<sup>1</sup>For full listing of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click [here](https://www.enterprisesg.gov.sg/quality-standards/consumer-protection/for-suppliers/regulations-and-guidelines-for-suppliers/regulations-and-guidelines-for-suppliers/consumer-protection-safety-requirements-regulations/controlled-goods-and-their-applicable-safety-standards)
 
-For media enquiries, please contact:<br>
-Miss Fazilah Latif<br>
-Business Partner<br>
-Corporate Communications<br>
-DID: +65 6279 3751<br>
-Email: fazilah_latif@enterprisesg.gov.sg
+<sup>1</sup>The Consumer Product Safety Office (CPSO) was previously known as the Safety Authority under Enterprise Singapore.
+	
+<sup>2</sup>For full listing of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click <a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/list-of-controlled-goods">here</a>{:target="_blank"}.
+	
+																																													
+	
+For media enquiries, please contact:
+Ms Jocelyn Tan Assistant Business Partner Corporate Communications
+M : + 65 9817 7401
+E : Jocelyn_TAN@enterprisesg.gov.sg
