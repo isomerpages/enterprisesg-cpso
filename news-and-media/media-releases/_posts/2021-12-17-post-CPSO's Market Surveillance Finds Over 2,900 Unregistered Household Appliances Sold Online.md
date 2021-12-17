@@ -15,6 +15,6 @@ Singapore, Friday, 17 December 2021
 
 3\. Working with the CPSO, the e-commerce platforms have since delisted the unregistered household appliances <sup>3</sup>. The CPSO has also issued fines or warnings to sellers of these products. Sellers found guilty of selling unregistered controlled goods are liable upon conviction, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding two years or both.
 
-##### Safety considerations when buying products online
+**Safety considerations when buying products online**<br>
 
 4\. With the rise in e-commerce and consumer shift to online shopping, product safety for online purchases has become an increasingly important issue to be addressed. Consumers can play their part by using products that meet safety requirements, and adopt the following good practices when purchasing household appliances online.
