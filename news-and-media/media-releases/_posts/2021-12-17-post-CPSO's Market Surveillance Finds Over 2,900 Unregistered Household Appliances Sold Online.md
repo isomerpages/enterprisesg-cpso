@@ -29,10 +29,7 @@ Singapore, Friday, 17 December 2021
 
 5\. Said Ms Beatrice Wong, Director of CPSO, “Amid the year-end shopping season, we urge consumers to stay vigilant and conduct due checks on products and sellers when shopping online. This is particularly important when buying household appliances classified as controlled goods, as those that do not meet the safety requirements can pose fire, mechanical and electrical hazards. Consumers should always look out for the SAFETY Mark, which helps them identify products that meet safety requirements and are suitable for local use. These good practices will go a long way towards keeping yourself, your friends, and your family safe”.
 
-6\. Should consumers encounter any product safety-related issues for online purchases of household appliances, they may lodge a report to the CPSO at 6898 1800 or consumerproductsafety@enterprisesg.gov.sg.
-
-7\. For more information on shopping for safe products online or to access the latest list of products that have been recalled in Singapore over safety concerns, consumers can visit www.consumerproductsafety.gov.sg. 
-
+6\. Should consumers encounter any product safety-related issues for online purchases of household appliances, they may lodge a report to the CPSO at 6898 1800 or <consumerproductsafety@enterprisesg.gov.sg>.<br>
 
 <sup>1</sup> The CPSO is overseen by Enterprise Singapore. <br>
 <sup>2</sup> For full listing of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click [here](https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/look-for-the-safety-mark).<br>
