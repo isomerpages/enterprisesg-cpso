@@ -17,28 +17,51 @@ a. Elmark had been supplying unregistered models of ceiling fans and water heate
 b. six models of Elmark’s ceiling fans were subsequently found to fail safety tests which pose a potential safety risk for electrocution and fire.
 
 
-
 3\. Pursuant to investigations, an advisory was issued to consumers in December 2019 to discontinue the use of 17 models of ceiling fans due to potential safety hazards. No reports of injuries were made to the CPSO. Elmark also recalled the ceiling fans with immediate effect. However, Elmark continued to contravene the CPSR by supplying two of the non-compliant models even after recall. These additional offences were included in the charges against Elmark.
 
-4\. Consumers who still possess these ceiling fans are advised to stop using them, and contact Elmark for redress options. Under the CPSR, suppliers of Controlled Goods, including ceiling fans and water heaters, must ensure these products are type-tested, certified to meet relevant safety standards, registered with the CPSO, and affixed with a SAFETY Mark before they can be supplied, displayed, and advertised for sale in Singapore3. Any person found guilty of supplying unregistered Controlled Goods, is liable upon conviction, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding two years or both.
+4\. Consumers who still possess these ceiling fans are advised to stop using them, and contact Elmark for redress options. Under the CPSR, suppliers of Controlled Goods, including ceiling fans and water heaters, must ensure these products are type-tested, certified to meet relevant safety standards, registered with the CPSO, and affixed with a SAFETY Mark before they can be supplied, displayed, and advertised for sale in Singapore<sup>3</sup>. Any person found guilty of supplying unregistered Controlled Goods, is liable upon conviction, to a fine not exceeding S$10,000 or imprisonment for a term not exceeding two years or both.
 
 5\. We also encourage consumers to play their part by taking safety considerations into account when purchasing ceiling fans and water heaters. They should practise the following:
 
 a. Look out for a valid SAFETY Mark. Search through the Register of Controlled Goods at <a href="https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PUBSearchCOC.form">consumerproductsafety.gov.sg</a>{:target="_blank"}
-to check if the product has been registered with Enterprise Singapore;<br>
+to check if the product has been registered with the CPSO;<br>
 b. Consumers are also encouraged to check if a safety alert has been issued for a particular product, by visiting <a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-alerts-and-recalls/children-apparel">consumerproductsafety.gov.sg.</a>{:target="_blank"}
   
  6\. Consumers can report product safety issues to the CPSO at 6898 1800 or consumerproductsafety@enterprisesg.gov.sg.
 
-Annex A:[E-commerce Platforms’ Efforts to Safeguard Product Safety](/files/media-releases/2021-12-16-mr10721-annex-1-models-of-unregistered-ceiling-fans-and-water-heaters-sold-by-elmark.pdf){:target="_blank"}<br>
+**Annex 1: Models of unregistered ceiling fans and water heaters sold by Elmark**
+
+|No.|Model Number of Elmark's Ceiling Fans|
+|:---:|:---:|
+|1|AC 4054|
+|2|E502 Aeratron|
+|3|EC 888|
+|4|EC 999|
+|5|ED 866|
+|6|EL03 Cane|
+|7|EL03 Leaf|
+|8| ELS 52 HHA|
+|9|EL 3888 Elegant|
+|10|ES 380S|
+|11|ES 803|
+|12|ES 803 Mini|
+|13|Fanaway|
+|14|Fantasy UFO 38|
+|15|V6 Mini|
+|16|V8 Jazz|
+|17|VIP 99|
+
+|No.|Model Number of Elmark's Water Heaters|
+|:---:|:---:|
+|1|Slim 8|
 
 <sup>1</sup>The Consumer Product Safety Office (CPSO) was previously known as the Safety Authority under Enterprise Singapore.
 	
 <sup>2</sup>For full listing of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click <a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/list-of-controlled-goods">here</a>{:target="_blank"}.
 	
-																																													
+<sup>3</sup>Information on the CPSR requirements and SAFETY Mark can be found [here](https://www.consumerproductsafety.gov.sg/suppliers/cpsr/overview-of-cpsr){:target="_blank"}																																													
 	
-For media enquiries, please contact:
-Ms Jocelyn Tan Assistant Business Partner Corporate Communications
-M : + 65 9817 7401
+For media enquiries, please contact:<br>
+Ms Jocelyn Tan Assistant Business Partner<br> Corporate Communications<br>
+M : + 65 9817 7401<br>
 E : Jocelyn_TAN@enterprisesg.gov.sg
