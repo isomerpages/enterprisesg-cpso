@@ -32,7 +32,7 @@ Singapore, Friday, 17 December 2021
 6\. Should consumers encounter any product safety-related issues for online purchases of household appliances, they may lodge a report to the CPSO at 6898 1800 or <consumerproductsafety@enterprisesg.gov.sg>.<br>
 
 Annex A: [E-commerce Platforms’ Efforts to Safeguard Product Safety(/files/media-releases/2021-12-17-mr10921-annex-a-ecommerce-platform-efforts-to-safeguard-product-safety.pdf){:target="_blank"}<br>
-Annex B: [Infographic on Online Shopping Product Safety Tips](/files/media-releases/2021-12-17-mr10921-annex-b.pdf){:target="_blank"}<br>
+Annex B: [Infographic on Online Shopping Product Safety Tips](/files/media-releases/2021-12-17-mr10921-annex-b-infographic-on-online-shopping-product-safety-tips.pdf){:target="_blank"}<br>
 
 <sup>1</sup> The CPSO is overseen by Enterprise Singapore. <br>
 <sup>2</sup> For full listing of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click [here](https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/look-for-the-safety-mark).<br>
