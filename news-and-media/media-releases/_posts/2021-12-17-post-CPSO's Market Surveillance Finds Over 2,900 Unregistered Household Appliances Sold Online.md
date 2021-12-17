@@ -37,4 +37,13 @@ d. **Check product compatibility for local use**: For online purchases of electr
 <sup>1</sup> The CPSO is overseen by Enterprise Singapore. <br>
 <sup>2</sup> For full listing of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click [here](https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/look-for-the-safety-mark).<br>
 <sup>3</sup> For more information on the e-commerce platforms’ efforts to safeguard consumer product safety, please see Annex A.<br>
-<sup>4</sup> Singapore’s standard electricity supply is 230 volts AC with a frequency of 50 hertz (230V/50Hz).
+<sup>4</sup> Singapore’s standard electricity supply is 230 volts AC with a frequency of 50 hertz (230V/50Hz).<br>
+
+For media queries, please contact:<br>
+Jocelyn Tan <br>
+Assistant Business Partner<br>
+Corporate Communications<br>
+M : +65 9817 7401<br>
+E : Jocelyn_TAN@enterprisesg.gov.sg <br>
+
+
