@@ -9,7 +9,7 @@ description: ""
 MR No.: 109/21<br>
 Singapore, Friday, 17 December 2021
 
-1\. This year, the Consumer Product Safety Office (CPSO) <sup>1</sup> found more than 2,900 household appliances – classified as Controlled Goods<sup>2</sup> – sold on major e-commerce platforms like Amazon, Carousell, Ezbuy, Lazada, Qoo10 and Shopee in Singapore that were not registered with the CPSO or did not bear a valid SAFETY Mark in accordance with regulatory requirements. These were a result of the CPSO’s market surveillance efforts and investigations of consumer complaints received between January to November 2021.
+1\. This year, the Consumer Product Safety Office (CPSO)<sup>1</sup> found more than 2,900 household appliances – classified as Controlled Goods<sup>2</sup> – sold on major e-commerce platforms like Amazon, Carousell, Ezbuy, Lazada, Qoo10 and Shopee in Singapore that were not registered with the CPSO or did not bear a valid SAFETY Mark in accordance with regulatory requirements. These were a result of the CPSO’s market surveillance efforts and investigations of consumer complaints received between January to November 2021.
 
 2\. The top five categories of unregistered household appliances sold online, which did not meet regulatory requirements, were AC adaptors, portable socket outlets, cooking appliances (such as toasters, grills and hotplates), hair care appliances (such as hair dryers), and liquid heating appliances (such as kettles and hot water dispensers). 
 
