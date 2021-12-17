@@ -30,6 +30,7 @@ to<br> &emsp;check if the product has been registered with Enterprise Singapore;
   
  6\. Consumers can report product safety issues to the CPSO at 6898 1800 or consumerproductsafety@enterprisesg.gov.sg.
 
+Annex A:
 
 <sup>1</sup>The Consumer Product Safety Office (CPSO) was previously known as the Safety Authority under Enterprise Singapore.
 	
