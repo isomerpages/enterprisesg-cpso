@@ -17,4 +17,8 @@ Singapore, Friday, 17 December 2021
 
 **Safety considerations when buying products online**<br>
 
-4\. With the rise in e-commerce and consumer shift to online shopping, product safety for online purchases has become an increasingly important issue to be addressed. Consumers can play their part by using products that meet safety requirements, and adopt the following good practices when purchasing household appliances online.
+4\. With the rise in e-commerce and consumer shift to online shopping, product safety for online purchases has become an increasingly important issue to be addressed. Consumers can play their part by using products that meet safety requirements, and adopt the following good practices when purchasing household appliances online.<br>
+
+a. **Check product listing**: Listings on online marketplaces may show limited product angles and description. When in doubt, consumers should contact the sellers for more details on the product features, functionality and safety requirements (including whether it bears a SAFETY Mark).
+
+b.**Check product safety**: Consumer can check the validity of the SAFETY Mark for a product by visiting the <a href="https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoodsConsumer>Product Safety and Accuracy Plus (CPSA+) System</a {:target="_blank"} to view the Register of Registered Controlled Goods. They can also check if a safety alert has been issued for a product by visiting CPSO’s Product Safety Alerts and Recalls page and to determine whether products have previously been recalled by the manufacturer or had its sale ceased by regulatory bodies over safety issues. 
