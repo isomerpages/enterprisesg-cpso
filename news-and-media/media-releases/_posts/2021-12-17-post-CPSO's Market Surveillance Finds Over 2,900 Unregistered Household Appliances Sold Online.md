@@ -34,8 +34,7 @@ d. **Check product compatibility for local use**: For online purchases of electr
 7\. For more information on shopping for safe products online or to access the latest list of products that have been recalled in Singapore over safety concerns, consumers can visit www.consumerproductsafety.gov.sg. 
 
 
-<sup>1</sup>The CPSO is overseen by Enterprise Singapore.
-
-<sup>2</sup>For full listing of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click [here](https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/look-for-the-safety-mark)
-
-<sup>3</sup>For more information on the e-commerce platforms’ efforts to safeguard consumer product safety, please see Annex A.
+<sup>1</sup> The CPSO is overseen by Enterprise Singapore. <br>
+<sup>2</sup> For full listing of the 33 categories of Controlled Goods under the Consumer Protection (Safety Requirements) Regulations (CPSR), click [here](https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/look-for-the-safety-mark).<br>
+<sup>3</sup> For more information on the e-commerce platforms’ efforts to safeguard consumer product safety, please see Annex A.<br>
+<sup>4</sup> Singapore’s standard electricity supply is 230 volts AC with a frequency of 50 hertz (230V/50Hz).
