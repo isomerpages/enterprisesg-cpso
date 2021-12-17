@@ -36,6 +36,9 @@ Singapore, Friday, 17 December 2021
 <sup>3</sup> For more information on the e-commerce platforms’ efforts to safeguard consumer product safety, please see Annex A.<br>
 <sup>4</sup> Singapore’s standard electricity supply is 230 volts AC with a frequency of 50 hertz (230V/50Hz).<br>
 
+[Annex A](/files/media/wmo-circular-040621-01.pdf){:target="_blank"}
+[Annex B](/files/circulars/wmo-circular-040621-01.pdf){:target="_blank"}
+
 For media queries, please contact:<br>
 Jocelyn Tan <br>
 Assistant Business Partner<br>
