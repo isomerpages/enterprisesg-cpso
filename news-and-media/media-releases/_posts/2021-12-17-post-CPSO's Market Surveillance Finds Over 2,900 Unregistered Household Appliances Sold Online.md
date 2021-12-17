@@ -44,4 +44,4 @@ Jocelyn Tan <br>
 Assistant Business Partner<br>
 Corporate Communications<br>
 M : +65 9817 7401<br>
-E : Jocelyn_TAN@enterprisesg.gov.sg <br>
+E : <Jocelyn_TAN@enterprisesg.gov.sg> <br>
