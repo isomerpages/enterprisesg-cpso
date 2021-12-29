@@ -8,7 +8,9 @@ description: ""
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 ## Safety Tips on Baby Cots
-It is easy to just pick designs that are trendy or cute when buying jewellery for your young children. However, parents and caregivers should never overlook safety. Avoid accessories with small parts that can pose a choking hazard. Harmful metals can also be a concern, especially since young children tend to put things into their mouths.
+When buying baby cots, look beyond style and comfort to also consider whether it is safe for your child. Neglecting safety considerations or inappropriate use can have severe consequences.
+
+Always follow the instructions provided in the manual and pay attention to warnings that will help prevent injuries.
 
 **Safety Tips**
 
