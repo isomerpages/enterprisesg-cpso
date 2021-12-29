@@ -5,7 +5,6 @@ date: 2021-12-29
 layout: post
 description: ""
 ---
-
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 ## Safety Tips on Cribs, Cots and Cradles
@@ -15,7 +14,7 @@ It is easy to just pick designs that are trendy or cute when buying jewellery fo
 
 *Before purchase:*
 * Check the stability of the baby cot in the shop before purchase and make sure it is stable. For example, apply a little pressure on the cot and assess if it is sturdy. 
-*	When buying a cot, opt for one with a wide, sturdy and stable base and ensure that there are no loose parts.Always check for the stability of the cot before purchase or after you have put it together at home. If it wobbles or rattles, it may have been put together improperly.	
+*	When buying a cot, opt for one with a wide, sturdy and stable base and ensure that there are no loose parts. Always check for the stability of the cot before purchase or after you have put it together at home. If it wobbles or rattles, it may have been put together improperly.	
 *	Ensure that there are no spaces between the sides of mattress and cot walls. This is to prevent baby from being trapped between the mattress andcot.
 *	Proper assembly of the cot is of utmost importance. Follow the manufacturer’s instructions carefully and make sure all the parts are put together correctly. If in doubt, consult the supplier.
 *	Adhere to the product information on the maximum size and weight of babies suitable for the product to be used safely.
@@ -37,5 +36,7 @@ It is easy to just pick designs that are trendy or cute when buying jewellery fo
 *During use:*
 * Make sure your children do not place jewellery into their mouths.
 * If your children have the tendency to put objects in their mouths, do not give them metal chains or pendants to wear. Metals like lead, cadmium or nickel tend to leach out when chewed or swallowed.
+
+For more information on baby sleep tips, visit
 
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
