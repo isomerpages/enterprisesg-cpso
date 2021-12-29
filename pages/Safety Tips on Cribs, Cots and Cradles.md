@@ -20,7 +20,7 @@ It is easy to just pick designs that are trendy or cute when buying jewellery fo
 *	Adhere to the product information on the maximum size and weight of babies suitable for the product to be used safely.
 *	Ensure that the cot has no missing parts such as slats. Slats should be secure and spaced no more than 4.5 to 6 cm apart. This is to avoid your baby’s head slipping through and getting trapped.
 *	Ensure that the cot has no broken, loose, missing or improperly installed brackets, screws or other hardware.
-*	For swinging cradles ensure that locking mechanisms or devices are in place. Ensure that the lock is activated once the baby has fallen asleep. 
+*	For swinging cradles, ensure that locking mechanisms or devices are in place. Ensure that the lock is activated once the baby has fallen asleep. 
 *	Check mattress support often to ensure that it hasn’t come of the end panels.
 *	Use a firm, snugly fitting mattressto prevent baby from being trapped between the mattress and crib.
 *	Make sure the cot sheet fits well on the mattress. Check that it wraps around and fits securely at the mattress corners.
