@@ -13,4 +13,4 @@ Children and toddlers are vulnerable group and requires greater care when using 
 * [Safety Tips on Strollers](/safety-tips-on-strollers)
 * [Safety Tips on Children’s Apparel](/safety-tips-on-children-apparel)
 * [Safety Tips on Costume Jewellery for Children](/safety-tips-on-constume-jewellery-for-children)
-
+* [Safety Tips on Cots, Cribs and Cradles](/safety-tips-on-cribs-cots-cradles)
