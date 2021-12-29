@@ -22,7 +22,7 @@ It is easy to just pick designs that are trendy or cute when buying jewellery fo
 *	Ensure that the cot has no broken, loose, missing or improperly installed brackets, screws or other hardware.
 *	For swinging cradles, ensure that locking mechanisms or devices are in place. Ensure that the lock is activated once the baby has fallen asleep. 
 *	Check mattress support often to ensure that it hasn’t come of the end panels.
-*	Use a firm, snugly fitting mattressto prevent baby from being trapped between the mattress and crib.
+*	Use a firm, snugly fitting mattress to prevent baby from being trapped between the mattress and crib.]
 *	Make sure the cot sheet fits well on the mattress. Check that it wraps around and fits securely at the mattress corners.
 *	Bumper pads are padded pieces placed alongside of cribs to protect baby limps from slipping through the gaps found on side of cots. Use cot bumper pads cautiously as they could pose a risk of suffocation. It may also cause a lack of proper ventilation If it is not properly installed/placed. . Ensure that there is proper air ventilation and regularly check on your baby. 
 *	Do not place stuffed toys or pillows in the crib to reduce the risk of your baby suffocating or using them as a foothold to climb out of the crib.
