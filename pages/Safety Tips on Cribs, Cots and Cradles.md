@@ -34,8 +34,11 @@ It is easy to just pick designs that are trendy or cute when buying jewellery fo
 
 
 *During use:*
-* Make sure your children do not place jewellery into their mouths.
-* If your children have the tendency to put objects in their mouths, do not give them metal chains or pendants to wear. Metals like lead, cadmium or nickel tend to leach out when chewed or swallowed.
+* Never place a cot near a window with blinds, curtain cords, baby monitor cords, or wall mounted decorative accessories with long cords. Babies are at risk of strangling by the cords and older babies could pull themselves up and fall through the window.
+*	Don’t use mattress or pads other than those provided by the manufacturer,. Don’t put in extra mattresses, pillows or cushions.
+*	Do not buy cots with corner posts with decorative knobs as there is a possibility of baby’s clothes getting caught on these.
+*	Never put your baby on sofa cushions, adult beds or pillows or any surface not designed for infant sleep.
+
 
 For more information on baby sleep tips, visit
 
