@@ -7,7 +7,7 @@ description: ""
 ---
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
-## Safety Tips on Costume Jewellery for Children
+## Safety Tips on Baby Cots
 It is easy to just pick designs that are trendy or cute when buying jewellery for your young children. However, parents and caregivers should never overlook safety. Avoid accessories with small parts that can pose a choking hazard. Harmful metals can also be a concern, especially since young children tend to put things into their mouths.
 
 **Safety Tips**
