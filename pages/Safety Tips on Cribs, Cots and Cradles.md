@@ -18,7 +18,7 @@ It is easy to just pick designs that are trendy or cute when buying jewellery fo
 *	Ensure that there are no spaces between the sides of mattress and cot walls. This is to prevent baby from being trapped between the mattress andcot.
 *	Proper assembly of the cot is of utmost importance. Follow the manufacturer’s instructions carefully and make sure all the parts are put together correctly. If in doubt, consult the supplier.
 *	Adhere to the product information on the maximum size and weight of babies suitable for the product to be used safely.
-*	Ensure that the cot has no missing parts such as slats.. Slats should be secure and spaced no more than 4.5 to 6 cm apart. This is to avoid your baby’s head slipping through and getting trapped.
+*	Ensure that the cot has no missing parts such as slats. Slats should be secure and spaced no more than 4.5 to 6 cm apart. This is to avoid your baby’s head slipping through and getting trapped.
 *	Ensure that the cot has no broken, loose, missing or improperly installed brackets, screws or other hardware.
 *	For swinging cradles ensure that locking mechanisms or devices are in place. Ensure that the lock is activated once the baby has fallen asleep. 
 *	Check mattress support often to ensure that it hasn’t come of the end panels.
