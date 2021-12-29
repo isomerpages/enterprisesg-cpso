@@ -39,7 +39,6 @@ It is easy to just pick designs that are trendy or cute when buying jewellery fo
 *	Do not buy cots with corner posts with decorative knobs as there is a possibility of baby’s clothes getting caught on these.
 *	Never put your baby on sofa cushions, adult beds or pillows or any surface not designed for infant sleep.
 
-
 For more information on baby sleep tips, visit
 
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
