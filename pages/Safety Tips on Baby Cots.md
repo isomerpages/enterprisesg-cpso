@@ -8,7 +8,7 @@ description: ""
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 ## Safety Tips on Baby Cots
-Babies spend a lot of time in cots and parents should look out for safety features when buying cots. Neglecting safety considerations or inappropriate use can have severe consequences.
+Babies spend a lot of time in cots and parents should look out for safety features when buying cots for your child. Neglecting safety considerations or inappropriate use can have severe consequences.
 
 Always follow the instructions provided in the manual and pay attention to warnings that will help prevent injuries.
 
