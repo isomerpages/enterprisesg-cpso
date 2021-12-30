@@ -37,7 +37,7 @@ Always follow the instructions provided in the manual and pay attention to warni
 
 *During use:*
 * Never place a cot near a window with blinds, curtain cords, baby monitor cords, or wall mounted decorative accessories with long cords. Babies are at risk of strangling by the cords and older babies could pull themselves up and fall through the window.
-* Do not use mattress or pads other than those provided by the manufacturer. Don’t put in extra mattresses, pillows or cushions.
+* Do not use mattress or pads other than those provided by the manufacturer. Do not put in extra mattresses, pillows or cushions.
 *	Do not buy cots with corner posts with decorative knobs as there is a possibility of baby’s clothes getting caught on these.
 *	Never put your baby on sofa cushions, adult beds or pillows or any surface not designed for infant sleep.
 
