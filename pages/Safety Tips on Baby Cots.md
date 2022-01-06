@@ -24,7 +24,7 @@ Always follow the instructions provided in the manual and pay attention to warni
 *	Check the mattress support often to ensure that it has not come off the end panels.
 *	Use a firm, snugly fitting mattress to prevent baby from being trapped between the mattress and crib. Cot sheets should fit well, and wrap around the mattress corners.
 *	Bumper pads are padded pieces placed alongside of cribs to protect baby limbs from slipping through the gaps found on side of cots. Use cot bumper pads cautiously as they could pose a risk of suffocation. It may also cause a lack of proper ventilation if not properly installed/placed. Ensure that there is proper air ventilation and regularly check on your baby. 
-*	Do not place stuffed toys or extra pillows / cushions in the crib to reduce the risk of your baby suffocating or using them as a foothold to climb out of the crib.
+*	Do not place stuffed toys or extra pillows/cushions in the crib to reduce the risk of your baby suffocating or using them as a foothold to climb out of the crib.
 *	Remove all toys strung across the cot/playpen when your baby is able to stand to avoid being caught in them.
 *	If your cot has a drop-side, inspect the mechanism regularly to ensure the joints are securely fastened.
 *	Make sure the cot has no raised corner posts or cut-outs as your baby’s clothing could get caught on them, posing a strangulation risk.
