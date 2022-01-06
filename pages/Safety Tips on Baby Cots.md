@@ -17,7 +17,11 @@ Always follow the instructions provided in the manual and pay attention to warni
 *Before purchase:*
 * Check the stability of the baby cot in the shop before purchase and make sure it is stable. For example, apply a little pressure on the cot and assess if it is sturdy. 
 *	When buying a cot, opt for one with a wide, sturdy and stable base and ensure that there are no loose parts. Always check for the stability of the cot before purchase or after you have put it together at home. If it wobbles or rattles, it may have been put together improperly.	
-*	Ensure that there are no spaces between the sides of mattress and cot walls. This is to prevent baby from being trapped between the mattress and cot.
+*	Ensure that there are no spaces between the sides of mattress and cot walls. This is to prevent baby from being trapped between the mattress and cot.<br>
+
+
+*During use:*
+* Proper assembly of the cot is of utmost importance. Follow the manufacturer’s instructions carefully and make sure all the parts are put together correctly. If in doubt, consult the supplier.
 *	Adhere to the product information on the maximum size and weight of babies suitable for the product to be used safely.
 *	Ensure that the cot has no broken, loose, missing or improperly installed brackets, screws or slats. Slats should be secure and spaced no more than 4.5 to 6 cm apart. This is to avoid your baby’s head slipping through and getting trapped. 
 *	For swinging cradles, ensure that locking mechanisms or devices are in place. Ensure that the lock is activated once the baby has fallen asleep. 
@@ -30,10 +34,6 @@ Always follow the instructions provided in the manual and pay attention to warni
 *	Make sure the cot has no raised corner posts or cut-outs as your baby’s clothing could get caught on them, posing a strangulation risk.
 *	Regularly check that nuts and bolts are tight, as per the maintenance instructions supplied with the cot.
 *	Put the drop side up when your baby is sleeping to prevent falls.
-
-
-*During use:*
-* Proper assembly of the cot is of utmost importance. Follow the manufacturer’s instructions carefully and make sure all the parts are put together correctly. If in doubt, consult the supplier.
 * Never place a cot near a window with blinds, curtain cords, baby monitor cords, or wall mounted decorative accessories with long cords. Babies are at risk of strangling by the cords and older babies could pull themselves up and fall through the window.
 *	Never put your baby on sofa cushions, adult beds or pillows or any surface not designed for infant sleep.
 
