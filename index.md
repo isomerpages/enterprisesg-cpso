@@ -27,7 +27,7 @@ sections:
       title: Find out more about children's product safety tips
       description: Keep these tips in mind to safeguard your children from injuries.
       button: Learn More
-      url: /consumers/product-safety/children-product
+      url: /consumers/product-safety-tips/children-product
       image: /images/babycot.jpg
       alt: image of babycot
   - resources:
