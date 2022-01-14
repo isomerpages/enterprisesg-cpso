@@ -24,13 +24,12 @@ sections:
           description: Check if the product has a valid SAFETY Mark
           url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PUBSearchCOC.form
   - infopic:
-      title: Find out more about product safety regulations
-      description: Suppliers must comply with product safety regulations to ensure
-        your products do not pose safety risks to consumers.
+      title: Find out more about children's product safety tips
+      description: Keep these tips in mind to safeguard your children from injuries.
       button: Learn More
-      url: /suppliers/overview
-      image: /images/microwave.jpg
-      alt: image of microwave
+      url: /consumers/product-safety/children-product
+      image: /images/babycot.jpg
+      alt: image of babycot
   - resources:
       title: News & Media
       button: View More
