@@ -23,7 +23,7 @@ b. six models of Elmark’s ceiling fans were subsequently found to fail safety 
 
 5\. We also encourage consumers to play their part by taking safety considerations into account when purchasing ceiling fans and water heaters. They should practise the following:
 
-a. Look out for a valid SAFETY Mark. Search through the Register of Controlled Goods at <a href="https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PUBSearchCOC.form">consumerproductsafety.gov.sg</a>{:target="_blank"}
+a. Look out for a valid SAFETY Mark. Search through the Register of Controlled Goods at <a href="https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods">cpsaplus.gov.sg</a>{:target="_blank"}
 to check if the product has been registered with the CPSO;<br>
 b. Consumers are also encouraged to check if a safety alert has been issued for a particular product, by visiting <a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-alerts-and-recalls/children-apparel">consumerproductsafety.gov.sg.</a>{:target="_blank"}
   
