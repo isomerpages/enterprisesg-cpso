@@ -10,7 +10,7 @@ It is important to consider safety when choosing appliances, electronics and fur
 Here are some tips you can follow to keep your family safe from injuries as well as protect your house from property damage.
 
 * [Risk of Using Hydrocarbon Refrigerants At Home](/risk-of-using-hydrocarbon-refrigerants-at-home)
-* [Safety Tips on Furnitive and TVs](/safety-tips-on-furniture-and-tvs)
+* [Safety Tips on Furniture and TVs](/safety-tips-on-furniture-and-tvs)
 * [Safety Tips on Washing Machines and Tumble Dryers](/safety-tips-on-washing-machines-and-tumble-dryers)
 * [Safety Tips on Portable Butane Stoves and Gas Canisters](/safety-tips-on-portable-butane-stoves-and-gas-canisters)
 * [Safety Tips for Storing Household Chemicals](/safety-tips-for-storing-household-chemicals)
