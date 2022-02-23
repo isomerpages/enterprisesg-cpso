@@ -16,6 +16,7 @@ The affected “Julienne” discs for the FPM800 and FPM810 food processors were
 manufactured between January 2019 and December 2021. Affected consumers will be able to get a replacement “Julienne” disc free of charge.
 
 Consumers are advised to check if their “Julienne” disc is affected by visiting the supplier’s website at [http://juliennedisc.kenwoodworld.com/](http://juliennedisc.kenwoodworld.com/) and entering the date code shown on the rating label on the underside of the FPM800 and FPM810 food processors (as illustrated in the photograph below).
+
 ![kenwood label](/images/product-safety-alerts-and-recalls/electrical/kenwood-label.jpg)
 
 For more information, consumers can call +65 800 852 8065 or visit the customer service section of Kenwood at [https://www.kenwoodworld.com/en-sg/customer-service](https://www.kenwoodworld.com/en-sg/customer-service).
