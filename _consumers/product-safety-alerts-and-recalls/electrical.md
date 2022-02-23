@@ -7,14 +7,18 @@ third_nav_title: Product safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
 **23 Apr 2021**<br>
-**SAFETY ALERT: Electrolux refrigerators (model number ENN2754AOW) installed at Riversails condominum**<br>
-Electrolux initiated a removal programme for its refrigerators (model number ENN2754AOW) installed at Riversails condominum due to the potential of a fire risk. These are built-in refrigerators and are not sold at retail stores.
+**SAFETY ALERT: Kenwood voluntarily replaces “Julienne” disc of food processor models FPM800 and FPM810**<br>
 
-Enterprise Singapore has issued two safety advisories to residents at Riversails Condominium on 30 March 2021 and 20 April 2021 urging them to stop using their Electrolux refrigerators immediately. Riversails residents have been advised to contact Electrolux to remove the refrigerators from their homes.
+Kenwood has announced a voluntary corrective action for the “Julienne” disc on its food processor models FPM800 and FPM810. Parts of the “Julienne” disc can potentially detach during use, creating a potential ingestion risk.
 
-You can verify the model number of your refrigerator by checking the product label located on the left-hand side of the top compartment. If your built-in refrigerator is the same model number – ENN2754AOW – as the one used in Riversails Condominium, you can contact Electrolux at 6727 3699.
+The affected “Julienne” discs for the FPM800 and FPM810 food processors were 
+manufactured between January 2019 and December 2021. Affected consumers will be able to get a replacement “Julienne” disc free of charge.
+
+Consumers are advised to check if their “Julienne” disc is affected by visiting the supplier’s website at http://juliennedisc.kenwoodworld.com/ and entering the date code shown on the rating label on the underside of the FPM800 and FPM810 food processors (as illustrated in the photograph below).
 
 <img src="/images/product-safety-alerts-and-recalls/electrical/electrolux-refrigerators.JPG" alt="Electrolux refrigerators" style="width:400px;height:141px;"><br>
+
+For more information, consumers can call +65 800 852 8065 or visit the customer service section of Kenwood at https://www.kenwoodworld.com/en-sg/customer-service.
 
 Refer to the listing below for more product safety alerts and recalls.
 
