@@ -10,13 +10,13 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **SAFETY ALERT: Kenwood voluntarily replaces “Julienne” disc of food processor models FPM800 and FPM810**<br>
 
 Kenwood has announced a voluntary corrective action for the “Julienne” disc on its food processor models FPM800 and FPM810. Parts of the “Julienne” disc can potentially detach during use, creating a potential ingestion risk.
+![food processor](/images/product-safety-alerts-and-recalls/electrical/food-processor.jpg)
 
 The affected “Julienne” discs for the FPM800 and FPM810 food processors were 
 manufactured between January 2019 and December 2021. Affected consumers will be able to get a replacement “Julienne” disc free of charge.
 
 Consumers are advised to check if their “Julienne” disc is affected by visiting the supplier’s website at http://juliennedisc.kenwoodworld.com/ and entering the date code shown on the rating label on the underside of the FPM800 and FPM810 food processors (as illustrated in the photograph below).
-
-<img src="/images/product-safety-alerts-and-recalls/electrical/electrolux-refrigerators.JPG" alt="Electrolux refrigerators" style="width:400px;height:141px;"><br>
+![kenwood label](/images/product-safety-alerts-and-recalls/electrical/kenwood-label.jpg)
 
 For more information, consumers can call +65 800 852 8065 or visit the customer service section of Kenwood at https://www.kenwoodworld.com/en-sg/customer-service.
 
