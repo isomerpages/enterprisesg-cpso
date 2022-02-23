@@ -6,15 +6,18 @@ third_nav_title: Product safety alerts and recalls
 ## Electrical safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**23 Apr 2021**<br>
-**SAFETY ALERT: Electrolux refrigerators (model number ENN2754AOW) installed at Riversails condominum**<br>
-Electrolux initiated a removal programme for its refrigerators (model number ENN2754AOW) installed at Riversails condominum due to the potential of a fire risk. These are built-in refrigerators and are not sold at retail stores.
+**22 Feb 2022**<br>
+**SAFETY ALERT: Kenwood voluntarily replaces “Julienne” disc of food processor models FPM800 and FPM810**<br>
 
-Enterprise Singapore has issued two safety advisories to residents at Riversails Condominium on 30 March 2021 and 20 April 2021 urging them to stop using their Electrolux refrigerators immediately. Riversails residents have been advised to contact Electrolux to remove the refrigerators from their homes.
+Kenwood has announced a voluntary corrective action for the “Julienne” disc on its food processor models FPM800 and FPM810. Parts of the “Julienne” disc can potentially detach during use, creating a potential ingestion risk.
+<img src="/images/product-safety-alerts-and-recalls/electrical/food-processor.jpg" alt="Food processor" style="width:470px;height:313px;"><br>
+The affected “Julienne” discs for the FPM800 and FPM810 food processors were 
+manufactured between January 2019 and December 2021. Affected consumers will be able to get a replacement “Julienne” disc free of charge.
 
-You can verify the model number of your refrigerator by checking the product label located on the left-hand side of the top compartment. If your built-in refrigerator is the same model number – ENN2754AOW – as the one used in Riversails Condominium, you can contact Electrolux at 6727 3699.
+Consumers are advised to check if their “Julienne” disc is affected by visiting the supplier’s website at [http://juliennedisc.kenwoodworld.com/](http://juliennedisc.kenwoodworld.com/) and entering the date code shown on the rating label on the underside of the FPM800 and FPM810 food processors (as illustrated in the photograph below).
 
-<img src="/images/product-safety-alerts-and-recalls/electrical/electrolux-refrigerators.JPG" alt="Electrolux refrigerators" style="width:400px;height:141px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/electrical/kenwood-label.jpg" alt="Food processor" style="width:470px;height:300px;"><br>
+For more information, consumers can call +65 800 852 8065 or visit the customer service section of Kenwood at [https://www.kenwoodworld.com/en-sg/customer-service](https://www.kenwoodworld.com/en-sg/customer-service).
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -22,6 +25,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|22 Feb 2022|[Kenwood voluntarily replaces “Julienne” disc of food processor models FPM800 and FPM810](/consumers/03-product-safety-alerts-and-recalls/electrical//Kenwood Julienne disc replacement for Food Processor Models FPM800 and FPM810.pdf){:target="_blank"}|
 |05 Oct 2020|[LG Electronics Inc’s free replacement program for TV Power Board](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-recall-2020-10-05-lg-electronics-free-replacement-programe-for-tv-power-board.pdf){:target="_blank"}|
 |15 Sep 2020|[Goldland International recalls Iona GLWD700 water dispenser](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-recall-2020-09-15-goldland-international0recalls-iona-glwd700-water-dispenser.pdf){:target="_blank"}|
 |23 Dec 2019|[Elmark recalls 17 models of ceiling fans](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-recall-2019-12-23-elmark-recalls-17-models-of-ceiling-fans.pdf){:target="_blank"}|
@@ -71,10 +75,3 @@ Refer to the listing below for more product safety alerts and recalls.
 |07 Mar 2014|[Haircare: Panasonic EH-HW13 Hair Straightener](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-03-07-panasonic-eh-hw13.pdf){:target="_blank"}|
 |07 Mar 2014|[Haircare: Revlon RVST2029A Hair Straightener](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-03-07-revlon-rvst2029a.pdf){:target="_blank"}|
 |07 Mar 2014|[Haircare: Revlon RVST2029B Hair Straightener](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-alert-2014-03-07-revlon-rvst2029b.pdf){:target="_blank"}|
-
-
-
-
-
-
-
