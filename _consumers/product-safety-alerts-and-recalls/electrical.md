@@ -27,7 +27,6 @@ Refer to the listing below for more product safety alerts and recalls.
 |---|---|
 |22 Feb 2022|[Kenwood voluntarily replaces “Julienne” disc of food processor models FPM800 and FPM810](/consumers/03-product-safety-alerts-and-recalls/electrical//Kenwood Julienne disc replacement for Food Processor Models FPM800 and FPM810.pdf){:target="_blank"}|
 |05 Oct 2020|[LG Electronics Inc’s free replacement program for TV Power Board](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-recall-2020-10-05-lg-electronics-free-replacement-programe-for-tv-power-board.pdf){:target="_blank"}|
-|05 Oct 2020|[LG Electronics Inc’s free replacement program for TV Power Board](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-recall-2020-10-05-lg-electronics-free-replacement-programe-for-tv-power-board.pdf){:target="_blank"}|
 |15 Sep 2020|[Goldland International recalls Iona GLWD700 water dispenser](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-recall-2020-09-15-goldland-international0recalls-iona-glwd700-water-dispenser.pdf){:target="_blank"}|
 |23 Dec 2019|[Elmark recalls 17 models of ceiling fans](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-recall-2019-12-23-elmark-recalls-17-models-of-ceiling-fans.pdf){:target="_blank"}|
 |31 Oct 2019|[Decathlon recalls OnNight 410 Trail Running Headlamp](/consumers/03-product-safety-alerts-and-recalls/electrical/electrical-recall-2019-10-31-decathlon-recalls-onnight-410-trail-running-headlamp.pdf){:target="_blank"}|
