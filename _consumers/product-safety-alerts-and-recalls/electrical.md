@@ -6,7 +6,7 @@ third_nav_title: Product safety alerts and recalls
 ## Electrical safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**23 Feb 2022**<br>
+**22 Feb 2022**<br>
 **SAFETY ALERT: Kenwood voluntarily replaces “Julienne” disc of food processor models FPM800 and FPM810**<br>
 
 Kenwood has announced a voluntary corrective action for the “Julienne” disc on its food processor models FPM800 and FPM810. Parts of the “Julienne” disc can potentially detach during use, creating a potential ingestion risk.
