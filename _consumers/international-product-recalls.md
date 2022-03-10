@@ -14,8 +14,8 @@ Scan the Consumer Product Safety Commission (CPSC)’s recall notices, which ove
 **US Government Recalls**<br>
 Search [US Government Recalls](https://www.recalls.gov/){:target="_blank"} for unsafe, hazardous or defective products recalled in the United States.
 
-**RAPEX (EU)**<br>
-Check [RAPEX](https://ec.europa.eu/safety-gate-alerts/screen/webReport){:target="_blank"}, the European Union’s rapid alert system for unsafe consumer products which aims to prevent the marketing or use of products that pose a serious risk to the health and safety of consumers.
+**Safety Gate (EU)**<br>
+Check [Safety Gate](https://ec.europa.eu/safety-gate-alerts/screen/webReport){:target="_blank"}, the European Union’s rapid alert system for unsafe consumer products which aims to prevent the marketing or use of products that pose a serious risk to the health and safety of consumers.
 
 **OECD GlobalRecalls Portal**<br>
 The [GlobalRecalls Portal](https://globalrecalls.oecd.org/#/){:target="_blank"} by the Organisation for Economic Co-operation and Development (OECD) brings together information on product recalls issued around the world.
