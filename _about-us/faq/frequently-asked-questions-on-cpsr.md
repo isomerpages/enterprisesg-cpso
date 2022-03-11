@@ -41,7 +41,7 @@ The CPSO is not a test laboratory and does not perform any testing.
 For certifcation and testing of Controlled Goods, suppliers can refer to the list of CAB (Certification), CAB (Certification-MRA), CAB (Testing) and CAB (TestingMRA) found [here](/images/cpsr-resources/list-of-cab-cps-scheme-ver-22-04-21.xlsx){:target="_blank"}
 
 **6. How should I display the SAFETY Mark?**<br>
-Information on displaying the SAFETY Mark can be found in Appendix N of the Consumer Protection (Safety Requirements) Registration Scheme Information Booklet. 
+Information on displaying the SAFETY Mark can be found in Appendix F of the Consumer Protection (Safety Requirements) Regulations Information Booklet. 
 
 **7. What is the validity period of the registration of the Controlled Goods?**<br>
 The registration of Controlled Goods is valid for three years, and may be renewed. RS are encouraged to initiate the renewal process 6 months prior to the expiration date. 
