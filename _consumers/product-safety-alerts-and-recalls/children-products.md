@@ -6,15 +6,15 @@ third_nav_title: Product safety alerts and recalls
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**25 Jun 2021**<br>
-**Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10**<br>
-Cotton On Group has announced a voluntary recall of the Cotton On Kids Projector Light, Product Code 790691 followed by a Colour Code number ranging from 01-10. The button battery compartment within the product may not be adequately secured and the batteries may be easily accessible. If young children gain access to the button batteries and ingest them, they may suffer internal burn injuries, which can result in serious illness and even death. In addition, the batteries may pose a choking hazard to young children.
+**18 Mar 2022**<br>
+**Mushie & Co issues voluntary recall for FRIGG silicone pacifiers**<br>
+Mushie & Co has issued a voluntary recall for the FRIGG silicone pacifiers due to potential choking hazards. These silicone pacifiers come in two designs: Classic and Daisy.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/cotto-on-group-recalls-kids-projector-light.png" alt="Cotton On Kids projector light" style="width:838px;height:468px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-products/FRIGG-pacifier.png" alt="Cotton On Kids projector light" style="width:590px;height:200px;"><br>
 
-Affected units were sold between December 2018 and May 2021.
+The base of the silicone nipple of these pacifiers may have a slit/tear that can cause the nipple to detach from the plastic shield and pose a potential choking hazard. The affected pacifiers were sold from April 2021 to December 2021.
 
-Consumers are advised to return the affected product to any Cotton On Kids or Cotton On store for a refund or exchange. For more information, consumers can email [productrecall@cotton.zendesk.com](productrecall@cotton.zendesk.com), call +65 800 852 6326, or visit their website [www.cottonon.com](https://www.cottonon.com).
+Consumers in possession of the affected pacifiers should stop using the product immediately and contact the retailer that they had purchased the pacifiers from for further action. Alternatively, they could also contact SF trading Asia @ [info@sftrading.asia](info@sftrading.asia), or +65 8860 8837 for more information. 
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -22,6 +22,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|18 Mar 2022|[Mushie & Co issues voluntary recall for FRIGG silicone pacifiers](/files/product-safety-alerts-and-recalls/children-products/frigg-classic-and-daisy-silicone-pacifiers-recall-18-Mar-2022.pdf){:target="_blank"}|
 |25 Jun 2021|[Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2021-06-25-cotto-on-group-recalls-kids-projector-light.pdf){:target="_blank"}|
 |16 Oct 2020 &nbsp; &nbsp; |[Cotton On Group recalls Typo Harry Potter ‘Lumos’ and Marvel ‘Avengers Assemble’ Projection Pens](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-10-16-cotton-on-group-recalls-typo-harry-potter-projection-pens.pdf){:target="_blank"}|
 |13 Jan 2020|[Philips recalls Digital Video Baby Monitor (SCD620)](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-13-philips-recalls-digital-video-baby-monitor.pdf){:target="_blank"}|
