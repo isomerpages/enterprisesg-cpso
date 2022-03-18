@@ -11,7 +11,6 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 Mushie & Co has issued a voluntary recall for the FRIGG silicone pacifiers due to potential choking hazards. These silicone pacifiers come in two designs: Classic and Daisy.
 
 <img src="/images/product-safety-alerts-and-recalls/children-products/FRIGG-pacifier.png" alt="Cotton On Kids projector light" style="width:590px;height:200px;"><br>
-
 The base of the silicone nipple of these pacifiers may have a slit/tear that can cause the nipple to detach from the plastic shield and pose a potential choking hazard. The affected pacifiers were sold from April 2021 to December 2021.
 
 Consumers in possession of the affected pacifiers should stop using the product immediately and contact the retailer that they had purchased the pacifiers from for further action. Alternatively, they could also contact SF trading Asia @ [info@sftrading.asia](info@sftrading.asia), or +65 8860 8837 for more information. 
