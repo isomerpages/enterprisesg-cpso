@@ -25,3 +25,5 @@ third_nav_title: Supplying controlled goods
 [Application for Withdrawal of Controlled Goods Registration and Handing Over of Technical Files](/images/cpsr-application-info/coc-11a-transfer-of-coc.pdf){:target="_blank"}
 * Updated 02 December 2021:<br>
 [Application for Resubmission of Controlled Goods Registration and Taking Over of Technical Files](/images/cpsr-application-info/coc-11b-transfer-of-coc.pdf){:target="_blank"}
+* Updated 01 April 2022:<br>
+[Notification of Modification to Registered Controlled Goods](/images/cpsr-application-info/coc-11b-transfer-of-coc.pdf){:target="_blank"}
