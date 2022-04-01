@@ -9,7 +9,7 @@ third_nav_title: Supplying controlled goods
 [Guide to using CPSA+](/images/cpsr-resources/guide-to-sdoc-application-and-renewal.pdf){:target="_blank"}
 * Updated 01 Nov 2021:<br>
 [Conformity Assessment Information Booklet](/images/cpsr-resources/cab-info-booklet.pdf){:target="_blank"}
-* Updated 12 January 2022:<br>
+* Updated 01 April 2022:<br>
 [Consumer Protection (Safety Requirements) Regulations Information Booklet](/files/cps-info-booklet.pdf){:target="_blank"}
 * Updated 31 May 2021:<br>
 [Guidelines on the Usage of the SAFETY Mark](/images/cpsr-resources/guidelines-on-the-usage-of-the-safety-mark.pdf){:target="_blank"}
@@ -25,3 +25,5 @@ third_nav_title: Supplying controlled goods
 [Application for Withdrawal of Controlled Goods Registration and Handing Over of Technical Files](/images/cpsr-application-info/coc-11a-transfer-of-coc.pdf){:target="_blank"}
 * Updated 02 December 2021:<br>
 [Application for Resubmission of Controlled Goods Registration and Taking Over of Technical Files](/images/cpsr-application-info/coc-11b-transfer-of-coc.pdf){:target="_blank"}
+* Updated 01 April 2022:<br>
+[Notification of Modification to Registered Controlled Goods](/files/Notification-of-Modification-to-Registered-Controlled-Goods.pdf){:target="_blank"}
