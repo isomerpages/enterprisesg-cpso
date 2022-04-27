@@ -22,7 +22,7 @@ sections:
           url: /consumers/product-safety-alerts-and-recalls/children-apparel
         - title: Check if your Controlled Goods are registered
           description: Check if the product has a valid SAFETY Mark
-          url: https://cpsa.enterprisesg.gov.sg/totalagility/forms/cpssite/PUBSearchCOC.form
+          url: https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods
   - infopic:
       title: Find out more about children's product safety tips
       description: Keep these tips in mind to safeguard your children from injuries.
