@@ -6,14 +6,17 @@ third_nav_title: Product safety alerts and recalls
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**18 Mar 2022**<br>
-**Mushie & Co issues voluntary recall for FRIGG silicone pacifiers**<br>
-Mushie & Co has issued a voluntary recall for the FRIGG silicone pacifiers due to potential choking hazards. These silicone pacifiers come in two designs: Classic and Daisy.
+**12 May 2022**<br>
+**Smiggles Singapore Pte Ltd issues voluntary recall for Smiggle Fun Character Watch Slapband**<br>
+Smiggles Singapore Pte Ltd has issued a voluntary recall for the Smiggle Fun Character Watch Slapbands.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/FRIGG-pacifier.png" alt="Cotton On Kids projector light" style="width:590px;height:200px;"><br>
-The base of the silicone nipple of these pacifiers may have a slit/tear that can cause the nipple to detach from the plastic shield and pose a potential choking hazard. The affected pacifiers were sold from April 2021 to December 2021.
+The button battery compartment of the product may not be secured adequately, and the button battery may be accessible which could pose a potential risk of choking, or serious or fatal injuries if button batteries are swallowed. 
 
-Consumers in possession of the affected pacifiers should stop using the product immediately and contact the retailer that they had purchased the pacifiers from for further action. Alternatively, they could also contact SF trading Asia @ [info@sftrading.asia](info@sftrading.asia), or +65 8860 8837 for more information. 
+<img src="/images/product-safety-alerts-and-recalls/children-products/Smiggles_watch.png" alt="Cotton On Kids projector light" style="width:400px;height:400px;"><br>
+The affected Slapbands were sold at Smiggle stores and online at smiggle.com from 1 December 2021 to 2 March 2022. 
+
+Consumers in possession of the affected Slapbands should stop using the product immediately and return it to any Smiggles store in Singapore for a refund. For more information, please contact Smiggles Singapore Pte Ltd @ [product@smiggle.com.au](product@smiggle.com.au) or visit [smiggle.com](smiggle.com). 
+
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -21,6 +24,8 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|12 May 2022|[Smiggles Singapore Pte Ltd issues voluntary recall for Smiggle Fun Character Watch Slapband](/files/product-safety-alerts-and-recalls/children-products/Smiggles-watch-12-May-2022.pdf){:target="_blank"}|
+|25 Jun 2021|[Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2021-06-25-cotto-on-group-recalls-kids-projector-light.pdf){:target="_blank"}|
 |18 Mar 2022|[Mushie & Co issues voluntary recall for FRIGG silicone pacifiers](/files/product-safety-alerts-and-recalls/children-products/frigg-classic-and-daisy-silicone-pacifiers-recall-18-Mar-2022.pdf){:target="_blank"}|
 |25 Jun 2021|[Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2021-06-25-cotto-on-group-recalls-kids-projector-light.pdf){:target="_blank"}|
 |16 Oct 2020 &nbsp; &nbsp; |[Cotton On Group recalls Typo Harry Potter ‘Lumos’ and Marvel ‘Avengers Assemble’ Projection Pens](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-10-16-cotton-on-group-recalls-typo-harry-potter-projection-pens.pdf){:target="_blank"}|
