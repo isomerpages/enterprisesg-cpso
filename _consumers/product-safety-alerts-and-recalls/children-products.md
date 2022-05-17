@@ -15,7 +15,7 @@ The button battery compartment of the product may not be secured adequately, and
 <img src="/images/product-safety-alerts-and-recalls/children-products/Smiggles_watch.png" alt="Cotton On Kids projector light" style="width:400px;height:400px;"><br>
 The affected Slapbands were sold at Smiggle stores and online at smiggle.com from 1 December 2021 to 2 March 2022. 
 
-Consumers in possession of the affected Slapbands should stop using the product immediately and return it to any Smiggles store in Singapore for a refund. For more information, please contact Smiggles Singapore Pte Ltd @ product@smiggle.com.au or visit [www.smiggle.com](https://www.smiggle.com).
+Consumers in possession of the affected Slapbands should stop using the product immediately and return it to any Smiggles store in Singapore for a refund. For more information, please contact Smiggles Singapore Pte Ltd @ product@smiggle.com.au or visit [www.smiggle.com](https://www.smiggle.com.au/shop/en/smiggle).
 
 
 Refer to the listing below for more product safety alerts and recalls.
