@@ -7,15 +7,15 @@ third_nav_title: Product safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
 **12 May 2022**<br>
-**Smiggles Singapore Pte Ltd issues voluntary recall for Smiggle Fun Character Watch Slapband**<br>
-Smiggles Singapore Pte Ltd has issued a voluntary recall for the Smiggle Fun Character Watch Slapbands.
+**Smiggle Singapore Pte Ltd issues voluntary recall for Smiggle Fun Character Watch Slapband**<br>
+Smiggle Singapore Pte Ltd has issued a voluntary recall for the Smiggle Fun Character Watch Slapbands.
 
 The button battery compartment of the product may not be secured adequately, and the button battery may be accessible which could pose a potential risk of choking, or serious or fatal injuries if button batteries are swallowed. 
 
 <img src="/images/product-safety-alerts-and-recalls/children-products/Smiggles_watch.png" alt="Cotton On Kids projector light" style="width:400px;height:400px;"><br>
 The affected Slapbands were sold at Smiggle stores and online at smiggle.com from 1 December 2021 to 2 March 2022. 
 
-Consumers in possession of the affected Slapbands should stop using the product immediately and return it to any Smiggles store in Singapore for a refund. For more information, please contact Smiggles Singapore Pte Ltd @ [product@smiggle.com.au](product@smiggle.com.au) or visit [smiggle.com](smiggle.com). 
+Consumers in possession of the affected Slapbands should stop using the product immediately and return it to any Smiggles store in Singapore for a refund. For more information, please contact Smiggles Singapore Pte Ltd @ product@smiggle.com.au or visit smiggle.com.
 
 
 Refer to the listing below for more product safety alerts and recalls.
