@@ -22,6 +22,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|26 May 2022|[Fitbit LLC (“Fitbit”) recalls Fitbit Ionic Smartwatches](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-05-26-Fitbit-recalls-Fitbit-Ionic-Smartwatches.pdf){:target="_blank"}|
 |31 Oct 2019|[Decathlon recalls OnNight 410 Trail Running Headlamp](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-10-31-decathlon-recalls-onnight-410-trail-running-headlamp.pdf){:target="_blank"}|
 |02 Sep 2019|[Decathlon recalls BTWIN Bike Carrier Adaptor](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-09-02-decathlon-recalls-bttwin-bike-carrier-adaptor.pdf){:target="_blank"}|
 |02 Sep 2019|[Trek Bicycle Corporation recalls Trek Kickster Balance Bicycles](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-09-02-trek-bicycle-corporation-recalls-trek-kickster-balance-bicycles.pdf){:target="_blank"}|
@@ -38,15 +39,3 @@ Refer to the listing below for more product safety alerts and recalls.
 |23 Dec 2015|[Bicycle: Skyler 26” Mountain Bike](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-alert-2015-12-23-skyler-26-mountain-bike.pdf){:target="_blank"}|
 |16 Dec 2015|[Bicycle: Urata Kids Bicycle](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-alert-2015-12-16-urata-kids-bicycle.pdf){:target="_blank"}|
 |16 Dec 2015|[Bicycle: Momoki Mountain Bike](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-alert-2015-12-16-momoki-mountain-bike.pdf){:target="_blank"}|
-
-
-
-
-
-
-
-
-
-
-
-
