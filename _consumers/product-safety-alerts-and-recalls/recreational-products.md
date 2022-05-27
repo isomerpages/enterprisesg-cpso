@@ -18,7 +18,7 @@ burn hazard.
 
 Affected products were supplied to consumers since 2017. 
 <br>
-Consumers in possession of the affected Fitbit Ionic Smartwatches should stop using the product immediately, and visit Fitbit’s website (https://help.fitbit.com/en_US/ionic.htm) for more information on the recall and their refund eligibility.
+Consumers in possession of the affected Fitbit Ionic Smartwatches should stop using the product immediately, and visit Fitbit’s website at https://help.fitbit.com/en_US/ionic.htm for more information on the recall and their refund eligibility.
 
 For further queries, consumers may also contact Fitbit at https://myhelp.fitbit.com/s/support?language=en_US.
 
