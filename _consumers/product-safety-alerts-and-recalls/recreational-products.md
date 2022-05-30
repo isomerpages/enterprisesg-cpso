@@ -6,7 +6,7 @@ third_nav_title: Product safety alerts and recalls
 ## Recreational products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**27 May 2022**<br>
+**30 May 2022**<br>
 **Fitbit LLC (“Fitbit”) issues voluntary recall of Fitbit Ionic Smartwatches**<br>
 
 Fitbit LLC is conducting a voluntarily recall of the product, Fitbit Ionic Smartwatches.
@@ -26,7 +26,7 @@ For further queries, consumers may also contact Fitbit at https://myhelp.fitbit.
 
 |Date|Title|
 |---|---|
-|27 May 2022|[Fitbit LLC (“Fitbit”) recalls Fitbit Ionic Smartwatches](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-05-26-Fitbit-recalls-Fitbit-Ionic-Smartwatches.pdf){:target="_blank"}|
+|30 May 2022|[Fitbit LLC (“Fitbit”) recalls Fitbit Ionic Smartwatches](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-05-30-Fitbit-recalls-Fitbit-Ionic-Smartwatches.pdf){:target="_blank"}|
 |31 Oct 2019|[Decathlon recalls OnNight 410 Trail Running Headlamp](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-10-31-decathlon-recalls-onnight-410-trail-running-headlamp.pdf){:target="_blank"}|
 |02 Sep 2019|[Decathlon recalls BTWIN Bike Carrier Adaptor](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-09-02-decathlon-recalls-bttwin-bike-carrier-adaptor.pdf){:target="_blank"}|
 |02 Sep 2019|[Trek Bicycle Corporation recalls Trek Kickster Balance Bicycles](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-09-02-trek-bicycle-corporation-recalls-trek-kickster-balance-bicycles.pdf){:target="_blank"}|
