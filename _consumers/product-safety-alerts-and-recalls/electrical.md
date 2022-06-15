@@ -14,7 +14,7 @@ The UK's Office for Product Safety and Standards (OPSS) have issued and advisory
 The adaptor presents a risk of electric shock as the plug pins do not meet the dimensional requirements and the socket openings are not shuttered.
 
 Users may inadvertently touch live pins of the adaptor or contact internal circuitry and receive an electric shock. There is also a risk of overheating and fire due to poor electrical connections within the product.
-<img src="/images/product-safety-alerts-and-recalls/electrical/hk088.jpg" alt="travel adaptor" style="width:470px;height:313px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/electrical/HK088.jpg" alt="travel adaptor" style="width:470px;height:313px;"><br>
 The Consumer Product Safety Office (CPSO) of Enterprise Singapore has not received any reports on the affected products to date but encourage consumers to exercise caution and cease use of this product.
 
 For more information, please visit the OPSS website at http://www.gov.uk/product-safety-alerts-reports-recalls/product-hk-088-travel-adaptor-2103-0229#summary.
