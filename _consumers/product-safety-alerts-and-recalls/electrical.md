@@ -6,18 +6,18 @@ third_nav_title: Product safety alerts and recalls
 ## Electrical safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**22 Feb 2022**<br>
-**SAFETY ALERT: Kenwood voluntarily replaces “Julienne” disc of food processor models FPM800 and FPM810**<br>
+**16 Jun 2022**<br>
+**UK's Office for Product Safety and Standards warns consumers about HK:088 Travel Adaptor**<br>
 
-Kenwood has announced a voluntary corrective action for the “Julienne” disc on its food processor models FPM800 and FPM810. Parts of the “Julienne” disc can potentially detach during use, creating a potential ingestion risk.
-<img src="/images/product-safety-alerts-and-recalls/electrical/food-processor.jpg" alt="Food processor" style="width:470px;height:313px;"><br>
-The affected “Julienne” discs for the FPM800 and FPM810 food processors were 
-manufactured between January 2019 and December 2021. Affected consumers will be able to get a replacement “Julienne” disc free of charge.
+The UK's Office for Product Safety and Standards (OPSS) have issued and advisory for HK:088 Travel Adaptor.
 
-Consumers are advised to check if their “Julienne” disc is affected by visiting the supplier’s website at [http://juliennedisc.kenwoodworld.com/](http://juliennedisc.kenwoodworld.com/) and entering the date code shown on the rating label on the underside of the FPM800 and FPM810 food processors (as illustrated in the photograph below).
+The adaptor presents a risk of electric shock as the plug pins do not meet the dimensional requirements and the socket openings are not shuttered.
 
-<img src="/images/product-safety-alerts-and-recalls/electrical/kenwood-label.jpg" alt="Food processor" style="width:470px;height:300px;"><br>
-For more information, consumers can visit the customer service section of Kenwood at [https://www.kenwoodworld.com/en-sg/customer-service](https://www.kenwoodworld.com/en-sg/customer-service).
+Users may inadvertently touch live pins of the adaptor or contact internal circuitry and receive an electric shock. There is also a risk of overheating and fire due to poor electrical connections within the product.
+<img src="/images/product-safety-alerts-and-recalls/electrical/hk088.jpg" alt="travel adaptor" style="width:470px;height:313px;"><br>
+The Consumer Product Safety Office (CPSO) of Enterprise Singapore has not received any reports on the affected products to date but encourage consumers to exercise caution and cease use of this product.
+
+For more information, please visit the OPSS website at http://www.gov.uk/product-safety-alerts-reports-recalls/product-hk-088-travel-adaptor-2103-0229#summary.
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -25,6 +25,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|16 Jun 2022|[UK's Office for Product Safety and Standards warns consumers about HK:088 Travel Adaptor](/files/product-safety-alerts-and-recalls/electrical//UK’s Office for Product Safety and Standards warns consumers about HK088 Travel Adaptor.pdf){:target="_blank"}|
 |22 Feb 2022|[Kenwood voluntarily replaces “Julienne” disc of food processor models FPM800 and FPM810](/files/product-safety-alerts-and-recalls/electrical//Kenwood Julienne disc replacement for Food Processor Models FPM800 and FPM810.pdf){:target="_blank"}|
 |05 Oct 2020|[LG Electronics Inc’s free replacement program for TV Power Board](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2020-10-05-lg-electronics-free-replacement-programe-for-tv-power-board.pdf){:target="_blank"}|
 |15 Sep 2020|[Goldland International recalls Iona GLWD700 water dispenser](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2020-09-15-goldland-international0recalls-iona-glwd700-water-dispenser.pdf){:target="_blank"}|
