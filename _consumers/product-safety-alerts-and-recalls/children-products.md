@@ -48,8 +48,8 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|19 Feb 2020|[Pacifier Clip D-16X-2](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-pacifier-clip-d-16x-2.pdf){:target="_blank"}|
-|19 Feb 2020|[Pacifier Clip D-16X-2](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-pacifier-clip-d-16x-2.pdf){:target="_blank"}|
+|16 Jun 2022|[Tatameru High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Tatameru-high-chair.pdf){:target="_blank"}|
+|16 Jun 2022|[Safety 1st Kiwi 3-in-1 High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Safety-1st-Kiwi-3-in-1-high-chair.pdf){:target="_blank"}|
 |19 Feb 2020|[Pacifier Clip D-16X-2](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-pacifier-clip-d-16x-2.pdf){:target="_blank"}|
 |19 Feb 2020|[Fancyqube Cute Baby Dummy Pacifier Clip Chain Purple – INTL](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-fancyqube-cute-baby-dummy-pacifier-clip-chain-purple-intl.pdf){:target="_blank"}|
 |19 Feb 2020|[Baby Wooden Pacifier Clips with Silicone Colourful Beads, Nature Wood Pacifier](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-baby-wooden-pacifier-clips-with-silicone-colourful-beads-nature-wood-pacifier.pdf){:target="_blank"}|
