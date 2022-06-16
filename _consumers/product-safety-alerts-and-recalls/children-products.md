@@ -6,8 +6,11 @@ third_nav_title: Product safety alerts and recalls
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**12 May 2022**<br>
-**Smiggle Singapore Pte Ltd issues voluntary recall for Smiggle Fun Character Watch Slapband**<br>
+**16 Jun 2022**<br>
+**SAFETY ALERT: Tatameru High Chair**<br>
+
+<img src="/images/product-safety-alerts-and-recalls/children-products/Tatameru-high-chair" style="width:400px;height:400px;"><br>
+
 Smiggle Singapore Pte Ltd has issued a voluntary recall for the Smiggle Fun Character Watch Slapbands.
 
 The button battery compartment of the product may not be secured adequately, and the button battery may be accessible which could pose a potential risk of choking, or serious or fatal injuries if button batteries are swallowed. 
