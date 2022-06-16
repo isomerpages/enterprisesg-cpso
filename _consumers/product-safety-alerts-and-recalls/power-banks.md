@@ -10,6 +10,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 
 |Date|Title|
 |---|---|
+|16 Jun 2022|[Portable Power Bank 20000mah](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2022-06-17-portable-power-bank-20000-mah.pdf){:target="_blank"}|
 |08 Oct 2018|[Miniso Ultrathin 4000mAh Power Bank](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2018-10-08-miniso-ultrathin-4000mah.pdf){:target="_blank"}|
 |08 Oct 2018|[Mirror Power Bank](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2018-10-08-mirror-power-bank.pdf){:target="_blank"}|
 |08 Oct 2018|[D3 Golf 7800mAh Power Bank](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2018-10-08-d3-golf-7800mah-power-bank.pdf){:target="_blank"}|
@@ -30,28 +31,3 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 |29 Apr 2015|[Power banks: Meich x9 ‘We Are Young’ Power Bank](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2015-04-29-meich-x9-we-are-young-power-bank.pdf){:target="_blank"}|
 |21 Apr 2015|[Power banks: iWiLL 13,000mAh Power Bank](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2015-04-21-iwill-13000mah-power-bank.pdf){:target="_blank"}|
 |09 Jan 2015|[Power banks: WCS Worldwide Domino Power Bank](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2015-01-09-wcs-worldwide-domino-power-bank.pdf){:target="_blank"}|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

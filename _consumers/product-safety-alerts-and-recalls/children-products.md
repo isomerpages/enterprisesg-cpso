@@ -6,16 +6,25 @@ third_nav_title: Product safety alerts and recalls
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**12 May 2022**<br>
-**Smiggle Singapore Pte Ltd issues voluntary recall for Smiggle Fun Character Watch Slapband**<br>
-Smiggle Singapore Pte Ltd has issued a voluntary recall for the Smiggle Fun Character Watch Slapbands.
+**16 Jun 2022**<br>
+**SAFETY ALERT: Tatameru High Chair**<br>
 
-The button battery compartment of the product may not be secured adequately, and the button battery may be accessible which could pose a potential risk of choking, or serious or fatal injuries if button batteries are swallowed. 
+<img src="/images/product-safety-alerts-and-recalls/children-products/Tatameru-high-chair.jpg" style="width:400px;height:400px;"><br>
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/Smiggles_watch.png" alt="Cotton On Kids projector light" style="width:400px;height:400px;"><br>
-The affected Slapbands were sold at Smiggle stores and online at smiggle.com from 1 December 2021 to 2 March 2022. 
+The Consumer Product Safety Office has issued a notice to Molco to cease supply of the high chair. During testing of this sample, it was found that the product did not comply with the following requirements from ASTM F404-20 - Standard Consumer Safety Specification for High Chairs:<br><br>
+Potential fall hazards
+* There was no restraint system.
+* Wood screws used in key structural elements did not have lock washer, glue, or other means to impede loosening or detachment.
+* Rearward stability of the high chair did not meet the requirements of the standard.
+* Distance between the back of the seat and the passive crotch restraint did not meet the requirements of the standard.
+* Leg openings on each side of the passive crotch restraint did not meet the requirements of the standard.
 
-Consumers in possession of the affected Slapbands should stop using the product immediately and return it to any Smiggle store in Singapore for a refund. For more information, please contact Smiggle Singapore Pte Ltd @ <product@smiggle.com.au> or visit [Smiggle](https://www.smiggle.sg/shop/en/smigglesg).
+Inadequate instruction and warnings
+* Instruction and warnings provided were not in accordance to the requirements (e.g. content, format, language).
+
+No report of incident of injury related to the use of this product has been received to date.
+Consumers who have bought the product are advised to stop using it immediately.
+
 
 
 Refer to the listing below for more product safety alerts and recalls.
@@ -39,6 +48,8 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|16 Jun 2022|[Tatameru High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Tatameru-high-chair.pdf){:target="_blank"}|
+|16 Jun 2022|[Safety 1st Kiwi 3-in-1 High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Safety-1st-Kiwi-3-in-1-high-chair.pdf){:target="_blank"}|
 |19 Feb 2020|[Pacifier Clip D-16X-2](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-pacifier-clip-d-16x-2.pdf){:target="_blank"}|
 |19 Feb 2020|[Fancyqube Cute Baby Dummy Pacifier Clip Chain Purple – INTL](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-fancyqube-cute-baby-dummy-pacifier-clip-chain-purple-intl.pdf){:target="_blank"}|
 |19 Feb 2020|[Baby Wooden Pacifier Clips with Silicone Colourful Beads, Nature Wood Pacifier](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-baby-wooden-pacifier-clips-with-silicone-colourful-beads-nature-wood-pacifier.pdf){:target="_blank"}|
