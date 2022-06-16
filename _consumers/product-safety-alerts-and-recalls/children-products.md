@@ -11,7 +11,20 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 
 <img src="/images/product-safety-alerts-and-recalls/children-products/Tatameru-high-chair.jpg" style="width:400px;height:400px;"><br>
 
-The Consumer Product Safety Office has issued a notice to Molco to cease supply of the high chair.
+The Consumer Product Safety Office has issued a notice to Molco to cease supply of the high chair. During testing of this sample, it was found that the product did not comply with the following requirements from ASTM F404-20 - Standard Consumer Safety Specification for High Chairs:<br><br>
+Potential fall hazards
+* There was no restraint system.
+* Wood screws used in key structural elements did not have lock washer, glue, or other means to impede loosening or detachment.
+* Rearward stability of the high chair did not meet the requirements of the standard.
+* Distance between the back of the seat and the passive crotch restraint did not meet the requirements of the standard.
+* Leg openings on each side of the passive crotch restraint did not meet the requirements of the standard.
+
+Inadequate instruction and warnings
+* Instruction and warnings provided were not in accordance to the requirements (e.g. content, format, language).
+
+No report of incident of injury related to the use of this product has been received to date.
+Consumers who have bought the product are advised to stop using it immediately.
+
 
 
 Refer to the listing below for more product safety alerts and recalls.
