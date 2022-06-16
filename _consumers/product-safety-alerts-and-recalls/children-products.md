@@ -9,16 +9,9 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **16 Jun 2022**<br>
 **SAFETY ALERT: Tatameru High Chair**<br>
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/Tatameru-high-chair" style="width:400px;height:400px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-products/Tatameru-high-chair.jpg" style="width:400px;height:400px;"><br>
 
-Smiggle Singapore Pte Ltd has issued a voluntary recall for the Smiggle Fun Character Watch Slapbands.
-
-The button battery compartment of the product may not be secured adequately, and the button battery may be accessible which could pose a potential risk of choking, or serious or fatal injuries if button batteries are swallowed. 
-
-<img src="/images/product-safety-alerts-and-recalls/children-products/Smiggles_watch.png" alt="Cotton On Kids projector light" style="width:400px;height:400px;"><br>
-The affected Slapbands were sold at Smiggle stores and online at smiggle.com from 1 December 2021 to 2 March 2022. 
-
-Consumers in possession of the affected Slapbands should stop using the product immediately and return it to any Smiggle store in Singapore for a refund. For more information, please contact Smiggle Singapore Pte Ltd @ <product@smiggle.com.au> or visit [Smiggle](https://www.smiggle.sg/shop/en/smigglesg).
+The Consumer Product Safety Office has issued a notice to Molco to cease supply of the high chair.
 
 
 Refer to the listing below for more product safety alerts and recalls.
