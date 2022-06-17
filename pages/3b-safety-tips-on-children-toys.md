@@ -2,11 +2,10 @@
 title: Safety Tips on Children Toys
 permalink: /safety-tips-on-children-toys
 ---
-
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 ## Safety Tips on Children Toys
-A study conducted by KK Women’s and Children’s Hospital found that many parents are buying toys that are not age-appropriate for their children. This resulted in a 15% rise in toy-related injuries in children under the age of 5 in 2013, compared to the same period in 2012.
+testing A study conducted by KK Women’s and Children’s Hospital found that many parents are buying toys that are not age-appropriate for their children. This resulted in a 15% rise in toy-related injuries in children under the age of 5 in 2013, compared to the same period in 2012.
 
 Parents believed that the toy would benefit their child educationally and thought that their child was old enough to play with the toy safely.
 
@@ -32,12 +31,3 @@ You can protect your child from hazards like choking, falls, cuts and bruises by
 * Seek medical attention immediately if a child swallows a battery.
 
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
-
-
-
-
-
-
-
-
-
