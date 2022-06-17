@@ -13,7 +13,7 @@ You can protect your child from hazards like choking, falls, cuts and bruises by
 
 <img src="/images/product-safety-tips/age-appropriateness-labels-of-the-toy.png" alt="age appropriateness labels of the toy" style="width:274px;height:264px;"><br>
 
-**"Dos"** <br>
+**"Good Practices"** <br>
 1. Check if the toy is being recalled or banned. Read up on notices or alerts on any safety issues or potential hazards. You may refer [here](https://www.consumerproductsafety.gov.sg/consumers/product-safety-alerts-and-recalls/children-apparel).
 2. Read safety labels carefully and follow the instructions for use.
 3. Buy toys that are right for your child's age. Toys for older children should be kept out of reach of younger ones.
@@ -30,7 +30,7 @@ You can protect your child from hazards like choking, falls, cuts and bruises by
 
 **Don'ts** <br>
 
-*Don't buy toys that:* <br>
+*Buy toys that:* <br>
 1. have any part that can fit into a child's mouth, nose, or ear; <br>
 2. have exposed wire(s); <br>
 3. have parts that can heat up and/or catch fire; <br>
