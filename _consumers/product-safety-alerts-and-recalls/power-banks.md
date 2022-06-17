@@ -8,8 +8,8 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 
 **16 Jun 2022**<br>
 **The Consumer Product Safety Office has issued a notice to TMALL1688 to cease supply of the portable power bank**<br>
-<img src="/images/product-safety-alerts-and-recalls/Powerbanks/portable-power-bank-20000mah.png" alt="Toys R Us Squish-dee-lish Series 5 and Mickey Mouse & Minnie Mouse Tumbler" style="width:524px;height:242px;"><br>
 
+<img src="/images/product-safety-alerts-and-recalls/Powerbanks/portable-power-bank-20000mah.png" alt="Toys R Us Squish-dee-lish Series 5 and Mickey Mouse & Minnie Mouse Tumbler" style="width:524px;height:242px;"><br>
 During the testing of this sample, it was found that the product did not comply with the following requirements from IEC 62133-2:2017 (Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for portable sealed secondary cells, and for batteries made from them, for use in portable applications - Part 2: Lithium systems):
 * The cells caught fire during an external short-circuit safety test.
 
@@ -20,6 +20,7 @@ No report of incident or injury related to the use of this product has been rece
 Consumers who have bought the product are advised to stop using it immediately.
 
 Refer to the listing below for more product safety alerts and recalls.
+<br><br>
 
 **Product safety alerts**
 
