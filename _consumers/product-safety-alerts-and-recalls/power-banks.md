@@ -20,7 +20,7 @@ No report of incident or injury related to the use of this product has been rece
 Consumers who have bought the product are advised to stop using it immediately.
 
 Refer to the listing below for more product safety alerts and recalls.
-<br><br>
+
 
 **Product safety alerts**
 
