@@ -24,7 +24,7 @@ As consumers, you can protect your child from hazards that could be caused by to
 9. Remove batteries in electronic toys when not in use. Batteries left in toys for a long period of time may leak poisonous fluid.
 10. Check that compartments with button batteries are properly secured as swallowing such batteries can lead to serious internal injuries or even death.
 11. Ensure that toys are kept properly after play to avoid becoming a tripping hazard.
-12. Supervise young children carefully whenever magnets are being used in their vicinity and inspect play areas carefully after play to ensure that no magnets are left where they could be picked up by a young child.
+12. Supervise young children carefully whenever toys with detachable small parts or magnets are being used in their vicinity and inspect play areas carefully after play to ensure that no parts or magnets are left where they could be picked up by a young child.
 13. Seek medical attention immediately if the child swallows any part of the toy or battery.
 
 **Don't buy toys that:** <br>
@@ -37,7 +37,7 @@ As consumers, you can protect your child from hazards that could be caused by to
 7. have glass or parts that might break easily; <br>
 8. have springs, gears, or hinged parts that may pinch or trap fingers; <br>
 9. have long pull strings or cords which might pose a strangulation hazard; <br>
-10. have part(s) that are secured with straight pin(s) or staple(s); <br>
+10. have parts that are secured with straight pins or staples; <br>
 11. produce excessively high audio level that may damage hearing.
 
 
