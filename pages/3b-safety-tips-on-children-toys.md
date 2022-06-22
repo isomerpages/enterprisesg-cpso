@@ -32,12 +32,12 @@ As consumers, you can protect your child from hazards that could be caused by to
 2. have exposed wire(s); <br>
 3. have parts that can heat up and/or catch fire; <br>
 4. have toxic material(s); <br>
-5. have detachable small parts with strong magnets; <br>
-6. have sharp edges; <br>
-7. have glass or parts that might break easily; <br>
-8. have springs, gears, or hinged parts that may pinch or trap fingers; <br>
-9. have long pull strings or cords which might pose a strangulation hazard; <br>
-10. have parts that are secured with straight pins or staples; <br>
+5. have detachable small part(s) with strong magnet(s); <br>
+6. have sharp edge(s); <br>
+7. have glass or part(s) that might break easily; <br>
+8. have spring(s), gear(s), or hinged part(s) that may pinch or trap finger(s); <br>
+9. have long pull string(s) or cord(s) which might pose a strangulation hazard; <br>
+10. have part(s) that are secured with straight pin(s) or staple(s); <br>
 11. produce excessively high audio level that may damage hearing.
 
 
