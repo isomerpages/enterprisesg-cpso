@@ -25,5 +25,9 @@ third_nav_title: Supplying controlled goods
 [Application for Withdrawal of Controlled Goods Registration and Handing Over of Technical Files](/images/cpsr-application-info/coc-11a-transfer-of-coc.pdf){:target="_blank"}
 * Updated 02 December 2021:<br>
 [Application for Resubmission of Controlled Goods Registration and Taking Over of Technical Files](/images/cpsr-application-info/coc-11b-transfer-of-coc.pdf){:target="_blank"}
+* Updated 27 June 2022:<br>
+[Application for Registration of Controlled Good with Internet-of-Things (IOT) Function](/files/rs04-application-for-registration-of-controlled-good-with-iot-function.pdf){:target="_blank"}
+* Updated 27 June 2022:<br>
+[Application for Exemption from CPS Registration of CG Intended Solely for Display and/or Demonstration Purposes](/files/rs05-application-for-exemption-from-cps-registration.pdf){:target="_blank"}
 * Updated 01 April 2022:<br>
 [Notification of Modification to Registered Controlled Goods](/files/Notification-of-Modification-to-Registered-Controlled-Goods.pdf){:target="_blank"}
