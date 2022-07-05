@@ -35,7 +35,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|30 Jun 2022|[Chairs: Benny-N Office Chair](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2022-06-30-benny-b-office-chair.pdf){:target="_blank"}|
+|30 Jun 2022|[Chairs: Benny-N Office Chair](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2022-06-30-benny-n-office-chair.pdf){:target="_blank"}|
 |07 Aug 2019|[IKEA HEMNES bookcase and glass-door cabinet](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2019-08-07-ikea-hemnes-bookcase-and-glass-door-cabinet.pdf){:target="_blank"}|
 |07 Sep 2018|[Chairs: ISBS-HS9060HS barstool](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2018-09-07-isbs-hs9060hs-barstool-red.pdf){:target="_blank"}|
 |07 Sep 2018|[Coffee Table: Glass top coffee table](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2018-09-07-glass-top-coffee-table.pdf){:target="_blank"}|
