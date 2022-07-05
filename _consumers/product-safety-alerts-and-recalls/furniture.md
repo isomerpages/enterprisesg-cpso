@@ -6,17 +6,22 @@ third_nav_title: Product safety alerts and recalls
 ## Furniture safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**07 Aug 2019**<br>
-**SAFETY ALERT: IKEA HEMNES bookcase and glass-door cabinet**<br>
-IKEA issued a safety notice for its HEMNES bookcase and glass-door cabinet. The affected products were sold from April 2010 to April 2017.
+**30 Jun 2022**<br>
+**SAFETY ALERT: Benny-N Office Chair**<br>
+The Consumer Product Safety Office has issued a notice to Star Furniture Pte Ltd to cease supply of the swivel chair.
+<img src="/images/product-safety-alerts-and-recalls/furniture/benny-n-office-chair.png" alt="Benny N Office Chair" style="width:306px;height:337px;"><br>
+During testing of the sample, it was found that the product did not comply with the following requirements from BS EN 12520 - *Furniture - Strength, durability and safety - Requirements for domestic seating*.
 
-<img src="/images/product-safety-alerts-and-recalls/furniture/ikea-hemnes-bookcase.png" alt="Ikea Hemnes bookcase 1" style="width:546px;height:337px;"><br>
+Potential fall hazards:<br>
+	- Chair back did not meet the requirements of the standard.
 
-The shelves of the affected bookcases & glass-door cabinets may shrink and fall in temperate countries, causing injury.
+Inadequate instruction and warnings:<br>
+	- Care and maintenance instruction was not provided<br>
+	- Note to inform that only trained personnel may replace or repair seat height adjustment components with energy actuators was not provided.
 
-Such phenomenon is observed in cold climates for households using indoor heaters. The warm and dry air may cause the shelves, which are made of wood, to dry and shrink in the process. Tropical countries like Singapore are unlikely to be affected by this but consumers who wish to exercise precautionary measures can contact IKEA to obtain a free kit containing longer shelf support pins.
+No report of incident or injury related to the use of this product has been received to date.
 
-For more information, please contact IKEA at customerservice.ikeasg@ikano.asia or +6586 6868.
+Consumers who have bought the product are advised to stop using it immediately.
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -30,6 +35,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|30 Jun 2022|[Chairs: Benny-N Office Chair](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2022-06-30-benny-n-office-chair.pdf){:target="_blank"}|
 |07 Aug 2019|[IKEA HEMNES bookcase and glass-door cabinet](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2019-08-07-ikea-hemnes-bookcase-and-glass-door-cabinet.pdf){:target="_blank"}|
 |07 Sep 2018|[Chairs: ISBS-HS9060HS barstool](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2018-09-07-isbs-hs9060hs-barstool-red.pdf){:target="_blank"}|
 |07 Sep 2018|[Coffee Table: Glass top coffee table](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2018-09-07-glass-top-coffee-table.pdf){:target="_blank"}|
@@ -63,26 +69,3 @@ Refer to the listing below for more product safety alerts and recalls.
 |23 Aug 2013|[Chests of drawers and dressers: Chest of Drawers, Brown Cherry](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2013-08-23-chest-of-drawers-brown-cherry.pdf){:target="_blank"}|
 |23 Aug 2013|[Chests of drawers and dressers: SL CD15.5 Chest of Drawers, Pink/White](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2013-08-23-sl-cd15-5-chest-of-drawers.pdf){:target="_blank"}|
 |23 Aug 2013|[Chests of drawers and dressers: Silentnight Pavillion 4 Chest Drawer](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2013-08-23-silentnight-pavillion-4-chest-drawer.pdf){:target="_blank"}|
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
