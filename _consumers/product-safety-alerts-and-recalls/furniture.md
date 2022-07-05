@@ -9,9 +9,8 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **30 Jun 2022**<br>
 **SAFETY ALERT: Benny-N Office Chair**<br>
 The Consumer Product Safety Office has issued a notice to Star Furniture Pte Ltd to cease supply of the swivel chair.
-
-<img src="/images/product-safety-alerts-and-recalls/furniture/benny-n-office-chair.png" alt="Benny N Office Chair" style="width:546px;height:337px;"><br>
-During testing of this sample, it was found that the product did not comply with the following requirements from BS EN 12520 - Furniture - Strength, durability and safety - Requirements for domestic seating.
+<img src="/images/product-safety-alerts-and-recalls/furniture/benny-n-office-chair.png" alt="Benny N Office Chair" style="width:306px;height:337px;"><br>
+During testing of the sample, it was found that the product did not comply with the following requirements from BS EN 12520 - *Furniture - Strength, durability and safety - Requirements for domestic seating*.
 
 Potential fall hazards:<br>
 	- Chair back did not meet the requirements of the standard.
