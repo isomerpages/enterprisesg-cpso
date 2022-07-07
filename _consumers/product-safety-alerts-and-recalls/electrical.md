@@ -13,7 +13,7 @@ IKEA is conducting a voluntarily recall of the product, METALLISK Espresso Maker
 
 IKEA is recalling the product due to an increased risk of the product bursting during use.
 
-<img src="/images/product-safety-alerts-and-recalls/electrical/metallisk-espresso-maker.png" alt="METALLISK Espresso Maker" style="width:470px;height:313px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/electrical/metallisk-espresso-maker.png" alt="METALLISK Espresso Maker" style="width:370px;height:370px;"><br>
 
 The affected METALLISK Espresso Maker were sold at IKEA stores and online from 1 October 2019.
 
