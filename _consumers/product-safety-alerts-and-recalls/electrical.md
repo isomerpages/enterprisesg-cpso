@@ -17,7 +17,7 @@ IKEA is recalling the product due to an increased risk of the product bursting d
 
 The affected METALLISK Espresso Maker were sold at IKEA stores and online from 1 October 2019.
 
-Customers who own the METALLISK Espresso Maker with stainless-steel safety valve should stop using the product immediately. The product can be returned to any IKEA store for a full refund. Proof of purchase (receipt) is not required. For more information, please contact the IKEA Customer Contact Centre at +65 67866868 or visit [IKEA]
+Customers who own the METALLISK Espresso Maker with stainless-steel safety valve should stop using the product immediately. The product can be returned to any IKEA store for a full refund. Proof of purchase (receipt) is not required. For more information, please contact the IKEA Customer Contact Centre at +65 67866868 or visit www.ikea.com/sg/en/newsroom/range-news/ikea-is-recalling-metallisk-espresso-maker-for-hob-0-4l-with-the-stainless-steel-safety-valve-pub784cae10
 
 Refer to the listing below for more product safety alerts and recalls.
 
