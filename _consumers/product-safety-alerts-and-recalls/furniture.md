@@ -9,7 +9,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **13 Jul 2022**<br>
 **SAFETY ALERT: Ford Arm Chair**<br>
 The Consumer Product Safety Office has issued a notice to Comfort Design Pte Ltd to cease supply of the Ford Arm Chair.
-<img src="/images/product-safety-alerts-and-recalls/furniture/ford-arm-chair.png" alt="Ford Arm Chair" style="width:650px;height:337px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/furniture/ford-arm-chair.png" alt="Ford Arm Chair" style="width:600px;height:337px;"><br>
 During testing of the sample, it was found that the product did not comply with the following requirements from BS EN 12520 - *Furniture - Strength, durability and safety - Requirements for domestic seating*.
 
 Potential fall hazards:<br>
