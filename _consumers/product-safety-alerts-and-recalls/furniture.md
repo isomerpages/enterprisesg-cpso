@@ -6,18 +6,17 @@ third_nav_title: Product safety alerts and recalls
 ## Furniture safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**30 Jun 2022**<br>
-**SAFETY ALERT: Benny-N Office Chair**<br>
-The Consumer Product Safety Office has issued a notice to Star Furniture Pte Ltd to cease supply of the swivel chair.
-<img src="/images/product-safety-alerts-and-recalls/furniture/benny-n-office-chair.png" alt="Benny N Office Chair" style="width:306px;height:337px;"><br>
+**13 Jul 2022**<br>
+**SAFETY ALERT: Ford Arm Chair**<br>
+The Consumer Product Safety Office has issued a notice to Comfort Design Pte Ltd to cease supply of the Ford Arm Chair.
+<img src="/images/product-safety-alerts-and-recalls/furniture/ford-arm-chair.png" alt="Ford Arm Chair" style="width:650px;height:337px;"><br>
 During testing of the sample, it was found that the product did not comply with the following requirements from BS EN 12520 - *Furniture - Strength, durability and safety - Requirements for domestic seating*.
 
 Potential fall hazards:<br>
-	- Chair back did not meet the requirements of the standard.
+	- Seating stability did not meet the requirements of the standard.
 
 Inadequate instruction and warnings:<br>
 	- Care and maintenance instruction was not provided<br>
-	- Note to inform that only trained personnel may replace or repair seat height adjustment components with energy actuators was not provided.
 
 No report of incident or injury related to the use of this product has been received to date.
 
@@ -35,6 +34,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|13 Jul 2022|[Chairs: Ford Arm Chair](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2022-07-13-ford-arm-chair.pdf){:target="_blank"}|
 |30 Jun 2022|[Chairs: Benny-N Office Chair](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2022-06-30-benny-n-office-chair.pdf){:target="_blank"}|
 |07 Aug 2019|[IKEA HEMNES bookcase and glass-door cabinet](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2019-08-07-ikea-hemnes-bookcase-and-glass-door-cabinet.pdf){:target="_blank"}|
 |07 Sep 2018|[Chairs: ISBS-HS9060HS barstool](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2018-09-07-isbs-hs9060hs-barstool-red.pdf){:target="_blank"}|
