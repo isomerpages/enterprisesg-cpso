@@ -7,7 +7,8 @@ third_nav_title: Product safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
 **21 Jul 2022**<br>
-**The Consumer Product Safety Office has issued a notice to Harvey Norman Singapore Pte Ltd to cease supply of the Urban.Power N-PM10.0PD "N.Brandz PD18W 10000mAh Power Bank"**<br>
+**SAFETY ALERT: Urban.Power N-PM10.0PD "N.Brandz PD18W 10000mAh Power Bank"<br>**
+The Consumer Product Safety Office has issued a notice to Harvey Norman Singapore Pte Ltd to cease supply of the power bank<br>
 
 <img src="/images/product-safety-alerts-and-recalls/Powerbanks/urban-powerbank.png" alt="PowerBank" style="width:524px;height:524px;">
 Sample taken from
