@@ -10,7 +10,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **The Consumer Product Safety Office has issued a notice to Harvey Norman Singapore Pte Ltd to cease supply of the portable power bank**<br>
 
 <img src="/images/product-safety-alerts-and-recalls/Powerbanks/urban-powerbank.png" alt="PowerBank" style="width:524px;height:524px;">
-Sample taken from<br>
+Sample taken from
 Harvey Norman Singapore Pte Ltd
 
 During the testing of this sample, it was found that the product did not comply with the following requirements from IEC 62133-2:2017 (Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for portable sealed secondary cells, and for batteries made from them, for use in portable applications - Part 2: Lithium systems):
