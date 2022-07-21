@@ -6,10 +6,13 @@ third_nav_title: Product safety alerts and recalls
 ## Power banks safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**16 Jun 2022**<br>
-**The Consumer Product Safety Office has issued a notice to TMALL1688 to cease supply of the portable power bank**<br>
+**21 Jul 2022**<br>
+**The Consumer Product Safety Office has issued a notice to Harvey Norman Singapore Pte Ltd to cease supply of the portable power bank**<br>
 
-<img src="/images/product-safety-alerts-and-recalls/Powerbanks/portable-power-bank-20000mah.png" alt="Toys R Us Squish-dee-lish Series 5 and Mickey Mouse & Minnie Mouse Tumbler" style="width:524px;height:242px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/Powerbanks/urban-powerbank.png" alt="PowerBank" style="width:524px;height:524px;"><br>
+Sample taken from
+Harvey Norman Singapore Pte Ltd
+
 During the testing of this sample, it was found that the product did not comply with the following requirements from IEC 62133-2:2017 (Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for portable sealed secondary cells, and for batteries made from them, for use in portable applications - Part 2: Lithium systems):
 * The cells caught fire during an external short-circuit safety test.
 
@@ -26,6 +29,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|21 Jul 2022|[Urban.Power N-PM10.0PD "N.Brandz PD18W 10000mAh Power Bank"](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2022-07-21-urban-powerbank.pdf){:target="_blank"}|
 |16 Jun 2022|[Portable Power Bank 20000mah](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2022-06-17-portable-power-bank-20000-mah.pdf){:target="_blank"}|
 |08 Oct 2018|[Miniso Ultrathin 4000mAh Power Bank](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2018-10-08-miniso-ultrathin-4000mah.pdf){:target="_blank"}|
 |08 Oct 2018|[Mirror Power Bank](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2018-10-08-mirror-power-bank.pdf){:target="_blank"}|
