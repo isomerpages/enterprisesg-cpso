@@ -10,7 +10,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **SAFETY ALERT: JTS168 Low-Back Full Black Office Chair**<br>
 The Consumer Product Safety Office has issued a notice to IM ESTILO Pte Ltd to cease supply of the swivel chair.
 <img src="/images/product-safety-alerts-and-recalls/furniture/jts168-chair.png" alt="JTS168 Swivel Chair" style="width:500px;height:350px;"><br>
-During testing of the sample, it was found that the product did not comply with the BS EN 12520 requirements for domestic seating.
+During testing of this sample, it was found that the product did not comply with the BS EN 12520 requirements for domestic seating.
 
 Potential fall hazards:<br>
 	- Seating stability did not meet the requirements of the standard.
