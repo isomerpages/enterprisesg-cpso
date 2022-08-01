@@ -6,11 +6,11 @@ third_nav_title: Product safety alerts and recalls
 ## Furniture safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**13 Jul 2022**<br>
-**SAFETY ALERT: Ford Arm Chair**<br>
-The Consumer Product Safety Office has issued a notice to Comfort Design Pte Ltd to cease supply of the Ford Arm Chair.
-<img src="/images/product-safety-alerts-and-recalls/furniture/ford-arm-chair.png" alt="Ford Arm Chair" style="width:600px;height:337px;"><br>
-During testing of the sample, it was found that the product did not comply with the following requirements from BS EN 12520 - *Furniture - Strength, durability and safety - Requirements for domestic seating*.
+**29 Jul 2022**<br>
+**SAFETY ALERT: JTS168 Low-Back Full Black Office Chair**<br>
+The Consumer Product Safety Office has issued a notice to IM ESTILO Pte Ltd to cease supply of the swivel chair.
+<img src="/images/product-safety-alerts-and-recalls/furniture/jts168-chair.png" alt="JTS168 Swivel Chair" style="width:500px;height:350px;"><br>
+During testing of this sample, it was found that the product did not comply with the BS EN 12520 requirements for domestic seating.
 
 Potential fall hazards:<br>
 	- Seating stability did not meet the requirements of the standard.
@@ -34,6 +34,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|29 Jul 2022|[Chairs: JTS168 Swivel Chair](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2022-07-29-jts168-swivel-chair.pdf){:target="_blank"}|
 |13 Jul 2022|[Chairs: Ford Arm Chair](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2022-07-13-ford-arm-chair.pdf){:target="_blank"}|
 |30 Jun 2022|[Chairs: Benny-N Office Chair](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2022-06-30-benny-n-office-chair.pdf){:target="_blank"}|
 |07 Aug 2019|[IKEA HEMNES bookcase and glass-door cabinet](/files/product-safety-alerts-and-recalls/furniture/furniture-alert-2019-08-07-ikea-hemnes-bookcase-and-glass-door-cabinet.pdf){:target="_blank"}|
