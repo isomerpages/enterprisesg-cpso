@@ -6,21 +6,25 @@ third_nav_title: Product safety alerts and recalls
 ## Recreational products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**30 May 2022**<br>
-**Fitbit LLC (“Fitbit”) issues voluntary recall of Fitbit Ionic Smartwatches**<br>
+**02 Aug 2022**<br>
+**Brompton P Line Wheel Nut Corrective Action - To replace the Wheel Nut on affected P Line model bicycles (those with a serial number lower than 2203113405)**<br>
 
-Fitbit LLC is conducting a voluntarily recall of the product, Fitbit Ionic Smartwatches.
+Brompton, the supplier of commuter/urban bikes issued a notice for some of their P Line bikes. During their quality control testing, they found possible damage to the thread of the front wheel nut during installation on some bikes, which could lead to the nut becoming loose and potentially shaking off during cycling.
 
-Fitbit has determined that in limited instances the battery in the product can overheat, posing a
-burn hazard.
+So far, there have been no reported incidents of this happening to any P Line owners.
 
-<img src="/images/product-safety-alerts-and-recalls/recreational-products/Fitbit-Ionic-Smartwatches.png" alt="Fitbit Ionic Smartwatches" style="width:243px;height:208px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/recreational-products/brompton-p-line.png" alt="Brompton P Line Wheel Nut" style="width:388px;height:228px;"><br>
+Bikes which may be affected are P Line models with a serial number lower than 2203113405. P Lines with a serial number higher than 2203113405 are not affected.
 
-Affected products were supplied to consumers since 2017. 
-<br>
-Consumers in possession of the affected Fitbit Ionic Smartwatches should stop using the product immediately, and visit Fitbit’s website at https://help.fitbit.com/en_US/ionic.htm for more information on the recall and their refund eligibility.
+The A, C, T Lines, and Superlight bikes are not affected.
 
-For further queries, consumers may also contact Fitbit at https://myhelp.fitbit.com/s/support?language=en_US.
+Customers can find the P Line bike's serial number on the rear of your seat tube post.
+
+Customers registered with Brompton can either bring their affected bikes to Brompton retailers for a free component replacement or carry out the replacement themselves with a free replacement wheel nut provided by Brompton.
+
+A list of retailers for the relevant bikes in Singapore can be found on Brompton SG's [website](https://sg.brompton.com/find-a-store).
+
+For more information on this matter, please visit the Brompton [website](https://www.brompton.com/p-line-wheel-nut-update).
 
 **Product recalls**
 
@@ -36,6 +40,7 @@ For further queries, consumers may also contact Fitbit at https://myhelp.fitbit.
 
 |Date|Title|
 |---|---|
+|02 Aug 2022|[Brompton P Line Bike](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-alert-2022-08-02-brompton-p-line.pdf){:target="_blank"}|
 |15 Feb 2016|[Bicycle: GTR High Carbon Steel Foldable Bike](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-alert-2016-02-15-gtr-high-carbon-steel-foldable-bike.pdf){:target="_blank"}|
 |15 Feb 2016|[Bicycle: Valo 24” City Bike](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-alert-2016-02-15-valo-24-city-bike.pdf){:target="_blank"}|
 |23 Dec 2015|[Bicycle: Cutebaby Mickey Sports Kids Bike](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-alert-2015-12-23-cutebaby-mickey-sports-kids-bike.pdf){:target="_blank"}|
