@@ -40,7 +40,7 @@ For more information on this matter, please visit the Brompton [website](https:/
 
 |Date|Title|
 |---|---|
-|02 Aug 2022|[Brompton P Line Wheel Nut Corrective Action](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-alert-2022-08-02-brompton-p-line.pdf){:target="_blank"}|
+|02 Aug 2022|[Brompton P Line Bike](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-alert-2022-08-02-brompton-p-line.pdf){:target="_blank"}|
 |15 Feb 2016|[Bicycle: GTR High Carbon Steel Foldable Bike](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-alert-2016-02-15-gtr-high-carbon-steel-foldable-bike.pdf){:target="_blank"}|
 |15 Feb 2016|[Bicycle: Valo 24” City Bike](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-alert-2016-02-15-valo-24-city-bike.pdf){:target="_blank"}|
 |23 Dec 2015|[Bicycle: Cutebaby Mickey Sports Kids Bike](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-alert-2015-12-23-cutebaby-mickey-sports-kids-bike.pdf){:target="_blank"}|
