@@ -13,8 +13,7 @@ Brompton, the supplier of commuter/urban bikes issued a notice for some of their
 
 So far, there have been no reported incidents of this happening to any P Line owners.
 
-<img src="/images/product-safety-alerts-and-recalls/recreational-products/brompton-p-line.png" alt="Brompton P Line Wheel Nut" style="width:243px;height:208px;"><br>
-
+<img src="/images/product-safety-alerts-and-recalls/recreational-products/brompton-p-line.png" alt="Brompton P Line Wheel Nut" style="width:388px;height:228px;"><br>
 Bikes which may be affected are P Line models with a serial number lower than 2203113405. P Lines with a serial number higher than 2203113405 are not affected.
 
 The A, C, T Lines, and Superlight bikes are not affected.
