@@ -11,7 +11,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 
 Thorley Industries LLC, (trading as "4Moms") worked with the U.S. Consumer Product Safety Commission (CPSC) to issue a safety alert for certain models of its MamaRoo swings and RockaRoo rockers. When the swing or rocker is not in use, the restraint straps can dangle below the seat and crawling infants can become entangled in the dangling straps, posing a strangulation hazard.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/MamaRoo.jpg" style="width:400px;height:400px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-products/MamaRoo.png" style="width:1000px;height:400px;"><br>
 
 The affected products are MamaRoo infant swings models 4M-005 (versions 1.0 and 2.0), 1026 (version 3.0) and 1037 (version 4.0) and RockaRoo infant rockers model number 4M-012.
 
@@ -45,7 +45,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|24 Aug 2022|[MamaRoo infant swings, RockaRoo infant rockers](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-08-24-MamaRoo-RockaRoo.pdf){:target="_blank"}|
+|24 Aug 2022|[MamaRoo Infant Swings and RockaRoo Infant Rockers](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-08-24-MamaRoo-RockaRoo.pdf){:target="_blank"}|
 |16 Jun 2022|[Tatameru High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Tatameru-high-chair.pdf){:target="_blank"}|
 |16 Jun 2022|[Safety 1st Kiwi 3-in-1 High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Safety-1st-Kiwi-3-in-1-high-chair.pdf){:target="_blank"}|
 |19 Feb 2020|[Pacifier Clip D-16X-2](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-pacifier-clip-d-16x-2.pdf){:target="_blank"}|
