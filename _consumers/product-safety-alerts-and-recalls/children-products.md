@@ -6,25 +6,22 @@ third_nav_title: Product safety alerts and recalls
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**16 Jun 2022**<br>
-**SAFETY ALERT: Tatameru High Chair**<br>
+**24 Aug 2022**<br>
+**Thorley Industries LLC issues safety alert for MamaRoo infant swings (models 4M-005, 1026, and 1037) and RockaRoo infant rockers (model number 4M-012)**<br>
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/Tatameru-high-chair.jpg" style="width:400px;height:400px;"><br>
+Thorley Industries LLC, (trading as "4Moms") worked with the U.S. Consumer Product Safety Commission (CPSC) to issue a safety alert for certain models of its MamaRoo swings and RockaRoo rockers. When the swing or rocker is not in use, the restraint straps can dangle below the seat and crawling infants can become entangled in the dangling straps, posing a strangulation hazard.
 
-The Consumer Product Safety Office has issued a notice to Molco to cease supply of the high chair. During testing of this sample, it was found that the product did not comply with the following requirements from ASTM F404-20 - Standard Consumer Safety Specification for High Chairs:<br><br>
-Potential fall hazards
-* There was no restraint system.
-* Wood screws used in key structural elements did not have lock washer, glue, or other means to impede loosening or detachment.
-* Rearward stability of the high chair did not meet the requirements of the standard.
-* Distance between the back of the seat and the passive crotch restraint did not meet the requirements of the standard.
-* Leg openings on each side of the passive crotch restraint did not meet the requirements of the standard.
+<img src="/images/product-safety-alerts-and-recalls/children-products/MamaRoo.png" style="width:1000px;height:400px;"><br>
 
-Inadequate instruction and warnings
-* Instruction and warnings provided were not in accordance to the requirements (e.g. content, format, language).
+The affected products are MamaRoo infant swings models 4M-005 (versions 1.0 and 2.0), 1026 (version 3.0) and 1037 (version 4.0) and RockaRoo infant rockers model number 4M-012.
 
-No report of incident of injury related to the use of this product has been received to date.
-Consumers who have bought the product are advised to stop using it immediately.
+4Moms has developed a strap fastener that attaches to the back of the product's seat. This fastener will prevent the straps from dangling under the swing/rocker when not in use.
 
+So far, there has been no reported incidents locally.
+
+Consumers are requested to contact Bao-Na Gan at Bloom & Grow Singapore immediately on +65 6392 5675 or email baona.gan@bloomandgrowgroup.com to register for a free strap fastener, which will be shipped to them. Consumers with an infant who can crawl should avoid leaving their child unattended with the product(s), and stow the product(s) in a safe, inaccessible location until the additional strap fastener is properly fitted.
+
+For more information on this matter, please visit the 4Moms [website](https://www.4moms.com/pages/safety-and-recall).
 
 
 Refer to the listing below for more product safety alerts and recalls.
@@ -48,6 +45,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|24 Aug 2022|[MamaRoo Infant Swings and RockaRoo Infant Rockers](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-08-24-MamaRoo-RockaRoo.pdf){:target="_blank"}|
 |16 Jun 2022|[Tatameru High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Tatameru-high-chair.pdf){:target="_blank"}|
 |16 Jun 2022|[Safety 1st Kiwi 3-in-1 High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Safety-1st-Kiwi-3-in-1-high-chair.pdf){:target="_blank"}|
 |19 Feb 2020|[Pacifier Clip D-16X-2](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-pacifier-clip-d-16x-2.pdf){:target="_blank"}|
