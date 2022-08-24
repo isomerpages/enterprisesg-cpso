@@ -19,7 +19,7 @@ The affected products are MamaRoo infant swings models 4M-005 (versions 1.0 and 
 
 So far, there has been no reported incidents locally.
 
-Consumers are requested to contact Bao-Na Gan at Bloom & Grow Singapore immediately on +65 6392 5675 or email baona.gan@bloomandgrowgroup.com to register for a free strap fastener, which will shipped to them. Consumers with an infant who can crawl should avoid leaving their child unattended with the product(s), and stow the product(s) in a safe, inaccessible location until the additional strap fastener is properly fitted.
+Consumers are requested to contact Bao-Na Gan at Bloom & Grow Singapore immediately on +65 6392 5675 or email baona.gan@bloomandgrowgroup.com to register for a free strap fastener, which will be shipped to them. Consumers with an infant who can crawl should avoid leaving their child unattended with the product(s), and stow the product(s) in a safe, inaccessible location until the additional strap fastener is properly fitted.
 
 For more information on this matter, please visit the 4Moms [website](https://www.4moms.com/pages/safety-and-recall).
 
