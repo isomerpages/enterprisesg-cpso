@@ -13,23 +13,15 @@ Thorley Industries LLC, (trading as "4Moms") worked with the U.S. Consumer Produ
 
 <img src="/images/product-safety-alerts-and-recalls/children-products/MamaRoo.jpg" style="width:400px;height:400px;"><br>
 
+The affected products are MamaRoo infant swings models 4M-005 (versions 1.0 and 2.0), 1026 (version 3.0) and 1037 (version 4.0) and RockaRoo infant rockers model number 4M-012.
 
+4Moms has developed a strap fastener that attaches to the back of the product's seat. This fastener will prevent the straps from dangling under the swing/rocker when not in use.
 
+So far, there has been no reported incidents locally.
 
-The Consumer Product Safety Office has issued a notice to Molco to cease supply of the high chair. During testing of this sample, it was found that the product did not comply with the following requirements from ASTM F404-20 - Standard Consumer Safety Specification for High Chairs:<br><br>
-Potential fall hazards
-* There was no restraint system.
-* Wood screws used in key structural elements did not have lock washer, glue, or other means to impede loosening or detachment.
-* Rearward stability of the high chair did not meet the requirements of the standard.
-* Distance between the back of the seat and the passive crotch restraint did not meet the requirements of the standard.
-* Leg openings on each side of the passive crotch restraint did not meet the requirements of the standard.
+Consumers are requested to contact Bao-Na Gan at Bloom & Grow Singapore immediately on +65 6392 5675 or email baona.gan@bloomandgrowgroup.com to register for a free strap fastener, which will e shipped to them. Consumers with an infant who can crawl should avoid leaving their child unattended with the product(s), and stow the product(s) in a safe, inaccessible location until the additional strap fastener is properly fitted.
 
-Inadequate instruction and warnings
-* Instruction and warnings provided were not in accordance to the requirements (e.g. content, format, language).
-
-No report of incident of injury related to the use of this product has been received to date.
-Consumers who have bought the product are advised to stop using it immediately.
-
+For more information on this matter, please visit the 4Moms [website](https://www.4moms.com/pages/safety-and-recall).
 
 
 Refer to the listing below for more product safety alerts and recalls.
@@ -53,6 +45,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|24 Aug 2022|[MamaRoo infant swings, RockaRoo infant rockers](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-08-24-MamaRoo-RockaRoo.pdf){:target="_blank"}|
 |16 Jun 2022|[Tatameru High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Tatameru-high-chair.pdf){:target="_blank"}|
 |16 Jun 2022|[Safety 1st Kiwi 3-in-1 High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Safety-1st-Kiwi-3-in-1-high-chair.pdf){:target="_blank"}|
 |19 Feb 2020|[Pacifier Clip D-16X-2](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-pacifier-clip-d-16x-2.pdf){:target="_blank"}|
