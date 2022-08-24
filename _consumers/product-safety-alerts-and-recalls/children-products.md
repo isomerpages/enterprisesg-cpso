@@ -6,10 +6,15 @@ third_nav_title: Product safety alerts and recalls
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**16 Jun 2022**<br>
-**SAFETY ALERT: Tatameru High Chair**<br>
+**24 Aug 2022**<br>
+**SAFETY ALERT: MamaRoo Infant Swings and RockaRoo infant  Rockers**<br>
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/Tatameru-high-chair.jpg" style="width:400px;height:400px;"><br>
+Thorley Industries LLC, (trading as "4Moms") worked with the U.S. Consumer Product Safety Commission (CPSC) to issue a safety alert for certain models of its MamaRoo swings and RockaRoo rockers 
+
+<img src="/images/product-safety-alerts-and-recalls/children-products/MamaRoo.jpg" style="width:400px;height:400px;"><br>
+
+
+
 
 The Consumer Product Safety Office has issued a notice to Molco to cease supply of the high chair. During testing of this sample, it was found that the product did not comply with the following requirements from ASTM F404-20 - Standard Consumer Safety Specification for High Chairs:<br><br>
 Potential fall hazards
