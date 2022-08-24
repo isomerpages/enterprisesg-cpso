@@ -9,7 +9,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **24 Aug 2022**<br>
 **SAFETY ALERT: MamaRoo Infant Swings and RockaRoo infant  Rockers**<br>
 
-Thorley Industries LLC, (trading as "4Moms") worked with the U.S. Consumer Product Safety Commission (CPSC) to issue a safety alert for certain models of its MamaRoo swings and RockaRoo rockers 
+Thorley Industries LLC, (trading as "4Moms") worked with the U.S. Consumer Product Safety Commission (CPSC) to issue a safety alert for certain models of its MamaRoo swings and RockaRoo rockers. When the swing or rocker is not in use, the restraint straps can dangle below the seat and crawling infants can become entangled in the dangling straps, posing a strangulation hazard.
 
 <img src="/images/product-safety-alerts-and-recalls/children-products/MamaRoo.jpg" style="width:400px;height:400px;"><br>
 
