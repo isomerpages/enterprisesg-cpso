@@ -14,7 +14,7 @@ Bambis Australia has announced a recall of the salt&pepper Wanderlust 3 wick can
 The affected models that were sold are:
 
 
-| Model | Product Code | Column 3 |
+| Model | Product Code | Picture |
 | -------- | -------- | -------- |
 | New York     | 49576     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture1.png" alt="New York" style="width:388px;height:228px;"><br>     |
 | Paris     | 49577     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture2.png" alt="Paris" style="width:388px;height:228px;"><br>     |
