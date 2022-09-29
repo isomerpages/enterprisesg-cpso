@@ -30,6 +30,7 @@ For more information, consumers can email Fang.Fang@harveynorman.com.sg or call 
 
 |Date|Title|
 |---|---|
+|29 Sep 2022|[Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-09-29-Bambis-Australia-recalls-Wanderlust-3-wick-candles.pdf){:target="_blank"}|
 |30 May 2022|[Fitbit LLC (“Fitbit”) recalls Fitbit Ionic Smartwatches](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-05-30-Fitbit-recalls-Fitbit-Ionic-Smartwatches.pdf){:target="_blank"}|
 |31 Oct 2019|[Decathlon recalls OnNight 410 Trail Running Headlamp](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-10-31-decathlon-recalls-onnight-410-trail-running-headlamp.pdf){:target="_blank"}|
 |02 Sep 2019|[Decathlon recalls BTWIN Bike Carrier Adaptor](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-09-02-decathlon-recalls-bttwin-bike-carrier-adaptor.pdf){:target="_blank"}|
