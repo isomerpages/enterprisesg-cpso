@@ -1,30 +1,30 @@
 ---
 title: Recreational products
-permalink: /consumers/product-safety-alerts-and-recalls/recreational-products
+permalink: /consumers/product-safety-alerts-and-recalls/recreational-products/
 third_nav_title: Product safety alerts and recalls
 ---
 ## Recreational products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**02 Aug 2022**<br>
-**Brompton P Line Wheel Nut Corrective Action - To replace the Wheel Nut on affected P Line model bicycles (those with a serial number lower than 2203113405)**<br>
+**29 Sep 2022**<br>
+**Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman**<br>
 
-Brompton, the supplier of commuter/urban bikes issued a notice for some of their P Line bikes. During their quality control testing, they found possible damage to the thread of the front wheel nut during installation on some bikes, which could lead to the nut becoming loose and potentially shaking off during cycling.
+Bambis Australia has announced a recall of the salt&pepper Wanderlust 3 wick candles sold at Harvey Norman. The glass candle containers may fracture or shatter, which could result in the wax in the candle igniting and causing a fire.
 
-So far, there have been no reported incidents of this happening to any P Line owners.
+The affected models that were sold are:
 
-<img src="/images/product-safety-alerts-and-recalls/recreational-products/brompton-p-line.png" alt="Brompton P Line Wheel Nut" style="width:388px;height:228px;"><br>
-Bikes which may be affected are P Line models with a serial number lower than 2203113405. P Lines with a serial number higher than 2203113405 are not affected.
 
-The A, C, T Lines, and Superlight bikes are not affected.
+| Model | Product Code | Column 3 |
+| -------- | -------- | -------- |
+| New York     | 49576     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture1.png" alt="New York" style="width:388px;height:228px;"><br>     |
+| Paris     | 49577     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture2.png" alt="Paris" style="width:388px;height:228px;"><br>     |
+| Marrakesh     | 49578     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture3.png" alt="Marrakesh" style="width:388px;height:228px;"><br>     |
+| Byron Bay     | 49579     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture4.png" alt="Byron Bay" style="width:388px;height:228px;"><br>     |
+| Aspen     | 51956     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture5.png" alt="Aspen" style="width:388px;height:228px;"><br>     |
 
-Customers can find the P Line bike's serial number on the rear of your seat tube post.
+The affected candles were sold at Harvey Norman retail outlets between 18 September 2019 and 23 July 2022. Affected consumers are urged to return the product to the place of purchase for a full refund.
 
-Customers registered with Brompton can either bring their affected bikes to Brompton retailers for a free component replacement or carry out the replacement themselves with a free replacement wheel nut provided by Brompton.
-
-A list of retailers for the relevant bikes in Singapore can be found on Brompton SG's [website](https://sg.brompton.com/find-a-store).
-
-For more information on this matter, please visit the Brompton [website](https://www.brompton.com/p-line-wheel-nut-update).
+For more information, consumers can email Fang.Fang@harveynorman.com.sg or call 63119983.
 
 **Product recalls**
 
