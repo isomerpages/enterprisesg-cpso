@@ -1,6 +1,6 @@
 ---
 title: Electrical
-permalink: /consumers/product-safety-alerts-and-recalls/electrical
+permalink: /consumers/product-safety-alerts-and-recalls/electrical/
 third_nav_title: Product safety alerts and recalls
 ---
 ## Electrical safety alerts and recalls
@@ -26,7 +26,7 @@ Refer to the listing below for more product safety alerts and recalls.
 |Date|Title|
 |---|---|
 |07 Jul 2022|[IKEA issues recall of METALLISK Espresso Maker](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2022-07-07-ikea-metallisk-espresso-maker.pdf){:target="_blank"}|
-|22 Feb 2022|[Kenwood voluntarily replaces “Julienne” disc of food processor models FPM800 and FPM810](/files/product-safety-alerts-and-recalls/electrical//Kenwood Julienne disc replacement for Food Processor Models FPM800 and FPM810.pdf){:target="blank"}|
+|22 Feb 2022|[Kenwood voluntarily replaces “Julienne” disc of food processor models FPM800 and FPM810](/files/product-safety-alerts-and-recalls/electrical//electrical-alert-2022-02-22-Kenwood-Julienne-disc-FPM800-and-FPM810.pdf){:target="blank"}|
 |05 Oct 2020|[LG Electronics Inc’s free replacement program for TV Power Board](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2020-10-05-lg-electronics-free-replacement-programe-for-tv-power-board.pdf){:target="_blank"}|
 |15 Sep 2020|[Goldland International recalls Iona GLWD700 water dispenser](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2020-09-15-goldland-international0recalls-iona-glwd700-water-dispenser.pdf){:target="_blank"}|
 |23 Dec 2019|[Elmark recalls 17 models of ceiling fans](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2019-12-23-elmark-recalls-17-models-of-ceiling-fans.pdf){:target="_blank"}|
