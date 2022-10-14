@@ -3,7 +3,6 @@ title: Safety Tips on Highchairs
 permalink: /safety-tips-on-highchairs/
 description: ""
 ---
-
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 ## Safety Tips on Highchairs
