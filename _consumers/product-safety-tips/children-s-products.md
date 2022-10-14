@@ -1,6 +1,6 @@
 ---
 title: Children's products
-permalink: /consumers/product-safety-tips/children-product
+permalink: /consumers/product-safety-tips/children-product/
 third_nav_title: Product safety tips
 ---
 ## Children's product safety tips
@@ -14,3 +14,4 @@ Children and toddlers are vulnerable group and requires greater care when using 
 * [Safety Tips on Children’s Apparel](/safety-tips-on-children-apparel)
 * [Safety Tips on Costume Jewellery for Children](/safety-tips-on-constume-jewellery-for-children)
 * [Safety Tips on Baby Cots](/safety-tips-on-baby-cots)
+* [Safety Tips on Highchairs](/safety-tips-on-highchairs)
