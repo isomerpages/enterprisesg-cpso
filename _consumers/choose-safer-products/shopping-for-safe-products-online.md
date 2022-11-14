@@ -1,6 +1,6 @@
 ---
 title: Shopping for safe products online
-permalink: /consumers/choose-safer-products/shopping-for-safe-products-online
+permalink: /consumers/choose-safer-products/shopping-for-safe-products-online/
 third_nav_title: Choose safer products
 ---
 ## What to Look out for When Buying from Online or Overseas Retailers
@@ -15,3 +15,26 @@ Here are some tips to keep in mind when buying home appliances and electronics o
 |![do your homework](/images/consumers/choose-safer-products/shopping-online/do-your-homework.png)|A quick search online can often help reveal products that have been recalled by the manufacturer or had its sale stopped by regulatory bodies over safety issues. In addition to price, check out past buyers’ feedback, seller ratings and independent product reviews to thoroughly make sure no safety hazards or reliability issues exist.|
 |![buy from official stores or reputable online marketplaces](/images/consumers/choose-safer-products/shopping-online/buy-from-official-stores-or-reputable-online-marketplaces.png)|Look for a seller that provides full product warranty by the manufacturer, customer service support and a return or exchange policy.|
 |![is it designed for use in singapore](/images/consumers/choose-safer-products/shopping-online/is-it-designed-for-use-in-singapore.png)|When buying electrical appliances online, technical specifications printed on the packaging may not be shown on the product page. Always contact the seller to ensure that it comes with plugs and voltages that are suitable for use locally.|
+
+Other tips to consider when making purchases online:
+
+Before purchase:
+
+* Know who you're buying from - check out the seller's history, ratings and policies.
+* Is it prohibited/banned from sale? If it is, don't buy it.
+* Has it been recalled?
+* Are there mandatory safety features it needs to have?
+* Is there safety information on the listing?
+* Ask the seller if you're unsure - if they can't reassure you, don't buy it.
+* Report products you think are unsafe.
+
+After purchase:
+
+* Does it have the features you were told it would have?
+* Does it have safety warnings or instructions?
+* Stop and read any safety warnings or instructions.
+* If you think it's unsafe, report it to authorities, the seller and the online marketplace.
+* Register your product to be notified of recalls or other product issues.
+* Always follow advice about recalled products.
+
+You can find more information [here](http://www.oecd.org/digital/consumer/put-product-safety-first).
