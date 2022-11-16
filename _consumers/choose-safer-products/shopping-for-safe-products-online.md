@@ -16,7 +16,7 @@ Here are some tips to keep in mind when buying home appliances and electronics o
 |![buy from official stores or reputable online marketplaces](/images/consumers/choose-safer-products/shopping-online/buy-from-official-stores-or-reputable-online-marketplaces.png)|Look for a seller that provides full product warranty by the manufacturer, customer service support and a return or exchange policy.|
 |![is it designed for use in singapore](/images/consumers/choose-safer-products/shopping-online/is-it-designed-for-use-in-singapore.png)|When buying electrical appliances online, technical specifications printed on the packaging may not be shown on the product page. Always contact the seller to ensure that it comes with plugs and voltages that are suitable for use locally.|
 
-In support of the Organisation for Economic Coorperation and Development's Global Awareness Campaign on online safety, the CPSO encourages consumers to #PutProductSafetyFirst when buying products online. Here are additional tips to consider when making purchases online:
+In support of the Organisation for Economic Coorperation and Development's [Global Awareness Campaign on online safety](https://www.oecd.org/digital/consumer/put-product-safety-first/), the CPSO encourages consumers to #PutProductSafetyFirst when buying products online. Here are additional tips to consider when making purchases online:
 
 Before purchase:
 
@@ -37,4 +37,4 @@ After purchase:
 * Register your product to be notified of recalls or other product issues.
 * Always follow advice about recalled products.
 
-You can find more information on the OECD's work consumer product safety [here](http://www.oecd.org/digital/consumer/put-product-safety-first).
+You can find more information on the OECD's work consumer product safety [here](https://www.oecd.org/sti/consumer/consumer-product-safety.htm).
