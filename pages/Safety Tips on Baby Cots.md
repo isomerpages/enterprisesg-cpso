@@ -10,7 +10,7 @@ description: ""
 ## Safety Tips on Baby Cots
 
 <img src="/images/baby_cot_photo.jpg" alt="METALLISK Espresso Maker" style="width:670px;height:370px;">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; photo by [babycenter](https://www.flickr.com/photos/196614229@N04/albums/72177720302534632)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; photo by [babycenter](https://www.flickr.com/photos/196614229@N04/albums/72177720302534632)
 
 Babies spend a lot of time in cots and parents should look out for safety features when buying cots for your child. Neglecting safety considerations or inappropriate use can have severe consequences.
 
