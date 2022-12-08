@@ -1,6 +1,6 @@
 ---
 title: Safety Tips on Baby Cots
-permalink: /safety-tips-on-baby-cots
+permalink: /safety-tips-on-baby-cots/
 date: 2021-12-29
 layout: post
 description: ""
@@ -8,6 +8,8 @@ description: ""
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 ## Safety Tips on Baby Cots
+
+<img src="/images/baby_cot_photo.jpg" alt="METALLISK Espresso Maker" style="width:570px;height:370px;"><br>
 Babies spend a lot of time in cots and parents should look out for safety features when buying cots for your child. Neglecting safety considerations or inappropriate use can have severe consequences.
 
 Always follow the instructions provided in the manual and pay attention to warnings that will help prevent injuries.
