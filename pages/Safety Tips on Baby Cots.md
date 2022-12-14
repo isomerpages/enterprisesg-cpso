@@ -34,7 +34,7 @@ Always follow the instructions provided in the manual and pay attention to warni
 *	Do not place stuffed toys or extra pillows/cushions in the crib to reduce the risk of your baby suffocating or using them as a foothold to climb out of the crib.
 *	Remove all toys strung across the cot/playpen when your baby is able to stand to avoid being caught in them.
 <img src="/images/baby_cot_photo.jpg" alt="METALLISK Espresso Maker" style="width:670px;height:370px;">
-<center> Photo by [babycenter](https://www.babycenter.com/).** Make sure your baby's cot is free from items that may obstruct ventilation.** </center>
+<center> Photo by [babycenter](https://www.babycenter.com/). ** Make sure your baby's cot is free from items that may obstruct ventilation.** </center>
 
 *	If your cot has a drop-side, inspect the mechanism regularly to ensure the joints are securely fastened.
 *	Make sure the cot has no raised corner posts or cut-outs as your baby’s clothing could get caught on them, posing a strangulation risk.
