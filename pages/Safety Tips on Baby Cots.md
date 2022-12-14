@@ -1,6 +1,6 @@
 ---
 title: Safety Tips on Baby Cots
-permalink: /safety-tips-on-baby-cots
+permalink: /safety-tips-on-baby-cots/
 date: 2021-12-29
 layout: post
 description: ""
@@ -8,6 +8,9 @@ description: ""
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 ## Safety Tips on Baby Cots
+
+
+
 Babies spend a lot of time in cots and parents should look out for safety features when buying cots for your child. Neglecting safety considerations or inappropriate use can have severe consequences.
 
 Always follow the instructions provided in the manual and pay attention to warnings that will help prevent injuries.
@@ -30,6 +33,10 @@ Always follow the instructions provided in the manual and pay attention to warni
 *	Bumper pads are padded pieces placed alongside of cribs to protect baby limbs from slipping through the gaps found on side of cots. Use cot bumper pads cautiously as they could pose a risk of suffocation. It may also cause a lack of proper ventilation if not properly installed/placed. Ensure that there is proper air ventilation and regularly check on your baby. 
 *	Do not place stuffed toys or extra pillows/cushions in the crib to reduce the risk of your baby suffocating or using them as a foothold to climb out of the crib.
 *	Remove all toys strung across the cot/playpen when your baby is able to stand to avoid being caught in them.
+<img src="/images/baby_cot_photo.jpg" alt="METALLISK Espresso Maker" style="width:670px;height:370px;">
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Photo by [babycenter](https://www.babycenter.com/). Make sure your baby's cot is free from items that may 
+<br> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; obstruct ventilation.
+
 *	If your cot has a drop-side, inspect the mechanism regularly to ensure the joints are securely fastened.
 *	Make sure the cot has no raised corner posts or cut-outs as your baby’s clothing could get caught on them, posing a strangulation risk.
 *	Regularly check that nuts and bolts are tight, as per the maintenance instructions supplied with the cot.
