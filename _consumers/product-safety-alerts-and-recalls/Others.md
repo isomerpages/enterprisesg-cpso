@@ -24,6 +24,7 @@ Refer to the listing below for more product safety alerts and recalls.
 |30 May 2022|[Fitbit LLC (“Fitbit”) recalls Fitbit Ionic Smartwatches](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-05-30-Fitbit-recalls-Fitbit-Ionic-Smartwatches.pdf){:target="_blank"}|
 |12 May 2022|[Smiggle Singapore Pte Ltd issues voluntary recall for Smiggle Fun Character Watch Slapband](/files/product-safety-alerts-and-recalls/children-products/Smiggle-watch-12-May-2022.pdf){:target="_blank"}|
 |16 Oct 2020 &nbsp; &nbsp; |[Cotton On Group recalls Typo Harry Potter ‘Lumos’ and Marvel ‘Avengers Assemble’ Projection Pens](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-10-16-cotton-on-group-recalls-typo-harry-potter-projection-pens.pdf){:target="_blank"}|
+|29 Jul 2019|[Decathlon recalls Rocky Screwgate Carabiner](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-07-29-decathlon-recalls-rocky-screwgate-carabiner.pdf){:target="_blank"}|
 
 **Product safety alerts**
 
