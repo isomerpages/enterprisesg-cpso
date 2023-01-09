@@ -7,6 +7,7 @@ third_nav_title: Product Safety Alerts And Recalls
 ## Other safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
+Amend the below to latest recall news
 **01 Oct 2019**<br>
 **IKEA recalls MATVRÅ blue/red children’s bib**<br>
 IKEA has announced a voluntary recall of the MATVRÅ blue/red children’s bib. The button on the bib can come off when pulled, posing a choking hazard to children.<br>
@@ -19,7 +20,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|25 Apr 2019|[Mattel Singapore recalls Fisher-Price Rock ‘N Play infant rocker](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-recall-2019-04-25-mattel-singapore-recalls-fisher-price-rock-n-play-infant-rocker.pdf){:target="_blank"} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|12 May 2022|[Smiggle Singapore Pte Ltd issues voluntary recall for Smiggle Fun Character Watch Slapband](/files/product-safety-alerts-and-recalls/children-products/Smiggle-watch-12-May-2022.pdf){:target="_blank"}|
 
 **Product safety alerts**
 
