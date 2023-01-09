@@ -1,6 +1,6 @@
 ---
 title: Children products
-permalink: /consumers/product-safety-alerts-and-recalls/children-products
+permalink: /consumers/product-safety-alerts-and-recalls/children-products/
 third_nav_title: Product safety alerts and recalls
 ---
 ## Children products safety alerts and recalls
@@ -39,6 +39,7 @@ Refer to the listing below for more product safety alerts and recalls.
 |02 Sep 2019|[Decathlon recalls NABAIJI All Slot Babyseat Inflatable Float](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-09-02-decathlon-recalls-nabaiji-all-slot-babyseat-inflatable-float.pdf){:target="_blank"}|
 |14 Aug 2019|[Stokke calls for voluntary product part replacement of Stokke Tripp Trapp Newborn Set](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-08-14-stokke-calls-for-voluntary-product-part-replacement-of-stokke-tripp-trapp-newborn-set.pdf){:target="_blank"}|
 |14 Aug 2019|[Stokke recalls Stokke Steps Bouncer](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-08-14-stokke-recalls-stokke-steps-bouncer.pdf){:target="_blank"}|
+|25 Apr 2019|[Mattel Singapore recalls Fisher-Price Rock ‘N Play infant rocker](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-recall-2019-04-25-mattel-singapore-recalls-fisher-price-rock-n-play-infant-rocker.pdf){:target="_blank"} 
 |18 Feb 2019|[Oribel recalls Cocoon high chair](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-02-18-oribel-recalls-cocoon-high-chair.pdf){:target="_blank"}|
 
 **Product safety alerts**
