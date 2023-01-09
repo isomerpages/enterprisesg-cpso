@@ -6,6 +6,7 @@ third_nav_title: Product safety alerts and recalls
 ## Recreational products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
+Amend the below to latest recall news
 **29 Sep 2022**<br>
 **Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman**<br>
 
