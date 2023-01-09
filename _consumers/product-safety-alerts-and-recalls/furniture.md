@@ -1,10 +1,23 @@
 ---
 title: Furniture
-permalink: /consumers/product-safety-alerts-and-recalls/furniture
+permalink: /consumers/product-safety-alerts-and-recalls/furniture/
 third_nav_title: Product safety alerts and recalls
 ---
 ## Furniture safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
+
+**4 Jan 2023**<br>
+**IKEA of Sweden is recalling ODGER swivel chair in the anthracite color with date stamps before and including 2221 due to fall and injury hazards**
+
+IKEA is recalling ODGER swivel chair in the anthracite color with date stamps ranging from year 2019/week 22 to year 2022/week 21 as there is a risk that the star base leg of the chairs may break and pose fall and injury hazards for the user.
+
+IKEA is urging all customers who own an ODGER swivel chair in the anthracite color with date stamps 1922 to 2221 to stop using it immediately and return it to any IKEA store for a full refund. The name and date stamp of the product can be found underneath the seat, molded in the material of the chair.
+
+<img src="/images/product-safety-alerts-and-recalls/furniture/IKEA%20ODGER%20CHAIR.jpg" style="width:200px;height:260px;">
+
+![](/images/product-safety-alerts-and-recalls/furniture/IKEA%20ODGER%20CHAIR%202.png)
+
+For more information, please contact IKEA Customer Contact Centre at +65 6786 6868 or visit the IKEA website.
 
 **29 Jul 2022**<br>
 **SAFETY ALERT: JTS168 Low-Back Full Black Office Chair**<br>
