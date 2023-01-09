@@ -19,28 +19,13 @@ IKEA is urging all customers who own an ODGER swivel chair in the anthracite col
 
 For more information, please contact IKEA Customer Contact Centre at +65 6786 6868 or visit the IKEA website.
 
-**29 Jul 2022**<br>
-**SAFETY ALERT: JTS168 Low-Back Full Black Office Chair**<br>
-The Consumer Product Safety Office has issued a notice to IM ESTILO Pte Ltd to cease supply of the swivel chair.
-<img src="/images/product-safety-alerts-and-recalls/furniture/jts168-chair.png" alt="JTS168 Swivel Chair" style="width:500px;height:350px;"><br>
-During testing of this sample, it was found that the product did not comply with the BS EN 12520 requirements for domestic seating.
-
-Potential fall hazards:<br>
-	- Seating stability did not meet the requirements of the standard.
-
-Inadequate instruction and warnings:<br>
-	- Care and maintenance instruction was not provided<br>
-
-No report of incident or injury related to the use of this product has been received to date.
-
-Consumers who have bought the product are advised to stop using it immediately.
-
 Refer to the listing below for more product safety alerts and recalls.
 
 **Product recalls**
 
 |Date|Title|
 |---|---|
+|4 Jan 2023|[IKEA is recalling ODGER swivel chair in the anthracite color with date stamps before and including 2221 due to fall and injury hazards](/files/product-safety-alerts-and-recalls/furniture/Recall_IKEA-ODGER-swivel-chair.pdf){:target="_blank"}|
 |06 May 2019|[IKEA recalls Sundvik changing table/chest of drawers for repairs](/files/product-safety-alerts-and-recalls/furniture/furniture-recall-2019-05-06-ikea-recalls-sundvik-changing-table-chest-of-drawers-for-repairs.pdf){:target="_blank"}|
 
 **Product safety alerts**
