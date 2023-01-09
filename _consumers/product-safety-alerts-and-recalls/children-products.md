@@ -31,7 +31,6 @@ Refer to the listing below for more product safety alerts and recalls.
 |Date|Title|
 |---|---|
 |18 Mar 2022|[Mushie & Co issues voluntary recall for FRIGG silicone pacifiers](/files/product-safety-alerts-and-recalls/children-products/frigg-classic-and-daisy-silicone-pacifiers-recall-18-Mar-2022.pdf){:target="_blank"}|
-|16 Oct 2020 &nbsp; &nbsp; |[Cotton On Group recalls Typo Harry Potter ‘Lumos’ and Marvel ‘Avengers Assemble’ Projection Pens](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-10-16-cotton-on-group-recalls-typo-harry-potter-projection-pens.pdf){:target="_blank"}|
 |13 Jan 2020|[Philips recalls Digital Video Baby Monitor (SCD620)](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-13-philips-recalls-digital-video-baby-monitor.pdf){:target="_blank"}|
 |08 Jan 2020|[Decathlon recalls Baby Seat 100 BClip](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-08-decathlon-recalls-baby-seat-100-bclip.pdf){:target="_blank"}|
 |02 Sep 2019|[Decathlon recalls NABAIJI All Slot Babyseat Inflatable Float](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-09-02-decathlon-recalls-nabaiji-all-slot-babyseat-inflatable-float.pdf){:target="_blank"}|
