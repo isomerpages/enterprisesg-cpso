@@ -1,6 +1,6 @@
 ---
 title: Children products
-permalink: /consumers/product-safety-alerts-and-recalls/children-products
+permalink: /consumers/product-safety-alerts-and-recalls/children-products/
 third_nav_title: Product safety alerts and recalls
 ---
 ## Children products safety alerts and recalls
@@ -30,15 +30,13 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|12 May 2022|[Smiggle Singapore Pte Ltd issues voluntary recall for Smiggle Fun Character Watch Slapband](/files/product-safety-alerts-and-recalls/children-products/Smiggle-watch-12-May-2022.pdf){:target="_blank"}|
 |18 Mar 2022|[Mushie & Co issues voluntary recall for FRIGG silicone pacifiers](/files/product-safety-alerts-and-recalls/children-products/frigg-classic-and-daisy-silicone-pacifiers-recall-18-Mar-2022.pdf){:target="_blank"}|
-|25 Jun 2021|[Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2021-06-25-cotto-on-group-recalls-kids-projector-light.pdf){:target="_blank"}|
-|16 Oct 2020 &nbsp; &nbsp; |[Cotton On Group recalls Typo Harry Potter ‘Lumos’ and Marvel ‘Avengers Assemble’ Projection Pens](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-10-16-cotton-on-group-recalls-typo-harry-potter-projection-pens.pdf){:target="_blank"}|
 |13 Jan 2020|[Philips recalls Digital Video Baby Monitor (SCD620)](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-13-philips-recalls-digital-video-baby-monitor.pdf){:target="_blank"}|
 |08 Jan 2020|[Decathlon recalls Baby Seat 100 BClip](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-08-decathlon-recalls-baby-seat-100-bclip.pdf){:target="_blank"}|
 |02 Sep 2019|[Decathlon recalls NABAIJI All Slot Babyseat Inflatable Float](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-09-02-decathlon-recalls-nabaiji-all-slot-babyseat-inflatable-float.pdf){:target="_blank"}|
 |14 Aug 2019|[Stokke calls for voluntary product part replacement of Stokke Tripp Trapp Newborn Set](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-08-14-stokke-calls-for-voluntary-product-part-replacement-of-stokke-tripp-trapp-newborn-set.pdf){:target="_blank"}|
 |14 Aug 2019|[Stokke recalls Stokke Steps Bouncer](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-08-14-stokke-recalls-stokke-steps-bouncer.pdf){:target="_blank"}|
+|25 Apr 2019|[Mattel Singapore recalls Fisher-Price Rock ‘N Play infant rocker](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-recall-2019-04-25-mattel-singapore-recalls-fisher-price-rock-n-play-infant-rocker.pdf){:target="_blank"} 
 |18 Feb 2019|[Oribel recalls Cocoon high chair](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-02-18-oribel-recalls-cocoon-high-chair.pdf){:target="_blank"}|
 
 **Product safety alerts**

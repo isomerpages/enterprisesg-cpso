@@ -1,6 +1,6 @@
 ---
 title: Children apparel
-permalink: /consumers/product-safety-alerts-and-recalls/children-apparel
+permalink: /consumers/product-safety-alerts-and-recalls/children-apparel/
 third_nav_title: Product safety alerts and recalls
 ---
 ## Children apparel safety alerts and recalls
@@ -16,10 +16,10 @@ Refer to the listing below for more product safety alerts and recalls.
 
 **Product recalls**
 
-|Date|Title|
+|Date|&nbsp; &nbsp; Title|
 |---|---|
-|01 Oct 2019|[IKEA recalls MATVRÅ blue/red children’s bib](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-recall-2019-10-01-ikea-recalls-matvra-children-bib.pdf){:target="_blank"}|
-|25 Apr 2019|[Mattel Singapore recalls Fisher-Price Rock ‘N Play infant rocker](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-recall-2019-04-25-mattel-singapore-recalls-fisher-price-rock-n-play-infant-rocker.pdf){:target="_blank"} &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|01 Oct <br>  2019|&nbsp; &nbsp; [IKEA recalls MATVRÅ blue/red children’s bib](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-recall-2019-10-01-ikea-recalls-matvra-children-bib.pdf){:target="_blank"}|
+
 
 **Product safety alerts**
 
@@ -31,7 +31,7 @@ Refer to the listing below for more product safety alerts and recalls.
 |01 Aug 2016|[Children’s Apparel: Inner Tank Sugar Glam Girls Blouse (Aug 2016)](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-inner-tank-sugar-glam-girls-blouse.pdf){:target="_blank"}|
 |01 Aug 2016|[Candy Toddler Dress](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-candy-toddler-dress-testing.pdf){:target="_blank"}|
 |01 Aug 2016|[Vintage Riviera Girls Blouse](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-vintage-riviera-girls-blouse-testing.pdf){:target="_blank"}|
-|22 Jul 2016|[Winne the Pooh Pants](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-winnie-the-pooh-pants-testing.pdf){:target="_blank"}|
+|22 Jul 2016|[Winnie the Pooh Pants](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-winnie-the-pooh-pants-testing.pdf){:target="_blank"}|
 |22 Jul 2016|[NOXT Jean Blue Dress](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-noxt-jean-blue-dress-testing.pdf){:target="_blank"}|
 |22 Jul 2016|[Striped Dress with Waist String](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-striped-dress-with-waist-string-testing.pdf){:target="_blank"}|
 |22 Jul 2016|[Mao Xian Xiong Boy Belt T-shirt](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-07-22-mao-xian-xiong-boy-belt-t-shirt-testing.pdf){:target="_blank"}|
