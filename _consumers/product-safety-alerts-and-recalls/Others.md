@@ -30,7 +30,6 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|18 Jul 2019|[125pcs 5mm Creative Building Block Magic Cube MAGCUBE Magnetic Cubes](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2019-07-18-creative-building-block-magic-cube-magcube-magnetic-cubes.pdf){:target="_blank"}|
 |18 Feb 2016|[Jewellery and accessories: Crown Hair Clip](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-18-crown-hair-clip.pdf){:target="_blank"}|
 |18 Feb 2016|[Jewellery and accessories: Choker and Bracelet](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-18-choker-and-bracelet.pdf){:target="_blank"}|
 |16 Nov 2015|[Jewellery and accessories: Tiara Hairband](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2015-11-16-tiara-hairband.pdf){:target="_blank"}|
