@@ -7,12 +7,26 @@ third_nav_title: Product Safety Alerts And Recalls
 ## Other safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-Amend the below to latest recall news
-**01 Oct 2019**<br>
-**IKEA recalls MATVRÅ blue/red children’s bib**<br>
-IKEA has announced a voluntary recall of the MATVRÅ blue/red children’s bib. The button on the bib can come off when pulled, posing a choking hazard to children.<br>
-<img src="/images/product-safety-alerts-and-recalls/children-apparel/blue-red-children-bib.png" alt="IKEA children's bib" style="width:365px;height:313px;"><br>
-Consumers who own the bib are advised to stop using it immediately and visit the nearest IKEA store for a full refund or a product replacement.<br><br>For more information, please visit [IKEA’s website](https://www.ikea.com/sg/en/customer-service/product-support/recalls/) or contact IKEA’s Customer Contact Centre at +65 6786 6868.
+**29 Sep 2022**<br>
+**Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman**<br>
+
+Bambis Australia has announced a recall of the salt&pepper Wanderlust 3 wick candles sold at Harvey Norman. The glass candle containers may fracture or shatter, which could result in the wax in the candle igniting and causing a fire.
+
+The affected models that were sold are:
+
+
+| Model | Product Code | Picture |
+| -------- | -------- | -------- |
+| New York     | 49576     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture1.png" alt="New York" style="width:388px;height:228px;"><br>     |
+| Paris     | 49577     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture2.png" alt="Paris" style="width:388px;height:228px;"><br>     |
+| Marrakesh     | 49578     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture3.png" alt="Marrakesh" style="width:388px;height:228px;"><br>     |
+| Byron Bay     | 49579     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture4.png" alt="Byron Bay" style="width:388px;height:228px;"><br>     |
+| Aspen     | 51956     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture5.png" alt="Aspen" style="width:388px;height:228px;"><br>     |
+
+The affected candles were sold at Harvey Norman retail outlets between 18 September 2019 and 23 July 2022. Affected consumers are urged to return the product to the place of purchase for a full refund.
+
+For more information, consumers can email Fang.Fang@harveynorman.com.sg or call 63119983.
+
 
 Refer to the listing below for more product safety alerts and recalls.
 
