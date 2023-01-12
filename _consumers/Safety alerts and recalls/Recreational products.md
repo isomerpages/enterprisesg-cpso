@@ -11,7 +11,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **Decathlon recalls BTWIN Bike Carrier Adaptor**<br>
 
 Decathlon has announced a voluntary recall of the BTWIN Bike Carrier Adaptor. The security arm can open causing the bike to fall off the rack. Affected units were sold between 1 January 2016 and 6 June 2019.
-
+![](/images/product-safety-alerts-and-recalls/recreational-products/Decathlon%20BTWIN%20Adaptor.png)
 Consumers are advised to return the affected product at any Decathlon store for a refund. For more information, please visit Decathlon Singapore recall website
 at www.decathlon.sg/content/32-product-recall.
 
