@@ -1,7 +1,8 @@
 ---
 title: Children apparel
-permalink: /consumers/product-safety-alerts-and-recalls/children-apparel/
-third_nav_title: Product safety alerts and recalls
+permalink: /consumers/safety-alerts-and-recalls/children-apparel/
+third_nav_title: Safety alerts and recalls
+description: ""
 ---
 ## Children apparel safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
@@ -25,7 +26,6 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|18 Jul 2019|[125pcs 5mm Creative Building Block Magic Cube MAGCUBE Magnetic Cubes](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2019-07-18-creative-building-block-magic-cube-magcube-magnetic-cubes.pdf){:target="_blank"}|
 |27 Sep 2016|[Caper Kids 2-piece Dress](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-09-27-caper-kids-2-piece-dress-testing.pdf){:target="_blank"}|
 |01 Aug 2016|[Huali Kids Boy Pants](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-huali-kids-boy-pants-testing.pdf){:target="_blank"}|
 |01 Aug 2016|[Children’s Apparel: Inner Tank Sugar Glam Girls Blouse (Aug 2016)](/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-alerts-2016-08-01-inner-tank-sugar-glam-girls-blouse.pdf){:target="_blank"}|

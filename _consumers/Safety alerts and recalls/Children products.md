@@ -1,7 +1,8 @@
 ---
 title: Children products
-permalink: /consumers/product-safety-alerts-and-recalls/children-products/
-third_nav_title: Product safety alerts and recalls
+permalink: /consumers/safety-alerts-and-recalls/children-products/
+third_nav_title: Safety alerts and recalls
+description: ""
 ---
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
@@ -71,20 +72,15 @@ Refer to the listing below for more product safety alerts and recalls.
 |28 Mar 2016|[Pacifiers: Chica Thumb Shape Soother](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-28-chica-thumb-shape-soother.pdf){:target="_blank"}|
 |15 Mar 2016|[Cots and cribs: Jarrons & Co JCB-101 Happy Sleep 5-in-1 convertible cot](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-15-jarrons-co-jcb101-happy-sleep-5-in-1-convertible-cot-testing.pdf){:target="_blank"}|
 |26 Feb 2016|[Cots and cribs: Sheares Spring Baby Crib](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-26-sheares-spring-baby-crib.pdf){:target="_blank"}|
-|18 Feb 2016|[Jewellery and accessories: Crown Hair Clip](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-18-crown-hair-clip.pdf){:target="_blank"}|
-|18 Feb 2016|[Jewellery and accessories: Choker and Bracelet](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-18-choker-and-bracelet.pdf){:target="_blank"}|
 |16 Feb 2016|[Cots and cribs: BabyHome Eat High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-16-babyhome-eat-high-chair.pdf){:target="_blank"}|
 |05 Feb 2016|[Cots and cribs: Magne 2 in 1 Portable Crib](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-05-magne-2-in-1-portable-crib.pdf){:target="_blank"}|
 |05 Feb 2016|[High chairs: Marco High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-05-marco-high-chair.pdf){:target="_blank"}|
 |29 Jan 2016|[Strollers: Polka QQ2 Baby Simple Stroller](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-01-29-polka-qq2-baby-simple-stroller.pdf){:target="_blank"}|
-|16 Nov 2015|[Jewellery and accessories: Tiara Hairband](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2015-11-16-tiara-hairband.pdf){:target="_blank"}|
 |06 Nov 2015|[Baby Walkers: X-Baby Walker](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2015-11-06-x-baby-walker.pdf){:target="_blank"}|
-|05 Nov 2015|[Jewellery and accessories: Yth Glittered Unicorn Necklace and Ring Set](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2015-11-05-yth-glittered-unicorn-necklace-and-ring-set.pdf){:target="_blank"}|
 |10 Jun 2014|[Baby Walkers: Puku Baby Walker (Model no: HW-8011)](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2014-06-10-puku-baby-walker-model-no-hw-8011.pdf){:target="_blank"}|
 |10 Jun 2014|[Baby Walkers: Lucky Baby 2 in 1 Baby Walker (Model no: 2008.03)](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2014-06-10-lucky-baby-2-in-1-baby-walker-model-no-2008-03.pdf){:target="_blank"}|
 |10 Jun 2014|[Baby Walkers: Puku Baby Walker (Model no: HW-8168)](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2014-06-10-puku-baby-walker-model-no-hw-8168.pdf){:target="_blank"}|
 |15 Jan 2014|[Cots and cribs: Baby One Folding Cot BO 770 F](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2014-01-15-baby-one-folding-cot-bo-770-f.pdf){:target="_blank"}|
 |09 Dec 2013|[Cots and cribs: Baby Cot TW-CB17D](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2013-12-09-baby-cot-tw-cb17d.pdf){:target="_blank"}|
 |09 Dec 2013|[Cots and cribs: Marco Baby Cot Foldable BC-1622-NA](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2013-12-09-marco-baby-cot-foldable-bc-1622-na.pdf){:target="_blank"}|
-|01 May 2012|[Jewellery and accessories: Children’s Products Testing](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2012-05-01-children-products-testing.pdf){:target="_blank"}|
 |01 May 2012|[Cots and cribs, Baby walkers and Strollers: Children’s Products Testing](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2012-05-01-children-cots.pdf){:target="_blank"}|

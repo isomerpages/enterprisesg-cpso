@@ -10,14 +10,13 @@ collections:
       - product-safety-tips/electronics-and-appliances.md
       - product-safety-tips/home-appliances-and-furniture.md
       - product-safety-tips/children-s-products.md
-      - product-safety-alerts-and-recalls.md
-      - product-safety-alerts-and-recalls/.keep
-      - product-safety-alerts-and-recalls/children-apparel.md
-      - product-safety-alerts-and-recalls/children-products.md
-      - product-safety-alerts-and-recalls/children-toys.md
-      - product-safety-alerts-and-recalls/electrical.md
-      - product-safety-alerts-and-recalls/furniture.md
-      - product-safety-alerts-and-recalls/power-banks.md
-      - product-safety-alerts-and-recalls/recreational-products.md
-      - product-safety-alerts-and-recalls/Others.md
+      - Safety alerts and recalls/.keep
+      - Safety alerts and recalls/Children apparel.md
+      - Safety alerts and recalls/Children products.md
+      - Safety alerts and recalls/Children toys.md
+      - Safety alerts and recalls/Electrical.md
+      - Safety alerts and recalls/Furniture.md
+      - Safety alerts and recalls/Power banks.md
+      - Safety alerts and recalls/Recreational products.md
+      - Safety alerts and recalls/Others.md
       - international-product-recalls.md
