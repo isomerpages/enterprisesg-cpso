@@ -1,10 +1,10 @@
 ---
 title: Safety Tips on Power Adaptors
-permalink: /safety-tips-on-power-adaptors
+permalink: /safety-tips-on-power-adaptors/
 ---
-
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
 
+Please spare 5mins to fill out a survey by clicking <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">here.
 ## Safety Tips on Power Adaptors
 Power adaptors are also generally referred to as AC adapters, AC/DC adapters or chargers. They are plugged into the mains power supply and convert the mains electricity voltage to the lower voltage required to power electrical appliances, such as computers, mobile telecommunication devices, home entertainment equipment and toys.
 
