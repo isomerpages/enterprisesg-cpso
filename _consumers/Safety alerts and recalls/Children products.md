@@ -7,23 +7,24 @@ description: ""
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**24 Aug 2022**<br>
-**Thorley Industries LLC issues safety alert for MamaRoo infant swings (models 4M-005, 1026, and 1037) and RockaRoo infant rockers (model number 4M-012)**<br>
+**18 Jan 2023**<br>
+**UK's Office for Product Safety and Standards warns consumers about baby self-feeding pillows**<br>
 
-Thorley Industries LLC, (trading as "4Moms") worked with the U.S. Consumer Product Safety Commission (CPSC) to issue a safety alert for certain models of its MamaRoo swings and RockaRoo rockers. When the swing or rocker is not in use, the restraint straps can dangle below the seat and crawling infants can become entangled in the dangling straps, posing a strangulation hazard.
+The UK's Office for Product Safety and Standards (OPSS) have issued an advisory for consumers to immediately stop using baby self-feeding pillows (also known as prop feeders). Baby self-feeding pillow products are designed to enable a baby to be positioned on its back and attached to a bottle so that it may self-feed without the assistance of a caregiver holding the bottle and controlling the feed.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/MamaRoo.png" style="width:1000px;height:400px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-products/feeding-pillow.png" style="width:400px;height:400px;"><br>
 
-The affected products are MamaRoo infant swings models 4M-005 (versions 1.0 and 2.0), 1026 (version 3.0) and 1037 (version 4.0) and RockaRoo infant rockers model number 4M-012.
+Baby self-feeding pillows creates a risk of serious harm or death from choking on the feed or aspiration pneumonia.
 
-4Moms has developed a strap fastener that attaches to the back of the product's seat. This fastener will prevent the straps from dangling under the swing/rocker when not in use.
+A baby, which is the intended user of the product, does not have the dexterity or cognitive ability to control the flow of bottle feed, know when to stop feeding, take action if it gags or chokes, or raise alarm if something is going wrong.
 
-So far, there has been no reported incidents locally.
+The most common reason for babies to choke on feed is because the liquid is being dispensed faster than it can swallow. Babies can also breathe in the liquid which could go on to cause an infection, resulting in pneumonia.
 
-Consumers are requested to contact Bao-Na Gan at Bloom & Grow Singapore immediately on +65 6392 5675 or email baona.gan@bloomandgrowgroup.com to register for a free strap fastener, which will be shipped to them. Consumers with an infant who can crawl should avoid leaving their child unattended with the product(s), and stow the product(s) in a safe, inaccessible location until the additional strap fastener is properly fitted.
+The risks from choking and aspiration pneumonia are related to the design and intended use of the product - these risks cannot be mitigated by instructions.
 
-For more information on this matter, please visit the 4Moms [website](https://www.4moms.com/pages/safety-and-recall).
+The Consumer Product Safety Office (CPSO) has not received any reports on the affected products to date but encourage consumers to exercise caution and cease use of this product.
 
+For more information, please visit the OPPS [website](https://www.gov.uk/product-safety-alerts-reports-recalls/product-safety-alert-baby-self-feeding-pillows-slash-prop-feeders-psa3).
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -44,6 +45,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|18 Jan 2023|[Baby Self-Feeding Pillow](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-01-18-baby-self-feeding-pillow.pdf){:target="_blank"}|
 |24 Aug 2022|[MamaRoo Infant Swings and RockaRoo Infant Rockers](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-08-24-MamaRoo-RockaRoo.pdf){:target="_blank"}|
 |16 Jun 2022|[Tatameru High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Tatameru-high-chair.pdf){:target="_blank"}|
 |16 Jun 2022|[Safety 1st Kiwi 3-in-1 High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Safety-1st-Kiwi-3-in-1-high-chair.pdf){:target="_blank"}|
