@@ -16,8 +16,8 @@ Here are some tips to keep in mind when buying home appliances and electronics o
 |![buy from official stores or reputable online marketplaces](/images/consumers/choose-safer-products/shopping-online/buy-from-official-stores-or-reputable-online-marketplaces.png)|Look for a seller that provides full product warranty by the manufacturer, customer service support and a return or exchange policy.|
 |![is it designed for use in singapore](/images/consumers/choose-safer-products/shopping-online/is-it-designed-for-use-in-singapore.png)|When buying electrical appliances online, technical specifications printed on the packaging may not be shown on the product page. Always contact the seller to ensure that it comes with plugs and voltages that are suitable for use locally.|
 
-In support of the Organisation for Economic Coorperation and Development's [Global Awareness Campaign on online safety](https://www.oecd.org/digital/consumer/put-product-safety-first/), the CPSO encourages consumers to #PutProductSafetyFirst when buying products online. Here are additional tips to consider when making purchases online:
-
+|![OECD1](/images/consumers/OECD-Landscape.png)|In support of the Organisation for Economic Coorperation and Development's [Global Awareness Campaign on online safety](https://www.oecd.org/digital/consumer/put-product-safety-first/), the CPSO encourages consumers to #PutProductSafetyFirst when buying products online. Here are additional tips to consider when making purchases online:
+|![OECD1](/images/consumers/OECD-Checklist-Before-Purchase-LS.png)|
 Before purchase:
 
 * Know who you're buying from - check out the seller's history, ratings and policies.
@@ -27,7 +27,7 @@ Before purchase:
 * Is there safety information on the listing?
 * Ask the seller if you're unsure - if they can't reassure you, don't buy it.
 * Report products you think are unsafe.
-
+|![OECD1](/images/consumers/OECD-Checklist-After-Purchase-LS.png)|
 After purchase:
 
 * Does it have the features you were told it would have?
