@@ -3,7 +3,7 @@ layout: homepage
 title: Consumer Product Safety Office
 description: Find out more about product safety regulations and how the Consumer
   Product Safety Office safeguards consumers
-image: /images/favicon-isomer.ico
+image: /images/isomer-logo.svg
 permalink: /
 notification: Please spare 5mins to fill out a survey by clicking <a href =
   "https://form.gov.sg/63a160c3cf15ee00129a4ab4">here</a>.
@@ -33,3 +33,4 @@ sections:
       title: News & Media
       button: View More
 ---
+
