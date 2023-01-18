@@ -7,6 +7,8 @@ description: ""
 ---
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
+Please spare 5mins to fill out a survey by clicking <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">here.
+
 ## Safety Tips on Baby Cots
 
 
