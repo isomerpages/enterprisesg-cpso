@@ -47,7 +47,8 @@ remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: The Consumer Product Safety Office (CPSO) is an office overseen by
   Enterprise Singapore that is responsible for implementing the Consumer
-  Protection (Safety Requirements) Regulations (CPSR).
+  Protection (Safety Requirements) Regulations (CPSR) and Consumer Protection
+  (Consumer Goods Safety Requirements) Regulations 2011 (CGSR).
 staging: https://enterprisesg-cpso-staging.netlify.app
 prod: https://enterprisesg-cpso-prod.netlify.app
 plugins:
@@ -56,7 +57,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-shareicon: ""
+shareicon: /images/isomer-logo.svg
 is_government: false
 facebook-pixel: ""
 linkedin-insights: ""
