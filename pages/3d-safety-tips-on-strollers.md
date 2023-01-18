@@ -1,9 +1,10 @@
 ---
 title: Safety Tips on Strollers
-permalink: /safety-tips-on-strollers
+permalink: /safety-tips-on-strollers/
 ---
-
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
+
+Please spare 5mins to fill out a survey by clicking <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">here.
 
 ## Safety Tips on Strollers
 Strollers are a convenient way to bring your child around with you. When buying one, look beyond style and comfort to also consider whether it is safe for your child. Neglecting safety considerations or inappropriate use can have severe consequences.
