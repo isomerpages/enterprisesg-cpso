@@ -1,9 +1,10 @@
 ---
 title: Type of Mains Plugs Suitable for use in Singapore
-permalink: /types-of-mains-plugs-suitable-for-use-in-singapore
+permalink: /types-of-mains-plugs-suitable-for-use-in-singapore/
 ---
-
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
+
+Please spare 5mins to fill out a survey by clicking <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">here.
 
 ## Type of Mains Plugs Suitable for use in Singapore
 Apart from Brunei, Hong Kong, Malaysia or UK, mains plugs that are used in other countries are different from those intended for use in Singapore. It is important to ensure that the correct plug is used with a local wall socket to avoid hazards such as fires and electrocution.
