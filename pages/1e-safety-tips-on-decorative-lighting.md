@@ -1,9 +1,10 @@
 ---
 title: Safety Tips on Decorative Lighting
-permalink: /safety-tips-on-decorative-lighting
+permalink: /safety-tips-on-decorative-lighting/
 ---
-
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+
+Please spare 5mins to fill out a survey by clicking <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">here.
 
 ## Safety Tips on Purchasing and Using Decorative Lighting
 Decorative lighting helps brighten the festive mood and adds a splash of colour to our home. However, their improper use can cause injuries and fires.
