@@ -4,7 +4,7 @@ permalink: /safety-tips-on-portable-butane-stoves-and-gas-canisters/
 ---
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
-Please spare 5mins to fill out a survey by clicking <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">here.
+*Help us improve by better understanding consumer habits. Please spare 5mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.*
 
 ## Safety Tips on Portable Butane Stoves and Gas Canisters
 Gas stoves and gas canisters are among the 33 categories of Controlled Goods that must be registered with the authority and carry the SAFETY Mark.
