@@ -14,7 +14,7 @@ IKEA is recalling LETTAN mirrors with date stamps before and including 2015 (YYW
 
 IKEA is urging all customers who own the specific LETTAN mirror to stop using it and order replacement wall fittings free of charge.
 
-<img src="/images/product-safety-alerts-and-recalls/furniture/ikea_lettan_mirror" style="width:200px;height:200px;">
+<img src="/images/product-safety-alerts-and-recalls/furniture/ikea_lettan_mirror.png" style="width:200px;height:200px;">
 
 To order your replacement fitting, please contact [IKEA Customer Contact Centre](https://www.ikea.com/sg/en/customer-service/contact-us/) at +65 6786 6868 or visit the IKEA [website](https://www.ikea.com/sg/en/newsroom/range-news/ikea-is-recalling-certain-lettan-mirrors-for-repair-action-pub5e33c660).
 
