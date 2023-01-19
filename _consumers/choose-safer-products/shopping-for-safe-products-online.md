@@ -3,7 +3,7 @@ title: Shopping for safe products online
 permalink: /consumers/choose-safer-products/shopping-for-safe-products-online/
 third_nav_title: Choose safer products
 ---
-Please spare 5mins to fill out a survey by clicking <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">here.
+Help us improve by better understanding consumer habits. Please spare 5mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.
 ## What to Look out for When Buying from Online or Overseas Retailers
 The affordability and wide selection of household products available online is very attractive to those in search of a bargain. Many new homeowners arrange bulk purchases or rely on home renovation contractors to source for appliances and furniture, most of which are bought overseas.
 
