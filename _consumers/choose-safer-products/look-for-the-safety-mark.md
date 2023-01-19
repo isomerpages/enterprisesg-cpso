@@ -3,7 +3,7 @@ title: Look for the SAFETY Mark
 permalink: /consumers/choose-safer-products/look-for-the-safety-mark/
 third_nav_title: Choose safer products
 ---
-Please spare 5mins to fill out a survey by clicking <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">here.
+*Help us improve by better understanding consumer habits. Please spare 5mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.*
 ## Controlled Goods Must have the SAFETY Mark
 Consumers can do their part in keeping their families safe by looking out for the SAFETY Mark when purchasing household electrical, electronic and gas appliances.
 
