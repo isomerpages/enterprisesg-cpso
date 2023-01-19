@@ -11,9 +11,8 @@ However, homeowners need to be aware that safety regulations can vary greatly fr
 
 Here are some tips to keep in mind when buying home appliances and electronics online:
 
-<img src="/images/consumers/choose-safer-products/shopping-online/check-for-the-safety-mark.png" style="width:400px;height:200px;"><br>
-	
-![check for safety mark](/images/consumers/choose-safer-products/shopping-online/check-for-the-safety-mark.png)General household items such as electrical, electronic and gas appliances under Consumer Protection (Safety Requirements) Regulations need to carry the SAFETY Mark before they can be sold in Singapore.<br><br> Photos from online marketplaces may show limited product angles so when in doubt, always ask the seller if the product has been tested for safety and **bears a SAFETY Mark.**
+<img src="/images/consumers/choose-safer-products/shopping-online/check-for-the-safety-mark.png" style="width:340px;height:200px;"><br>
+General household items such as electrical, electronic and gas appliances under Consumer Protection (Safety Requirements) Regulations need to carry the SAFETY Mark before they can be sold in Singapore.<br><br> Photos from online marketplaces may show limited product angles so when in doubt, always ask the seller if the product has been tested for safety and **bears a SAFETY Mark.**
 ![ask questions](/images/consumers/choose-safer-products/shopping-online/ask-questions.png)If the product description, pictures or videos do not clearly explain its features and functionality, never hesitate to contact the seller for more details.
 ![do your homework](/images/consumers/choose-safer-products/shopping-online/do-your-homework.png)|A quick search online can often help reveal products that have been recalled by the manufacturer or had its sale stopped by regulatory bodies over safety issues. In addition to price, check out past buyers’ feedback, seller ratings and independent product reviews to thoroughly make sure no safety hazards or reliability issues exist.
 ![buy from official stores or reputable online marketplaces](/images/consumers/choose-safer-products/shopping-online/buy-from-official-stores-or-reputable-online-marketplaces.png)|Look for a seller that provides full product warranty by the manufacturer, customer service support and a return or exchange policy.
