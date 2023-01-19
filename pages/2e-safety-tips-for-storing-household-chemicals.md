@@ -4,7 +4,7 @@ permalink: /safety-tips-for-storing-household-chemicals/
 ---
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
-Please spare 5mins to fill out a survey by clicking <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">here.
+*Help us improve by better understanding consumer habits. Please spare 5mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.*
 
 ## Safety Tips for Storing Household Chemicals
 Consumers are advised to ensure that household products containing hazardous chemicals are properly stored. Many products found at home can be harmful if swallowed or come into contact with the skin or eyes.
