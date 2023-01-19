@@ -24,7 +24,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|4 Jan 2023|[IKEA recalls ODGER swivel chair in anthracite color due to fall and injury hazards](/files/product-safety-alerts-and-recalls/furniture/furniture-recall-2023-01-04-IKEA-recalls-ODGER-swivel-chair-in-anthracite-color.pdf){:target="_blank"}|
+|19 Jan 2023|[IKEA recalls LETTAN mirrors for repairs](/files/product-safety-alerts-and-recalls/furniture/furniture-recall-2023-01-04-IKEA-recalls-ODGER-swivel-chair-in-anthracite-color.pdf){:target="_blank"}||4 Jan 2023|[IKEA recalls ODGER swivel chair in anthracite color due to fall and injury hazards](/files/product-safety-alerts-and-recalls/furniture/furniture-recall-2023-01-04-IKEA-recalls-ODGER-swivel-chair-in-anthracite-color.pdf){:target="_blank"}|
 |06 May 2019|[IKEA recalls Sundvik changing table/chest of drawers for repairs](/files/product-safety-alerts-and-recalls/furniture/furniture-recall-2019-05-06-ikea-recalls-sundvik-changing-table-chest-of-drawers-for-repairs.pdf){:target="_blank"}|
 
 **Product safety alerts**
