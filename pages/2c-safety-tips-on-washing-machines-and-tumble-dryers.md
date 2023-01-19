@@ -4,7 +4,7 @@ permalink: /safety-tips-on-washing-machines-and-tumble-dryers/
 ---
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
-Please spare 5mins to fill out a survey by clicking <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">here.
+*Help us improve by better understanding consumer habits. Please spare 5mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.*
 
 ## Safety Tips on Washing Machines and Tumble Dryers
 Follow these safety tips to help ensure that the washing machine and clothes dryer do not pose any safety hazards.
