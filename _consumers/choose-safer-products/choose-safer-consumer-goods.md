@@ -3,7 +3,7 @@ title: Choose safer consumer goods
 permalink: /consumers/choose-safer-products/choose-safer-consumer-goods/
 third_nav_title: Choose safer products
 ---
-Help us improve by better understanding consumer habits. Please spare 5mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.
+*Help us improve by better understanding consumer habits. Please spare 5mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.*
 ## Products that do not require a SAFETY Mark
 Consumer goods such as toys, children’s products, apparel, sports and recreation products, furniture, mattresses and bedding and DIY tools, which are not regulated under other product safety Regulations, fall under the Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR). Consumer goods under the CGSR do not require pre-market approval by the authority. However, they must comply with international safety standards such as:
 
