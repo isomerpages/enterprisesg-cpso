@@ -4,7 +4,7 @@ permalink: /safety-tips-on-power-banks/
 ---
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
 
-Please spare 5mins to fill out a survey by clicking <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">here.
+*Help us improve by better understanding consumer habits. Please spare 5mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.*
 
 ## Safety Tips on Power Banks
 Power banks are generally rechargeable lithium-ion or lithium-polymer batteries that are used to provide a portable source of power for electronic devices. Although generally considered safe, they can catch fire or cause burns if they malfunction.
