@@ -3,7 +3,7 @@ title: Home appliances and furniture
 permalink: /consumers/product-safety-tips/home-appliances-and-furniture/
 third_nav_title: Product safety tips
 ---
-Please spare 5mins to fill out a survey by clicking <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">here.
+*Help us improve by better understanding consumer habits. Please spare 5mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.*
 ## Safety at home
 
 It is important to consider safety when choosing appliances, electronics and furniture for your home. Dangers can arise from choosing unsafe products, product misuse or improper installation.
