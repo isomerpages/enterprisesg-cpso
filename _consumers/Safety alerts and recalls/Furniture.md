@@ -4,23 +4,19 @@ permalink: /consumers/safety-alerts-and-recalls/furniture/
 third_nav_title: Safety alerts and recalls
 description: ""
 ---
-
-
 ## Furniture safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**4 Jan 2023**<br>
-**IKEA of Sweden is recalling ODGER swivel chair in the anthracite color with date stamps before and including 2221 due to fall and injury hazards**
+**19 Jan 2023**<br>
+**IKEA recalls certain LETTAN mirrors for repair action due to risk of breaking wall fittings**
 
-IKEA is recalling ODGER swivel chair in the anthracite color with date stamps ranging from year 2019/week 22 to year 2022/week 21 as there is a risk that the star base leg of the chairs may break and pose fall and injury hazards for the user.
+IKEA is recalling LETTAN mirrors with date stamps before and including 2015 (YYWW) due to the risk of breaking wall fittings which could lead to some mirrors falling unexpectedly. The product comes in four sizes, all of which are affected by the recall.
 
-IKEA is urging all customers who own an ODGER swivel chair in the anthracite color with date stamps 1922 to 2221 to stop using it immediately and return it to any IKEA store for a full refund. The name and date stamp of the product can be found underneath the seat, molded in the material of the chair.
+IKEA is urging all customers who own the specific LETTAN mirror to stop using it and order replacement wall fittings free of charge.
 
-<img src="/images/product-safety-alerts-and-recalls/furniture/IKEA%20ODGER%20CHAIR.jpg" style="width:200px;height:260px;">
+<img src="/images/product-safety-alerts-and-recalls/furniture/ikea_lettan_mirror.png" style="width:200px;height:200px;">
 
-![](/images/product-safety-alerts-and-recalls/furniture/IKEA%20ODGER%20CHAIR%202.png)
-
-For more information, please contact IKEA Customer Contact Centre at +65 6786 6868 or visit the IKEA website.
+To order your replacement fitting, please contact [IKEA Customer Contact Centre](https://www.ikea.com/sg/en/customer-service/contact-us/) at +65 6786 6868 or visit the IKEA [website](https://www.ikea.com/sg/en/newsroom/range-news/ikea-is-recalling-certain-lettan-mirrors-for-repair-action-pub5e33c660).
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -28,6 +24,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|19 Jan 2023|[IKEA recalls LETTAN mirrors for repair action due to risk of breaking wall fittings](/files/product-safety-alerts-and-recalls/furniture/furniture-recall-2023-01-19-IKEA-recalls-LETTAN-mirror.pdf){:target="_blank"}|
 |4 Jan 2023|[IKEA recalls ODGER swivel chair in anthracite color due to fall and injury hazards](/files/product-safety-alerts-and-recalls/furniture/furniture-recall-2023-01-04-IKEA-recalls-ODGER-swivel-chair-in-anthracite-color.pdf){:target="_blank"}|
 |06 May 2019|[IKEA recalls Sundvik changing table/chest of drawers for repairs](/files/product-safety-alerts-and-recalls/furniture/furniture-recall-2019-05-06-ikea-recalls-sundvik-changing-table-chest-of-drawers-for-repairs.pdf){:target="_blank"}|
 

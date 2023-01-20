@@ -1,9 +1,10 @@
 ---
 title: Tips to Keep your Home Safe from Electrical Hazards
-permalink: /tips-to-keep-your-home-safe-from-electrical-hazards
+permalink: /tips-to-keep-your-home-safe-from-electrical-hazards/
 ---
-
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
+
+*Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
 ## Tips to Keep your Home Safe from Electrical Hazards
 We use a variety of electrical appliances in our everyday lives when we clean or cook. Overlooking basic electrical safety practices can lead to accidents, injuries, fires, and even deaths. Keep the following tips in mind to safeguard your family from electrical hazards.
@@ -36,8 +37,3 @@ We use a variety of electrical appliances in our everyday lives when we clean or
 * Always disconnect the iron from the mains supply after use.
 
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
-
-
-
-
-

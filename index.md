@@ -1,13 +1,15 @@
 ---
 layout: homepage
 title: Consumer Product Safety Office
-description: Find out more about product safety regulations and how the Consumer
-  Product Safety Office safeguards consumers
-image: /images/favicon-isomer.ico
+description: The Consumer Product Safety Office (CPSO) is an office overseen by
+  Enterprise Singapore that is responsible for implementing the Consumer
+  Protection (Safety Requirements) Regulations (CPSR) and Consumer Protection
+  (Consumer Goods Safety Requirements) Regulations 2011 (CGSR).
+image: /images/isomer-logo.svg
 permalink: /
-notification: Please be informed effective 30 November 2021, the CPSA website
-  has been replaced by our new CPSA+ website. Click <a href =
-  "https://www.cpsaplus.gov.sg">here</a> to find out more about CPSA+.
+notification: Help us better understand consumer habits so that we can improve
+  the effectiveness of our safety regimes. Please spare 5 mins to fill out this
+  <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey</a>.
 sections:
   - hero:
       subtitle: <h3>Consumer product safety for consumers and suppliers<h3>

@@ -1,9 +1,10 @@
 ---
 title: Safety Tips on Furniture and TVs
-permalink: /safety-tips-on-furniture-and-tvs
+permalink: /safety-tips-on-furniture-and-tvs/
 ---
-
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
+
+*Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
 ## Safety Tips on Furniture and TVs
 The consequences of poorly-designed or improperly-installed furniture can be severe, especially for children. [In the United States alone, over 15,800 children are treated in emergency rooms through 2014 to 2016 due to toppling furniture, televisions (TVs), and other appliances.](https://www.cpsc.gov/s3fs-public/Product-Instability-or-Tip-Over-Report-Oct-2017_STAMPED.pdf?6zpgEccRRlWpm51koPCsRk8R2jsBp0Kd){:target="_blank"}

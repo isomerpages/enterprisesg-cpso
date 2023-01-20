@@ -1,9 +1,10 @@
 ---
 title: Using and Maintaining Toughened Glass in Cooking Appliances
-permalink: /using-and-maintaining-toughened-glass-in-cooking-appliances
+permalink: /using-and-maintaining-toughened-glass-in-cooking-appliances/
 ---
-
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
+
+*Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
 ## Safety tips on Toughened Glass in Cooking Appliances
 

@@ -1,10 +1,4 @@
 contact_us: /contact-us/
 show_reach: true
-feedback: 
 faq: /about/faq/cpsr
-social_media:
-    facebook: 
-    twitter: 
-    youtube: 
-    instagram: 
-    linkedin: 
+social_media: {}

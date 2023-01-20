@@ -1,8 +1,10 @@
 ---
 title: Safety Tips on Children Toys
-permalink: /safety-tips-on-children-toys
+permalink: /safety-tips-on-children-toys/
 ---
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
+
+*Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
 ## Safety Tips on Children Toys
 A study conducted by KK Women’s and Children’s Hospital found that many parents are buying toys that are not age-appropriate for their children. For example, some parents believed that the toys they were purchasing would benefit their child educationally, and thought that their child was old enough to play with the toy safely.

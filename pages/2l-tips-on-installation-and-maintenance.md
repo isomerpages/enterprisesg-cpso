@@ -1,9 +1,10 @@
 ---
-title: Tips on Installation and Maintenance 
-permalink: /tips-on-installation-and-maintenance
+title: Tips on Installation and Maintenance
+permalink: /tips-on-installation-and-maintenance/
 ---
-
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
+
+*Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
 ## Tips on Installation and Maintenance
 
