@@ -4,7 +4,7 @@ permalink: /safety-tips-on-constume-jewellery-for-children/
 ---
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
-*Help us improve by better understanding consumer habits. Please spare 5mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.*
+*Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.*
 
 ## Safety Tips on Costume Jewellery for Children
 It is easy to just pick designs that are trendy or cute when buying jewellery for your young children. However, parents and caregivers should never overlook safety. Avoid accessories with small parts that can pose a choking hazard. Harmful metals can also be a concern, especially since young children tend to put things into their mouths.
