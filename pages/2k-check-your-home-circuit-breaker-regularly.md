@@ -4,7 +4,7 @@ permalink: /check-your-home-circuit-breaker-regularly/
 ---
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
-*Help us improve by better understanding consumer habits. Please spare 5mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.*
+*Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.*
 
 ## Check your Home’s Residual Current Circuit Breaker Regularly
 The home residual current circuit breaker instantly cuts off electricity supply to the home when leakage currents reach potentially unsafe levels. Consumers should conduct monthly inspections to ensure that it is functioning properly.
