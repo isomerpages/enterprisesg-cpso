@@ -4,7 +4,7 @@ permalink: /safety-tips-on-baby-slings/
 ---
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
-*Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this <a href = "https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey.*
+*Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
 ## Safety Tips on Baby Slings
 Made from fabrics and lightweight materials like cotton and linen, baby slings are becoming a popular and trendy choice for parents and caregivers to conveniently carry their babies. However, they should be aware that when used incorrectly, baby slings can cause suffocations or falls. The fabric can press against a baby’s nose and mouth, potentially causing breathing difficulties. The risk of suffocation is even higher for young infants because their neck muscles are weak and they are not able to move their faces away.
