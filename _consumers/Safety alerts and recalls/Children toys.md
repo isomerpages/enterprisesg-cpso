@@ -24,7 +24,7 @@ Refer to the listing below for more product safety alerts and recalls.
 |Date|Title|
 |---|---|
 |25 Jun 2021|[Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10’](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-06-25-cotton-on-group-recalls-kids-projector-light.pdf){:target="_blank"}|
-|16 Apr 2021|[Toys’R’Us recalls ‘Squish-dee-lish Series 5’ and ‘Mickey Mouse & Minnie Mouse Tumbler’](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-04-16-toysrus-recalls-squish-dee-lish-series-5-and-mickey-mouse-and-minnie-mouse-tumbler.pdf){:target="_blank"}|
+|16 Apr 2021|[Toys’R’Us recalls ‘Squish-dee-lish Series 5’ and ‘Mickey Mouse & Minnie Mouse Tumbler’](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-04-16-toysrus-recalls-squish-dee-lish-and-mickey-mouse-tumbler.pdf){:target="_blank"}|
 |01 Apr 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |[Sunnylife Sydney Australia (Sunnylife) recalls ‘Croc Family Bath Toys Set of 3, with and without squeaker](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-04-01-sunnylife-sydney-australia-sunnylife-recalls-croc-family-bath-toys-set-of-3-with-and-without-squeaker.pdf){:target="_blank"}|
 
 **Product safety alerts**
