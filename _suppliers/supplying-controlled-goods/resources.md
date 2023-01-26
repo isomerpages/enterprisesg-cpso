@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /suppliers/cpsr/resources
+permalink: /suppliers/cpsr/resources/
 third_nav_title: Supplying controlled goods
 ---
 * Updated 02 December 2021:<br>
@@ -17,8 +17,8 @@ third_nav_title: Supplying controlled goods
  [Download latest list of  Conformity Assessment Bodies](https://www.go.gov.sg/list-of-cps-cab)
 
 **Application info**
-* Updated 02 December 2021:<br>
-[Application for Renewal of Certified Controlled Goods](/images/cpsr-application-info/coc07-application-for-renewal-of-certified-controlled-goods.pdf){:target="_blank"}
+* Updated 26 January 2023:<br>
+[Application for Renewal of Certified Controlled Goods](/files/coc07-application-for-renewal-of-certified-controlled-goods.pdf){:target="_blank"}
 * Updated 02 December 2021:<br>
 [New or Renewal of Supplier Application of High Risk Controlled Goods](/images/cpsr-application-info/new-renewal-of-supplier-application-of-high-risk-controlled-goods.pdf){:target="_blank"}
 * Updated 02 December 2021:<br>
