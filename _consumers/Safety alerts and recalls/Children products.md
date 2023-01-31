@@ -14,7 +14,7 @@ Fisher-Price reannounces recall of all Rock 'n Play Sleepers due to infant fatal
 
 Since the original recall on 12 April 2019, approximately 70 additional fatalities have been reported, which includes at least 8 fatalities that were reported to have occurred after the initial recall announcement.
 
-<img src="/images/product-safet0y-alerts-and-recalls/children-products/rock-n-play-sleepers.png" style="width:400px;height:300px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-products/rock-n-play-sleepers.png" style="width:400px;height:300px;"><br>
 
 Fisher-Price is urging all customers who own the Rock 'n Play Sleepers to stop using them immediately and contact Mattel Singapore at +65 62350667, or email fprequests@directavenue.net to find out more information on how to return the product.
 
