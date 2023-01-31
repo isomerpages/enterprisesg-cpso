@@ -7,24 +7,19 @@ description: ""
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**18 Jan 2023**<br>
-**UK's Office for Product Safety and Standards warns consumers about baby self-feeding pillows**<br>
+**31 Jan 2023**<br>
+**Fisher-Price Reannounces Recall of Rock 'n Play Sleepers**<br>
 
-The UK's Office for Product Safety and Standards (OPSS) have issued an advisory for consumers to immediately stop using baby self-feeding pillows (also known as prop feeders). Baby self-feeding pillow products are designed to enable a baby to be positioned on its back and attached to a bottle so that it may self-feed without the assistance of a caregiver holding the bottle and controlling the feed.
+Fisher-Price reannounces recall of all Rock 'n Play Sleepers due to infant fatalities that have occurred after the infants rolled from their back to their stomach or side while unrestrained, or under other circumstances.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/feeding-pillow.png" style="width:400px;height:400px;"><br>
+Since the original recall on 12 April 2019, approximately 70 additional fatalities have been reported, which includes at least 8 fatalities that were reported to have occurred after the initial recall announcement.
 
-Baby self-feeding pillows creates a risk of serious harm or death from choking on the feed or aspiration pneumonia.
+<img src="/images/product-safet0y-alerts-and-recalls/children-products/rock-n-play-sleepers.png" style="width:400px;height:300px;"><br>
 
-A baby, which is the intended user of the product, does not have the dexterity or cognitive ability to control the flow of bottle feed, know when to stop feeding, take action if it gags or chokes, or raise alarm if something is going wrong.
+Fisher-Price is urging all customers who own the Rock 'n Play Sleepers to stop using them immediately and contact Mattel Singapore at +65 62350667, or email fprequests@directavenue.net to find out more information on how to return the product.
 
-The most common reason for babies to choke on feed is because the liquid is being dispensed faster than it can swallow. Babies can also breathe in the liquid which could go on to cause an infection, resulting in pneumonia.
-
-The risks from choking and aspiration pneumonia are related to the design and intended use of the product - these risks cannot be mitigated by instructions.
-
-The Consumer Product Safety Office (CPSO) has not received any reports on the affected products to date but encourage consumers to exercise caution and cease use of this product.
-
-For more information, please visit the OPPS [website](https://www.gov.uk/product-safety-alerts-reports-recalls/product-safety-alert-baby-self-feeding-pillows-slash-prop-feeders-psa3).
+For more information on this product recall consumers may visit Mattel's website here:
+http://service.mettel.com/us/recall/default.asp?recall_id=52466
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -32,6 +27,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|31 Jan 2023|[Fisher Price Reannounces Recall of Rock 'n Play Sleepers](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-01-31-fisher-price-rock-n-play-sleeper-infant-rocker.pdf){:target="_blank"}|
 |18 Mar 2022|[Mushie & Co issues voluntary recall for FRIGG silicone pacifiers](/files/product-safety-alerts-and-recalls/children-products/frigg-classic-and-daisy-silicone-pacifiers-recall-18-Mar-2022.pdf){:target="_blank"}|
 |13 Jan 2020|[Philips recalls Digital Video Baby Monitor (SCD620)](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-13-philips-recalls-digital-video-baby-monitor.pdf){:target="_blank"}|
 |08 Jan 2020|[Decathlon recalls Baby Seat 100 BClip](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-08-decathlon-recalls-baby-seat-100-bclip.pdf){:target="_blank"}|
