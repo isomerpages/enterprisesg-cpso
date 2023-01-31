@@ -19,7 +19,7 @@ Since the original recall on 12 April 2019, approximately 70 additional fataliti
 Fisher-Price is urging all customers who own the Rock 'n Play Sleepers to stop using them immediately and contact Mattel Singapore at +65 62350667, or email fprequests@directavenue.net to find out more information on how to return the product.
 
 For more information on this product recall consumers may visit Mattel's website here:
-http://service.mettel.com/us/recall/default.asp?recall_id=52466
+http://service.mattel.com/us/recall/default.asp?recall_id=52466
 
 Refer to the listing below for more product safety alerts and recalls.
 
