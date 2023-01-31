@@ -4,33 +4,19 @@ permalink: /consumers/safety-alerts-and-recalls/others/
 description: ""
 third_nav_title: Safety alerts and recalls
 ---
-
-
-
-
 ## Other safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**29 Sep 2022**<br>
-**Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman**<br>
+**31 Jan 2023**<br>
+**The Laundress, New York voluntarily recalls Laundress laundry and household cleaning products.**<br>
 
-Bambis Australia has announced a recall of the salt&pepper Wanderlust 3 wick candles sold at Harvey Norman. The glass candle containers may fracture or shatter, which could result in the wax in the candle igniting and causing a fire.
+The Laundress recalls various laundry and household cleaning products, including surface cleaner, all-purpose cleaning concentrate, dish detergent, glass and mirror cleaner, dish soap, stain solution, fabric conditioner, signature detergent, whites detergent, darks detergent, wool & cashmere shampoo. The lot codes of the recalled products begin with the letters F, H and T and the last four digits are numbered or less than 9354, 2262 and 5264, respectively.
 
-The affected models that were sold are:
+These products can contain bacteria. People with weakened immune systems, external medical devices and underlying lung conditions who are exposed to the bacteria face a risk of serious infection that may require medical treatment. The bacteria can enter the body if inhaled, or through the eyes or a break in the skin. People with healthy immune systems are usually not affected by the bacteria.
 
+<img src="/images/product-safety-alerts-and-recalls/others/the-laundress.png" alt="The Laundress" style="width:388px;height:128px;">
 
-| Model | Product Code | Picture |
-| -------- | -------- | -------- |
-| New York     | 49576     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture1.png" alt="New York" style="width:388px;height:228px;"><br>     |
-| Paris     | 49577     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture2.png" alt="Paris" style="width:388px;height:228px;"><br>     |
-| Marrakesh     | 49578     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture3.png" alt="Marrakesh" style="width:388px;height:228px;"><br>     |
-| Byron Bay     | 49579     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture4.png" alt="Byron Bay" style="width:388px;height:228px;"><br>     |
-| Aspen     | 51956     | <img src="/images/product-safety-alerts-and-recalls/recreational-products/Picture5.png" alt="Aspen" style="width:388px;height:228px;"><br>     |
-
-The affected candles were sold at Harvey Norman retail outlets between 18 September 2019 and 23 July 2022. Affected consumers are urged to return the product to the place of purchase for a full refund.
-
-For more information, consumers can email Fang.Fang@harveynorman.com.sg or call 63119983.
-
+Consumers should immediately stop using the impacted products. For a complete list of recalled products, and more information on how to submit reimbursement requests, please visit www.TheLaundressRecall.com.
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -38,6 +24,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|31 Jan 2023|[The Laundress recalls Laundress laundry and household cleaning products](/files/product-safety-alerts-and-recalls/others/others-recall-2023-01-31-the-laundress.pdf){:target="_blank"}|
 |29 Sep 2022|[Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-09-29-Bambis-Australia-recalls-Wanderlust-3-wick-candles.pdf){:target="_blank"}|
 |30 May 2022|[Fitbit LLC (“Fitbit”) recalls Fitbit Ionic Smartwatches](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-05-30-Fitbit-recalls-Fitbit-Ionic-Smartwatches.pdf){:target="_blank"}|
 |12 May 2022|[Smiggle Singapore Pte Ltd issues voluntary recall for Smiggle Fun Character Watch Slapband](/files/product-safety-alerts-and-recalls/children-products/Smiggle-watch-12-May-2022.pdf){:target="_blank"}|
