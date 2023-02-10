@@ -17,6 +17,7 @@ Harvey Norman Singapore Pte Ltd
 
 During the testing of this sample, it was found that the product did not comply with the following requirements from IEC 62133-2:2017 (Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for portable sealed secondary cells, and for batteries made from them, for use in portable applications - Part 2: Lithium systems):
 * The cells caught fire during an external short-circuit safety test.
+* The cells caught fire during a thermal abuse safety test.
 
 In addition, the instructions and warnings provided were not in accordance with the minimum requirements for portable power banks stipulated in the Consumer Goods Safety Requirements Notice No.1 of 2015, as published in the Consumer Protection (Consumer Goods Safety Requirements) Regulations 2011 Information Booklet.
 
