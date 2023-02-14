@@ -24,7 +24,7 @@ Hire a licensed electrical worker (LEW) to ensure the water heater is properly w
 A water heater should not be connected to a 3-pin plug because it typically draws an amount of current exceeding what a typical 3-pin plug is rated for. It should be directly wired to the electrical mains, through a double pole switch for switching the water heater ON and OFF.<br>
 
 Do not use extension cords or multi-way outlets to power the water heater.
-<img src="/images/double-pole-switch.png" style="width:300px;height:300px;"><br>
+<img src="/images/double-pole-switch.jpg" style="width:300px;height:300px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Double Pole Switch<br>
 
 
