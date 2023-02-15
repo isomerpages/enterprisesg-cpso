@@ -21,7 +21,7 @@ To check the validity of the SAFETY Mark on your water heater, search for the SA
 **Ensure the water heater is properly installed**<br>
 Hire a licensed electrical worker (LEW) to ensure the water heater is properly wired during installation.<br>
 
-A water heater should not be connected to a 3-pin plug because it typically draws an amount of current exceeding what a typical 3-pin plug is rated for. It should be directly wired to the electrical mains, through a double pole switch for switching the water heater ON and OFF.<br>
+A water heater should not be connected to a 3-pin socket outlet because it typically draws an amount of current exceeding what a typical 3-pin socket outlet is rated for. It should be directly wired to the electrical mains, through a double pole switch for switching the water heater ON and OFF.<br>
 
 <img src="/images/double-pole-switch.jpg" style="width:300px;height:300px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Double Pole Switch<br><br>
