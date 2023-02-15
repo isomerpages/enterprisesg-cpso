@@ -16,7 +16,7 @@ Instantaneous and storage electric water heaters are classified as Controlled Go
 
 Check that the electric water heaters carry the SAFETY Mark before purchase. The SAFETY Mark indicates that a Controlled Good has been tested to and conforms to specified safety standards and carries a unique certification number traceable to the supplier. <br>
 ![safety mark](/images/about-us/safety-mark.jpg)
-To check the validity of the SAFETY Mark on your water heater, search for the SAFETY Mark number via our [Register of Registered Controlled Goods](https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods).
+To check the validity of the SAFETY Mark on your electric water heater, search for the SAFETY Mark number via our [Register of Registered Controlled Goods](https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods).
 
 **Ensure the water heater is properly installed**<br>
 Hire a licensed electrical worker (LEW) to ensure the water heater is properly wired during installation.<br>
