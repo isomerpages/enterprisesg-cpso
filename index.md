@@ -21,7 +21,7 @@ sections:
         - title: Product safety alerts and recalls
           description: Stay up to date with the latest news on consumer product safety in
             Singapore
-          url: /consumers/product-safety-alerts-and-recalls/children-apparel
+          url: /consumers/safety-alerts-and-recalls/children-apparel/
         - title: Check if your Controlled Goods are registered
           description: Check if the product has a valid SAFETY Mark
           url: https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods
