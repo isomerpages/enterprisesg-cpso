@@ -24,7 +24,7 @@ As consumers, you can protect your child from hazards that could be caused by to
 7. Ensure that toys with projectiles do not have sharp edges. Check that the toy cannot launch improvised projectiles such as pencils and other potentially dangerous items.
 8. Ensure that riding toys are stable and will not topple easily
 9.Look out for warnings or the safety alert symbol to be informed of the potential hazards e.g. when using product that comes with button/coin batteries.<br>
-<img src="/images/product-safety-tips/keep-out-of-children-button-battery-symbol.png" style="width:400px;height:100px;"><br>
+<img src="/images/product-safety-tips/keep-out-of-children-button-battery-symbol.png" style="width:600px;height:200px;"><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Keep out of reach of children" symbol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Button battery safety alert symbol<br><br>
 10. Check that compartments with button batteries are properly secured as swallowing such batteries can lead to serious internal injuries or even death. Look out for battery compartments where the fasteners used to secure the cover cannot be removed completely and will remain with the cover. This ensures the fasteners are not lost when replacing the batteries, as this may result in the child being able to access the battery inside easily.
 11. Remove batteries in electronic toys when not in use. Batteries left in toys for a long period of time may leak poisonous fluid.
