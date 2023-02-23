@@ -23,11 +23,15 @@ As consumers, you can protect your child from hazards that could be caused by to
 6. Check toys frequently for any breakage which may result in sharp edges or small/loose parts that could cause choking. Do not let your child play with damaged toys.
 7. Ensure that toys with projectiles do not have sharp edges. Check that the toy cannot launch improvised projectiles such as pencils and other potentially dangerous items.
 8. Ensure that riding toys are stable and will not topple easily
-9. Remove batteries in electronic toys when not in use. Batteries left in toys for a long period of time may leak poisonous fluid.
-10. Check that compartments with button batteries are properly secured as swallowing such batteries can lead to serious internal injuries or even death.
-11. Ensure that toys are kept properly after play to avoid becoming a tripping hazard.
-12. Supervise young children carefully whenever toys with detachable small parts or magnets are being used in their vicinity and inspect play areas carefully after play to ensure that no parts or magnets are left where they could be picked up by a young child.
-13. Seek medical attention immediately if the child swallows any part of the toy or battery.
+9.Look out for warnings or the safety alert symbol to be informed of the potential hazards e.g. when using product that comes with button/coin batteries.
+<img src="/images/product-safety-tips/keep-out-of-children-button-battery-symbol.png" style="width:600px;height:100px;"><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Keep out of reach of children" symbol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Button battery safety alert symbol<br><br>
+10. Check that compartments with button batteries are properly secured as swallowing such batteries can lead to serious internal injuries or even death. Look out for battery compartments where the fasteners used to secure the cover cannot be removed completely and will remain with the cover. This ensures the fasteners are not lost when replacing the batteries, as this may result in the child being able to access the battery inside easily.
+11. Remove batteries in electronic toys when not in use. Batteries left in toys for a long period of time may leak poisonous fluid.
+12. Keep new and used button batteries out of sight and out of reach of young children at all times.
+13. Ensure that toys are kept properly after play to avoid becoming a tripping hazard.
+14. Supervise young children carefully whenever toys with detachable small parts or magnets are being used in their vicinity and inspect play areas carefully after play to ensure that no parts or magnets are left where they could be picked up by a young child.
+15. Seek medical attention immediately if the child swallows any part of the toy or battery.
 
 **Don't buy toys that:** <br>
 1. have any part that can fit into a child's mouth, nose, or ear; <br>
