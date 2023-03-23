@@ -7,16 +7,17 @@ description: ""
 ## Children toys safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**25 Jun 2021**<br>
-**Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10**<br>
+**23 Mar 2023**<br>
+**IKEA voluntarily recalls BLÅVINGAD Fishing Game Multicolour**<br>
 
-Cotton On Group has announced a voluntary recall of the Cotton On Kids Projector Light, Product Code 790691 followed by a Colour Code number ranging from 01-10. The button battery compartment within the product may not be adequately secured and the batteries may be easily accessible. If young children gain access to the button batteries and ingest them, they may suffer internal burn injuries, which can result in serious illness and even death. In addition, the batteries may pose a choking hazard to young children.
+IKEA is recalling BLÅVINGAD Fishing Game Multicolour due to potential choking hazard. The product is part of the seasonal BLÅVINGAD collection. Some small rivets on the toy can come loose, which results in a potential choking hazard, especially for children. No incidents were reported in Singapore.
 
-<img src="/images/product-safety-alerts-and-recalls/children-toys/cotton-on-kids-projector-light.png" alt="Cotton-On-Group-Kids-Projector-Light" style="width:524px;height:242px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-toys/BLÅVINGAD%20Fishing%20Game%20Multicolour.png" style="width:400px;height:400;"><br>
 
-Affected units were sold between December 2018 and May 2021.
+Consumers who own the BLÅVINGAD fishing game multicolour should stop using it immediately. BLÅVINGAD fishing game multicolour can be returned to any IKEA store for a full refund. Proof of purchase (receipt) is not required. 
 
-Consumers are advised to return the affected product to any Cotton On Kids or Cotton On store for a refund or exchange. For more information, consumers can email productrecall@cotton.zendesk.com, call +65 800 852 6326, or visit their website www.cottonon.com.
+For more information, please contact IKEA [Customer Contact Centre](https://www.ikea.com/sg/en/customer-service/contact-us/) at +65 6786 6868 or visit IKEA [website](https://www.ikea.com/sg/en/newsroom/range-news/ikea-is-recalling-blavingad-fishing-game-multicolour-due-to-potential-choking-hazard-pub19153910).  
+
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -24,6 +25,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|23 Mar 2023|[IKEA voluntarily recalls BLÅVINGAD Fishing Game Multicolour ](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2023-03-23-IKEA-%20Fishing-Game.pdf){:target="_blank"}|
 |25 Jun 2021|[Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10’](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-06-25-cotton-on-group-recalls-kids-projector-light.pdf){:target="_blank"}|
 |16 Apr 2021|[Toys’R’Us recalls ‘Squish-dee-lish Series 5’ and ‘Mickey Mouse & Minnie Mouse Tumbler’](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-04-16-toysrus-recalls-squish-dee-lish-and-mickey-mouse-tumbler.pdf){:target="_blank"}|
 |01 Apr 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |[Sunnylife Sydney Australia (Sunnylife) recalls ‘Croc Family Bath Toys Set of 3, with and without squeaker](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-04-01-sunnylife-sydney-australia-sunnylife-recalls-croc-family-bath-toys-set-of-3-with-and-without-squeaker.pdf){:target="_blank"}|
