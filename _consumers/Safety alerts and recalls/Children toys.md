@@ -7,16 +7,18 @@ description: ""
 ## Children toys safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**25 Jun 2021**<br>
-**Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10**<br>
+**23 Mar 2023**<br>
+**IKEA voluntarily recalls BLÅVINGAD Fishing Game Multicolour**<br>
 
 Cotton On Group has announced a voluntary recall of the Cotton On Kids Projector Light, Product Code 790691 followed by a Colour Code number ranging from 01-10. The button battery compartment within the product may not be adequately secured and the batteries may be easily accessible. If young children gain access to the button batteries and ingest them, they may suffer internal burn injuries, which can result in serious illness and even death. In addition, the batteries may pose a choking hazard to young children.
 
-<img src="/images/product-safety-alerts-and-recalls/children-toys/cotton-on-kids-projector-light.png" alt="Cotton-On-Group-Kids-Projector-Light" style="width:524px;height:242px;"><br>
 
-Affected units were sold between December 2018 and May 2021.
+<img src="/images/product-safety-alerts-and-recalls/children-products/BLÅVINGAD%20Fishing%20Game%20Multicolour.png" style="width:400px;height:400;"><br>
 
-Consumers are advised to return the affected product to any Cotton On Kids or Cotton On store for a refund or exchange. For more information, consumers can email productrecall@cotton.zendesk.com, call +65 800 852 6326, or visit their website www.cottonon.com.
+Consumers who own the BLÅVINGAD fishing game multicolour should stop using it immediately. BLÅVINGAD fishing game multicolour can be returned to any IKEA store for a full refund. Proof of purchase (receipt) is not required. 
+
+For more information, please contact IKEA [Customer Contact Centre](https://www.ikea.com/sg/en/customer-service/contact-us/) at +65 6786 6868 or visit IKEA [website](https://www.ikea.com/sg/en/newsroom/range-news/ikea-is-recalling-blavingad-fishing-game-multicolour-due-to-potential-choking-hazard-pub19153910).  
+
 
 Refer to the listing below for more product safety alerts and recalls.
 
