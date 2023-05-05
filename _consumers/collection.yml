@@ -10,7 +10,6 @@ collections:
       - product-safety-tips/electronics-and-appliances.md
       - product-safety-tips/home-appliances-and-furniture.md
       - product-safety-tips/children-s-products.md
-      - Safety alerts and recalls/Products recalled prior to 2019.md
       - Safety alerts and recalls/.keep
       - Safety alerts and recalls/Children apparel.md
       - Safety alerts and recalls/Children products.md
@@ -20,4 +19,5 @@ collections:
       - Safety alerts and recalls/Power banks.md
       - Safety alerts and recalls/Recreational products.md
       - Safety alerts and recalls/Others.md
+      - Safety alerts and recalls/Products recalled prior to 2019.md
       - international-product-recalls.md
