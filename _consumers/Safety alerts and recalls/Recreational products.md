@@ -7,13 +7,27 @@ description: ""
 ## Recreational products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**2 Sep 2019**<br>
-**Decathlon recalls BTWIN Bike Carrier Adaptor**<br>
+**29 Sep 2022**<br>
+**Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman**<br>
 
-Decathlon has announced a voluntary recall of the BTWIN Bike Carrier Adaptor. The security arm can open causing the bike to fall off the rack. Affected units were sold between 1 January 2016 and 6 June 2019.
-![](/images/product-safety-alerts-and-recalls/recreational-products/Decathlon%20BTWIN%20Adaptor.png)
-Consumers are advised to return the affected product at any Decathlon store for a refund. For more information, please visit Decathlon Singapore recall website
-at www.decathlon.sg/content/32-product-recall.
+Bambis Australia has announced a recall of the salt&amp;pepper Wanderlust 3 wick candles sold at Harvey Norman. The glass candle containers may fracture or shatter, which could result in the wax in the candle igniting and causing a fire.
+
+The affected models that were sold are:
+
+
+
+| Model | Product Code | Picture |
+| -------- | -------- | -------- |
+| New York   | 49576     | ![Bambis New York](/images/product-safety-alerts-and-recalls/recreational-products/Picture1.png)    |
+| Paris   | 49577     | ![Bambis Paris](/images/product-safety-alerts-and-recalls/recreational-products/Picture2.png)    |
+| Marrakesh   | 49578     | ![Bambis Marrakesh](/images/product-safety-alerts-and-recalls/recreational-products/Picture3.png)     |
+| Byron Bay   | 49579     | ![Bambis Byron Bay](/images/product-safety-alerts-and-recalls/recreational-products/Picture4.png)     |
+| Aspen   | 51956     | ![Bambis Aspen](/images/product-safety-alerts-and-recalls/recreational-products/Picture5.png)     |
+
+The affected candles were sold at Harvey Norman retail outlets between 18 September 2019 and 23 July 2022. Affected consumers are urged to return the product to the place of purchase for a full refund.
+
+For more information, consumers can email Fang.Fang@harveynorman.com.sg or call 63119983.
+
 
 **Product recalls**
 
