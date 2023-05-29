@@ -23,7 +23,7 @@ However, universal socket outlets pose certain risks, and should not be installe
 
 Due to the nature of universal socket outlets requiring them to accommodate different plug configurations, they typically do not have safety shutters to protect users from touching the live contacts. The use of un-shuttered socket-outlets in households and similar locations is prohibited under Singapore’s Code of Practice for Electrical Installations - SS 638 specifically cl 553.1.201L, due to unimpeded access to live parts within the socket-outlets.<br>
 
-In addition, as universal socket outlets allow different plug types to be used, unsafe plug designs such as un-sleeved 2-pin plugs used for certain overseas appliances, could be connected. The un-sleeved pins could be accessible during plug insertion and withdrawal. These pins could potentially be live and if touched, would result in an electric shock.
+In addition, as universal socket outlets allow different plug types to be used, unsafe plug designs such as un-sleeved 2-pin plugs used for certain overseas appliances, could be connected. The un-sleeved pins could be accessible during plug insertion and withdrawal. These pins could potentially be live and if touched, could result in an electric shock.
 
 <img src="/images/product-safety-tips/universal-socket-outlet-4.png" style="width:200px;height:200px;">
 <br>
