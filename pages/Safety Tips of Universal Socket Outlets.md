@@ -9,7 +9,7 @@ description: ""
 
 ## Safety Tips on Universal Socket-Outlets
 Universal socket-outlets are intended to accommodate a variety of plug types used in countries outside of Singapore. These universal socket-outlets are commonly installed in hotels and other locations where international visitors are prevalent.
-![safety mark](/images/about-us/safety-mark.jpg)
+![Safety tips on ceiling fans](/images/product-safety-tips/universal-socket-outlet-1.jpg)
 
 **Look for the SAFETY Mark**<br>
 Instantaneous and storage electric water heaters are classified as Controlled Goods under the Consumer Protection (Safety Requirements) Registration Scheme and are therefore required to bear the SAFETY Mark before they can be sold in Singapore.<br>
