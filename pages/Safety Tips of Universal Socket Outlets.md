@@ -37,7 +37,7 @@ If there a single sleeved pin of a “Europlug” is inserted, the exposed acces
 
 Some universal socket-outlet designs will accept plugs rated at 100 - 120 V AC for the connection of items of electrical equipment having a similar 100 - 120 V AC rating. Such electrical equipment, specifically those containing motors and heating elements such as hair dryers, travel irons and kettles, will not operate safely at 230 V AC. This could cause overheating and fire.<br>
 
-**Purchase and installtion of Universal Socket-Outlets**
+**Purchase and installation of Universal Socket-Outlets**
 
 Switched socket-outlets are classified as Controlled Goods, regulated under the Consumer Protection (Safety Requirements) Regulations (CPSR). Controlled Goods are required to be tested to their relevant safety standards (i.e. SS 145 for socket outlets) as specified by the CPSO.
 
