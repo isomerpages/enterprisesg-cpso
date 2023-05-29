@@ -9,14 +9,14 @@ description: ""
 
 ## Safety Tips on Universal Socket-Outlets
 Universal socket-outlets are intended to accommodate a variety of plug types used in countries outside of Singapore. These universal socket-outlets are commonly installed in hotels and other locations where international visitors are prevalent.<br><br>
-<img src="/images/product-safety-tips/universal-socket-outlet-1.jpg" style="width:200px;height:200px;"><br><br>
+<img src="/images/product-safety-tips/universal-socket-outlet-1.jpg" style="width:200px;height:200px;">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Examples of Universal Socket-Outlets*
 <img src="/images/product-safety-tips/universal-socket-outlet-2.jpg" style="width:400px;height:200px;">
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Examples of Universal Socket-Outlets*
 
 However, universal socket outlets pose certain risks, and should not be installed in homes for daily use.
 
-**Dangers with the use of Universal Socket-Outlets**<br>
+**Dangers involved with the use of Universal Socket-Outlets**<br>
 1. Risk of electrical shock
 <img src="/images/product-safety-tips/universal-socket-outlet-3.jpg" style="width:200px;height:200px;">
 <br>
