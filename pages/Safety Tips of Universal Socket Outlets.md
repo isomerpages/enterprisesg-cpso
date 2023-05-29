@@ -8,8 +8,8 @@ description: ""
 *Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
 ## Safety Tips on Universal Socket-Outlets
-Water heaters offer great convenience and benefits to households. They come in a variety of sizes and designs to suit different household needs. With the ability to provide a constant supply of hot water, water heaters provide improved comfort and convenience for daily activities such as showers, dishwashing, and laundry.
-<br>Follow these safety tips to help protect against potential safety hazards from your water heater.
+Universal socket-outlets are intended to accommodate a variety of plug types used in countries outside of Singapore. These universal socket-outlets are commonly installed in hotels and other locations where international visitors are prevalent.
+![safety mark](/images/about-us/safety-mark.jpg)
 
 **Look for the SAFETY Mark**<br>
 Instantaneous and storage electric water heaters are classified as Controlled Goods under the Consumer Protection (Safety Requirements) Registration Scheme and are therefore required to bear the SAFETY Mark before they can be sold in Singapore.<br>
