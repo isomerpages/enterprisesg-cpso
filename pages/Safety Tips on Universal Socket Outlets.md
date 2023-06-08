@@ -32,7 +32,7 @@ In addition, as universal socket outlets allow different plug types to be used, 
 
 The lack of shutters also allows for incomplete insertion of plugs, for example it is possible for only a single pin of a 2-pin "Europlug" to be inserted, leaving the other pin exposed and if touched, could result in an electric shock.
 
-2. Risk of fire
+3. Risk of fire
 
 
 Some universal socket-outlet designs will accept plugs rated at 100 - 120 V AC for the connection of electrical equipment having a similar 100 - 120 V AC rating. Such electrical equipment, specifically those containing motors and heating elements such as hair dryers, travel irons and kettles, will not operate safely at 230 V AC. This could cause overheating and fire.<br>
