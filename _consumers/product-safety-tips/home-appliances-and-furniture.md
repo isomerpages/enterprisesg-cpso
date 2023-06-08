@@ -18,6 +18,7 @@ Here are some tips you can follow to keep your family safe from injuries as well
 * [Safety Tips for Storing Household Chemicals](/safety-tips-for-storing-household-chemicals)
 * [Safety Tips on Small Magnets](/safety-tips-on-small-magnets)
 * [Safety Tips on Window Coverings](/safety-tips-on-window-coverings)
+* [Safety Tips on Universal Socket-Outlets](/safety-tips-on-universal-socket-outlets)
 * [Tips to Keep your Home Safe from Electrical Hazards](/tips-to-keep-your-home-safe-from-electrical-hazards)
 * [Using and Maintaining Toughened Glass in Cooking Appliances](/using-and-maintaining-toughened-glass-in-cooking-appliances)
 * [Type of Mains Plugs Suitable for use in Singapore](/types-of-mains-plugs-suitable-for-use-in-singapore)
