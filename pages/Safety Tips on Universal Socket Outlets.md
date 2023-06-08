@@ -48,7 +48,7 @@ Due to the serious potential hazards associated with universal socket outlets as
 
 Consumers are strongly encouraged to look out for a valid Safety Mark label when making purchase of any product that falls within any of the [33 Controlled Goods categories](https://www.consumerproductsafety.gov.sg/suppliers/cpsr/list-of-controlled-goods/).
 
-*Content compliments of BEAMA taken from their publication on Universal socket-outlets and thank you to Electrical Safety First for the use of images and references from their test report.
+**Content compliments of BEAMA taken from their publication on Universal socket-outlets and thank you to Electrical Safety First for the use of images and references from their test report.*
 
 
 **[← Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
