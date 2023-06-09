@@ -10,7 +10,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **09 Jun 2023**<br>
 **Health Canada warns of life-threatening risks posed by water beads to young children**<br>
 
-<img src="/images/product-safety-alerts-and-recalls/children-toys/water-beads.png" style="width:400px;height:400;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-toys/water-bead.png" style="width:400px;height:400;"><br>
 
 Health Canada is warning parents and caregivers about the risks of water beads. These tiny beads, also known as jelly beads, hydro orbs, crystal soil, sensory beads or orb beads, are water-absorbing gel beads that can grow up to 1,500 times their size when placed in water. Water beads can be very harmful if swallowed or put in the ears or nose. If ingested, water beads can continue to grow inside the body leading to potentially life-threatening injuries, such as intestinal or bowel obstruction.
 
