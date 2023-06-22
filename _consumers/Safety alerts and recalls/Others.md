@@ -16,7 +16,7 @@ The recalled products can contain a chemical impurity, ethylene oxide, a carcino
 
 <img src="/images/product-safety-alerts-and-recalls/Others/the%20laundress%20fabric%20conditioner.png" style="width:400px;height:330px;">
 
-<img src="/images/product-safety-alerts-and-recalls/Others/the%20laundress%20recall%20-%20products%20included.png" style="width:200px;height:300px;">
+<img src="/images/product-safety-alerts-and-recalls/Others/the%20laundress%20recall%20-%20products%20included.png" style="width:260px;height:390px;">
 
 
 Consumers should immediately stop using the impacted products and contact the Laundress for instructions on how to receive reimbursement. After receiving reimbursement, consumers should dispose of the product by closing the bottle tightly and placing it in the household trash. Do not empty the product prior to disposal. 
