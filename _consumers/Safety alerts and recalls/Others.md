@@ -21,7 +21,7 @@ The recalled products can contain a chemical impurity, ethylene oxide, a carcino
 
 Consumers should immediately stop using the impacted products and contact the Laundress for instructions on how to receive reimbursement. After receiving reimbursement, consumers should dispose of the product by closing the bottle tightly and placing it in the household trash. Do not empty the product prior to disposal. 
 
-For a complete list of recalled products, and more information on how to submit reimbursement requests, please visit www.TheLaundressRecall.com. 
+For a complete list of recalled products, and more information on how to submit reimbursement requests, please visit [www.TheLaundressRecall.com](www.TheLaundressRecall.com). 
 
 Refer to the listing below for more product safety alerts and recalls.
 
