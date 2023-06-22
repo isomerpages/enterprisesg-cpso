@@ -29,7 +29,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|22 Jun 2023|[The Laundress New York recalls fabric conditioners due to chemical hazard](/files/product-safety-alerts-and-recalls/Others/others-recall-2023-06-22-thelaundress_fabricconditioner.pdf)){:target="_blank"}|
+|22 Jun 2023|[The Laundress New York recalls fabric conditioners due to chemical hazard](/files/product-safety-alerts-and-recalls/Others/others-recall-2023-06-22-thelaundress_fabricconditioner.pdf))
 |31 Jan 2023|[The Laundress New York recalls Laundress laundry and household cleaning products](/files/product-safety-alerts-and-recalls/others/others-recall-2023-01-31-the-laundress.pdf){:target="_blank"}|
 |29 Sep 2022|[Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-09-29-Bambis-Australia-recalls-Wanderlust-3-wick-candles.pdf){:target="_blank"}|
 |30 May 2022|[Fitbit LLC (“Fitbit”) recalls Fitbit Ionic Smartwatches](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-05-30-Fitbit-recalls-Fitbit-Ionic-Smartwatches.pdf){:target="_blank"}|
