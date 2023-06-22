@@ -14,19 +14,14 @@ The Laundress recalls Fabric Conditioners, including previously recalled units. 
 
 The recalled products can contain a chemical impurity, ethylene oxide, a carcinogen that can cause adverse health effects if there is significant and direct long-term exposure. 
 
-<img src="/images/product-safety-alerts-and-recalls/Others/the%20laundress%20fabric%20conditioner.png" style="width:300px;height:300px;">
+<img src="/images/product-safety-alerts-and-recalls/Others/the%20laundress%20fabric%20conditioner.png" style="width:300px;height:230px;">
+
+<img src="/images/product-safety-alerts-and-recalls/Others/the%20laundress%20recall%20-%20products%20included.png" style="width:200px;height:230px;">
 
 
 Consumers should immediately stop using the impacted products and contact the Laundress for instructions on how to receive reimbursement. After receiving reimbursement, consumers should dispose of the product by closing the bottle tightly and placing it in the household trash. Do not empty the product prior to disposal. 
 
 For a complete list of recalled products, and more information on how to submit reimbursement requests, please visit www.TheLaundressRecall.com. 
-
-
-These products can contain bacteria. People with weakened immune systems, external medical devices and underlying lung conditions who are exposed to the bacteria face a risk of serious infection that may require medical treatment. The bacteria can enter the body if inhaled, or through the eyes or a break in the skin. People with healthy immune systems are usually not affected by the bacteria.
-
-<img src="/images/product-safety-alerts-and-recalls/others/the-laundress.png" alt="The Laundress" style="width:388px;height:128px;">
-
-Consumers should immediately stop using the impacted products. For a complete list of recalled products, and more information on how to submit reimbursement requests, please visit www.TheLaundressRecall.com.
 
 Refer to the listing below for more product safety alerts and recalls.
 
