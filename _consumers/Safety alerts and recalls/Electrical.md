@@ -7,18 +7,22 @@ description: ""
 ## Electrical safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**07 Jul 2022**<br>
-**IKEA issues recall of METALLISK Espresso Maker**<br>
+**14 Jul 2023**<br>
+**Bose Recalls Bass Modules sold with select Acoustimass®, Lifestyle® and Companion™ Home Theater System Due to Fire Hazard****<br>
 
-IKEA is conducting a voluntarily recall of the product, METALLISK Espresso Maker for hob 0.4 l with the stainless steel safety valve (silver/grey). No other units are affected by this recall.
+Bose has announced a voluntary recall of certain bass modules that were produced before April 2006, and sold with Acoustimass, Lifestyle and Companion Home Theater Systems. The recalled units’ electrical components may fail under certain conditions thus posing fire hazards.
 
-IKEA is recalling the product due to an increased risk of the product bursting during use.
+Below are two images of the bass modules included in this recall. The colour of the bass module may be either black or white. 
 
-<img src="/images/product-safety-alerts-and-recalls/electrical/metallisk-espresso-maker.png" alt="METALLISK Espresso Maker" style="width:270px;height:370px;"><br>
 
-The affected METALLISK Espresso Maker were sold at IKEA stores and online from 1 October 2019.
+<img src="/images/product-safety-alerts-and-recalls/electrical/bose%201.png" alt="METALLISK Espresso Maker" style="width:300px;height:300px;"><br>
 
-Customers who own the METALLISK Espresso Maker with stainless-steel safety valve should stop using the product immediately. The product can be returned to any IKEA store for a full refund. Proof of purchase (receipt) is not required. For more information, please contact the IKEA Customer Contact Centre at +65 67866868 or visit www.ikea.com/sg/en/newsroom/range-news/ikea-is-recalling-metallisk-espresso-maker-for-hob-0-4l-with-the-stainless-steel-safety-valve-pub784cae10
+<img src="/images/product-safety-alerts-and-recalls/electrical/bose%202.png" alt="METALLISK Espresso Maker" style="width:300px;height:300px;">
+		 
+
+Please refer to this [website](https://global.bose.com/en_us/bm_safety_contact.html) for more information on the recall, and instructions on how to identify if your bass module is affected by this recall.
+
+Consumers with affected units should immediately stop using and unplug the bass modules, then contact Bose at +65 67779600 to arrange for a free repair of the bass module, or a 40% discount on a replacement product.
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -26,6 +30,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|14 Jul 2023|[Bose Recalls Bass Modules sold with select Acoustimass®, Lifestyle® and Companion™ Home Theater System Due to Fire Hazard](/files/product-safety-alerts-and-recalls/electrical/electrical-alert-2023-07-14-bose.pdf){:target="_blank"}|
 |07 Jul 2022|[IKEA issues recall of METALLISK Espresso Maker](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2022-07-07-ikea-metallisk-espresso-maker.pdf){:target="_blank"}|
 |22 Feb 2022|[Kenwood voluntarily replaces “Julienne” disc of food processor models FPM800 and FPM810](/files/product-safety-alerts-and-recalls/electrical//electrical-alert-2022-02-22-Kenwood-Julienne-disc-FPM800-and-FPM810.pdf){:target="blank"}|
 |05 Oct 2020|[LG Electronics Inc’s free replacement program for TV Power Board](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2020-10-05-lg-electronics-free-replacement-programe-for-tv-power-board.pdf){:target="_blank"}|
