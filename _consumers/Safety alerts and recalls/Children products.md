@@ -7,19 +7,19 @@ description: ""
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**31 Jan 2023**<br>
-**Fisher-Price Reannounces Recall of Rock 'n Play Sleepers**<br>
+**14 Jul 2023**<br>
+**Decathlon Recalls Nabaiji Baby Inflatable Float with built-in harness (306392) 8752138 / 8752140 / 8752139**<br>
 
-Fisher-Price reannounces recall of all Rock 'n Play Sleepers due to infant fatalities that have occurred after the infants rolled from their back to their stomach or side while unrestrained, or under other circumstances.
+Decathlon has announced a voluntary recall of the Baby Inflatable Float. 
 
-Since the original recall on 12 April 2019, approximately 70 additional fatalities have been reported, which includes at least 8 fatalities that were reported to have occurred after the initial recall announcement.
+They have identified an overturning risk of the user. In case of reversing, there is a drowning risk because the child is tied by the buoy and his head could remain underwater without any possibility of finding back the right position.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/rock-n-play-sleepers.png" style="width:400px;height:300px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-products/nabaiji.png" style="width:800px;height:120px;"><br>
 
-Fisher-Price is urging all customers who own the Rock 'n Play Sleepers to stop using them immediately and contact Mattel Singapore at +65 62350667, or email fprequests@directavenue.net to find out more information on how to return the product.
+Affected units were sold between 1 February 2023 and 23 June 2023. Consumers who own this Nabaiji Baby Inflatable Float should stop using the product, and return it to their nearest Decathlon store for a full refund. 
 
-For more information on this product recall consumers may visit Mattel's website here:
-http://service.mattel.com/us/recall/default.asp?recall_id=52466
+For more information, please visit Decathlon’s [website](https://www.decathlon.sg/s/product-recall) or contact their customer relations [center](https://www.decathlon.sg/s/contact-us) from Monday to Sunday 9.00AM – 7.00PM. 
+
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -27,8 +27,9 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|14 Jul 2023|[Decathlon Recalls Nabaiji Baby Inflatable Float with built-in harness](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-14-nabaiji-baby-float.pdf){:target="_blank"}|
 |31 Jan 2023|[Fisher Price Reannounces Recall of Rock 'n Play Sleepers](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-01-31-fisher-price-rock-n-play-sleeper-infant-rocker.pdf){:target="_blank"}|
-|18 Mar 2022|[Mushie & Co issues voluntary recall for FRIGG silicone pacifiers](/files/product-safety-alerts-and-recalls/children-products/frigg-classic-and-daisy-silicone-pacifiers-recall-18-Mar-2022.pdf){:target="_blank"}|
+|18 Mar 2022|[Mushie &amp; Co issues voluntary recall for FRIGG silicone pacifiers](/files/product-safety-alerts-and-recalls/children-products/frigg-classic-and-daisy-silicone-pacifiers-recall-18-Mar-2022.pdf){:target="_blank"}|
 |13 Jan 2020|[Philips recalls Digital Video Baby Monitor (SCD620)](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-13-philips-recalls-digital-video-baby-monitor.pdf){:target="_blank"}|
 |08 Jan 2020|[Decathlon recalls Baby Seat 100 BClip](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-08-decathlon-recalls-baby-seat-100-bclip.pdf){:target="_blank"}|
 |02 Sep 2019|[Decathlon recalls NABAIJI All Slot Babyseat Inflatable Float](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-09-02-decathlon-recalls-nabaiji-all-slot-babyseat-inflatable-float.pdf){:target="_blank"}|
@@ -68,7 +69,7 @@ Refer to the listing below for more product safety alerts and recalls.
 |28 Mar 2016|[Pacifiers: Bobo Massage Pacifier](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-28-bobo-massage-pacifier.pdf){:target="_blank"}|
 |28 Mar 2016|[Pacifiers: Camera Brand Silicone Soother](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-28-camera-brand-silicone-soother.pdf){:target="_blank"}|
 |28 Mar 2016|[Pacifiers: Chica Thumb Shape Soother](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-28-chica-thumb-shape-soother.pdf){:target="_blank"}|
-|15 Mar 2016|[Cots and cribs: Jarrons & Co JCB-101 Happy Sleep 5-in-1 convertible cot](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-15-jarrons-co-jcb101-happy-sleep-5-in-1-convertible-cot-testing.pdf){:target="_blank"}|
+|15 Mar 2016|[Cots and cribs: Jarrons &amp; Co JCB-101 Happy Sleep 5-in-1 convertible cot](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-15-jarrons-co-jcb101-happy-sleep-5-in-1-convertible-cot-testing.pdf){:target="_blank"}|
 |26 Feb 2016|[Cots and cribs: Sheares Spring Baby Crib](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-26-sheares-spring-baby-crib.pdf){:target="_blank"}|
 |16 Feb 2016|[Cots and cribs: BabyHome Eat High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-16-babyhome-eat-high-chair.pdf){:target="_blank"}|
 |05 Feb 2016|[Cots and cribs: Magne 2 in 1 Portable Crib](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-05-magne-2-in-1-portable-crib.pdf){:target="_blank"}|
