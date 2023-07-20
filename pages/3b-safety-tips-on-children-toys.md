@@ -2,7 +2,7 @@
 title: Safety Tips on Children Toys
 permalink: /safety-tips-on-children-toys/
 ---
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
+**[← Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 *Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
@@ -44,7 +44,14 @@ As consumers, you can protect your child from hazards that could be caused by to
 8. have spring(s), gear(s), or hinged part(s) that may pinch or trap finger(s); <br>
 9. have long pull string(s) or cord(s) which might pose a strangulation hazard; <br>
 10. have part(s) that are secured with straight pin(s) or staple(s); <br>
-11. produce excessively high audio level that may damage hearing.
+11. produce excessively high audio level that may damage hearing; <br>
+12. fail to comply with international Safety Standards for toys (e.g. small magnetic balls/water beads)
+
+*do take note of the following points regarding small magnetic balls/water beads:
+* Magnetic balls and water beads are unable to comply with toy standards and cannot be supplied or sold if they are marketed as toys for children under 14 years old.
+* In addition to containing small parts, magnetic balls have high magnetic flux which may cause serious injury if multiple balls attract and stick together within the intestines. Water beads may expand to many times their original size as they absorb water and may cause obstructions or injuries within the body.
+* Caregivers are advised to keep a lookout and ensure that these products are not made accessible to children, and avoid using magnetic balls and water beads as sensory toys for children.
 
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
+
+**[← Back to Product safety tips](/consumers/product-safety-tips/children-product)**
