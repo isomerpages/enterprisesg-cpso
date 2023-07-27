@@ -7,18 +7,19 @@ description: ""
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**14 Jul 2023**<br>
-**Decathlon Recalls Nabaiji Baby Inflatable Float with built-in harness (306392) 8752138 / 8752140 / 8752139**<br>
+**26 Jul 2023**<br>
+**Philips Recalls Digital Video Baby Monitor SCD620**<br>
 
-Decathlon has announced a voluntary recall of the Baby Inflatable Float. 
+Philips Singapore has announced a voluntary recall for the Philips Avent Digital Video Baby Monitor (SCD620). The battery in the parent unit may overheat while plugged into the electrical outlet, posing a fire hazard. Affected units were produced between January 2016 and January 2020.
 
-They have identified an overturning risk of the user. In case of reversing, there is a drowning risk because the child is tied by the buoy and his head could remain underwater without any possibility of finding back the right position.
+<img src="/images/product-safety-alerts-and-recalls/children-products/philips%20avent%20baby%20monitor.png" style="width:250px;height:250px;"><br>
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/nabaiji.png" style="width:800px;height:120px;"><br>
 
-Affected units were sold between 1 February 2023 and 23 June 2023. Consumers who own this Nabaiji Baby Inflatable Float should stop using the product, and return it to their nearest Decathlon store for a full refund. 
 
-For more information, please visit Decathlon’s [website](https://www.decathlon.sg/s/product-recall) or contact their customer relations [center](https://www.decathlon.sg/s/contact-us) from Monday to Sunday 9.00AM – 7.00PM. 
+Please refer to this [website](https://www.philips.com.sg/c-w/support-home/recall/avent-digital-video-baby-monitors.html) for more information on the recall and instructions on how to identify if your Philips Avent Digital Video Baby Monitor is affected by this recall. 
+
+Consumers with affected units should stop using the baby monitor and unplug it from the power outlet, then contact Philips’ customer care team at +65 68823999 for a replacement. 
+
 
 
 Refer to the listing below for more product safety alerts and recalls.
@@ -27,6 +28,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|26 Jul 2023|[Philips Recalls Digital Video Baby Monitor SCD620](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-26-philips-avent-digital-baby-monitor-scd620.pdf){:target="_blank"}|
 |14 Jul 2023|[Decathlon Recalls Nabaiji Baby Inflatable Float with built-in harness](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-14-nabaiji-baby-float.pdf){:target="_blank"}|
 |31 Jan 2023|[Fisher Price Reannounces Recall of Rock 'n Play Sleepers](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-01-31-fisher-price-rock-n-play-sleeper-infant-rocker.pdf){:target="_blank"}|
 |18 Mar 2022|[Mushie &amp; Co issues voluntary recall for FRIGG silicone pacifiers](/files/product-safety-alerts-and-recalls/children-products/frigg-classic-and-daisy-silicone-pacifiers-recall-18-Mar-2022.pdf){:target="_blank"}|
