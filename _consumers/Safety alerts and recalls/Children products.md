@@ -7,19 +7,18 @@ description: ""
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**26 Jul 2023**<br>
-**Philips Recalls Digital Video Baby Monitor SCD620**<br>
+**18 Aug 2023**<br>
+**H&amp;M Hennes &amp; Mauritz Pte Ltd Recalls Clasp Beaded Bracelet**<br>
 
-Philips Singapore has announced a voluntary recall for the Philips Avent Digital Video Baby Monitor (SCD620). The battery in the parent unit may overheat while plugged into the electrical outlet, posing a fire hazard. Affected units were produced between January 2016 and January 2020.
+H&amp;M Hennes and Mauritz Pte Ltd has announced a voluntary recall for the Clasp Beaded Bracelet. The limit of lead is too high in the bracelet and violates the EU’s Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) Regulation. Lead is a substance that poses risks to people’s health and the environment. Levels of exposure can cause damage to people and wildlife.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/philips%20avent%20baby%20monitor.png" style="width:250px;height:250px;"><br>
+The bracelet has been sold in H&amp;M outlets at the Men’s department, and on their online store from 28 December 2022 to 11 July 2023.
 
+<img src="/images/product-safety-alerts-and-recalls/children-products/HnM-Clasp-Bracelet.png" style="width:250px;height:250px;"><br>
 
+Consumers who own this Clasp Bracelet should immediately stop using the product and return it to the nearest H&amp;M Store for a full refund or contact hm.com.
 
-Please refer to this [website](https://www.philips.com.sg/c-w/support-home/recall/avent-digital-video-baby-monitors.html) for more information on the recall and instructions on how to identify if your Philips Avent Digital Video Baby Monitor is affected by this recall. 
-
-Consumers with affected units should stop using the baby monitor and unplug it from the power outlet, then contact Philips’ customer care team at +65 68823999 for a replacement. 
-
+For more information, please visit this [website](https://www2.hm.com/en_sg/customer-service/product-and-quality/recalled-items.html).
 
 
 Refer to the listing below for more product safety alerts and recalls.
@@ -28,6 +27,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|18 Aug 2023|[H&amp;M Recalls Clasp Beaded Bracelet](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-08-18-hnm-clasp-bracelet.pdf){:target="_blank"}|
 |26 Jul 2023|[Philips Recalls Digital Video Baby Monitor SCD620](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-26-philips-avent-digital-baby-monitor-scd620.pdf){:target="_blank"}|
 |14 Jul 2023|[Decathlon Recalls Nabaiji Baby Inflatable Float with built-in harness](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-14-nabaiji-baby-float.pdf){:target="_blank"}|
 |31 Jan 2023|[Fisher Price Reannounces Recall of Rock 'n Play Sleepers](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-01-31-fisher-price-rock-n-play-sleeper-infant-rocker.pdf){:target="_blank"}|
