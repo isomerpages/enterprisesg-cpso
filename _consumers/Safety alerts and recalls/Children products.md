@@ -14,7 +14,7 @@ H&amp;M Hennes and Mauritz Pte Ltd has announced a voluntary recall for the Clas
 
 The bracelet has been sold in H&amp;M outlets at the Men’s department, and on their online store from 28 December 2022 to 11 July 2023.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/HnM-Clasp-Bracelet.png" style="width:250px;height:250px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-products/hnm-clasp-bracelet.png" style="width:250px;height:250px;"><br>
 
 Consumers who own this Clasp Bracelet should immediately stop using the product and return it to the nearest H&amp;M Store for a full refund or contact hm.com.
 
