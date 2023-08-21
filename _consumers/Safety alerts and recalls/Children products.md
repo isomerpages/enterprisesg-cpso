@@ -12,14 +12,11 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 
 Philips Singapore has announced a voluntary recall for the Philips Avent Digital Video Baby Monitor (SCD620). The battery in the parent unit may overheat while plugged into the electrical outlet, posing a fire hazard. Affected units were produced between January 2016 and January 2020.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/philips%20avent%20baby%20monitor.png" style="width:250px;height:250px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-products/philips avent baby monitor.png" style="width:250px;height:250px;"><br>
 
+Please refer to this&nbsp;[website](https://www.philips.com.sg/c-w/support-home/recall/avent-digital-video-baby-monitors.html)&nbsp;for more information on the recall and instructions on how to identify if your Philips Avent Digital Video Baby Monitor is affected by this recall.
 
-
-Please refer to this [website](https://www.philips.com.sg/c-w/support-home/recall/avent-digital-video-baby-monitors.html) for more information on the recall and instructions on how to identify if your Philips Avent Digital Video Baby Monitor is affected by this recall. 
-
-Consumers with affected units should stop using the baby monitor and unplug it from the power outlet, then contact Philips’ customer care team at +65 68823999 for a replacement. 
-
+Consumers with affected units should stop using the baby monitor and unplug it from the power outlet, then contact Philips’ customer care team at +65 68823999 for a replacement.
 
 
 Refer to the listing below for more product safety alerts and recalls.
