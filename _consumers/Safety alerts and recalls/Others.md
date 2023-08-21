@@ -7,21 +7,19 @@ third_nav_title: Safety alerts and recalls
 ## Other safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**22 Jun 2023**<br>
-**The Laundress New York recalls fabric conditioners due to chemical hazard**<br>
+**18 Aug 2023**<br>
+**H&amp;M Hennes &amp; Mauritz Pte Ltd Recalls Clasp Beaded Bracelet**<br>
 
-The Laundress recalls Fabric Conditioners, including previously recalled units. The complete list of the recalled products is shown below. 
+H&amp;M Hennes and Mauritz Pte Ltd has announced a voluntary recall for the Clasp Beaded Bracelet. The limit of lead is too high in the bracelet and violates the EU’s Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) Regulation. Lead is a substance that poses risks to people’s health and the environment. Levels of exposure can cause damage to people and wildlife. 
 
-The recalled products can contain a chemical impurity, ethylene oxide, a carcinogen that can cause adverse health effects if there is significant and direct long-term exposure. 
+The bracelet has been sold in H&amp;M outlets at the Men’s department, and on their online store from 28 December 2022 to 11 July 2023. 
 
-<img src="/images/product-safety-alerts-and-recalls/Others/the%20laundress%20fabric%20conditioner.png" style="width:400px;height:330px;">
-
-<img src="/images/product-safety-alerts-and-recalls/Others/the%20laundress%20recall%20-%20products%20included.png" style="width:260px;height:390px;">
+<img src="/images/product-safety-alerts-and-recalls/children-products/hnm-clasp-bracelet.png" style="width:250px;height:250px;"><br>
 
 
-Consumers should immediately stop using the impacted products and contact the Laundress for instructions on how to receive reimbursement. After receiving reimbursement, consumers should dispose of the product by closing the bottle tightly and placing it in the household trash. Do not empty the product prior to disposal. 
+Consumers who own this Clasp Bracelet should immediately stop using the product and return it to the nearest H&amp;M Store for a full refund or contact hm.com. 
 
-For a complete list of recalled products, and more information on how to submit reimbursement requests, please visit [www.thelaundressrecall.com].(https://www.thelaundressrecall.com/)
+For more information, please visit this [website](https://www2.hm.com/en_sg/customer-service/product-and-quality/recalled-items.html).
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -29,6 +27,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|18 Aug 2023|[H&amp;M Recalls Clasp Beaded Bracelet](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-08-18-hnm-clasp-bracelet.pdf){:target="_blank"}|
 |22 Jun 2023|[The Laundress New York recalls fabric conditioners due to chemical hazard](/files/product-safety-alerts-and-recalls/Others/others-recall-2023-06-22-thelaundress_fabricconditioner.pdf)
 |31 Jan 2023|[The Laundress New York recalls Laundress laundry and household cleaning products](/files/product-safety-alerts-and-recalls/others/others-recall-2023-01-31-the-laundress.pdf){:target="_blank"}|
 |29 Sep 2022|[Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-09-29-Bambis-Australia-recalls-Wanderlust-3-wick-candles.pdf){:target="_blank"}|
