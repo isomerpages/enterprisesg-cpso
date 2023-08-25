@@ -52,6 +52,6 @@ As consumers, you can protect your child from hazards that could be caused by to
 * In addition to containing small parts, magnetic balls have high magnetic flux which may cause serious injury if multiple balls attract and stick together within the intestines. Water beads may expand to many times their original size as they absorb water and may cause obstructions or injuries within the body.
 * Caregivers are advised to keep a lookout and ensure that these products are not made accessible to children, and avoid using magnetic balls and water beads as sensory toys for children.
 
-
+Click [here](files/collateral-toy-safety.pdf) to download our Toy Safety Brochure
 
 **[← Back to Product safety tips](/consumers/product-safety-tips/children-product)**
