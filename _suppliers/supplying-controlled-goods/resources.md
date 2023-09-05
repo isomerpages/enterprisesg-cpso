@@ -30,4 +30,4 @@ third_nav_title: Supplying controlled goods
 * Updated 27 June 2022:<br>
 [Application for Exemption from CPS Registration of CG Intended Solely for Display and/or Demonstration Purposes](/files/rs05-application-for-exemption-from-cps-registration.pdf){:target="_blank"}
 * Updated 01 April 2022:<br>
-[Notification of Modification to Registered Controlled Goods](/files/Notification-of-Modification-to-Registered-Controlled-Goods.pdf){:target="_blank"}
+[Notification of Modification to Registered Controlled Goods](/files/notification-of-modification-to-registered-controlled-goods.pdf){:target="_blank"}

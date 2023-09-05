@@ -28,11 +28,11 @@ Refer to the listing below for more product safety alerts and recalls.
 |Date|Title|
 |---|---|
 |18 Aug 2023|[H&amp;M Recalls Clasp Beaded Bracelet](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-08-18-hnm-clasp-bracelet.pdf){:target="_blank"}|
-|22 Jun 2023|[The Laundress New York recalls fabric conditioners due to chemical hazard](/files/product-safety-alerts-and-recalls/Others/others-recall-2023-06-22-thelaundress_fabricconditioner.pdf)
+|22 Jun 2023|[The Laundress New York recalls fabric conditioners due to chemical hazard](/files/product-safety-alerts-and-recalls/others/others-recall-2023-06-22-thelaundress_fabricconditioner.pdf)
 |31 Jan 2023|[The Laundress New York recalls Laundress laundry and household cleaning products](/files/product-safety-alerts-and-recalls/others/others-recall-2023-01-31-the-laundress.pdf){:target="_blank"}|
-|29 Sep 2022|[Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-09-29-Bambis-Australia-recalls-Wanderlust-3-wick-candles.pdf){:target="_blank"}|
-|30 May 2022|[Fitbit LLC (“Fitbit”) recalls Fitbit Ionic Smartwatches](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-05-30-Fitbit-recalls-Fitbit-Ionic-Smartwatches.pdf){:target="_blank"}|
-|12 May 2022|[Smiggle Singapore Pte Ltd issues voluntary recall for Smiggle Fun Character Watch Slapband](/files/product-safety-alerts-and-recalls/children-products/Smiggle-watch-12-May-2022.pdf){:target="_blank"}|
+|29 Sep 2022|[Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-09-29-bambis-australia-recalls-wanderlust-3-wick-candles.pdf){:target="_blank"}|
+|30 May 2022|[Fitbit LLC (“Fitbit”) recalls Fitbit Ionic Smartwatches](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-05-30-fitbit-recalls-fitbit-ionic-smartwatches.pdf){:target="_blank"}|
+|12 May 2022|[Smiggle Singapore Pte Ltd issues voluntary recall for Smiggle Fun Character Watch Slapband](/files/product-safety-alerts-and-recalls/children-products/smiggle-watch-12-may-2022.pdf){:target="_blank"}|
 |16 Oct 2020 &nbsp; &nbsp; |[Cotton On Group recalls Typo Harry Potter ‘Lumos’ and Marvel ‘Avengers Assemble’ Projection Pens](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-10-16-cotton-on-group-recalls-typo-harry-potter-projection-pens.pdf){:target="_blank"}|
 |29 Jul 2019|[Decathlon recalls Rocky Screwgate Carabiner](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-07-29-decathlon-recalls-rocky-screwgate-carabiner.pdf){:target="_blank"}|
 

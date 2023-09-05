@@ -20,9 +20,9 @@ General household items such as electrical, electronic and gas appliances under 
 In support of the Organisation for Economic Coorperation and Development's [Global Awareness Campaign on online safety](https://www.oecd.org/digital/consumer/put-product-safety-first/), the CPSO encourages consumers to #PutProductSafetyFirst when buying products online. Here are additional tips to consider when making purchases online:
 
 Before purchase:
-![OECD1](/images/consumers/OECD-Checklist-Before-Purchase-LS.png)
+![OECD1](/images/consumers/oecd-checklist-before-purchase-ls.png)
 
 After purchase:
-![OECD1](/images/consumers/OECD-Checklist-After-Purchase-LS.png)
+![OECD1](/images/consumers/oecd-checklist-after-purchase-ls.png)
 	
 You can find more information on the OECD's work consumer product safety [here](https://www.oecd.org/sti/consumer/consumer-product-safety.htm).
