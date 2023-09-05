@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Enterprise Singapore cautions consumers on safety issues with magnetic toys for children
-permalink: /news-and-media/media-releases/2019-09-02-enterprise-singapore-cautions-consumers-on-safety-issues-with-magnetic-tyos-for-children
+permalink: /news-and-media/media-releases/2019-09-02-enterprise-singapore-cautions-consumers-on-safety-issues-with-magnetic-tyos-for-children/
 ---
 ## Enterprise Singapore cautions consumers on safety issues with magnetic toys for children
 

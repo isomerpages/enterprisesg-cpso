@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Children Products
-permalink: /news-and-media/product-safety-alerts-and-recalls/children-products
+permalink: /news-and-media/product-safety-alerts-and-recalls/children-products/
 published: false
 ---
 ### Product Recalls 

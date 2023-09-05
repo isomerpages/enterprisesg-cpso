@@ -1,6 +1,6 @@
 ---
 title: Apply to be a Registered Supplier
-permalink: /suppliers/cpsr/apply-to-be-a-registered-supplier
+permalink: /suppliers/cpsr/apply-to-be-a-registered-supplier/
 third_nav_title: Supplying controlled goods
 ---
 ## Supplying Controlled Goods

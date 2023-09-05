@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /about/overview
+permalink: /about/overview/
 ---
 ## About the Consumer Product Safety Office
 The Consumer Product Safety Office (CPSO) safeguards consumer safety by ensuring consumer products supplied in Singapore are safe for use and comply with applicable safety standards.

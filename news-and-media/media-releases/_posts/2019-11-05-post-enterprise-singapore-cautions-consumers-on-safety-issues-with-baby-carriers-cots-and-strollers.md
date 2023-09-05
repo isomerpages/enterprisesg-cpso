@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Enterprise Singapore cautions consumers on safety issues with baby carriers, cots, and strollers
-permalink: /news-and-media/media-releases/2019-11-05-enterprise-singapore-cautions-consumers-on-safety-issues-with-baby-carriers-cots-and-strollers
+permalink: /news-and-media/media-releases/2019-11-05-enterprise-singapore-cautions-consumers-on-safety-issues-with-baby-carriers-cots-and-strollers/
 ---
 ### Enterprise Singapore cautions consumers on safety issues with baby carriers, cots, and strollers
 
