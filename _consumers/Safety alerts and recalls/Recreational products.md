@@ -18,11 +18,11 @@ The affected models that were sold are:
 
 | Model | Product Code | Picture |
 | -------- | -------- | -------- |
-| New York   | 49576     | ![Bambis New York](/images/product-safety-alerts-and-recalls/recreational-products/Picture1.png)    |
-| Paris   | 49577     | ![Bambis Paris](/images/product-safety-alerts-and-recalls/recreational-products/Picture2.png)    |
-| Marrakesh   | 49578     | ![Bambis Marrakesh](/images/product-safety-alerts-and-recalls/recreational-products/Picture3.png)     |
-| Byron Bay   | 49579     | ![Bambis Byron Bay](/images/product-safety-alerts-and-recalls/recreational-products/Picture4.png)     |
-| Aspen   | 51956     | ![Bambis Aspen](/images/product-safety-alerts-and-recalls/recreational-products/Picture5.png)     |
+| New York   | 49576     | ![Bambis New York](/images/product-safety-alerts-and-recalls/recreational-products/picture1.png)    |
+| Paris   | 49577     | ![Bambis Paris](/images/product-safety-alerts-and-recalls/recreational-products/picture2.png)    |
+| Marrakesh   | 49578     | ![Bambis Marrakesh](/images/product-safety-alerts-and-recalls/recreational-products/picture3.png)     |
+| Byron Bay   | 49579     | ![Bambis Byron Bay](/images/product-safety-alerts-and-recalls/recreational-products/picture4.png)     |
+| Aspen   | 51956     | ![Bambis Aspen](/images/product-safety-alerts-and-recalls/recreational-products/picture5.png)     |
 
 The affected candles were sold at Harvey Norman retail outlets between 18 September 2019 and 23 July 2022. Affected consumers are urged to return the product to the place of purchase for a full refund.
 
@@ -33,8 +33,8 @@ For more information, consumers can email Fang.Fang@harveynorman.com.sg or call 
 
 |Date|Title|
 |---|---|
-|29 Sep 2022|[Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-09-29-Bambis-Australia-recalls-Wanderlust-3-wick-candles.pdf){:target="_blank"}|
-|30 May 2022|[Fitbit LLC (“Fitbit”) recalls Fitbit Ionic Smartwatches](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-05-30-Fitbit-recalls-Fitbit-Ionic-Smartwatches.pdf){:target="_blank"}|
+|29 Sep 2022|[Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-09-29-bambis-australia-recalls-wanderlust-3-wick-candles.pdf){:target="_blank"}|
+|30 May 2022|[Fitbit LLC (“Fitbit”) recalls Fitbit Ionic Smartwatches](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-05-30-fitbit-recalls-fitbit-ionic-smartwatches.pdf){:target="_blank"}|
 |31 Oct 2019|[Decathlon recalls OnNight 410 Trail Running Headlamp](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-10-31-decathlon-recalls-onnight-410-trail-running-headlamp.pdf){:target="_blank"}|
 |02 Sep 2019|[Decathlon recalls BTWIN Bike Carrier Adaptor](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-09-02-decathlon-recalls-bttwin-bike-carrier-adaptor.pdf){:target="_blank"}|
 |02 Sep 2019|[Trek Bicycle Corporation recalls Trek Kickster Balance Bicycles](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-09-02-trek-bicycle-corporation-recalls-trek-kickster-balance-bicycles.pdf){:target="_blank"}|

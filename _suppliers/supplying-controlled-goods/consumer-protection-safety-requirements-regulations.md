@@ -1,6 +1,6 @@
 ---
 title: Consumer Protection (Safety Requirements) Regulations
-permalink: /suppliers/cpsr/overview-of-cpsr
+permalink: /suppliers/cpsr/overview-of-cpsr/
 third_nav_title: Supplying controlled goods
 ---
 ## Overview of CPSR

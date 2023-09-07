@@ -1,6 +1,6 @@
 ---
 title: International product recalls
-permalink: /consumers/international-product-recalls
+permalink: /consumers/international-product-recalls/
 ---
 ## International product recalls
 If you wish to purchase products from an overseas retailer or supplier, you can refer to the resources below to check if the product has been recalled, or if an international safety warning has been issued from the overseas national safety organisations.

@@ -28,7 +28,7 @@ Refer to the listing below for more product safety alerts and recalls.
 |26 Jul 2023|[Philips Recalls Digital Video Baby Monitor SCD620](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-26-philips-avent-digital-baby-monitor-scd620.pdf){:target="_blank"}|
 |14 Jul 2023|[Decathlon Recalls Nabaiji Baby Inflatable Float with built-in harness](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-14-nabaiji-baby-float.pdf){:target="_blank"}|
 |31 Jan 2023|[Fisher Price Reannounces Recall of Rock 'n Play Sleepers](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-01-31-fisher-price-rock-n-play-sleeper-infant-rocker.pdf){:target="_blank"}|
-|18 Mar 2022|[Mushie &amp; Co issues voluntary recall for FRIGG silicone pacifiers](/files/product-safety-alerts-and-recalls/children-products/frigg-classic-and-daisy-silicone-pacifiers-recall-18-Mar-2022.pdf){:target="_blank"}|
+|18 Mar 2022|[Mushie &amp; Co issues voluntary recall for FRIGG silicone pacifiers](/files/product-safety-alerts-and-recalls/children-products/frigg-classic-and-daisy-silicone-pacifiers-recall-18-mar-2022.pdf){:target="_blank"}|
 |13 Jan 2020|[Philips recalls Digital Video Baby Monitor (SCD620)](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-13-philips-recalls-digital-video-baby-monitor.pdf){:target="_blank"}|
 |08 Jan 2020|[Decathlon recalls Baby Seat 100 BClip](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-08-decathlon-recalls-baby-seat-100-bclip.pdf){:target="_blank"}|
 |02 Sep 2019|[Decathlon recalls NABAIJI All Slot Babyseat Inflatable Float](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-09-02-decathlon-recalls-nabaiji-all-slot-babyseat-inflatable-float.pdf){:target="_blank"}|
@@ -42,9 +42,9 @@ Refer to the listing below for more product safety alerts and recalls.
 |Date|Title|
 |---|---|
 |18 Jan 2023|[Baby Self-Feeding Pillow](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-01-18-baby-self-feeding-pillow.pdf){:target="_blank"}|
-|24 Aug 2022|[MamaRoo Infant Swings and RockaRoo Infant Rockers](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-08-24-MamaRoo-RockaRoo.pdf){:target="_blank"}|
-|16 Jun 2022|[Tatameru High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Tatameru-high-chair.pdf){:target="_blank"}|
-|16 Jun 2022|[Safety 1st Kiwi 3-in-1 High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-Safety-1st-Kiwi-3-in-1-high-chair.pdf){:target="_blank"}|
+|24 Aug 2022|[MamaRoo Infant Swings and RockaRoo Infant Rockers](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-08-24-mamaroo-rockaroo.pdf){:target="_blank"}|
+|16 Jun 2022|[Tatameru High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-tatameru-high-chair.pdf){:target="_blank"}|
+|16 Jun 2022|[Safety 1st Kiwi 3-in-1 High Chair](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-safety-1st-kiwi-3-in-1-high-chair.pdf){:target="_blank"}|
 |19 Feb 2020|[Pacifier Clip D-16X-2](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-pacifier-clip-d-16x-2.pdf){:target="_blank"}|
 |19 Feb 2020|[Fancyqube Cute Baby Dummy Pacifier Clip Chain Purple – INTL](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-fancyqube-cute-baby-dummy-pacifier-clip-chain-purple-intl.pdf){:target="_blank"}|
 |19 Feb 2020|[Baby Wooden Pacifier Clips with Silicone Colourful Beads, Nature Wood Pacifier](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-baby-wooden-pacifier-clips-with-silicone-colourful-beads-nature-wood-pacifier.pdf){:target="_blank"}|

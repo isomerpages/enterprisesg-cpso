@@ -1,6 +1,6 @@
 ---
 title: Consumer Protection (Safety Requirements) Regulations (CPSR)
-permalink: /about-us/consumer-protection-safety-requirements-regulations
+permalink: /about-us/consumer-protection-safety-requirements-regulations/
 published: false
 ---
 ### Consumer Protection (Safety Requirements) Regulations (CPSR)

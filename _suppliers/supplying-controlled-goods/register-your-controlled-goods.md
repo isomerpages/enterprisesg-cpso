@@ -1,6 +1,6 @@
 ---
 title: Register your controlled goods
-permalink: /suppliers/cpsr/register-your-controlled-goods
+permalink: /suppliers/cpsr/register-your-controlled-goods/
 third_nav_title: Supplying controlled goods
 ---
 ## Register your controlled goods

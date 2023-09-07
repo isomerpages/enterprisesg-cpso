@@ -11,7 +11,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **SAFETY ALERT: Urban.Power N-PM10.0PD "N.Brandz PD18W 10000mAh Power Bank"<br>**
 The Consumer Product Safety Office has issued a notice to Harvey Norman Singapore Pte Ltd to cease supply of the power bank<br>
 
-<img src="/images/product-safety-alerts-and-recalls/Powerbanks/urban-powerbank.png" alt="PowerBank" style="width:524px;height:524px;">
+<img src="/images/product-safety-alerts-and-recalls/powerbanks/urban-powerbank.png" alt="PowerBank" style="width:524px;height:524px;">
 Sample taken from
 Harvey Norman Singapore Pte Ltd
 

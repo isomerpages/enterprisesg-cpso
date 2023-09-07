@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Enterprise Singapore advises consumers to stop use of selected Elmark ceiling fans
-permalink: /news-and-media/media-releases/2019-12-23-enterprise-singapore-advises-consumers-to-stop-use-of-selected-elmark-ceiling-fans
+permalink: /news-and-media/media-releases/2019-12-23-enterprise-singapore-advises-consumers-to-stop-use-of-selected-elmark-ceiling-fans/
 ---
 ## Enterprise Singapore advises consumers to stop use of selected Elmark ceiling fans
 

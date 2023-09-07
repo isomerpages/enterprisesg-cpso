@@ -1,6 +1,6 @@
 ---
 title: Resources
-permalink: /suppliers/cgsr/resources
+permalink: /suppliers/cgsr/resources/
 third_nav_title: Supplying consumer goods
 ---
 **Resources**<br>

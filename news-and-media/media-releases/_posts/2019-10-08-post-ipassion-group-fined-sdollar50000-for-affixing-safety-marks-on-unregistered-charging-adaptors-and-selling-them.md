@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  iPassion Group fined S$50,000 for affixing SAFETY marks on unregistered charging adaptors and selling them
-permalink: /news-and-media/media-releases/2019-10-08-ipassion-group-fined-50000-for-affixing-safety-marks-on-unregistered-charging-adaptors-and-selling-them
+permalink: /news-and-media/media-releases/2019-10-08-ipassion-group-fined-50000-for-affixing-safety-marks-on-unregistered-charging-adaptors-and-selling-them/
 ---
 ### iPassion Group fined S$50,000 for affixing SAFETY marks on unregistered charging adaptors and selling them
 

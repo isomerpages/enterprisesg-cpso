@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions on CGSR
-permalink: /about/faq/cgsr
+permalink: /about/faq/cgsr/
 third_nav_title: FAQ
 ---
 
