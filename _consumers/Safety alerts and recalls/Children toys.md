@@ -14,27 +14,27 @@ ZURU Inc ("ZURU") has announced a voluntary recall for Recalls ZURU Robo Alive J
 
 1. The Full-Size Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with plastic top fin) is pictured below:
 
-<img src="/images/product-safety-alerts-and-recalls/children-toys/Picture1.png" style="width:400px;height:400;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-toys/picture1.png" style="width:400px;height:400;"><br>
 
 2. The ZURU Robo Alive Junior Mini Baby Shark Swimming Toy (with plastic top fin) which is pictured below:
 
-<img src="/images/product-safety-alerts-and-recalls/children-toys/Picture2.png" style="width:400px;height:400;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-toys/picture2.png" style="width:400px;height:400;"><br>
 
 The ZURU Robo Alive Junior Mini Baby Shark Swimming Toy is also sold as part of a set that is pictured below:
 
-<img src="/images/product-safety-alerts-and-recalls/children-toys/Picture3.png" style="width:400px;height:400;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-toys/picture3.png" style="width:400px;height:400;"><br>
 
 As the ZURU Robo Alive Junior Mini Baby Shark Swimming Toy (with a plastic top fin) is also part of the Baby Shark Music Water Park play set this product is also being recalled. It is pictured below:
 
-<img src="/images/product-safety-alerts-and-recalls/children-toys/Picture4.png" style="width:400px;height:400;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-toys/picture4.png" style="width:400px;height:400;"><br>
 
 The recalled Full-Size Baby Shark also has tracking label information on the bottom, including raised lettering that states model number "#25282" and a date code beginning with the letters "DG" followed by "YYY/MM/DD" in the date range DG20190501 through DG20220619. This is pictured below:
 
-<img src="/images/product-safety-alerts-and-recalls/children-toys/Picture5.png" style="width:400px;height:400;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-toys/picture5.png" style="width:400px;height:400;"><br>
 
 The recalled mini-size bath toys have tracking label information on the bottom, including raised lettering that states model numbers "#7163", "#7175", "#7166", or "#25291" and a date code beginning with the letters "DG" followed by "YYY/MM/DD" in the date range DG2020615 through DG2023525. This is pictured below:
 
-<img src="/images/product-safety-alerts-and-recalls/children-toys/Picture6.png" style="width:400px;height:400;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-toys/picture6.png" style="width:400px;height:400;"><br>
 
 ZURU's new full-size Baby Shark Sing and Swim Bath Toy has a flexible silicone top fin and **is not affected** by or subject to the recall.
 
