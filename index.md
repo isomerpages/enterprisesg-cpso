@@ -8,8 +8,8 @@ description: The Consumer Product Safety Office (CPSO) is an office overseen by
 image: /images/isomer-logo.svg
 permalink: /
 notification: The website will undergo a scheduled maintenance on 20 September
-  2023, 10.30am to 1.30pm. During this period, the website may be unavailable.
-  We apologize for any inconvenience this may cause and appreciate your
+  2023, 10.30am to 1.30pm. The website may be unavailable during this period. We
+  apologize for any inconvenience this may cause and appreciate your
   understanding.
 sections:
   - hero:
