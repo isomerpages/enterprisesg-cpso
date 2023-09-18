@@ -43,6 +43,7 @@ ZURU's new full-size Baby Shark Sing and Swim Bath Toy has a flexible silicone t
 Refer to the listing below for more product safety alerts and recalls.
 
 **Product recalls** 
+
 |Date|Title|
 |---|---|
 |18 Sep 2023|[ZURU Inc (“ZURU”) Recalls ZURU Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with a plastic top fin), and ZURU Robo Alive Junior Mini Baby Shark Bath Toy (with a plastic top fin)](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2023-09-18-zuru-recalls-baby-shark-sing-and-swim-bath-toy.pdf){:target="_blank"}|
