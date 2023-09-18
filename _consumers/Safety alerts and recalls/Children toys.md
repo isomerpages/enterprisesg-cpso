@@ -7,26 +7,38 @@ description: ""
 ## Children toys safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**09 Jun 2023**<br>
-**Health Canada warns of life-threatening risks posed by water beads to young children**<br>
+**18 Sep 2023**<br>
+**ZURU Inc (“ZURU”) Recalls ZURU Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with a plastic top fin), and ZURU Robo Alive Junior Mini Baby Shark Bath Toy (with a plastic top fin)**<br>
 
-<img src="/images/product-safety-alerts-and-recalls/children-toys/water-bead.png" style="width:400px;height:400;"><br>
+ZURU Inc ("ZURU") has announced a voluntary recall for Recalls ZURU Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with a plastic top fin) and ZURU Robo Alive Junior Mini Baby Shark Bath Toy (with a plastic top fin). The recall is being carried out because ZURU has discovered an impact risk if children slip and fall or sit onto the hard plastic top fin of these shark bath toys resulting in injuries such as scratches, lacerations and puncture wounds.
 
-Health Canada is warning parents and caregivers about the risks of water beads. These tiny beads, also known as jelly beads, hydro orbs, crystal soil, sensory beads or orb beads, are water-absorbing gel beads that can grow up to 1,500 times their size when placed in water. Water beads can be very harmful if swallowed or put in the ears or nose. If ingested, water beads can continue to grow inside the body leading to potentially life-threatening injuries, such as intestinal or bowel obstruction.
+The Full-Size Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with plastic top fin) is pictured below:
 
-Water beads can be found in a wide range of products that may be accessible to children, such as toys, art kits, stress balls, foot baths, vase fillers, and gardening products. They are also sold in their dehydrated form in individual containers. They may be promoted to parents and caregivers of young children, specifically for use in sensory bins.
+<img src="/images/product-safety-alerts-and-recalls/children-toys/picture1.png" style="width:400px;height:400;"><br>
 
-Water beads are typically brightly coloured. This may lead young children or adults with cognitive impairment to mistake them for candy. These beads are also small, slippery, and bouncy, allowing them to roll away from their initial location. In several incidents, children gained access to beads that had rolled to another area of the home and were overlooked during clean-up. In some reported cases, the beads had been purchased for, and used by, an older sibling, but a younger child was able to gain access to them. In other reported cases, young children gained access to water beads while at school or in childcare.
+The ZURU Robo Alive Junior Mini Baby Shark Swimming Toy (with plastic top fin) which is pictured below:
 
-Parents and caregivers are encouraged to exercise caution and follow these safety tips: 
-1. If water beads are placed in the nose or ear or you suspect that your child has ingested a water bead, seek medical attention. 
-2. Water beads should always be stored in an airtight container out of sight and reach of children, especially those under the age of five. 
-3. It is recommended that parents of children under five avoid having water beads in their household, even if intended for an older child or adult use. 
-4. If using water beads with children five and up, closely supervise their play. 
-5. After using water beads, thoroughly clean the surrounding area and clean up any beads that may have rolled away. Check under furniture, toys and in adjoining rooms for water beads that may have rolled away from their initial location.
+<img src="/images/product-safety-alerts-and-recalls/children-toys/picture2.png" style="width:400px;height:400;"><br>
 
-For more information, please visit the Health Canada [website](https://recalls-rappels.canada.ca/en/alert-recall/water-beads-may-pose-life-threatening-risks-young-children).  
+The ZURU Robo Alive Junior Mini Baby Shark Swimming Toy is also sold as part of a set that is pictured below:
 
+<img src="/images/product-safety-alerts-and-recalls/children-toys/picture3.png" style="width:400px;height:400;"><br>
+
+As the ZURU Robo Alive Junior Mini Baby Shark Swimming Toy (with a plastic top fin) is also part of the Baby Shark Music Water Park play set this product is also being recalled. It is pictured below:
+
+<img src="/images/product-safety-alerts-and-recalls/children-toys/picture4.png" style="width:400px;height:400;"><br>
+
+The recalled Full-Size Baby Shark also has tracking label information on the bottom, including raised lettering that states model number "#25282" and a date code beginning with the letters "DG" followed by "YYY/MM/DD" in the date range DG20190501 through DG20220619. This is pictured below:
+
+<img src="/images/product-safety-alerts-and-recalls/children-toys/picture5.png" style="width:400px;height:400;"><br>
+
+The recalled mini-size bath toys have tracking label information on the bottom, including raised lettering that states model numbers "#7163", "#7175", "#7166", or "#25291" and a date code beginning with the letters "DG" followed by "YYY/MM/DD" in the date range DG2020615 through DG2023525. This is pictured below:
+
+<img src="/images/product-safety-alerts-and-recalls/children-toys/picture6.png" style="width:400px;height:400;"><br>
+
+ZURU's new full-size Baby Shark Sing and Swim Bath Toy has a flexible silicone top fin and **is not affected** by or subject to the recall.
+
+**Consumers should immediately stop using the recalled Full-Size Baby Shark Sing and Swim Bath Toy (with a plastic top fin), and Mini Baby Shark Bath Toy (with a plastic top fin)**. Consumer should visit the dedicated recall website, https:www.recallrtr.com/bathshark or the ZURU Toys website www.Zurutoys.com for more information on how to identify if your product is affected by the recall, and to register for a refund if so.
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -34,6 +46,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|18 Sep 2023|[ZURU Inc (“ZURU”) Recalls ZURU Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with a plastic top fin), and ZURU Robo Alive Junior Mini Baby Shark Bath Toy (with a plastic top fin)](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2023-09-18-zuru-recalls-baby-shark-sing-and-swim-bath-toy.pdf){:target="_blank"}|
 |23 Mar 2023|[IKEA voluntarily recalls BLÅVINGAD Fishing Game Multicolour ](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2023-03-23-ikea-%20fishing-game.pdf){:target="_blank"}|
 |25 Jun 2021|[Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10’](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-06-25-cotton-on-group-recalls-kids-projector-light.pdf){:target="_blank"}|
 |16 Apr 2021|[Toys’R’Us recalls ‘Squish-dee-lish Series 5’ and ‘Mickey Mouse &amp; Minnie Mouse Tumbler’](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-04-16-toysrus-recalls-squish-dee-lish-and-mickey-mouse-tumbler.pdf){:target="_blank"}|
