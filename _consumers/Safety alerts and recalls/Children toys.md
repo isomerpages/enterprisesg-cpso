@@ -12,11 +12,11 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 
 ZURU Inc ("ZURU") has announced a voluntary recall for Recalls ZURU Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with a plastic top fin) and ZURU Robo Alive Junior Mini Baby Shark Bath Toy (with a plastic top fin). The recall is being carried out because ZURU has discovered an impact risk if children slip and fall or sit onto the hard plastic top fin of these shark bath toys resulting in injuries such as scratches, lacerations and puncture wounds.
 
-1. The Full-Size Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with plastic top fin) is pictured below:
+The Full-Size Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with plastic top fin) is pictured below:
 
 <img src="/images/product-safety-alerts-and-recalls/children-toys/picture1.png" style="width:400px;height:400;"><br>
 
-2. The ZURU Robo Alive Junior Mini Baby Shark Swimming Toy (with plastic top fin) which is pictured below:
+The ZURU Robo Alive Junior Mini Baby Shark Swimming Toy (with plastic top fin) which is pictured below:
 
 <img src="/images/product-safety-alerts-and-recalls/children-toys/picture2.png" style="width:400px;height:400;"><br>
 
