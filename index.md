@@ -7,10 +7,9 @@ description: The Consumer Product Safety Office (CPSO) is an office overseen by
   (Consumer Goods Safety Requirements) Regulations 2011 (CGSR).
 image: /images/isomer-logo.svg
 permalink: /
-notification: The website will undergo a scheduled maintenance on 20 September
-  2023, 10.30am to 1.30pm. The website may be unavailable during this period. We
-  apologize for any inconvenience this may cause and appreciate your
-  understanding.
+notification: Help us better understand consumer habits so that we can improve
+  the effectiveness of our safety regimes. Please spare 5 mins to fill out this
+  <a href="https://form.gov.sg/63a160c3cf15ee00129a4ab4">simple survey</a>.
 sections:
   - hero:
       subtitle: <h3>Consumer product safety for consumers and suppliers</h3><h3></h3>
