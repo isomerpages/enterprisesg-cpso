@@ -5,5 +5,5 @@ date: 2023-01-27
 layout: file
 description: ""
 image: ""
-file_url: /files/circulars/2023-01-27-Circular.pdf
+file_url: /files/circulars/2023-01-27-circular.pdf
 ---
