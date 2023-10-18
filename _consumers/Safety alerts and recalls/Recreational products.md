@@ -12,9 +12,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 
 Shimano has launched a voluntary inspection and replacement program for some bonded 11-speed HOLLOWTECH II road cranksets produced before July 2019 for a possible bonding separation issue, posing a crash hazard to consumers. 
 
-<img src="/images/product-safety-alerts-and-recalls/recreational-products/shimano-1.png" alt="shimano1" style="width:400px;height:200px;">
-
-
+<img src="/images/product-safety-alerts-and-recalls/recreational-products/shimano-1.png" alt="shimano1" style="width:600px;height:300px;">
 
 This recall involves models Ultegra FC-6800, Dura-Ace FC-9000, Ultegra FC-R8000, Dura-Ace FC-R9100 and FC-R9100P 11-Speed Bonded Hollowtech Road Cranksets manufactured prior to July 2019 sold individually and on bicycles sold by other manufacturers such as Trek and Specialized. A crankset is the component of the bicycle that the chain and pedals attach to for pedalling. The model numbers are stamped on the inside of the crank arm near the bottom of the arm. The affected models are pre-July 2019 production and have the following two-letter production code on the crank arm  where the pedals are attached (red box on the image below): KF, KG, KH, KI, KJ, KK, KL, LA, LB, LC, LD, LE, LF, LG, LH, LI, LJ, LK, LL, MA, MB, MC, MD, ME, MF, MG, MH, MI, MJ, MK, ML, NA, NB, NC, ND, NE, NF, NG, NH, NI, NJ, NK, NL, OA, OB, OC, OD, OE, OF, OG, OH, OI, OJ, OK, OL, PA, PB, PC, PD, PE, PF, PG, PH, PI, PJ, PK, PL, QA, QB, QC, QD, QE, QF, QG, QH, QI, QJ, QK, QL, RA, RB, RC, RD, RE, and RF.
 
