@@ -7,32 +7,26 @@ description: ""
 ## Recreational products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**29 Sep 2022**<br>
-**Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman**<br>
+**21 Sep 2023**<br>
+**Shimano (Singapore) Pte. Ltd. Recalls Cranksets for Bicycles Due to Crash Hazard**<br>
 
-Bambis Australia has announced a recall of the salt&amp;pepper Wanderlust 3 wick candles sold at Harvey Norman. The glass candle containers may fracture or shatter, which could result in the wax in the candle igniting and causing a fire.
+Shimano has launched a voluntary inspection and replacement program for some bonded 11-speed HOLLOWTECH II road cranksets produced before July 2019 for a possible bonding separation issue, posing a crash hazard to consumers. 
 
-The affected models that were sold are:
+![shimano1](/images/product-safety-alerts-and-recalls/recreational-products/shimano-1.png)
 
+This recall involves models Ultegra FC-6800, Dura-Ace FC-9000, Ultegra FC-R8000, Dura-Ace FC-R9100 and FC-R9100P 11-Speed Bonded Hollowtech Road Cranksets manufactured prior to July 2019 sold individually and on bicycles sold by other manufacturers such as Trek and Specialized. A crankset is the component of the bicycle that the chain and pedals attach to for pedalling. The model numbers are stamped on the inside of the crank arm near the bottom of the arm. The affected models are pre-July 2019 production and have the following two-letter production code on the crank arm  where the pedals are attached (red box on the image below): KF, KG, KH, KI, KJ, KK, KL, LA, LB, LC, LD, LE, LF, LG, LH, LI, LJ, LK, LL, MA, MB, MC, MD, ME, MF, MG, MH, MI, MJ, MK, ML, NA, NB, NC, ND, NE, NF, NG, NH, NI, NJ, NK, NL, OA, OB, OC, OD, OE, OF, OG, OH, OI, OJ, OK, OL, PA, PB, PC, PD, PE, PF, PG, PH, PI, PJ, PK, PL, QA, QB, QC, QD, QE, QF, QG, QH, QI, QJ, QK, QL, RA, RB, RC, RD, RE, and RF.
 
+![shimano2](/images/product-safety-alerts-and-recalls/recreational-products/shimano-2.png)
 
-| Model | Product Code | Picture |
-| -------- | -------- | -------- |
-| New York   | 49576     | ![Bambis New York](/images/product-safety-alerts-and-recalls/recreational-products/picture1.png)    |
-| Paris   | 49577     | ![Bambis Paris](/images/product-safety-alerts-and-recalls/recreational-products/picture2.png)    |
-| Marrakesh   | 49578     | ![Bambis Marrakesh](/images/product-safety-alerts-and-recalls/recreational-products/picture3.png)     |
-| Byron Bay   | 49579     | ![Bambis Byron Bay](/images/product-safety-alerts-and-recalls/recreational-products/picture4.png)     |
-| Aspen   | 51956     | ![Bambis Aspen](/images/product-safety-alerts-and-recalls/recreational-products/picture5.png)     |
+Consumers who owned the affected models of cranksets should immediately stop using them, and contact Shimano at +65 98305212 to schedule a free crankset inspection. Consumers whose cranksets show signs of bonding separation or delamination during the inspection will be provided a free replacement crankset and installation.
 
-The affected candles were sold at Harvey Norman retail outlets between 18 September 2019 and 23 July 2022. Affected consumers are urged to return the product to the place of purchase for a full refund.
-
-For more information, consumers can email Fang.Fang@harveynorman.com.sg or call 63119983.
-
+For more information on this matter, please visit the Shimano [website](https://bike.shimano.com/en-SG/information/customer-services/corrective-actions/important-safety-notice-11-speed-hollowtech-road-cranksets-inspection-program.html).
 
 **Product recalls**
 
 |Date|Title|
 |---|---|
+|21 Sep 2023|[Shimano (Singapore) Pte. Ltd. Recalls Cranksets for Bicycles Due to Crash Hazard](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2023-09-21-shimano-recalls-cranksets-for-bicycles-due-to-crash-hazard.pdf){:target="_blank"}|
 |29 Sep 2022|[Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-09-29-bambis-australia-recalls-wanderlust-3-wick-candles.pdf){:target="_blank"}|
 |30 May 2022|[Fitbit LLC (“Fitbit”) recalls Fitbit Ionic Smartwatches](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-05-30-fitbit-recalls-fitbit-ionic-smartwatches.pdf){:target="_blank"}|
 |31 Oct 2019|[Decathlon recalls OnNight 410 Trail Running Headlamp](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-10-31-decathlon-recalls-onnight-410-trail-running-headlamp.pdf){:target="_blank"}|
