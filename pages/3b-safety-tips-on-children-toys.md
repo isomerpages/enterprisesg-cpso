@@ -53,6 +53,6 @@ As consumers, you can protect your child from hazards that could be caused by to
 * Caregivers are advised to keep a lookout and ensure that these products are not made accessible to children, and avoid using magnetic balls and water beads as sensory toys for children.
 
 Click [here](/files/collateral-toy-safety.pdf) to download our brochure on toy safety<br><br>
-For more information on keeping your child safe and healthy, visit the Health Promotion Board's [Parent Hub](https://www.healthhub.sg/programmes/183/parent-hub/preschool/safety-hygiene).
+For more information on keeping your child safe and healthy, visit the Health Promotion Board's [Parent Hub](https://go.gov.sg/parenthub-toysafety-cpso).
 
 **[← Back to Product safety tips](/consumers/product-safety-tips/children-product)**
