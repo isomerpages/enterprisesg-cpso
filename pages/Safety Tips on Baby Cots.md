@@ -5,7 +5,7 @@ date: 2021-12-29
 layout: post
 description: ""
 ---
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
+**[← Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 *Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
@@ -46,6 +46,7 @@ Always follow the instructions provided in the manual and pay attention to warni
 * Never place a cot near a window with blinds, curtain cords, baby monitor cords, or wall mounted decorative accessories with long cords. Babies are at risk of strangling by the cords and older babies could pull themselves up and fall through the window.
 *	Never put your baby on sofa cushions, adult beds or pillows or any surface not designed for infant sleep.
 
-For more information on baby sleep, visit the Health Promotion Board's [Parent Hub](https://www.healthhub.sg/programmes/183/parent-hub/baby-toddler/baby-sleep?_sc_token=v2%253A6u8bcm0jcps-wO9Ven4jBSAp0kmERk58RlbPsEHMCJ6AwDd6h-eQYgBGJnKtzarAqmn6xtpeyhTUmhi9v2TuGPrL81TB7WYup98bOmYkkMtdy-vU38FnM7yhoJBvz3kTS_wu9Sorwe_jezVhx6ZoxYS_ohDEK0eqFfsm7nOLKXXt2wjj0_iBOuwyekrIgbXDsFlmiKYdJKgUuJ-NqofiXQ%253D%253D).
+For more information on baby sleep, visit the Health Promotion Board's [Parent Hub](https://www.healthhub.sg/programmes/183/parent-hub/baby-toddler/baby-sleep?_sc_token=v2%253A6u8bcm0jcps-wO9Ven4jBSAp0kmERk58RlbPsEHMCJ6AwDd6h-eQYgBGJnKtzarAqmn6xtpeyhTUmhi9v2TuGPrL81TB7WYup98bOmYkkMtdy-vU38FnM7yhoJBvz3kTS_wu9Sorwe_jezVhx6ZoxYS_ohDEK0eqFfsm7nOLKXXt2wjj0_iBOuwyekrIgbXDsFlmiKYdJKgUuJ-NqofiXQ%253D%253D).<br>
+For more information on preparing for birth, visit the Health Promotion Board's [Parent Hub](https://www.healthhub.sg/programmes/183/parent-hub/pregnancy/trimester2).
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/children-product)**
+**[← Back to Product safety tips](/consumers/product-safety-tips/children-product)**
