@@ -27,7 +27,7 @@ The following book titles have been made available in Singapore and subject to t
 
 <img src="/images/product-safety-alerts-and-recalls/children-products/rainbowbook-1.png" style="width:250px;height:250px;"><br>
 
-Consumers are asked to check the ISBN on their book(s) against the details above and, if their product is affected, to immediately stop using it and visit https://www.recallrtr.com/rr to register for a refund, or visit MBI's 
+Consumers are asked to check the ISBN on their book(s) against the details above and, if their product is affected, to immediately stop using it and visit https://www.recallrtr.com/rr to register for a refund, or visit MBI's website for more information on the recall.
 
 <img src="/images/product-safety-alerts-and-recalls/children-products/rainbowbook-2.png" style="width:250px;height:250px;"><br>
 
