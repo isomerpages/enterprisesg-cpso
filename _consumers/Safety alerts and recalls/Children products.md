@@ -8,7 +8,7 @@ variant: markdown
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**21 Sep 2023**<br>
+**6 Nov 2023**<br>
 **Make Believe Ideas Ltd (MBI) recalls five titles in the Rainbow Road Board Book Series**<br>
 
 Make Believe Ideas Ltd (MBI) has announced a voluntary recall for 5 titles in the Rainbow Road Board Book Series. The recall is carried out because MBI has identified that in certain circumstances, the circular binding rings for the books can be torn free and may possibly pose a choking hazard to young children.
