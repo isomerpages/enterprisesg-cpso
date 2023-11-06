@@ -3,21 +3,33 @@ title: Children products
 permalink: /consumers/safety-alerts-and-recalls/children-products/
 third_nav_title: Safety alerts and recalls
 description: ""
+variant: markdown
 ---
 ## Children products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**26 Jul 2023**<br>
-**Philips Recalls Digital Video Baby Monitor SCD620**<br>
+**6 Nov 2023**<br>
+**Make Believe Ideas Ltd (MBI) recalls five titles in the Rainbow Road Board Book Series**<br>
 
-Philips Singapore has announced a voluntary recall for the Philips Avent Digital Video Baby Monitor (SCD620). The battery in the parent unit may overheat while plugged into the electrical outlet, posing a fire hazard. Affected units were produced between January 2016 and January 2020.
+Make Believe Ideas Ltd (MBI) has announced a voluntary recall for 5 titles in the Rainbow Road Board Book Series. The recall is carried out because MBI has identified that in certain circumstances, the circular binding rings for the books can be torn free and may possibly pose a choking hazard to young children.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/philips avent baby monitor.png" style="width:250px;height:250px;"><br>
+The following book titles have been made available in Singapore and subject to the recall:
 
-Please refer to this&nbsp;[website](https://www.philips.com.sg/c-w/support-home/recall/avent-digital-video-baby-monitors.html)&nbsp;for more information on the recall and instructions on how to identify if your Philips Avent Digital Video Baby Monitor is affected by this recall.
 
-Consumers with affected units should stop using the baby monitor and unplug it from the power outlet, then contact Philips’ customer care team at +65 68823999 for a replacement.
 
+| Title | ISBN |
+| -------- | -------- |
+| Dinosaur's First Words     | 9781803374772     |
+| Unicorn's Colours     | 9781803374796     |
+| Old MacDonald Had a Farm     | 9781803376806     |
+| Animal Counting     | 9781803374819     |
+| Things that Go!     | 9781803374833     |
+
+<img src="/images/product-safety-alerts-and-recalls/children-products/rainbowbook1.png" style="width:350px;height:250px;"><br>
+
+Consumers are asked to check the ISBN on their book(s) against the details above and, if their product is affected, to immediately stop using it and visit https://www.recallrtr.com/rr to register for a refund, or visit MBI's [website](https://www.makebelieveideas.co.uk/help/product-recall/) for more information on the recall.
+
+<img src="/images/product-safety-alerts-and-recalls/children-products/rainbowbook2.png" style="width:500px;height:190px;"><br>
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -25,6 +37,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+06 Nov 2023|[MBI recalls fve titles in Rainbow Road Board Book Series](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-11-06-rainbow-road-board-books.pdf){:target="_blank"}|
 |26 Jul 2023|[Philips Recalls Digital Video Baby Monitor SCD620](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-26-philips-avent-digital-baby-monitor-scd620.pdf){:target="_blank"}|
 |14 Jul 2023|[Decathlon Recalls Nabaiji Baby Inflatable Float with built-in harness](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-14-nabaiji-baby-float.pdf){:target="_blank"}|
 |31 Jan 2023|[Fisher Price Reannounces Recall of Rock 'n Play Sleepers](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-01-31-fisher-price-rock-n-play-sleeper-infant-rocker.pdf){:target="_blank"}|
