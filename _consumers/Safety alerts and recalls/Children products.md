@@ -37,7 +37,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|21 Sep 2023|[MBI recalls fve titles in Rainbow Road Board Book Series](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-09-21-rainbow-road-board-books.pdf){:target="_blank"}|
+|21 Sep 2023|[MBI recalls fve titles in Rainbow Road Board Book Series](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-11-06-rainbow-road-board-books.pdf){:target="_blank"}|
 |26 Jul 2023|[Philips Recalls Digital Video Baby Monitor SCD620](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-26-philips-avent-digital-baby-monitor-scd620.pdf){:target="_blank"}|
 |14 Jul 2023|[Decathlon Recalls Nabaiji Baby Inflatable Float with built-in harness](/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-14-nabaiji-baby-float.pdf){:target="_blank"}|
 |31 Jan 2023|[Fisher Price Reannounces Recall of Rock 'n Play Sleepers](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-01-31-fisher-price-rock-n-play-sleeper-infant-rocker.pdf){:target="_blank"}|
