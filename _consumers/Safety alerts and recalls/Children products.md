@@ -25,11 +25,11 @@ The following book titles have been made available in Singapore and subject to t
 | Animal Counting     | 9781803374819     |
 | Things that Go!     | 9781803374833     |
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/rainbowbook1.png" style="width:2700px;height:250px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-products/rainbowbook1.png" style="width:300px;height:250px;"><br>
 
 Consumers are asked to check the ISBN on their book(s) against the details above and, if their product is affected, to immediately stop using it and visit https://www.recallrtr.com/rr to register for a refund, or visit MBI's [website](https://www.makebelieveideas.co.uk/help/product-recall/) for more information on the recall.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/rainbowbook2.png" style="width:5000px;height:190px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-products/rainbowbook2.png" style="width:500px;height:190px;"><br>
 
 Refer to the listing below for more product safety alerts and recalls.
 
