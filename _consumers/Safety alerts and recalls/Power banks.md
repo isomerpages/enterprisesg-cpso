@@ -33,7 +33,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|5 Dec 2023|[Lenovo Group Limited recalls Lenovo USB-C Laptop Power Banks (20,000 mAh)"](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alerts-2023-12-05-Lenovo Group Limited recalls Lenovo USB-C Laptop Power Banks (20,000 mAh)){:target="_blank"}|
+|5 Dec 2023|[Lenovo Group Limited recalls Lenovo USB-C Laptop Power Banks (20,000 mAh)"]([](/files/product-safety-alerts-and-recalls/power-banks/powerbanks_alerts_2023_12_05_Lenovo_Group_Limited_recalls_Lenovo_USB_C_Laptop_Power_Banks__20_000_mAh_.pdf)){:target="_blank"}|
 |21 Jul 2022|[Urban.Power N-PM10.0PD "N.Brandz PD18W 10000mAh Power Bank"](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2022-07-21-urban-powerbank.pdf){:target="_blank"}|
 |16 Jun 2022|[Portable Power Bank 20000mah](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2022-06-17-portable-power-bank-20000-mah.pdf){:target="_blank"}|
 |25 Apr 2019|[Cotton On recalls power bank](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2019-04-25-cotton-on-recalls-power-bank.pdf){:target="_blank"}|
