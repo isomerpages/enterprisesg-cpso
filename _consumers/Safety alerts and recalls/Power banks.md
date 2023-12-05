@@ -3,6 +3,7 @@ title: Power banks
 permalink: /consumers/safety-alerts-and-recalls/power-banks/
 third_nav_title: Safety alerts and recalls
 description: ""
+variant: markdown
 ---
 ## Power banks safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
@@ -32,6 +33,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|5 Dec 2023|[Lenovo Group Limited recalls Lenovo USB-C Laptop Power Banks (20,000 mAh)"](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2022-07-21-urban-powerbank.pdf){:target="_blank"}|
 |21 Jul 2022|[Urban.Power N-PM10.0PD "N.Brandz PD18W 10000mAh Power Bank"](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2022-07-21-urban-powerbank.pdf){:target="_blank"}|
 |16 Jun 2022|[Portable Power Bank 20000mah](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2022-06-17-portable-power-bank-20000-mah.pdf){:target="_blank"}|
 |25 Apr 2019|[Cotton On recalls power bank](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2019-04-25-cotton-on-recalls-power-bank.pdf){:target="_blank"}|
