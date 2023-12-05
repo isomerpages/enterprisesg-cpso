@@ -3,27 +3,23 @@ title: Power banks
 permalink: /consumers/safety-alerts-and-recalls/power-banks/
 third_nav_title: Safety alerts and recalls
 description: ""
+variant: markdown
 ---
 ## Power banks safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**21 Jul 2022**<br>
-**SAFETY ALERT: Urban.Power N-PM10.0PD "N.Brandz PD18W 10000mAh Power Bank"<br>**
-The Consumer Product Safety Office has issued a notice to Harvey Norman Singapore Pte Ltd to cease supply of the power bank<br>
+**5 December 2023**<br>
+**Lenovo Group Limited recalls Lenovo USB-C Laptop Power Banks (20,000 mAh)<br>**
+Lenovo Group Limited detected a manufacturing defect in certain Lenovo USB-C Laptop Power Banks (Part number: 40ALLG2WWW) which were manufactured between January and June 2022, and sold since 2023. 
 
-<img src="/images/product-safety-alerts-and-recalls/powerbanks/urban-powerbank.png" alt="PowerBank" style="width:524px;height:524px;">
-Sample taken from
-Harvey Norman Singapore Pte Ltd
+Lenovo has determined that in a limited number of units, the power bank’s internal screws can come loose, causing a short circuit, and overheating of the lithium-ion battery, posing a fire hazard.
 
-During the testing of this sample, it was found that the product did not comply with the following requirements from IEC 62133-2:2017 (Secondary cells and batteries containing alkaline or other non-acid electrolytes - Safety requirements for portable sealed secondary cells, and for batteries made from them, for use in portable applications - Part 2: Lithium systems):
-* The cells caught fire during an external short-circuit safety test.
-* The cells caught fire during a thermal abuse safety test.
+<img src="/images/product-safety-alerts-and-recalls/powerbanks/Lenovo_Recall_1.png" alt="PowerBank" style="width:400px;height:200px;">
 
-In addition, the instructions and warnings provided were not in accordance with the minimum requirements for portable power banks stipulated in the Consumer Goods Safety Requirements Notice No.1 of 2015, as published in the Consumer Protection (Consumer Goods Safety Requirements) Regulations 2011 Information Booklet.
+To confirm if your Lenovo USB-C Laptop Power Bank (Part Number: 40ALLG2WWW) is affected, follow the instructions below:
+<img src="/images/product-safety-alerts-and-recalls/powerbanks/Lenovo_Recall_2.png" alt="PowerBank" style="width:520px;height:240px;">
 
-No report of incident or injury related to the use of this product has been received to date.
-
-Consumers who have bought the product are advised to stop using it immediately.
+Consumers in possession of the affected power bank should immediately stop using it and disconnect it from all devices. Click [here](https://support.lenovo.com/sg/en/servicerequest?problemtype=/power-bank-recall/) to submit their request for a replacement power bank, or visit Lenovo’s [website](https://support.lenovo.com/sg/en/solutions/ht515669) for more information on the recall.
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -32,6 +28,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|5 Dec 2023|[Lenovo Group Limited recalls Lenovo USB-C Laptop Power Banks (20,000 mAh)](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alerts-2023-12-05-lenovo-usb-c-laptop-power-banks.pdf){:target="_blank"}|
 |21 Jul 2022|[Urban.Power N-PM10.0PD "N.Brandz PD18W 10000mAh Power Bank"](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2022-07-21-urban-powerbank.pdf){:target="_blank"}|
 |16 Jun 2022|[Portable Power Bank 20000mah](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2022-06-17-portable-power-bank-20000-mah.pdf){:target="_blank"}|
 |25 Apr 2019|[Cotton On recalls power bank](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2019-04-25-cotton-on-recalls-power-bank.pdf){:target="_blank"}|
