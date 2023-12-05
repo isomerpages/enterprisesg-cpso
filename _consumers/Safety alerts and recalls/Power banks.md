@@ -18,9 +18,8 @@ Lenovo has determined that in a limited number of units, the power bank’s inte
 
 To confirm if your Lenovo USB-C Laptop Power Bank (Part Number: 40ALLG2WWW) is affected, follow the instructions below:
 <img src="/images/product-safety-alerts-and-recalls/powerbanks/Lenovo_Recall_2.png" alt="PowerBank" style="width:520px;height:240px;">
-Consumers in possession of the affected power bank should immediately stop using it and disconnect it from all devices. Click [here](https://support.lenovo.com/sg/en/servicerequest?problemtype=/power-bank-recall/) to submit their request for a replacement power bank, or visit Lenovo’s [website](https://support.lenovo.com/sg/en/solutions/ht515669) for more information on the recall.
 
-Consumers who have bought the product are advised to stop using it immediately.
+Consumers in possession of the affected power bank should immediately stop using it and disconnect it from all devices. Click [here](https://support.lenovo.com/sg/en/servicerequest?problemtype=/power-bank-recall/) to submit their request for a replacement power bank, or visit Lenovo’s [website](https://support.lenovo.com/sg/en/solutions/ht515669) for more information on the recall.
 
 Refer to the listing below for more product safety alerts and recalls.
 
