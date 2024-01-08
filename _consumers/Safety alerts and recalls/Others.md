@@ -15,7 +15,9 @@ BlendJet Inc. has detected manufacturing defects in certain batches of the porta
 
 The recalled blenders can overheat or catch fire, and the blender blades can break off, posing fire and laceration hazards to consumers.
 
-<img src="/images/product-safety-alerts-and-recalls/children-products/hnm-clasp-bracelet.png" style="width:250px;height:250px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/others/BlendJet_1.png" style="width:80px;height:200px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/others/BlendJet_2.png" style="width:130px;height:160px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/others/BlendJet_3.png" style="width:230px;height:150px;"><br>
 
 
 Consumers should immediately stop using the blenders and check if their unit is affected by the recall. Consumers can identify whether their unit is affected by the recall by entering it’s serial number into the “Is my BlendJet 2 Recalled?” tool located at  www.blendjet.com/safetyandrecall. If the unit is recalled , contact BlendJet for a free replacement of the BlendJet 2 base unit.
