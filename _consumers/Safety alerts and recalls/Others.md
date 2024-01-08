@@ -3,23 +3,24 @@ title: Others
 permalink: /consumers/safety-alerts-and-recalls/others/
 description: ""
 third_nav_title: Safety alerts and recalls
+variant: markdown
 ---
 ## Other safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**18 Aug 2023**<br>
-**H&amp;M Hennes &amp; Mauritz Pte Ltd Recalls Clasp Beaded Bracelet**<br>
+**8 Jan 2024**<br>
+**BlendJet Inc. recalls BlendJet 2 Portable Blenders**<br>
 
-H&amp;M Hennes and Mauritz Pte Ltd has announced a voluntary recall for the Clasp Beaded Bracelet. The limit of lead is too high in the bracelet and violates the EU’s Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) Regulation. Lead is a substance that poses risks to people’s health and the environment. Levels of exposure can cause damage to people and wildlife. 
+BlendJet Inc. has detected manufacturing defects in certain batches of the portable blender, ‘BlendJet 2’. Affected units have the serial numbers ranging from 5201000000 to 5542999999. The affected units were sold from October 2020 through November 2023. Not all units sold during this period are defective. 
 
-The bracelet has been sold in H&amp;M outlets at the Men’s department, and on their online store from 28 December 2022 to 11 July 2023. 
+The recalled blenders can overheat or catch fire, and the blender blades can break off, posing fire and laceration hazards to consumers.
 
 <img src="/images/product-safety-alerts-and-recalls/children-products/hnm-clasp-bracelet.png" style="width:250px;height:250px;"><br>
 
 
-Consumers who own this Clasp Bracelet should immediately stop using the product and return it to the nearest H&amp;M Store for a full refund or contact hm.com. 
+Consumers should immediately stop using the blenders and check if their unit is affected by the recall. Consumers can identify whether their unit is affected by the recall by entering it’s serial number into the “Is my BlendJet 2 Recalled?” tool located at  www.blendjet.com/safetyandrecall. If the unit is recalled , contact BlendJet for a free replacement of the BlendJet 2 base unit.
 
-For more information, please visit this [website](https://www2.hm.com/en_sg/customer-service/product-and-quality/recalled-items.html).
+Consumers will need to remove and cut the rubber seal from the base of their recalled blender into three or more pieces and upload or email a photo showing the serial number on the bottom of the unit and its rubber seal in pieces to BlendJet at www.blendjet.com/safetyandrecall or safety@blendjet.com to receive a free replacement base.
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -27,7 +28,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|18 Aug 2023|[H&amp;M Recalls Clasp Beaded Bracelet](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-08-18-hnm-clasp-bracelet.pdf){:target="_blank"}|
+|8 Jan 2024|[BlendJet Inc. recalls BlendJet 2 Portable Blenders ](/files/product-safety-alerts-and-recalls/others/others_recall_2024_01_08_blendjet_blendjet2_pdf.pdf){:target="_blank"}||18 Aug 2023|[H&amp;M Recalls Clasp Beaded Bracelet](/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-08-18-hnm-clasp-bracelet.pdf){:target="_blank"}|
 |22 Jun 2023|[The Laundress New York recalls fabric conditioners due to chemical hazard](/files/product-safety-alerts-and-recalls/others/others-recall-2023-06-22-thelaundress_fabricconditioner.pdf)
 |31 Jan 2023|[The Laundress New York recalls Laundress laundry and household cleaning products](/files/product-safety-alerts-and-recalls/others/others-recall-2023-01-31-the-laundress.pdf){:target="_blank"}|
 |29 Sep 2022|[Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-09-29-bambis-australia-recalls-wanderlust-3-wick-candles.pdf){:target="_blank"}|
