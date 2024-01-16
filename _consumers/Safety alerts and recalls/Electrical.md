@@ -19,7 +19,7 @@ It has been found that the power cable can be damaged or broken, after being wra
 
 <img src="/images/product-safety-alerts-and-recalls/electrical/ikea_2.png" alt="Askstorm 40W USB charger" style="width:400px;height:300px;"><br>
 		 
-IKEA urges all customers who owns ÅSKSTORM 40W USB charger dark grey, article number 60461197, to stop using it and to contact IKEA for a full refund. ÅSKSTORM 40W USB charger dark grey can be returned to any [IKEA store](https://www.ikea.com/sg/en/stores/)for a full refund. Proof of purchase (receipt) is not required.
+IKEA urges all customers who owns ÅSKSTORM 40W USB charger dark grey, article number 60461197, to stop using it and to contact IKEA for a full refund. ÅSKSTORM 40W USB charger dark grey can be returned to any [IKEA store](https://www.ikea.com/sg/en/stores/) for a full refund. Proof of purchase (receipt) is not required.
 
 For more information, please contact [IKEA Customer Contact Centre](https://www.ikea.com/sg/en/customer-service/contact-us/) at [+65 6786 6868](tel:+6567866868).
 
