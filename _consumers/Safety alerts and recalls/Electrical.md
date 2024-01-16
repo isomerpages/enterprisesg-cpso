@@ -3,26 +3,25 @@ title: Electrical
 permalink: /consumers/safety-alerts-and-recalls/electrical/
 third_nav_title: Safety alerts and recalls
 description: ""
+variant: markdown
 ---
 ## Electrical safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**14 Jul 2023**<br>
-**Bose Recalls Bass Modules sold with select Acoustimass®, Lifestyle® and Companion™ Home Theater System Due to Fire Hazard****<br>
+**16 Jan 2024**<br>
+**IKEA recalls ÅSKSTORM 40W USB charger due to thermal burn and electric shock hazard****<br>
 
-Bose has announced a voluntary recall of certain bass modules that were produced before April 2006, and sold with Acoustimass, Lifestyle and Companion Home Theater Systems. The recalled units’ electrical components may fail under certain conditions thus posing fire hazards.
+Ikea is recalling ÅSKSTORM 40W USB charger dark grey, model number ICPSW5-40-1.
 
-Below are two images of the bass modules included in this recall. The colour of the bass module may be either black or white. 
+<img src="/images/product-safety-alerts-and-recalls/electrical/ikea_1.png" alt="Askstorm 40W USB charger" style="width:400px;height:300px;"><br>
 
+It has been found that the power cable can be damaged or broken, after being wrapped around the charger or bent back and forth after a longer period of use. The damaged cable may lead to thermal burns and electric shock. The affected model can be identified by the model number found on the label on the backside of the USB charger.
 
-<img src="/images/product-safety-alerts-and-recalls/electrical/bose%201.png" alt="METALLISK Espresso Maker" style="width:300px;height:300px;"><br>
-
-<img src="/images/product-safety-alerts-and-recalls/electrical/bose%202.png" alt="METALLISK Espresso Maker" style="width:300px;height:300px;">
+<img src="/images/product-safety-alerts-and-recalls/electrical/ikea_2.png" alt="Askstorm 40W USB charger" style="width:400px;height:300px;"><br>
 		 
+IKEA urges all customers who owns ÅSKSTORM 40W USB charger dark grey, article number 60461197, to stop using it and to contact IKEA for a full refund. ÅSKSTORM 40W USB charger dark grey can be returned to any [IKEA store](https://www.ikea.com/sg/en/stores/) for a full refund. Proof of purchase (receipt) is not required.
 
-Please refer to this [website](https://global.bose.com/en_us/bm_safety_contact.html) for more information on the recall, and instructions on how to identify if your bass module is affected by this recall.
-
-Consumers with affected units should immediately stop using and unplug the bass modules, then contact Bose at +65 67779600 to arrange for a free repair of the bass module, or a 40% discount on a replacement product.
+For more information, please contact [IKEA Customer Contact Centre](https://www.ikea.com/sg/en/customer-service/contact-us/) at [+65 6786 6868](tel:+6567866868).
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -30,6 +29,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|16 Jan 2024|[IKEA recalls ÅSKSTORM 40W USB charger due to thermal burn and electric shock hazard](/files/product-safety-alerts-and-recalls/electrical/electrical_recall_2024_01_16_ikea_askstorm_40w_usb_charger.pdf){:target="_blank"}|
 |14 Jul 2023|[Bose Recalls Bass Modules sold with select Acoustimass®, Lifestyle® and Companion™ Home Theater System Due to Fire Hazard](/files/product-safety-alerts-and-recalls/electrical/electrical-alert-2023-07-14-bose.pdf){:target="_blank"}|
 |07 Jul 2022|[IKEA issues recall of METALLISK Espresso Maker](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2022-07-07-ikea-metallisk-espresso-maker.pdf){:target="_blank"}|
 |22 Feb 2022|[Kenwood voluntarily replaces “Julienne” disc of food processor models FPM800 and FPM810](/files/product-safety-alerts-and-recalls/electrical//electrical-alert-2022-02-22-kenwood-julienne-disc-fpm800-and-fpm810.pdf){:target="blank"}|
