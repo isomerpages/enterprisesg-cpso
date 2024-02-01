@@ -2,6 +2,7 @@
 title: Resources
 permalink: /suppliers/cpsr/resources/
 third_nav_title: Supplying controlled goods
+variant: markdown
 ---
 * Updated 02 December 2021:<br>
 [Overview of Registration Process](/files/overview-cps-registration.pdf){:target="_blank"}
@@ -9,8 +10,8 @@ third_nav_title: Supplying controlled goods
 [Guide to using CPSA+](/images/cpsr-resources/guide-to-sdoc-application-and-renewal.pdf){:target="_blank"}
 * Updated 01 Nov 2021:<br>
 [Conformity Assessment Information Booklet](/images/cpsr-resources/cab-info-booklet.pdf){:target="_blank"}
-* Updated 13 Jul 2022:<br>
-[Consumer Protection (Safety Requirements) Regulations Information Booklet](/files/cps-info-booklet.pdf){:target="_blank"}
+* Updated 01 Feb 2023:<br>
+[Consumer Protection (Safety Requirements) Regulations Information Booklet](/[](/files/CPS_info_booklet_Feb24.pdf)){:target="_blank"}
 * Updated 31 May 2021:<br>
 [Guidelines on the Usage of the SAFETY Mark](/images/cpsr-resources/guidelines-on-the-usage-of-the-safety-mark.pdf){:target="_blank"}
 * Updated as required (check document for latest revised date):<br>
