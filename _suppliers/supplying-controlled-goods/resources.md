@@ -11,7 +11,7 @@ variant: markdown
 * Updated 01 Nov 2021:<br>
 [Conformity Assessment Information Booklet](/images/cpsr-resources/cab-info-booklet.pdf){:target="_blank"}
 * Updated 01 Feb 2023:<br>
-[Consumer Protection (Safety Requirements) Regulations Information Booklet](/[](/files/CPS_info_booklet_Feb24.pdf)){:target="_blank"}
+[Consumer Protection (Safety Requirements) Regulations Information Booklet](/files/CPS_info_booklet_Feb24.pdf){:target="_blank"}
 * Updated 31 May 2021:<br>
 [Guidelines on the Usage of the SAFETY Mark](/images/cpsr-resources/guidelines-on-the-usage-of-the-safety-mark.pdf){:target="_blank"}
 * Updated as required (check document for latest revised date):<br>
