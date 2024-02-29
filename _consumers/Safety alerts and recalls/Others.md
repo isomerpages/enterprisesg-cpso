@@ -12,26 +12,24 @@ regarding unsafe consumer products identified in Singapore.</p>
 <p><strong>29 Feb 2024<br>MSR/Cascade Designs Recalls Camping Cooking Pots Due to Burn and Scald Hazards</strong> 
 <br>
 </p>
-<p>Cascade Designs Inc. have issued a voluntary recall of certain cook pots
-sold individually and as part of sets from 2008 through February 2024.
+<p>Cascade Designs Inc. have issued a voluntary recall of certain cooking
+pots sold individually and as part of sets from 2008 through February 2024.
 The pot handles can detach, disengage or become loose, potentially spilling
 contents, including hot liquids and causing a burn hazard.</p>
 <p>The affected products are:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/BlendJet_4.PNG">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/msr_camping_cooking_pot.png">
 </div>
 <p></p>
-<p>Consumers should immediately stop using the blenders and check if their
-unit is affected by the recall. Consumers can identify whether their unit
-is affected by the recall by entering it’s serial number into the “Is my
-BlendJet 2 Recalled?” tool located at <a href="https://www.blendjet.com/safetyandrecall" rel="noopener noreferrer nofollow" target="_blank">www.blendjet.com/safetyandrecall</a>.
-If the unit is recalled, contact BlendJet for a free replacement of the
-BlendJet 2 base unit.</p>
-<p>Consumers will need to remove and cut the rubber seal from the base of
-their recalled blender into three or more pieces and upload or email a
-photo showing the serial number on the bottom of the unit and its rubber
-seal in pieces to BlendJet at <a href="https://www.blendjet.com/safetyandrecall" rel="noopener noreferrer nofollow" target="_blank">www.blendjet.com/safetyandrecall </a>or
-safety@blendjet.com to receive a free replacement base.</p>
+<p>Affected consumers should immediately stop using the recalled camping
+cooking pot/s and contact Cascade Designs’ distributor or local retailer
+for a free replacement pot handle/lifter that is compatible with the affected
+pot. The replacement pot handle/lifter is secure, easy to use and does
+not require tools.</p>
+<p>Affected consumers in Singapore may contact the local <a href="https://www.outdoorlife.com.sg/" rel="noopener noreferrer nofollow" target="_blank">MSR distributor </a>at
+<a href="mailto:info@outdoorlife.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@outdoorlife.com.sg</a>to inquire about obtaining a free replacement
+pot handle/lifter, or visit MSR/Cascade Designs Inc. <a href="https://www.msrgear.com/ie/pot-recall.html" rel="noopener noreferrer nofollow" target="_blank">website for more information.</a>.</p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
 </p>
