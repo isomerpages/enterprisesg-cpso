@@ -23,7 +23,7 @@ contents, including hot liquids and causing a burn hazard.</p>
 </div>
 <p></p>
 <p>Affected consumers should immediately stop using the recalled camping
-cooking pot/s and contact Cascade Designs’ distributor or local retailer
+cooking pot(s) and contact Cascade Designs’ distributor or local retailer
 for a free replacement pot handle/lifter that is compatible with the affected
 pot. The replacement pot handle/lifter is secure, easy to use and does
 not require tools.</p>
