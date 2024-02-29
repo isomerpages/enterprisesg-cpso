@@ -3,6 +3,7 @@ title: Recreational products
 permalink: /consumers/safety-alerts-and-recalls/recreational-products/
 third_nav_title: Safety alerts and recalls
 description: ""
+variant: markdown
 ---
 ## Recreational products safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
@@ -27,7 +28,6 @@ For more information on this matter, please visit the Shimano [website](https://
 |Date|Title|
 |---|---|
 |21 Sep 2023|[Shimano (Singapore) Pte. Ltd. Recalls Cranksets for Bicycles Due to Crash Hazard](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2023-09-21-shimano-recalls-cranksets-for-bicycles-due-to-crash-hazard.pdf){:target="_blank"}|
-|29 Sep 2022|[Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-09-29-bambis-australia-recalls-wanderlust-3-wick-candles.pdf){:target="_blank"}|
 |30 May 2022|[Fitbit LLC (“Fitbit”) recalls Fitbit Ionic Smartwatches](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2022-05-30-fitbit-recalls-fitbit-ionic-smartwatches.pdf){:target="_blank"}|
 |31 Oct 2019|[Decathlon recalls OnNight 410 Trail Running Headlamp](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-10-31-decathlon-recalls-onnight-410-trail-running-headlamp.pdf){:target="_blank"}|
 |02 Sep 2019|[Decathlon recalls BTWIN Bike Carrier Adaptor](/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-09-02-decathlon-recalls-bttwin-bike-carrier-adaptor.pdf){:target="_blank"}|
