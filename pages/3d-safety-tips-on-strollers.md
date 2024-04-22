@@ -34,7 +34,7 @@ Always follow the instructions provided in the manual and pay attention to warni
 * After your child is secured in the harness, ensure that there are no straps or cords that can pose a strangulation hazard.
 * Do not leave your child unattended. Ensure that the brakes are engaged when the stroller is not in motion.
 
-Click [here](/files/collateral-stroller-safety.pdf) to download our brochure on stroller safety<br>
+
 
 For more information on preparing for birth, visit the Health Promotion Board's [Parent Hub](https://go.gov.sg/parenthub-preparingforbirth-cpso).
 
