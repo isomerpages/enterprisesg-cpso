@@ -48,7 +48,6 @@ Always follow the instructions provided in the manual and pay attention to warni
 * Never place a cot near a window with blinds, curtain cords, baby monitor cords, or wall mounted decorative accessories with long cords. Babies are at risk of strangling by the cords and older babies could pull themselves up and fall through the window.
 *	Never put your baby on sofa cushions, adult beds or pillows or any surface not designed for infant sleep.
 
-Click [here](/files/collateral-baby-cot-safety.pdf) to download our brochure on baby cot safety<br>
 
 For more information on baby sleep, visit the Health Promotion Board's [Parent Hub](https://www.healthhub.sg/programmes/183/parent-hub/baby-toddler/baby-sleep?_sc_token=v2%253A6u8bcm0jcps-wO9Ven4jBSAp0kmERk58RlbPsEHMCJ6AwDd6h-eQYgBGJnKtzarAqmn6xtpeyhTUmhi9v2TuGPrL81TB7WYup98bOmYkkMtdy-vU38FnM7yhoJBvz3kTS_wu9Sorwe_jezVhx6ZoxYS_ohDEK0eqFfsm7nOLKXXt2wjj0_iBOuwyekrIgbXDsFlmiKYdJKgUuJ-NqofiXQ%253D%253D).<br>
 For more information on preparing for birth, visit the Health Promotion Board's [Parent Hub](https://go.gov.sg/parenthub-preparingforbirth-cpso).
