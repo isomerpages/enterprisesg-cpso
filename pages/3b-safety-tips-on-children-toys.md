@@ -1,12 +1,18 @@
 ---
 title: Safety Tips on Children Toys
 permalink: /safety-tips-on-children-toys/
+variant: markdown
 ---
 **[← Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 *Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
 ## Safety Tips on Children Toys
+
+
+<img src="/images/product-safety-tips/toy_safety.png" style="width:800px;height:1000px;">
+
+
 A study conducted by KK Women’s and Children’s Hospital found that many parents are buying toys that are not age-appropriate for their children. For example, some parents believed that the toys they were purchasing would benefit their child educationally, and thought that their child was old enough to play with the toy safely.
 
 This resulted in a 15% rise in toy-related injuries in children under the age of 5 in 2013, compared to the same period in 2012.
@@ -52,7 +58,7 @@ As consumers, you can protect your child from hazards that could be caused by to
 * In addition to containing small parts, magnetic balls have high magnetic flux which may cause serious injury if multiple balls attract and stick together within the intestines. Water beads may expand to many times their original size as they absorb water and may cause obstructions or injuries within the body.
 * Caregivers are advised to keep a lookout and ensure that these products are not made accessible to children, and avoid using magnetic balls and water beads as sensory toys for children.
 
-Click [here](/files/collateral-toy-safety.pdf) to download our brochure on toy safety<br><br>
+
 For more information on keeping your child safe and healthy, visit the Health Promotion Board's [Parent Hub](https://go.gov.sg/parenthub-toysafety-cpso).
 
 **[← Back to Product safety tips](/consumers/product-safety-tips/children-product)**

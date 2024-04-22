@@ -1,12 +1,17 @@
 ---
 title: Safety Tips on Strollers
 permalink: /safety-tips-on-strollers/
+variant: markdown
 ---
 **[← Back to Product safety tips](/consumers/product-safety-tips/children-product)**
 
 *Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
 ## Safety Tips on Strollers
+
+
+<img src="/images/product-safety-tips/stroller.png" style="width:800px;height:1000px;">
+
 Strollers are a convenient way to bring your child around with you. When buying one, look beyond style and comfort to also consider whether it is safe for your child. Neglecting safety considerations or inappropriate use can have severe consequences.
 
 Always follow the instructions provided in the manual and pay attention to warnings that will help prevent injuries.
@@ -29,7 +34,7 @@ Always follow the instructions provided in the manual and pay attention to warni
 * After your child is secured in the harness, ensure that there are no straps or cords that can pose a strangulation hazard.
 * Do not leave your child unattended. Ensure that the brakes are engaged when the stroller is not in motion.
 
-Click [here](/files/collateral-stroller-safety.pdf) to download our brochure on stroller safety<br>
+
 
 For more information on preparing for birth, visit the Health Promotion Board's [Parent Hub](https://go.gov.sg/parenthub-preparingforbirth-cpso).
 
