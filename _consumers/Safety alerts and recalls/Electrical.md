@@ -49,7 +49,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|16 Jun 2022|[UK's Office for Product Safety and Standards warns consumers about HK:088 Travel Adaptor](/files/product-safety-alerts-and-recalls/electrical//electrical-alert-2022-06-16-hk088 travel adaptor.pdf){:target="blank"}|
+|16 Jun 2022|[UK's Office for Product Safety and Standards warns consumers about HK:088 Travel Adaptor](/files/product-safety-alerts-and-recalls/electrical/electrical-alert-2022-06-16-hk088 travel adaptor.pdf){:target="blank"}|
 |23 Apr 2021|[Electrolux refrigerators (model number ENN2754AOW) installed at Riversails condominum](/files/product-safety-alerts-and-recalls/electrical/electrical-alert-2021-04-23-electrolux-refrigerators-model-number-enn2754aow-installed-at-riversails-condominium.pdf){:target="_blank"}|
 |02 Sep 2019|[Whirlpool, Hotpoint, Indesit, Creda, Swan and Proline tumble dryers](/files/product-safety-alerts-and-recalls/electrical/electrical-alert-2019-09-02-whirlpool-hotpoint-indesit-creda-swan-and-proline-tumble-dryers.pdf){:target="_blank"}|
 |31 Mar 2017|[Lighting: Wits 5W P20 AC86-265V E27 Self-ballasted LED Lamp](/files/product-safety-alerts-and-recalls/electrical/electrical-alert-2017-03-31-wits-5w-p20-ac86-265v-e27-self-ballasted-led-lamp.pdf){:target="_blank"}|
