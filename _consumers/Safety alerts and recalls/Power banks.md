@@ -24,14 +24,19 @@ Consumers in possession of the affected power bank should immediately stop using
 Refer to the listing below for more product safety alerts and recalls.
 
 
-**Product safety alerts**
+**Product recalls**
 
 |Date|Title|
 |---|---|
 |5 Dec 2023|[Lenovo Group Limited recalls Lenovo USB-C Laptop Power Banks (20,000 mAh)](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alerts-2023-12-05-lenovo-usb-c-laptop-power-banks.pdf){:target="_blank"}|
+|25 Apr 2019|[Cotton On recalls power bank](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2019-04-25-cotton-on-recalls-power-bank.pdf){:target="_blank"}|
+
+**Product safety alerts**
+
+|Date|Title|
+|---|---|
 |21 Jul 2022|[Urban.Power N-PM10.0PD "N.Brandz PD18W 10000mAh Power Bank"](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2022-07-21-urban-powerbank.pdf){:target="_blank"}|
 |16 Jun 2022|[Portable Power Bank 20000mah](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2022-06-17-portable-power-bank-20000-mah.pdf){:target="_blank"}|
-|25 Apr 2019|[Cotton On recalls power bank](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2019-04-25-cotton-on-recalls-power-bank.pdf){:target="_blank"}|
 |08 Oct 2018|[Miniso Ultrathin 4000mAh Power Bank](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2018-10-08-miniso-ultrathin-4000mah.pdf){:target="_blank"}|
 |08 Oct 2018|[Mirror Power Bank](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2018-10-08-mirror-power-bank.pdf){:target="_blank"}|
 |08 Oct 2018|[D3 Golf 7800mAh Power Bank](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alert-2018-10-08-d3-golf-7800mah-power-bank.pdf){:target="_blank"}|
