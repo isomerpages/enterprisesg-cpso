@@ -9,8 +9,8 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>3 May 2024</strong>
-<br><strong>Yoto Replacing Charging Cable of Yoto Mini Speakers for Children Due to Burn and Fire Hazards</strong>
+<p><strong>3 May 2024</strong> 
+<br><strong>Yoto Replacing Charging Cable of Yoto Mini Speakers for Children Due to Burn and Fire Hazards</strong> 
 <br>
 </p>
 <p>Yoto Limited has issued a voluntary corrective action for the charging
@@ -59,7 +59,7 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>03 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_recall_2024_05_03_Yoto_Mini.pdf" rel="noopener noreferrer nofollow" target="_blank">Yoto replaces charging cable of Yoto Mini speakers for children </a>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_recall_2024_05_03_Yoto_Mini.pdf" rel="noopener noreferrer nofollow" target="_blank">Yoto replaces charging cable of Yoto Mini speakers for children</a>
 </p>
 </td>
 </tr>
