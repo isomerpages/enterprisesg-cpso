@@ -18,9 +18,9 @@ cables that were sold with the Yoto Mini, a portable connected screen-free
 speaker intended for children ages three to twelve. The speaker’s lithium-ion
 battery can overheat and catch fire when at a high state of charge, posing
 burn and fire hazards to consumers.</p>
-<p>&nbsp;The model name “Yoto Mini”, SKU PRPLXX00860, and serial number are
-located on the base of the product. The speakers are pale grey with orange
-tactile controls and a pixel display.</p>
+<p>The model name “Yoto Mini”, SKU PRPLXX00860, and serial number are located
+on the base of the product. The speakers are pale grey with orange tactile
+controls and a pixel display.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/Yoto_pics.png">
