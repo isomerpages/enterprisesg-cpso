@@ -30,9 +30,8 @@ controls and a pixel display.</p>
 <br>Affected consumers should immediately stop using the speaker and contact
 Yoto to receive a free replacement smart charging cable (“Yoto Mini Smart
 Cable”) which can charge the battery to a safe level.</p>
-<p>&nbsp;</p>
-<p>Local consumers will be able to order the replacement Yoto Mini Smart
-Cable via Yoto’s dedicated recall <a href="https://uk.yotoplay.com/recall" rel="noopener noreferrer nofollow" target="_blank">website</a>. For additional help
+<p>&nbsp;Local consumers will be able to order the replacement Yoto Mini
+Smart Cable via Yoto’s dedicated recall <a href="https://uk.yotoplay.com/recall" rel="noopener noreferrer nofollow" target="_blank">website</a>. For additional help
 and support, consumers can email <a rel="noopener noreferrer nofollow" target="_blank">minihelp@yotoplay.com</a>,
 or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p></p>
@@ -68,7 +67,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>06 Nov 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-11-06-rainbow-road-board-books.pdf" rel="noopener noreferrer nofollow" target="_blank">MBI recalls five titles in Rainbow Road Board Book Series</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-11-06-rainbow-road-board-books.pdf" rel="noopener noreferrer nofollow" target="_blank">MBI recalls five titles in Rainbow Road Board Book Series</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>26 Jul 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-26-philips-avent-digital-baby-monitor-scd620.pdf" rel="noopener noreferrer nofollow" target="_blank">Philips Recalls Digital Video Baby Monitor SCD620</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-26-philips-avent-digital-baby-monitor-scd620.pdf" rel="noopener noreferrer nofollow" target="_blank">Philips Recalls Digital Video Baby Monitor SCD620</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +85,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>14 Jul 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-14-nabaiji-baby-float.pdf" rel="noopener noreferrer nofollow" target="_blank">Decathlon Recalls Nabaiji Baby Inflatable Float with built-in harness</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-14-nabaiji-baby-float.pdf" rel="noopener noreferrer nofollow" target="_blank">Decathlon Recalls Nabaiji Baby Inflatable Float with built-in harness</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +94,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>31 Jan 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-01-31-fisher-price-rock-n-play-sleeper-infant-rocker.pdf" rel="noopener noreferrer nofollow" target="_blank">Fisher Price Reannounces Recall of Rock 'n Play Sleepers</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-01-31-fisher-price-rock-n-play-sleeper-infant-rocker.pdf" rel="noopener noreferrer nofollow" target="_blank">Fisher Price Reannounces Recall of Rock 'n Play Sleepers</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -100,7 +103,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>18 Mar 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/frigg-classic-and-daisy-silicone-pacifiers-recall-18-mar-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Mushie &amp; Co issues voluntary recall for FRIGG silicone pacifiers</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/frigg-classic-and-daisy-silicone-pacifiers-recall-18-mar-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Mushie &amp; Co issues voluntary recall for FRIGG silicone pacifiers</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -108,7 +112,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>13 Jan 2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-13-philips-recalls-digital-video-baby-monitor.pdf" rel="noopener noreferrer nofollow" target="_blank">Philips recalls Digital Video Baby Monitor (SCD620)</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-13-philips-recalls-digital-video-baby-monitor.pdf" rel="noopener noreferrer nofollow" target="_blank">Philips recalls Digital Video Baby Monitor (SCD620)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -116,7 +121,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>08 Jan 2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-08-decathlon-recalls-baby-seat-100-bclip.pdf" rel="noopener noreferrer nofollow" target="_blank">Decathlon recalls Baby Seat 100 BClip</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-08-decathlon-recalls-baby-seat-100-bclip.pdf" rel="noopener noreferrer nofollow" target="_blank">Decathlon recalls Baby Seat 100 BClip</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -124,7 +130,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>02 Sep 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-09-02-decathlon-recalls-nabaiji-all-slot-babyseat-inflatable-float.pdf" rel="noopener noreferrer nofollow" target="_blank">Decathlon recalls NABAIJI All Slot Babyseat Inflatable Float</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-09-02-decathlon-recalls-nabaiji-all-slot-babyseat-inflatable-float.pdf" rel="noopener noreferrer nofollow" target="_blank">Decathlon recalls NABAIJI All Slot Babyseat Inflatable Float</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -132,7 +139,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>14 Aug 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-08-14-stokke-calls-for-voluntary-product-part-replacement-of-stokke-tripp-trapp-newborn-set.pdf" rel="noopener noreferrer nofollow" target="_blank">Stokke calls for voluntary product part replacement of Stokke Tripp Trapp Newborn Set</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-08-14-stokke-calls-for-voluntary-product-part-replacement-of-stokke-tripp-trapp-newborn-set.pdf" rel="noopener noreferrer nofollow" target="_blank">Stokke calls for voluntary product part replacement of Stokke Tripp Trapp Newborn Set</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +148,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>14 Aug 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-08-14-stokke-recalls-stokke-steps-bouncer.pdf" rel="noopener noreferrer nofollow" target="_blank">Stokke recalls Stokke Steps Bouncer</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-08-14-stokke-recalls-stokke-steps-bouncer.pdf" rel="noopener noreferrer nofollow" target="_blank">Stokke recalls Stokke Steps Bouncer</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -148,7 +157,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>25 Apr 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-recall-2019-04-25-mattel-singapore-recalls-fisher-price-rock-n-play-infant-rocker.pdf" rel="noopener noreferrer nofollow" target="_blank">Mattel Singapore recalls Fisher-Price Rock ‘N Play infant rocker</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-apparel/children-apparel-recall-2019-04-25-mattel-singapore-recalls-fisher-price-rock-n-play-infant-rocker.pdf" rel="noopener noreferrer nofollow" target="_blank">Mattel Singapore recalls Fisher-Price Rock ‘N Play infant rocker</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +166,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>18 Feb 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-02-18-oribel-recalls-cocoon-high-chair.pdf" rel="noopener noreferrer nofollow" target="_blank">Oribel recalls Cocoon high chair</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2019-02-18-oribel-recalls-cocoon-high-chair.pdf" rel="noopener noreferrer nofollow" target="_blank">Oribel recalls Cocoon high chair</a>
+</p>
 </td>
 </tr>
 </tbody>
@@ -182,7 +193,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>18 Jan 2023</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-01-18-baby-self-feeding-pillow.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby Self-Feeding Pillow</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-01-18-baby-self-feeding-pillow.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby Self-Feeding Pillow</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -190,7 +202,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>24 Aug 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-08-24-mamaroo-rockaroo.pdf" rel="noopener noreferrer nofollow" target="_blank">MamaRoo Infant Swings and RockaRoo Infant Rockers</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-08-24-mamaroo-rockaroo.pdf" rel="noopener noreferrer nofollow" target="_blank">MamaRoo Infant Swings and RockaRoo Infant Rockers</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -198,7 +211,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>16 Jun 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-tatameru-high-chair.pdf" rel="noopener noreferrer nofollow" target="_blank">Tatameru High Chair</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-tatameru-high-chair.pdf" rel="noopener noreferrer nofollow" target="_blank">Tatameru High Chair</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -206,7 +220,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>16 Jun 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-safety-1st-kiwi-3-in-1-high-chair.pdf" rel="noopener noreferrer nofollow" target="_blank">Safety 1st Kiwi 3-in-1 High Chair</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2022-06-17-safety-1st-kiwi-3-in-1-high-chair.pdf" rel="noopener noreferrer nofollow" target="_blank">Safety 1st Kiwi 3-in-1 High Chair</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -214,7 +229,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>19 Feb 2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-pacifier-clip-d-16x-2.pdf" rel="noopener noreferrer nofollow" target="_blank">Pacifier Clip D-16X-2</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-pacifier-clip-d-16x-2.pdf" rel="noopener noreferrer nofollow" target="_blank">Pacifier Clip D-16X-2</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -222,7 +238,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>19 Feb 2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-fancyqube-cute-baby-dummy-pacifier-clip-chain-purple-intl.pdf" rel="noopener noreferrer nofollow" target="_blank">Fancyqube Cute Baby Dummy Pacifier Clip Chain Purple – INTL</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-fancyqube-cute-baby-dummy-pacifier-clip-chain-purple-intl.pdf" rel="noopener noreferrer nofollow" target="_blank">Fancyqube Cute Baby Dummy Pacifier Clip Chain Purple – INTL</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -230,7 +247,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>19 Feb 2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-baby-wooden-pacifier-clips-with-silicone-colourful-beads-nature-wood-pacifier.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby Wooden Pacifier Clips with Silicone Colourful Beads, Nature Wood Pacifier</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2020-02-19-baby-wooden-pacifier-clips-with-silicone-colourful-beads-nature-wood-pacifier.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby Wooden Pacifier Clips with Silicone Colourful Beads, Nature Wood Pacifier</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -238,7 +256,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>05 Nov 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-11-05-oem-adapt-3-position-baby-carrier.pdf" rel="noopener noreferrer nofollow" target="_blank">OEM Adapt 3 Position Baby Carrier</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-11-05-oem-adapt-3-position-baby-carrier.pdf" rel="noopener noreferrer nofollow" target="_blank">OEM Adapt 3 Position Baby Carrier</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -246,7 +265,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>05 Nov 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-11-05-sorbebe-airo-robic-hip-seat-baby-carrier.pdf" rel="noopener noreferrer nofollow" target="_blank">Sorbebe Airo Robic Hip Seat Baby Carrier</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-11-05-sorbebe-airo-robic-hip-seat-baby-carrier.pdf" rel="noopener noreferrer nofollow" target="_blank">Sorbebe Airo Robic Hip Seat Baby Carrier</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -254,7 +274,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>05 Nov 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-11-05-mine-4-position-baby-carrier.pdf" rel="noopener noreferrer nofollow" target="_blank">MINE 4 Position Baby Carrier</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-11-05-mine-4-position-baby-carrier.pdf" rel="noopener noreferrer nofollow" target="_blank">MINE 4 Position Baby Carrier</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -262,7 +283,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>05 Nov 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-11-05-i-angel-miracle-hip-seat-baby-carrier.pdf" rel="noopener noreferrer nofollow" target="_blank">I-Angel Miracle Hip Seat Baby Carrier</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-11-05-i-angel-miracle-hip-seat-baby-carrier.pdf" rel="noopener noreferrer nofollow" target="_blank">I-Angel Miracle Hip Seat Baby Carrier</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -270,7 +292,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>24 Jul 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-07-24-premium-baby-bed-set-model-no-hope-hp-810m.pdf" rel="noopener noreferrer nofollow" target="_blank">Premium Baby Bed Set (Model No: Hope HP 810M</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-07-24-premium-baby-bed-set-model-no-hope-hp-810m.pdf" rel="noopener noreferrer nofollow" target="_blank">Premium Baby Bed Set (Model No: Hope HP 810M</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -278,7 +301,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>24 Jul 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-07-24-puku-izzy-foldable-baby-cot-model-no-p30112.pdf" rel="noopener noreferrer nofollow" target="_blank">Puku Izzy Foldable Baby Cot (Model No: P30112)</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-07-24-puku-izzy-foldable-baby-cot-model-no-p30112.pdf" rel="noopener noreferrer nofollow" target="_blank">Puku Izzy Foldable Baby Cot (Model No: P30112)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -286,7 +310,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>24 Jul 2019</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-07-24-milano-oxford-4-in-1-convertible-cot-model-no-bd302.pdf" rel="noopener noreferrer nofollow" target="_blank">Milano – Oxford 4 in 1 Convertible Cot (Model No: BD302)</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2019-07-24-milano-oxford-4-in-1-convertible-cot-model-no-bd302.pdf" rel="noopener noreferrer nofollow" target="_blank">Milano – Oxford 4 in 1 Convertible Cot (Model No: BD302)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -294,7 +319,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>07 Dec 2018</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2018-12-07-belecoo-compact.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Belecoo Compact</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2018-12-07-belecoo-compact.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Belecoo Compact</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -302,7 +328,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>27 Nov 2018</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2018-11-27-seebaby-little-monster.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Seebaby Little Monster</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2018-11-27-seebaby-little-monster.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Seebaby Little Monster</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -310,7 +337,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>27 Nov 2018</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2018-11-27-baby-yoga-baby-cabin-travel.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Baby YOYA</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2018-11-27-baby-yoga-baby-cabin-travel.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Baby YOYA</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -318,7 +346,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>20 Sep 2017</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2017-09-20-vanille-pinewood-4-in-1-cot.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Vanille Pinewood 4 – In – 1 Cot</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2017-09-20-vanille-pinewood-4-in-1-cot.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Vanille Pinewood 4 – In – 1 Cot</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -326,7 +355,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>24 Apr 2017</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2017-04-24-bonbijou-playpen.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Bonbijou Playpen</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2017-04-24-bonbijou-playpen.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Bonbijou Playpen</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -334,7 +364,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>13 Sep 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-09-13-baby-star-stroller-b201.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Baby Star Stroller B201</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-09-13-baby-star-stroller-b201.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Baby Star Stroller B201</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -342,7 +373,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>13 Sep 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-09-13-baby-high-chair-item-no-hc523.pdf" rel="noopener noreferrer nofollow" target="_blank">High chairs: Baby High Chair Item No. HC523</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-09-13-baby-high-chair-item-no-hc523.pdf" rel="noopener noreferrer nofollow" target="_blank">High chairs: Baby High Chair Item No. HC523</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -350,7 +382,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>13 Sep 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-09-13-dapper-highchair.pdf" rel="noopener noreferrer nofollow" target="_blank">High chairs: Dapper Highchair</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-09-13-dapper-highchair.pdf" rel="noopener noreferrer nofollow" target="_blank">High chairs: Dapper Highchair</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -358,7 +391,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>27 Apr 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-04-27-little-bobdog-soother.pdf" rel="noopener noreferrer nofollow" target="_blank">Little Bobdog Soother</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-04-27-little-bobdog-soother.pdf" rel="noopener noreferrer nofollow" target="_blank">Little Bobdog Soother</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -366,7 +400,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>31 Mar 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-31-baobaohao-stroller.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Baobaohao Stroller</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-31-baobaohao-stroller.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Baobaohao Stroller</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -374,7 +409,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>28 Mar 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-28-bobo-massage-pacifier.pdf" rel="noopener noreferrer nofollow" target="_blank">Pacifiers: Bobo Massage Pacifier</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-28-bobo-massage-pacifier.pdf" rel="noopener noreferrer nofollow" target="_blank">Pacifiers: Bobo Massage Pacifier</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -382,7 +418,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>28 Mar 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-28-camera-brand-silicone-soother.pdf" rel="noopener noreferrer nofollow" target="_blank">Pacifiers: Camera Brand Silicone Soother</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-28-camera-brand-silicone-soother.pdf" rel="noopener noreferrer nofollow" target="_blank">Pacifiers: Camera Brand Silicone Soother</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -390,7 +427,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>28 Mar 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-28-chica-thumb-shape-soother.pdf" rel="noopener noreferrer nofollow" target="_blank">Pacifiers: Chica Thumb Shape Soother</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-28-chica-thumb-shape-soother.pdf" rel="noopener noreferrer nofollow" target="_blank">Pacifiers: Chica Thumb Shape Soother</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -398,7 +436,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>15 Mar 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-15-jarrons-co-jcb101-happy-sleep-5-in-1-convertible-cot-testing.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Jarrons &amp; Co JCB-101 Happy Sleep 5-in-1 convertible cot</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-03-15-jarrons-co-jcb101-happy-sleep-5-in-1-convertible-cot-testing.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Jarrons &amp; Co JCB-101 Happy Sleep 5-in-1 convertible co</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -406,7 +445,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>26 Feb 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-26-sheares-spring-baby-crib.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Sheares Spring Baby Crib</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-26-sheares-spring-baby-crib.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Sheares Spring Baby Crib</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -414,7 +454,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>16 Feb 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-16-babyhome-eat-high-chair.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: BabyHome Eat High Chair</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-16-babyhome-eat-high-chair.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: BabyHome Eat High Chair</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -422,7 +463,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>05 Feb 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-05-magne-2-in-1-portable-crib.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Magne 2 in 1 Portable Crib</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-05-magne-2-in-1-portable-crib.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Magne 2 in 1 Portable Crib</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -430,7 +472,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>05 Feb 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-05-marco-high-chair.pdf" rel="noopener noreferrer nofollow" target="_blank">High chairs: Marco High Chair</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-05-marco-high-chair.pdf" rel="noopener noreferrer nofollow" target="_blank">High chairs: Marco High Chair</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -438,7 +481,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>29 Jan 2016</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-01-29-polka-qq2-baby-simple-stroller.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Polka QQ2 Baby Simple Stroller</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-01-29-polka-qq2-baby-simple-stroller.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Polka QQ2 Baby Simple Stroller</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -446,7 +490,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>06 Nov 2015</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2015-11-06-x-baby-walker.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby Walkers: X-Baby Walker</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2015-11-06-x-baby-walker.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby Walkers: X-Baby Walker</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -454,7 +499,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>10 Jun 2014</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2014-06-10-puku-baby-walker-model-no-hw-8011.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby Walkers: Puku Baby Walker (Model no: HW-8011)</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2014-06-10-puku-baby-walker-model-no-hw-8011.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby Walkers: Puku Baby Walker (Model no: HW-8011)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -462,7 +508,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>10 Jun 2014</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2014-06-10-lucky-baby-2-in-1-baby-walker-model-no-2008-03.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby Walkers: Lucky Baby 2 in 1 Baby Walker (Model no: 2008.03)</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2014-06-10-lucky-baby-2-in-1-baby-walker-model-no-2008-03.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby Walkers: Lucky Baby 2 in 1 Baby Walker (Model no: 2008.03)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -470,7 +517,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>10 Jun 2014</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2014-06-10-puku-baby-walker-model-no-hw-8168.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby Walkers: Puku Baby Walker (Model no: HW-8168)</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2014-06-10-puku-baby-walker-model-no-hw-8168.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby Walkers: Puku Baby Walker (Model no: HW-8168)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -478,7 +526,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>15 Jan 2014</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2014-01-15-baby-one-folding-cot-bo-770-f.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Baby One Folding Cot BO 770 F</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2014-01-15-baby-one-folding-cot-bo-770-f.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Baby One Folding Cot BO 770 F</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -486,7 +535,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>09 Dec 2013</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2013-12-09-baby-cot-tw-cb17d.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Baby Cot TW-CB17D</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2013-12-09-baby-cot-tw-cb17d.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Baby Cot TW-CB17D</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -494,7 +544,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>09 Dec 2013</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2013-12-09-marco-baby-cot-foldable-bc-1622-na.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Marco Baby Cot Foldable BC-1622-NA</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2013-12-09-marco-baby-cot-foldable-bc-1622-na.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Marco Baby Cot Foldable BC-1622-NA</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -502,7 +553,8 @@ or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p>01 May 2012</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2012-05-01-children-cots.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs, Baby walkers and Strollers: Children’s Products Testing</a>{:target="_blank"}</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2012-05-01-children-cots.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs, Baby walkers and Strollers: Children’s Products Testing</a>
+</p>
 </td>
 </tr>
 </tbody>
