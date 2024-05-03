@@ -18,10 +18,9 @@ cables that were sold with the Yoto Mini, a portable connected screen-free
 speaker intended for children ages three to twelve. The speaker’s lithium-ion
 battery can overheat and catch fire when at a high state of charge, posing
 burn and fire hazards to consumers.</p>
-<p>&nbsp;</p>
-<p>The model name “Yoto Mini”, SKU PRPLXX00860, and serial number are located
-on the base of the product. The speakers are pale grey with orange tactile
-controls and a pixel display.</p>
+<p>&nbsp;The model name “Yoto Mini”, SKU PRPLXX00860, and serial number are
+located on the base of the product. The speakers are pale grey with orange
+tactile controls and a pixel display.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/Yoto_pics.png">
@@ -30,8 +29,8 @@ controls and a pixel display.</p>
 <br>Affected consumers should immediately stop using the speaker and contact
 Yoto to receive a free replacement smart charging cable (“Yoto Mini Smart
 Cable”) which can charge the battery to a safe level.</p>
-<p>&nbsp;Local consumers will be able to order the replacement Yoto Mini
-Smart Cable via Yoto’s dedicated recall <a href="https://uk.yotoplay.com/recall" rel="noopener noreferrer nofollow" target="_blank">website</a>. For additional help
+<p>Local consumers will be able to order the replacement Yoto Mini Smart
+Cable via Yoto’s dedicated recall <a href="https://uk.yotoplay.com/recall" rel="noopener noreferrer nofollow" target="_blank">website</a>. For additional help
 and support, consumers can email <a rel="noopener noreferrer nofollow" target="_blank">minihelp@yotoplay.com</a>,
 or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p></p>
