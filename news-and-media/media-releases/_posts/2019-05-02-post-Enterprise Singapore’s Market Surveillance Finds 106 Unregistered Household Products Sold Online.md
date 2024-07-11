@@ -5,9 +5,8 @@ title: Enterprise Singapore’s Market Surveillance Finds 106 Unregistered
 permalink: /news-and-media/media-releases/2019-05-02-esg-surveillance-finds-106-unregistered-products-online/
 date: 2019-05-02
 description: ""
+variant: markdown
 ---
-
-
 ## Enterprise Singapore’s Market Surveillance Finds 106 Unregistered Household Products Sold Online
 
 MR No.: 016/19<br>
@@ -30,7 +29,7 @@ Singapore, Thursday, 2 May 2019
 
 8\. Said Mr Sim Choon Siong, Executive Director of Quality and Excellence, Enterprise Singapore, “To obtain the SAFETY Mark on products, suppliers have to first ensure that the product has been type-tested to international safety standards, and then register it with us. This helps consumers choose products that meet safety requirements and are suitable for local use.”
 
-9\. He added that while price may be one of the factors for consumers when shopping online, they should also be mindful of safety issues. “We encourage consumers to look out for the SAFETY Mark, ask sellers if the product carries the SAFETY Mark, and search through Enterprise Singapore’s Register of Controlled Goods at <a href="https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html">cpsa.enterprisesg.gov.sg</a>{:target="_blank"}. Consumers can reach out to us if they come across household products without the SAFETY Mark as they play a critical role in ensuring safety,” said Mr Sim.
+9\. He added that while price may be one of the factors for consumers when shopping online, they should also be mindful of safety issues. “We encourage consumers to look out for the SAFETY Mark, ask sellers if the product carries the SAFETY Mark, and search through Enterprise Singapore’s Register of Controlled Goods at https:// cpsa.enterprisesg.gov.sg/ totalagility/forms/custom/publicsite/login.html. Consumers can reach out to us if they come across household products without the SAFETY Mark as they play a critical role in ensuring safety,” said Mr Sim.
 
 10\. Consumers can report product safety issues directly to Enterprise Singapore at 1800 773 3163 or consumerprotection@enterprisesg.gov.sg. For the latest list of products that have been recalled in Singapore over safety concerns, visit <a href="https://www.enterprisesg.gov.sg/safety-recalls">www.enterprisesg.gov.sg/safety-recalls</a>{:target="_blank"}.
 

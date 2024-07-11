@@ -2,8 +2,8 @@
 title: Frequently Asked Questions on CGSR
 permalink: /about/faq/cgsr/
 third_nav_title: FAQ
+variant: markdown
 ---
-
 ### Frequently Asked Questions on Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)
 
 **1. What is the Consumer Protection (Consumer Goods Safety Requirements) Regulations 2011 (CGSR) about?**<br>
@@ -35,7 +35,7 @@ The CGSR does not cover consumer goods already under the purview of other regula
 
   c.	Motor vehicles and electric bicycles: [Land Transport Authority (LTA)](https://www.lta.gov.sg/) 
 
-  d.	Motorcycle helmets and children’s car seats: [Traffic Police (TP)](https://www.police.gov.sg/resources/traffic-matters/safety-tips) 
+  d.	Motorcycle helmets and children’s car seats: [Traffic Police (TP)](https://www.police.gov.sg/Advisories/Traffic/Road-Safety-Tips)) 
 
   e.	33 categories of household electrical, electronic and gas appliances and accessories: Consumer Product Safety Office
 
@@ -102,4 +102,4 @@ The first-time offender on conviction shall be liable to a fine up to $2,000 or 
 Details on the CGSR are available [here](/suppliers/cgsr/overview-of-cgsr).
 
 **15.	How do I contact the Consumer Product Safety Office to report on safety issues related to general consumer goods covered under the CGSR?**<br>
-You may report safety issues to the Consumer Product Safety Office using the recommended form provided in Appendix D of the Consumer Protection (Consumer Goods Safety Requirements) Regulations Information Booklet and send it to the following mailing address, or contact us via email at <consumerproductsafety@enterprisesg.gov.sg> or our hotline at 6898 1800
+You may report safety issues to the Consumer Product Safety Office using the recommended form provided in Appendix D of the Consumer Protection (Consumer Goods Safety Requirements) Regulations Information Booklet and send it to the following mailing address, or contact us via email at  or our hotline at 6898 1800
