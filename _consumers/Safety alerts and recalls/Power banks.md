@@ -14,10 +14,11 @@ Lenovo Group Limited detected a manufacturing defect in certain Lenovo USB-C Lap
 
 Lenovo has determined that in a limited number of units, the power bank’s internal screws can come loose, causing a short circuit, and overheating of the lithium-ion battery, posing a fire hazard.
 
-<img src="/images/product-safety-alerts-and-recalls/powerbanks/Lenovo_Recall_1.png" alt="PowerBank" style="width:400px;height:200px;">
+<img src="/images/product-safety-alerts-and-recalls/powerbanks/varmfront1.png" alt="PowerBank" style="width:400px;height:200px;">
+<img src="/images/product-safety-alerts-and-recalls/powerbanks/varmfront1.png" alt="PowerBank" style="width:400px;height:200px;">
 
 To confirm if your Lenovo USB-C Laptop Power Bank (Part Number: 40ALLG2WWW) is affected, follow the instructions below:
-<img src="/images/product-safety-alerts-and-recalls/powerbanks/Lenovo_Recall_2.png" alt="PowerBank" style="width:520px;height:240px;">
+<img src="/images/product-safety-alerts-and-recalls/powerbanks/varmfront3.png" alt="PowerBank" style="width:400px;height:200px;">
 
 Consumers in possession of the affected power bank should immediately stop using it and disconnect it from all devices. Click [here](https://support.lenovo.com/sg/en/servicerequest?problemtype=/power-bank-recall/) to submit their request for a replacement power bank, or visit Lenovo’s [website](https://support.lenovo.com/sg/en/solutions/ht515669) for more information on the recall.
 
@@ -28,6 +29,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|17 Jul 2024|[IKEA is recalling certain VARMFRONT power banks, due to fire hazard](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-recall-2024-07-17-varmfront-power-bank.pdf){:target="_blank"}|
 |5 Dec 2023|[Lenovo Group Limited recalls Lenovo USB-C Laptop Power Banks (20,000 mAh)](/files/product-safety-alerts-and-recalls/power-banks/powerbanks-alerts-2023-12-05-lenovo-usb-c-laptop-power-banks.pdf){:target="_blank"}|
 |25 Apr 2019|[Cotton On recalls power bank](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2019-04-25-cotton-on-recalls-power-bank.pdf){:target="_blank"}|
 
