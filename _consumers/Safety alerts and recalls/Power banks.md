@@ -8,18 +8,20 @@ variant: markdown
 ## Power banks safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**5 December 2023**<br>
-**Lenovo Group Limited recalls Lenovo USB-C Laptop Power Banks (20,000 mAh)<br>**
-Lenovo Group Limited detected a manufacturing defect in certain Lenovo USB-C Laptop Power Banks (Part number: 40ALLG2WWW) which were manufactured between January and June 2022, and sold since 2023. 
+**17 July 2024**<br>
+**IKEA recalls certain VARMFRONT Power Banks<br>**
+IKEA urges all consumers who own a VARMFRONT power bank 10,400 mAh (model number E2038) with date stamp (YYWW) 2313, 2316, 2318 or 2319, or a VARMFRONT power bank 5,200 mAh (model number E2037) with date stamp (YYWW) 2318, 2319 or 2322 to immediately stop using it.
 
-Lenovo has determined that in a limited number of units, the power bank’s internal screws can come loose, causing a short circuit, and overheating of the lithium-ion battery, posing a fire hazard.
+<img src="/images/product-safety-alerts-and-recalls/powerbanks/varmfront4.png" alt="PowerBank" style="width:400px;height:180px;">
 
-<img src="/images/product-safety-alerts-and-recalls/powerbanks/varmfront4.png" alt="PowerBank" style="width:100px;height:100px;">
+IKEA detected a manufacturing defect on these VARMFRONT power banks, leading them to pose potential fire haards. This error is isolated to units with the before-mentioned date stamps. VARMFRONT power banks with other date stamps are not affected by this recall. Consumers may check the printing on the back of their VARMFRONT power banks to confirm if their unit is affected.
 
-To confirm if your Lenovo USB-C Laptop Power Bank (Part Number: 40ALLG2WWW) is affected, follow the instructions below:
+Example of date stamps on power banks:
 <img src="/images/product-safety-alerts-and-recalls/powerbanks/varmfront3.png" alt="PowerBank" style="width:400px;height:200px;">
 
-Consumers in possession of the affected power bank should immediately stop using it and disconnect it from all devices. Click [here](https://support.lenovo.com/sg/en/servicerequest?problemtype=/power-bank-recall/) to submit their request for a replacement power bank, or visit Lenovo’s [website](https://support.lenovo.com/sg/en/solutions/ht515669) for more information on the recall.
+Consumer in possession of affected VARMFRONT power banks can return them to any IKEA store for a full refund. Proof of purchase is not required.
+
+For more information, please visit IKEA's [website]([Recall of VARMFRONT power banks - IKEA | IKEA Singapore](https://www.ikea.com/sg/en/newsroom/range-news/ikea-is-recalling-certain-varmfront-power-banks-due-to-fire-hazard-pub580159d0)/) or contact IKEA Customer Contact Centre at +65 6786 6868.
 
 Refer to the listing below for more product safety alerts and recalls.
 
