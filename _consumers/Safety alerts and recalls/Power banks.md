@@ -12,9 +12,9 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 **IKEA recalls certain VARMFRONT Power Banks<br>**
 IKEA urges all consumers who own a VARMFRONT power bank 10,400 mAh (model number E2038) with date stamp (YYWW) 2313, 2316, 2318 or 2319, or a VARMFRONT power bank 5,200 mAh (model number E2037) with date stamp (YYWW) 2318, 2319 or 2322 to immediately stop using it.
 
-<img src="/images/product-safety-alerts-and-recalls/powerbanks/varmfront4.png" alt="PowerBank" style="width:400px;height:180px;">
+<img src="/images/product-safety-alerts-and-recalls/powerbanks/varmfront4.png" alt="PowerBank" style="width:400px;height:150px;">
 
-IKEA detected a manufacturing defect on these VARMFRONT power banks, leading them to pose potential fire haards. This error is isolated to units with the before-mentioned date stamps. VARMFRONT power banks with other date stamps are not affected by this recall. Consumers may check the printing on the back of their VARMFRONT power banks to confirm if their unit is affected.
+IKEA detected a manufacturing defect on these VARMFRONT power banks, leading them to pose potential fire hazards. This error is isolated to units with the before-mentioned date stamps. VARMFRONT power banks with other date stamps are not affected by this recall. Consumers may check the printing on the back of their VARMFRONT power banks to confirm if their unit is affected.
 
 Example of date stamps on power banks:
 <img src="/images/product-safety-alerts-and-recalls/powerbanks/varmfront3.png" alt="PowerBank" style="width:400px;height:200px;">
