@@ -21,7 +21,7 @@ Example of date stamps on power banks:
 
 Consumer in possession of affected VARMFRONT power banks can return them to any IKEA store for a full refund. Proof of purchase is not required.
 
-For more information, please visit IKEA's [website]([Recall of VARMFRONT power banks - IKEA | IKEA Singapore](https://www.ikea.com/sg/en/newsroom/range-news/ikea-is-recalling-certain-varmfront-power-banks-due-to-fire-hazard-pub580159d0)/) or contact IKEA Customer Contact Centre at +65 6786 6868.
+For more information, please visit IKEA's [website](https://www.ikea.com/sg/en/newsroom/range-news/ikea-is-recalling-certain-varmfront-power-banks-due-to-fire-hazard-pub580159d0) or contact IKEA Customer Contact Centre at +65 6786 6868.
 
 Refer to the listing below for more product safety alerts and recalls.
 
