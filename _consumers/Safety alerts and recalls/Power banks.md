@@ -14,8 +14,7 @@ Lenovo Group Limited detected a manufacturing defect in certain Lenovo USB-C Lap
 
 Lenovo has determined that in a limited number of units, the power bank’s internal screws can come loose, causing a short circuit, and overheating of the lithium-ion battery, posing a fire hazard.
 
-<img src="/images/product-safety-alerts-and-recalls/powerbanks/varmfront1.png" alt="PowerBank" style="width:100px;height:100px;">
-<img src="/images/product-safety-alerts-and-recalls/powerbanks/varmfront2.png" alt="PowerBank" style="width:200px;height:150px;">
+<img src="/images/product-safety-alerts-and-recalls/powerbanks/varmfront4.png" alt="PowerBank" style="width:100px;height:100px;">
 
 To confirm if your Lenovo USB-C Laptop Power Bank (Part Number: 40ALLG2WWW) is affected, follow the instructions below:
 <img src="/images/product-safety-alerts-and-recalls/powerbanks/varmfront3.png" alt="PowerBank" style="width:400px;height:200px;">
