@@ -54,6 +54,15 @@ the free repair kit.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>18 Jul 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others-recall-2024-07-18-vitamix-blender.pdf" rel="noopener noreferrer nofollow" target="_blank">Vita-Mix Corporation (“Vita-Mix”) voluntary corrective action on certain Blending Containers and Blade Bases</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>29 Feb 2024</p>
 </td>
 <td rowspan="1" colspan="1">
