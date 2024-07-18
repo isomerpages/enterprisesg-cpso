@@ -9,27 +9,31 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>29 Feb 2024<br>MSR/Cascade Designs Recalls Camping Cooking Pots Due to Burn and Scald Hazards</strong> 
+<p><strong>18 Jul 2024<br>Vita-Mix Corporation ("Vita-Mix") voluntary corrective action on certain Blending Containers and Blade Bases</strong> 
 <br>
 </p>
-<p>Cascade Designs Inc. have issued a voluntary recall of certain cooking
-pots sold individually and as part of sets from 2008 through February 2024.
-The pot handles can detach, disengage or become loose, potentially spilling
-contents, including hot liquids and causing a burn hazard.</p>
-<p>The affected products are:</p>
+<p>Vita-Mix Corporation has announced a voluntary corrective action on Vitamix®
+225 ml blending containers, 600 ml blending containers, and blade bases
+manufactured after May 2018.</p>
+<p>The clear containers and black blade bases are included with certain Vitamix
+Ascent Model blenders such as the Ascent A2300i and Ascent A3500i blenders
+and also sold separately, as sets, or in bundles.</p>
 <p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/vitamix.png">
 </div>
-<p>Affected consumers should immediately stop using the recalled camping
-cooking pot(s) and contact Cascade Designs’ distributor or local retailer
-for a free replacement pot handle/lifter that is compatible with the affected
-pot. The replacement pot handle/lifter is secure, easy to use and does
-not require tools.</p>
-<p>Affected consumers in Singapore may contact the local <a href="https://www.outdoorlife.com.sg/" rel="noopener noreferrer nofollow" target="_blank">MSR distributor </a>at
-<a href="mailto:info@outdoorlife.com.sg" rel="noopener noreferrer nofollow" target="_blank">info@outdoorlife.com.sg</a>to inquire about obtaining a free replacement
-pot handle/lifter, or visit MSR/Cascade Designs Inc. <a href="https://www.msrgear.com/ie/pot-recall.html" rel="noopener noreferrer nofollow" target="_blank">website for more information.</a>.</p>
+<p>Vita-Mix Corporation has identified that for the above-mentioned products,
+the container can separate from the blade base exposing the blades, posing
+a laceration hazard to consumers.</p>
+<p></p>
+<p>The company is providing a free repair kit consisting of a protective
+plastic shroud to attach over the blade base and additional instructional
+labels.</p>
+<p>Consumers should immediately stop using the affected containers and blade
+bases and for the free repair kit.</p>
+<p>For further queries, consumers may also visit Vitamix .</p>
+<p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
 </p>
