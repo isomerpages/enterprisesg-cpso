@@ -18,10 +18,10 @@ The pot handles can detach, disengage or become loose, potentially spilling
 contents, including hot liquids and causing a burn hazard.</p>
 <p>The affected products are:</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/msr_camping_cooking_pot.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/vitamix.png">
+</div>
 <p>Affected consumers should immediately stop using the recalled camping
 cooking pot(s) and contact Cascade Designs’ distributor or local retailer
 for a free replacement pot handle/lifter that is compatible with the affected
@@ -33,7 +33,11 @@ pot handle/lifter, or visit MSR/Cascade Designs Inc. <a href="https://www.msrgea
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -128,7 +132,11 @@ pot handle/lifter, or visit MSR/Cascade Designs Inc. <a href="https://www.msrgea
 </table>
 <p><strong>Product safety alerts</strong>
 </p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
