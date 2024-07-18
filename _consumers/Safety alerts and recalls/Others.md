@@ -31,8 +31,9 @@ a laceration hazard to consumers.</p>
 plastic shroud to attach over the blade base and additional instructional
 labels.</p>
 <p>Consumers should immediately stop using the affected containers and blade
-bases and for the free repair kit.</p>
-<p>For further queries, consumers may also visit Vitamix .</p>
+bases and <a href="https://blendingcupbowlrecall.expertinquiry.com/home?lang=eu" rel="noopener noreferrer nofollow" target="_blank">register </a>for
+the free repair kit.</p>
+<p>For further queries, consumers may also visit Vitamix <a href="https://www.vitamix.com/us/en_us/recall" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
