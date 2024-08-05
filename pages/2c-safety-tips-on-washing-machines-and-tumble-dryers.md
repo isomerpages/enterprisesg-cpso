@@ -1,6 +1,7 @@
 ---
 title: Safety Tips on Washing Machines and Tumble Dryers
 permalink: /safety-tips-on-washing-machines-and-tumble-dryers/
+variant: markdown
 ---
 **[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
@@ -10,7 +11,7 @@ permalink: /safety-tips-on-washing-machines-and-tumble-dryers/
 Follow these safety tips to help ensure that the washing machine and clothes dryer do not pose any safety hazards.
 
 **Before purchase**
-* Look out for the SAFETY Mark when purchasing washing machines and check that the registration number is valid by entering either the model number or the 8-digit registration number into the [Register of Registered Controlled Goods.](https://cpsa.enterprisesg.gov.sg/totalagility/forms/custom/publicsite/login.html){:target="_blank"}
+* Look out for the SAFETY Mark when purchasing washing machines and check that the registration number is valid by entering either the model number or the 8-digit registration number into the [Register of Registered Controlled Goods.]([RegisterOfRegisteredControlledGoods (cpsaplus.gov.sg)](https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods)){:target="_blank"}
 * Prevent overloading of the washer or dryer by buying one that caters to your family’s laundry capacity.
 * Ensure that the plugs supplied are suitable for local use.
 * Ensure that qualified personnel carry out the installation of the washer or dryer.
