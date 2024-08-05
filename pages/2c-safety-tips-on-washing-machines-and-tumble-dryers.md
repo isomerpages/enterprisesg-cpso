@@ -11,7 +11,7 @@ variant: markdown
 Follow these safety tips to help ensure that the washing machine and clothes dryer do not pose any safety hazards.
 
 **Before purchase**
-* Look out for the SAFETY Mark when purchasing washing machines and check that the registration number is valid by entering either the model number or the 8-digit registration number into the [Register of Registered Controlled Goods.]([RegisterOfRegisteredControlledGoods (cpsaplus.gov.sg)](https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods)){:target="_blank"}
+* Look out for the SAFETY Mark when purchasing washing machines and check that the registration number is valid by entering either the model number or the 8-digit registration number into the [Register of Registered Controlled Goods](https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods).
 * Prevent overloading of the washer or dryer by buying one that caters to your family’s laundry capacity.
 * Ensure that the plugs supplied are suitable for local use.
 * Ensure that qualified personnel carry out the installation of the washer or dryer.
