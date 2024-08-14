@@ -2,6 +2,7 @@
 title: Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)
 permalink: /suppliers/cgsr/overview-of-cgsr/
 third_nav_title: Supplying consumer goods
+variant: markdown
 ---
 ## Overview of CGSR
 The Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR) aims to protect consumers from unsafe general consumer goods such as toys, children’s products, apparel, sports and recreation products, furniture, mattresses and bedding and DIY tools.
@@ -40,6 +41,6 @@ The following consumer goods are under other regulations or regulatory agencies 
 |Food product and products / Contacting food or beverages|[Singapore Food Agency](https://www.sfa.gov.sg/){:target="_blank"}|
 |Cosmetics, medical devices, pharmaceuticals and Chinese proprietary medicines|[Health Sciences Authority](https://www.hsa.gov.sg/){:target="_blank"}|
 |Motor vehicles|[Land Transport Authority](https://www.lta.gov.sg/content/ltagov/en.html){:target="_blank"}|
-|Motorcycle helmets and children car seats|[Traffic Police](https://www.police.gov.sg/Advisories/Traffic/Road-Safety-Tips){:target="_blank"}|
+|Motorcycle helmets and children car seats|[Traffic Police](https://sso.agc.gov.sg/SL-Supp/S688-2011/Published/20111227170000?DocDate=20111227170000&amp;WholeDoc=1){:target="_blank"}|
 |Hazardous substances|[National Environment Agency](https://www.nea.gov.sg/our-services/pollution-control/chemical-safety/hazardous-substances){:target="_blank"}|
 |Pesticides and vector repellents|[National Environment Agency](https://www.nea.gov.sg/our-services/pest-control/registration-of-control-of-public-health-pesticides-and-repellents-against-vectors){:target="_blank"}|
