@@ -16,22 +16,33 @@ regarding unsafe consumer products identified in Singapore.</p>
 <p>Pigeon Singapore Pte Ltd has announced a voluntary recall for the Pigeon
 SuperFast Steam &amp; Dry Sterilizer due to a potential overheating issue
 that may cause some parts of the product to melt.</p>
-<p>The model name “Yoto Mini”, SKU PRPLXX00860, and serial number are located
-on the base of the product. The speakers are pale grey with orange tactile
-controls and a pixel display.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/Yoto_pics.png">
-</div>
-<p>
-<br>Affected consumers should immediately stop using the speaker and contact
-Yoto to receive a free replacement smart charging cable (“Yoto Mini Smart
-Cable”) which can charge the battery to a safe level.</p>
-<p>Local consumers will be able to order the replacement Yoto Mini Smart
-Cable via Yoto’s dedicated recall <a href="https://uk.yotoplay.com/recall" rel="noopener noreferrer nofollow" target="_blank">website</a>. For additional help
-and support, consumers can email <a rel="noopener noreferrer nofollow" target="_blank">minihelp@yotoplay.com</a>,
-or call the dedicated Yoto Mini Smart Cable helpline at (+65) 8443700426.</p>
 <p></p>
+<p>Consumers who have purchased this product, should immediately stop using
+it and have their product returned for a refund. Please refer to this
+<a href="https://pigeon.com.sg/recall/" rel="noopener noreferrer nofollow" target="_blank">website</a>for more information on the recall and the instructions on
+the refund process.</p>
+<p>&nbsp;</p>
+<p>Consumers may also get in touch with the Pigeon customer service team
+through the following channels :</p>
+<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">ps.support@sg.pigeon.com</a>
+</p>
+</li>
+<li>
+<p>Facebook:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/PigeonSingapore/</a>&nbsp;</p>
+</li>
+<li>
+<p>Instagram:&nbsp;<a href="https://www.instagram.com/pigeonsingapore/" rel="noopener noreferrer nofollow" target="_blank">@pigeonsingapore</a>
+</p>
+</li>
+<li>
+<p>Support via WhatsApp Messaging:<a href="https://wa.me/+6585561802" rel="noopener noreferrer nofollow" target="_blank">&nbsp;+65 8556 1802&nbsp;</a>
+</p>
+</li>
+</ul>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
