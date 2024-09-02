@@ -20,15 +20,12 @@ that may cause some parts of the product to melt.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/pigeon-sterilizer.png">
 </div>
-<p></p>
 <p>Consumers who have purchased this product, should immediately stop using
 it and have their product returned for a refund. Please refer to this
 <a href="https://pigeon.com.sg/recall/" rel="noopener noreferrer nofollow" target="_blank">website</a>for more information on the recall and the instructions on
 the refund process.</p>
-<p>&nbsp;</p>
 <p>Consumers may also get in touch with the Pigeon customer service team
-through the following channels :</p>
-<p>&nbsp;</p>
+through the following channels :&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">ps.support@sg.pigeon.com</a>
