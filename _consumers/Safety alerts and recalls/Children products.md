@@ -63,6 +63,15 @@ through the following channels :&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>30 Aug 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2024-08-30-pigeon-sterilizer.pdf" rel="noopener nofollow" target="_blank">Pigeon recalls SuperFast Steam &amp; Dry Sterilizer</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>03 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
