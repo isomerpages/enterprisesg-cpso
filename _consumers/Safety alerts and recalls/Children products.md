@@ -18,7 +18,7 @@ SuperFast Steam &amp; Dry Sterilizer due to a potential overheating issue
 that may cause some parts of the product to melt.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/pigeon-sterilizer.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/pigeon-sterilizer.png">
 </div>
 <p>Consumers who have purchased this product, should immediately stop using
 it and have their product returned for a refund. Please refer to this
