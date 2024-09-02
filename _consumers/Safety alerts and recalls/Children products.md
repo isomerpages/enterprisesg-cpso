@@ -9,15 +9,13 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>3 May 2024</strong> 
-<br><strong>Yoto Replacing Charging Cable of Yoto Mini Speakers for Children Due to Burn and Fire Hazards</strong> 
+<p><strong>30 Aug 2024</strong> 
+<br><strong>Voluntary Recall of Pigeon SuperFast Steam &amp; Dry Sterilizer</strong>
 <br>
 </p>
-<p>Yoto Limited has issued a voluntary corrective action for the charging
-cables that were sold with the Yoto Mini, a portable connected screen-free
-speaker intended for children ages three to twelve. The speaker’s lithium-ion
-battery can overheat and catch fire when at a high state of charge, posing
-burn and fire hazards to consumers.</p>
+<p>Pigeon Singapore Pte Ltd has announced a voluntary recall for the Pigeon
+SuperFast Steam &amp; Dry Sterilizer due to a potential overheating issue
+that may cause some parts of the product to melt.</p>
 <p>The model name “Yoto Mini”, SKU PRPLXX00860, and serial number are located
 on the base of the product. The speakers are pale grey with orange tactile
 controls and a pixel display.</p>
