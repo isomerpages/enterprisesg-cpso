@@ -22,8 +22,8 @@ that may cause some parts of the product to melt.</p>
 </div>
 <p>Consumers who have purchased this product, should immediately stop using
 it and have their product returned for a refund. Please refer to this
-<a href="https://pigeon.com.sg/recall/" rel="noopener nofollow" target="_blank">website</a>more information on the recall and the instructions on the
-refund process.</p>
+<a href="https://pigeon.com.sg/recall/" rel="noopener nofollow" target="_blank">website</a>for more information on the recall and the instructions on
+the refund process.</p>
 <p>Consumers may also get in touch with the Pigeon customer service team
 through the following channels :&nbsp;</p>
 <ul data-tight="true" class="tight">
