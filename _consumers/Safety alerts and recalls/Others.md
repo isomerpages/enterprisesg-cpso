@@ -68,15 +68,6 @@ immediately, and return them to the nearest Marimekko Store at ION Orchard,
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>8 Jan 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/others/others_recall_2024_01_08_blendjet_blendjet2_pdf.pdf" rel="noopener nofollow" target="_blank">BlendJet Inc. recalls BlendJet 2 Portable Blenders</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>22 Jun 2023</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -103,31 +94,7 @@ immediately, and return them to the nearest Marimekko Store at ION Orchard,
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 May 2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>12 May 2022</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>16 Oct 2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>29 Jul 2019</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
