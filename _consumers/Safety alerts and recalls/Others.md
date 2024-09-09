@@ -17,13 +17,15 @@ following affected products from the market. The product number and batch
 number of affected products can be found on the product care label under
 the product name.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/marimekko.png">
+</div>
 <p>The nickel content in the metallic adjustment part of the back strap of
 the caps has been found to be above the allowable limit in two production
 batches.&nbsp;If in direct skin contact, the nickel may cause an allergic
 reaction.</p>
-<p>&nbsp;The caps have been sold in Marimekko stores and on the <a rel="noopener noreferrer nofollow" target="_blank">marimekko.com</a> website
-from May 2024 to August 2024, as well as through the sales channels of
-Marimekko’s distributors.</p>
+<p>&nbsp;The caps have been sold in Marimekko stores and on the <a rel="noopener noreferrer nofollow" target="_blank">marimekko.com</a> website from May 2024
+to August 2024, as well as through the sales channels of Marimekko’s distributors.</p>
 <p>&nbsp;Consumers in possession of the affected caps should stop using them
 immediately, and return them to the nearest Marimekko Store at ION Orchard,
 2 Orchard Turn, B1-12, Singapore 238801 for a full refund, or email Marimekko’s
@@ -53,7 +55,7 @@ immediately, and return them to the nearest Marimekko Store at ION Orchard,
 <p>09 Sep 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2016-02-18-crown-hair-clip.pdf" rel="noopener noreferrer nofollow" target="_blank">Jewellery and accessories: Marimekko's Krasta Caps</a>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others-recall-2024-09-09-marimekko.pdf" rel="noopener noreferrer nofollow" target="_blank">Jewellery and accessories: Marimekko's Krasta Caps</a>
 </p>
 </td>
 </tr>
