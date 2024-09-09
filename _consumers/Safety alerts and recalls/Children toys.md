@@ -8,7 +8,7 @@ variant: markdown
 ## Children toys safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**16 Aug 2024**<br>
+**09 Sep 2024**<br>
 **Fisher-Price, Inc. recalls Donald Duck and Daisy Duck figures sold in the Little People Mickey and Friends Figure Pack**<br>
 
 Fisher-Price has announced a voluntary recall of the Donald Duck and Daisy Duck figures sold in the Fisher-Price Little People Mickey and Friends Figure Pack. The heads of the Donald Duck and Daisy Duck figures can detach, posing a choking hazard to young children.
@@ -25,7 +25,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|16 Aug 2024|[Fisher-Price, Inc. recalls Donald Duck and Daisy Duck figures sold in the Little People Mickey and Friends Figure Pack](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2024-08-16-donald-duck-and-daisy-duck.pdf){:target="_blank"}|
+|09 Sep 2024|[Fisher-Price, Inc. recalls Donald Duck and Daisy Duck figures sold in the Little People Mickey and Friends Figure Pack](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2024-08-16-donald-duck-and-daisy-duck.pdf){:target="_blank"}|
 |18 Sep 2023|[ZURU Inc (“ZURU”) Recalls ZURU Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with a plastic top fin), and ZURU Robo Alive Junior Mini Baby Shark Bath Toy (with a plastic top fin)](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2023-09-18-zuru-recalls-baby-shark-sing-and-swim-bath-toy.pdf){:target="_blank"}|
 |23 Mar 2023|[IKEA voluntarily recalls BLÅVINGAD Fishing Game Multicolour ](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2023-03-23-ikea-%20fishing-game.pdf){:target="_blank"}|
 |25 Jun 2021|[Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10’](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-06-25-cotton-on-group-recalls-kids-projector-light.pdf){:target="_blank"}|
@@ -36,6 +36,10 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|09 Sep 2024|[Reusable Siliocne Water Balloon](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2024-09-09-reusable-silicone-water-balloon-ideacreativity.pdf){:target="_blank"}|
+|09 Sep 2024|[Toddler Busy Board (Blue Basic)](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2024-09-09-busy-board-deda-nature.pdf){:target="_blank"}|
+|09 Sep 2024|[Busy Board](/files/product-safety-alerts-and-recalls/children-toys-alert-2024-09-09-busy-board-treeyear-toys-official-shop.pdf){:target="_blank"}|
+|09 Sep 2024|[Busy Cube (I Love You)](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2024-09-09-busy-cube-singapore-daddy.pdf){:target="_blank"}|
 |09 Jun 2023|[Health Canada warns of life-threatening risks posed by water beads to young children](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2023-06-09-health-canada-advisory-on-water-beads.pdf){:target="_blank"}|
 |18 Jul 2019|[KEAIHAO Magnetic Building Block Set](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-keaihao-magnetic-building-block-set.pdf){:target="_blank"}|
 |18 Jul 2019|[125pcs 5mm Creative Building Block Magic Cube MAGCUBE Magnetic Cubes](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2019-07-18-125pcs-5mm-creative-building-block-magic-cube-magcube-magnetic-cubes.pdf){:target="_blank"}|
