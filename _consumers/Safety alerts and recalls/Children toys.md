@@ -3,36 +3,17 @@ title: Children toys
 permalink: /consumers/safety-alerts-and-recalls/children-toys/
 third_nav_title: Safety alerts and recalls
 description: ""
+variant: markdown
 ---
 ## Children toys safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**18 Sep 2023**<br>
-**ZURU Inc (“ZURU”) Recalls ZURU Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with a plastic top fin), and ZURU Robo Alive Junior Mini Baby Shark Bath Toy (with a plastic top fin)**<br>
+**16 Aug 2024**<br>
+**Fisher-Price, Inc. recalls Donald Duck and Daisy Duck figures sold in the Little People Mickey and Friends Figure Pack**<br>
 
-ZURU Inc ("ZURU") has announced a voluntary recall for Recalls ZURU Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with a plastic top fin) and ZURU Robo Alive Junior Mini Baby Shark Bath Toy (with a plastic top fin). The recall is being carried out because ZURU has discovered an impact risk if children slip and fall or sit onto the hard plastic top fin of these shark bath toys resulting in injuries such as scratches, lacerations and puncture wounds.
+Fisher-Price has announced a voluntary recall of the Donald Duck and Daisy Duck figures sold in the Fisher-Price Little People Mickey and Friends Figure Pack. The heads of the Donald Duck and Daisy Duck figures can detach, posing a choking hazard to young children.
 
-The Full-Size Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with plastic top fin) is pictured below:
 
-<img src="/images/product-safety-alerts-and-recalls/children-toys/picture1.png" style="width:400px;height:400;"><br>
-
-The ZURU Robo Alive Junior Mini Baby Shark Swimming Toy (with plastic top fin) which is pictured below:
-
-<img src="/images/product-safety-alerts-and-recalls/children-toys/picture2.png" style="width:400px;height:400;"><br>
-
-The ZURU Robo Alive Junior Mini Baby Shark Swimming Toy is also sold as part of a set that is pictured below:
-
-<img src="/images/product-safety-alerts-and-recalls/children-toys/picture3.png" style="width:400px;height:400;"><br>
-
-As the ZURU Robo Alive Junior Mini Baby Shark Swimming Toy (with a plastic top fin) is also part of the Baby Shark Music Water Park play set this product is also being recalled. It is pictured below:
-
-<img src="/images/product-safety-alerts-and-recalls/children-toys/picture4.png" style="width:400px;height:400;"><br>
-
-The recalled Full-Size Baby Shark also has tracking label information on the bottom, including raised lettering that states model number "#25282" and a date code beginning with the letters "DG" followed by "YYY/MM/DD" in the date range DG20190501 through DG20220619. This is pictured below:
-
-<img src="/images/product-safety-alerts-and-recalls/children-toys/picture5.png" style="width:400px;height:400;"><br>
-
-The recalled mini-size bath toys have tracking label information on the bottom, including raised lettering that states model numbers "#7163", "#7175", "#7166", or "#25291" and a date code beginning with the letters "DG" followed by "YYY/MM/DD" in the date range DG2020615 through DG2023525. This is pictured below:
 
 <img src="/images/product-safety-alerts-and-recalls/children-toys/picture6.png" style="width:400px;height:400;"><br>
 
