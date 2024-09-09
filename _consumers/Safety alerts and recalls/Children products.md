@@ -120,7 +120,8 @@ through the following channels :&nbsp;</p>
 <p>12 May 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2022-05-12-smiggle-watch.pdf" rel="noopener nofollow" target="_blank">Smiggle Singapore Pte Ltd issues voluntary recall for Smiggle Fun Character Watch Slapband</a>
+</p>
 </td>
 </tr>
 <tr>
