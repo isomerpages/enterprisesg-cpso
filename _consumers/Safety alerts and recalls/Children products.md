@@ -19,7 +19,7 @@ regarding unsafe consumer products identified in Singapore.</p>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/juzz4baby.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/juzz4baby.jpg">
 </div>
 <p><strong>Sample taken from</strong>
 </p>
