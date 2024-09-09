@@ -34,6 +34,107 @@ immediately, and return them to the nearest Marimekko Store at ION Orchard,
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Title</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>18 Jul 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others-recall-2024-07-18-vitamix-blender.pdf" rel="noopener nofollow" target="_blank">Vita-Mix Corporation (“Vita-Mix”) voluntary corrective action</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Feb 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_recall_2024_02_29_msr_camping_pot.pdf" rel="noopener nofollow" target="_blank">MSR/Cascade Designs Recalls Camping Cooking Pots Due to Burn and Scald Hazards</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>8 Jan 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_recall_2024_01_08_blendjet_blendjet2_pdf.pdf" rel="noopener nofollow" target="_blank">BlendJet Inc. recalls BlendJet 2 Portable Blenders</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>22 Jun 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others-recall-2023-06-22-thelaundress_fabricconditioner.pdf" rel="noopener nofollow" target="_blank">The Laundress New York recalls fabric conditioners due to chemical hazard</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>31 Jan 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others-recall-2023-01-31-the-laundress.pdf" rel="noopener nofollow" target="_blank">The Laundress New York recalls Laundress laundry and household cleaning products</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Sep 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 May 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>12 May 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>16 Oct 2020</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Jul 2019</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Product safety alerts</strong>
 </p>
 <table style="minWidth: 50px">
