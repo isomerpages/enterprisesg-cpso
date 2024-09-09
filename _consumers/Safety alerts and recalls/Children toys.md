@@ -17,7 +17,7 @@ Fisher-Price has announced a voluntary recall of the Donald Duck and Daisy Duck 
 
 The model number for the Fisher-Price Little People Mickey and Friends figure pack is HPJ88, and can be found on the buttom of the Goofy figure. The affected units were sold from 21/08/2023 to 24/03/2024. The Mickey Mouse, Minnie Mouse, Goofy, and Pluto figures are not recalled and may be kept by consumers.
 
-Consumers should stop using the Donald Duck and Daisy Duck figures immediately and contact Mattel for a refund, or contact Toys"R"Us Singapore at 67330190 for assistance regarding this recall.
+Consumers should stop using the Donald Duck and Daisy Duck figures immediately and contact [Mattel](mailto:FP.LittlePeopleRecall@sedgwick.com) for a refund, or contact Toys"R"Us Singapore at 67330190 for assistance regarding this [recall](https://www.toysrus.com.sg/product-safety-recalls.html).
 
 Refer to the listing below for more product safety alerts and recalls.
 
