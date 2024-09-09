@@ -50,6 +50,15 @@ immediately, and return them to the nearest Marimekko Store at ION Orchard,
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>09 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others-recall-2024-09-09-marimekko.pdf" rel="noopener nofollow" target="_blank">Marimekko recalls batch of Marimekko’s Krästa Caps</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>18 Jul 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -119,15 +128,6 @@ immediately, and return them to the nearest Marimekko Store at ION Orchard,
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>09 Sep 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/others/others-recall-2024-09-09-marimekko.pdf" rel="noopener noreferrer nofollow" target="_blank">Jewellery and accessories: Marimekko's Krasta Caps</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
