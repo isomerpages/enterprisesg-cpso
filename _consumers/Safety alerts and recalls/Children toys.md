@@ -25,7 +25,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|16 Sep 2024|[Fisher-Price, Inc. recalls Donald Duck and Daisy Duck figures sold in the Little People Mickey and Friends Figure Pacl](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2024-08-16-donald-duck-and-daisy-duck.pdf){:target="_blank"}|
+|16 Sep 2024|[Fisher-Price, Inc. recalls Donald Duck and Daisy Duck figures sold in the Little People Mickey and Friends Figure Pack](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2024-08-16-donald-duck-and-daisy-duck.pdf){:target="_blank"}|
 |18 Sep 2023|[ZURU Inc (“ZURU”) Recalls ZURU Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with a plastic top fin), and ZURU Robo Alive Junior Mini Baby Shark Bath Toy (with a plastic top fin)](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2023-09-18-zuru-recalls-baby-shark-sing-and-swim-bath-toy.pdf){:target="_blank"}|
 |23 Mar 2023|[IKEA voluntarily recalls BLÅVINGAD Fishing Game Multicolour ](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2023-03-23-ikea-%20fishing-game.pdf){:target="_blank"}|
 |25 Jun 2021|[Cotton On Group recalls Kids Projector Light, Product Code 790691-01 to 79069-10’](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2021-06-25-cotton-on-group-recalls-kids-projector-light.pdf){:target="_blank"}|
