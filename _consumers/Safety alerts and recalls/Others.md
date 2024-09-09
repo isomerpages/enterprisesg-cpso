@@ -89,7 +89,8 @@ immediately, and return them to the nearest Marimekko Store at ION Orchard,
 <p>29 Sep 2022</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others-recall-2022-09-29-bambis-australia-recalls-wanderlust-3-wick-candles.pdf" rel="noopener nofollow" target="_blank">Bambis Australia recalls Wanderlust 3 wick candles sold at Harvey Norman</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -97,7 +98,8 @@ immediately, and return them to the nearest Marimekko Store at ION Orchard,
 <p>16 Oct 2020</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others-recall-2020-10-16-cotton-on-group-recalls-typo-harry-potter-projection-pens.pdf" rel="noopener nofollow" target="_blank">Cotton On Group recalls Typo Harry Potter ‘Lumos’ and Marvel ‘Avengers Assemble’ Projection Pens</a>
+</p>
 </td>
 </tr>
 </tbody>
