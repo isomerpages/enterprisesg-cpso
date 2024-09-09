@@ -30,7 +30,7 @@ Refer to the listing below for more product safety alerts and recalls.
 |Date|Title|
 |---|---|
 |16 Jan 2024|[IKEA recalls ÅSKSTORM 40W USB charger due to thermal burn and electric shock hazard](/files/product-safety-alerts-and-recalls/electrical/electrical_recall_2024_01_16_ikea_askstorm_40w_usb_charger.pdf){:target="_blank"}|
-|08 Jan 2024|[BlendJet Inc. recalls BlendJet 2 Portable Blenders](/files/product-safety-alerts-and-recalls/electrical/electrical_recall_2024_01_08_blendjet_2_portable-blenders.pdf){:target="_blank"}|
+|08 Jan 2024|[BlendJet Inc. recalls BlendJet 2 Portable Blenders](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2024-01-08-blendjet-2-portable-blenders.pdf){:target="_blank"}|
 |14 Jul 2023|[Bose Recalls Bass Modules sold with select Acoustimass®, Lifestyle® and Companion™ Home Theater System Due to Fire Hazard](/files/product-safety-alerts-and-recalls/electrical/electrical-alert-2023-07-14-bose.pdf){:target="_blank"}|
 |07 Jul 2022|[IKEA issues recall of METALLISK Espresso Maker](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2022-07-07-ikea-metallisk-espresso-maker.pdf){:target="_blank"}|
 |22 Feb 2022|[Kenwood voluntarily replaces “Julienne” disc of food processor models FPM800 and FPM810](/files/product-safety-alerts-and-recalls/electrical/electrical-alert-2022-02-22-kenwood-julienne-disc-fpm800-and-fpm810.pdf){:target="blank"}|
