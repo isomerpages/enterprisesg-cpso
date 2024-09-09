@@ -9,40 +9,43 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>30 Aug 2024</strong> 
-<br><strong>Voluntary Recall of Pigeon SuperFast Steam &amp; Dry Sterilizer</strong>
+<p><strong>09 Sep 2024</strong> 
+<br><strong>SAFETY ALERT: “Baby” Baby Walker with Music Toys</strong>
 <br>
 </p>
-<p>Pigeon Singapore Pte Ltd has announced a voluntary recall for the Pigeon
-SuperFast Steam &amp; Dry Sterilizer due to a potential overheating issue
-that may cause some parts of the product to melt.</p>
+<p><strong>Date of notice: </strong>9 September 2024</p>
+<p><strong>Name of product: </strong>“Baby” Baby Walker With Music Toys</p>
+<p><strong>Product picture:</strong>
+</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/pigeon-sterilizer.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/juzz4baby.jpg">
 </div>
-<p>Consumers who have purchased this product, should immediately stop using
-it and have their product returned for a refund. Please refer to this
-<a href="https://pigeon.com.sg/recall/" rel="noopener nofollow" target="_blank">website</a>for more information on the recall and the instructions on
-the refund process.</p>
-<p>Consumers may also get in touch with the Pigeon customer service team
-through the following channels :&nbsp;</p>
+<p><strong>Sample taken from</strong>
+</p>
+<p>Seller “Juzz4baby” on Lazada</p>
+<p>&nbsp;The Consumer Product Safety Office has issued a notice to Juzz4baby
+to cease supply of the baby walker.</p>
+<p>During the testing of this sample, it was found that the product does
+not comply with the following requirements from ASTM F977-22 – Standard
+Consumer Safety Specification for Infant Walkers:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">ps.support@sg.pigeon.com</a>
-</p>
+<p>The baby walker could tip over when passing over a step and result in
+a potential fall hazard.</p>
 </li>
 <li>
-<p>Facebook:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">https://www.facebook.com/PigeonSingapore/</a>&nbsp;</p>
+<p>The leg opening on each side of the walker’s seat does not meet the standard
+requirements and could result in a potential entrapment hazard.</p>
 </li>
 <li>
-<p>Instagram:&nbsp;<a href="https://www.instagram.com/pigeonsingapore/" rel="noopener noreferrer nofollow" target="_blank">@pigeonsingapore</a>
-</p>
-</li>
-<li>
-<p>Support via WhatsApp Messaging:<a href="https://wa.me/+6585561802" rel="noopener noreferrer nofollow" target="_blank">&nbsp;+65 8556 1802&nbsp;</a>
-</p>
+<p>The instruction and warnings provided were not in accordance with the
+requirements (e.g. content, format, language).</p>
 </li>
 </ul>
+<p>No report of incident or injury related to the use of this product has
+been received to date.</p>
+<p>Consumers who have bought the product are advised to stop using it immediately.</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
@@ -213,6 +216,96 @@ through the following channels :&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2024_09_09_walker_juzz4baby.pdf" rel="noopener nofollow" target="_blank">“Baby” Baby Walker with Music Toys</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2024_09_09_walker_ideal_source.pdf" rel="noopener nofollow" target="_blank">Baby Walker with toys and ankle pad</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2024_09_09_walker_celine_house.pdf" rel="noopener nofollow" target="_blank">“Cherry Baby” Baby Walkers with Music Toy</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2024_09_09_walker_babyspa.pdf" rel="noopener nofollow" target="_blank">“贝乐迪BeileDi” Baby Walker</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2024_09_09_walker_anqi_trading.pdf" rel="noopener nofollow" target="_blank">“ALB” Baby walker</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2024_09_09_bouncer_unk_sg.pdf" rel="noopener nofollow" target="_blank">Hashengxiong HSX_002 baby bouncer</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2024_09_09_bouncer_mumchecked.pdf" rel="noopener nofollow" target="_blank">MumChecked double-layered soft mesh baby</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2024_09_09_bouncer_littlebabybernice.pdf" rel="noopener nofollow" target="_blank">Rainforest Friend baby bouncer</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2024_09_09_bouncer_cradlebb.pdf" rel="noopener nofollow" target="_blank">Mas Baby 303A-B baby bouncer</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>09 Sep 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2024_09_09_bouncer_baby_hyperstore.pdf" rel="noopener nofollow" target="_blank">Mas Baby 309 baby bouncer with wheels</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
