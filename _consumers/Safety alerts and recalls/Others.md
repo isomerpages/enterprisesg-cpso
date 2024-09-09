@@ -62,7 +62,7 @@ immediately, and return them to the nearest Marimekko Store at ION Orchard,
 <p>18 Jul 2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/others/others-recall-2024-07-18-vitamix-blender.pdf" rel="noopener nofollow" target="_blank">Vita-Mix Corporation (“Vita-Mix”) voluntary corrective action</a>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others-recall-2024-07-18-vitamix-blender.pdf" rel="noopener nofollow" target="_blank">Vita-Mix Corporation (“Vita-Mix”) voluntary corrective action on certain Blending Containers and Blade Bases</a>
 </p>
 </td>
 </tr>
