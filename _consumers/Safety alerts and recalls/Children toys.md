@@ -8,16 +8,16 @@ variant: markdown
 ## Children toys safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**09 Sep 2024**<br>
-**Fisher-Price, Inc. recalls Donald Duck and Daisy Duck figures sold in the Little People Mickey and Friends Figure Pack**<br>
+**18 Sep 2024**<br>
+**Fisher-Price, Inc. recalls the plastic dumbbell toy sold as part of the Fisher-Price Baby Biceps Gift Set**<br>
 
-Fisher-Price has announced a voluntary recall of the Donald Duck and Daisy Duck figures sold in the Fisher-Price Little People Mickey and Friends Figure Pack. The heads of the Donald Duck and Daisy Duck figures can detach, posing a choking hazard to young children.
+Fisher-Price has announced a voluntary recall of the plastic dumbbell toy sold as a part of the Fisher-Price Baby Biceps Gift Set. The grey end-cap of the dumbbell component can detach, posing a choking hazard to young children.
 
-<img src="/images/product-safety-alerts-and-recalls/children-toys/donald-duck-and-daisy-duck.png" style="width:400px;height:400;"><br>
+<img src="/images/product-safety-alerts-and-recalls/children-toys/dumbbell.png" style="width:400px;height:400;"><br>
 
-The model number for the Fisher-Price Little People Mickey and Friends figure pack is HPJ88, and can be found on the buttom of the Goofy figure. The affected units were sold from 21/08/2023 to 24/03/2024. The Mickey Mouse, Minnie Mouse, Goofy, and Pluto figures are not recalled and may be kept by consumers.
+The model number for the Fisher-Price Baby Biceps Gift Set is GJD49. The kettlebell toy, protein shake toy and headband are not recalled and may be kept by consumers.
 
-Consumers should stop using the Donald Duck and Daisy Duck figures immediately and contact [Mattel](mailto:FP.LittlePeopleRecall@sedgwick.com) for a refund, or contact Toys"R"Us Singapore at 67330190 for assistance regarding this [recall](https://www.toysrus.com.sg/product-safety-recalls.html).
+Consumers should stop using the plastic dumbbell toy immediately, take it away from young children, and contact [Fisher-Price](mailto:FP.babybicepsrecall@sedgwick.com) for a refund.
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -25,6 +25,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|18 Sep 2024|[Fisher-Price, Inc. recalls the plastic dumbbell toy sold as part of the Fisher-Price Baby Biceps Gift Set](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2024-09-18-toy-dumbbell.pdf){:target="_blank"}|
 |09 Sep 2024|[Fisher-Price, Inc. recalls Donald Duck and Daisy Duck figures sold in the Little People Mickey and Friends Figure Pack](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2024-08-16-donald-duck-and-daisy-duck.pdf){:target="_blank"}|
 |18 Sep 2023|[ZURU Inc (“ZURU”) Recalls ZURU Robo Alive Junior Robotic Baby Shark Sing and Swim Bath Toy (with a plastic top fin), and ZURU Robo Alive Junior Mini Baby Shark Bath Toy (with a plastic top fin)](/files/product-safety-alerts-and-recalls/children-toys/children-toys-recall-2023-09-18-zuru-recalls-baby-shark-sing-and-swim-bath-toy.pdf){:target="_blank"}|
 |23 Mar 2023|[IKEA voluntarily recalls BLÅVINGAD Fishing Game Multicolour ](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2023-03-23-ikea-%20fishing-game.pdf){:target="_blank"}|
