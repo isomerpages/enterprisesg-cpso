@@ -2,8 +2,6 @@ collections:
   suppliers:
     output: true
     order:
-      - Product Recall Guide/Overview of product recall.md
-      - Product Recall Guide/.keep
       - overview.md
       - supplying-controlled-goods/.keep
       - supplying-controlled-goods/consumer-protection-safety-requirements-regulations.md
@@ -14,3 +12,5 @@ collections:
       - supplying-consumer-goods/.keep
       - supplying-consumer-goods/consumer-protection-consumer-goods-safety-requirements-regulations-cgsr.md
       - supplying-consumer-goods/resources.md
+      - Product Recall Guide/.keep
+      - Product Recall Guide/Overview of product recall.md
