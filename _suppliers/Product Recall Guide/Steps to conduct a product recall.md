@@ -32,4 +32,31 @@ prior to enacting the recall.</p>
 <p>•Suppliers may include a <u>Recall Action Plan (RAP)</u> for added information
 when notifying the CPSO of the product recall.</p>
 <p>&nbsp;</p>
+<p><strong>Step 4: Progress Reporting</strong>
+</p>
+<p>•After initiation <s>implementation</s> of the product recall, the progress
+of the recall should be carefully monitored to ensure that it is effective
+and achieves its objectives.&nbsp;</p>
+<p>•Suppliers should <s>are&nbsp; required to</s> report the progress to the
+CPSO <s>Authority</s>, at an agreed-upon frequency<s> that is agreed upon</s>.
+Suppliers may <s>are to</s> follow the <u>Recall Progress Report</u> template.</p>
+<p>•It is important to evaluate the effectiveness of the recall continually
+in order to ensure that objectives are being met, and if necessary to adjust
+the Recall Action Plan to improve the recall effectiveness.</p>
+<p>•Suppliers may also consider to review their communication strategy and
+improve the ease of response for affected consumers.</p>
 <p></p>
+<p></p>
+<p><strong>Step 5: Recall Closure</strong>
+</p>
+<p>•Before the active recall operation ceases, suppliers should evaluate
+if the recall objectives have been met.</p>
+<p>•Note: Suppliers are to ensure that consumers should be able to return
+the affected product at all times. The supplier should therefore continue
+to provide capability to receive products that are subject to recall, even
+if the active recall operation has concluded.</p>
+<p></p>
+<p></p>
+<p>For detailed guidance on how to conduct a product recall from start to
+finish, please refer to our <u>Product Recall Guide for Suppliers.</u>
+</p>
