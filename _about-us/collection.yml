@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - overview.md
+      - faq/Frequently Asked Questions on Product Recall.md
       - faq/.keep
       - faq/frequently-asked-questions-on-cpsr.md
       - faq/frequently-asked-questions-on-cgsr.md
