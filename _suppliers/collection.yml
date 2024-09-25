@@ -2,6 +2,7 @@ collections:
   suppliers:
     output: true
     order:
+      - Product Recall Guide/.keep
       - overview.md
       - supplying-controlled-goods/.keep
       - supplying-controlled-goods/consumer-protection-safety-requirements-regulations.md
