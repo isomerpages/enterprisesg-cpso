@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: Product recall guide
 ---
+<h2>Overview of Product Recall</h2>
+<p></p>
 <p>A product recall is a process of removing or correcting products that
 are deemed unsafe or defective. It is usually initiated by the supplier
 of the product to protect consumers from harm.</p>
