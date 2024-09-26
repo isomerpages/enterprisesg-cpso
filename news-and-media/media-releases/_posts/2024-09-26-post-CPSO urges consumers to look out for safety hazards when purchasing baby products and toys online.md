@@ -36,6 +36,7 @@ hazards detected).</p>
 </ol>
 <p><strong>Safety incidents involving children’s products</strong>
 </p>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>In Singapore, safety incidents involving the use of such children’s products
