@@ -4,8 +4,6 @@ permalink: /about/faq/cgsr/
 third_nav_title: FAQ
 variant: markdown
 ---
-*Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
-	
 ### Frequently Asked Questions on Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR)
 
 **1. What is the Consumer Protection (Consumer Goods Safety Requirements) Regulations 2011 (CGSR) about?**<br>
