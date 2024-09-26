@@ -5,11 +5,15 @@ variant: tiptap
 description: ""
 third_nav_title: Product recall guide
 ---
-<p>•Updated 31 July 2023:</p>
-<p>&nbsp;Product Recall Guide for Suppliers</p>
-<p>•Updated 31 July 2023:</p>
-<p>&nbsp;Recall Action Plan template</p>
-<p>•Updated 31 July 2023:</p>
-<p>&nbsp;Guidance on Recall Notice</p>
-<p>•Updated 31 July 2023:</p>
-<p>&nbsp;Recall Progress Report template</p>
+<p>•Updated 26 September 2024:</p>
+<p><a href="/files/product-safety-alerts-and-recalls/product-recall-guide-26092024.pdf" rel="noopener nofollow" target="_blank">Product Recall Guide for Suppliers</a>
+</p>
+<p>•Updated 26 September 2024:</p>
+<p><a href="/files/product-safety-alerts-and-recalls/recall-action-plan-template-26092024.pdf" rel="noopener nofollow" target="_blank">Recall Action Plan template</a>
+</p>
+<p>•Updated 26 September 2024:</p>
+<p><a href="/files/product-safety-alerts-and-recalls/guidelines-on-recall-notice-26092024.pdf" rel="noopener nofollow" target="_blank">Guidance on Recall Notice</a>
+</p>
+<p>•Updated 26 September 2024:</p>
+<p><a href="/files/product-safety-alerts-and-recalls/recall-action-plan-template-26092024.pdf" rel="noopener nofollow" target="_blank">Recall Progress Report template</a>
+</p>
