@@ -100,8 +100,10 @@ to report them to us at <a href="mailto:consumerproductsafety@enterprisesg.gov.s
 For more information on product safety, visit the CPSO’s website at <a href="http://www.consumerproductsafety.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.consumerproductsafety.gov.sg</a>.</p>
 </li>
 </ol>
-<p>Annex A: List of Unsafe Products and Hazards Identified</p>
-<p>Annex B: Product-specific Safety Tips</p>
+<p>Annex A: <a href="/files/media-releases/2024_09_26_mr03424_annex_a.pdf" rel="noopener nofollow" target="_blank">List of Unsafe Products and Hazards Identified</a>
+</p>
+<p>Annex B: <a href="/files/media-releases/2024_09_26_mr03424_annex_b.pdf" rel="noopener nofollow" target="_blank">Product-specific Safety Tips</a>
+</p>
 <p><sup>1</sup> Toys tested include those identified with potential mechanical
 or magnetic hazards.</p>
 <p><sup>2</sup> 23 samples tested include 5 baby bouncers, 5 baby walkers,
