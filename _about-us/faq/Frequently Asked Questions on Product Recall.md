@@ -5,8 +5,6 @@ variant: tiptap
 description: ""
 third_nav_title: Faq
 ---
-<p><em>Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](<a href="https://form.gov.sg/63a160c3cf15ee00129a4ab4)*" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/63a160c3cf15ee00129a4ab4)</a></em>
-</p>
 <h3>Frequently Asked Questions on Product Recall</h3>
 <ol data-tight="true" class="tight">
 <li>
