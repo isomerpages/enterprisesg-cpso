@@ -20,6 +20,7 @@ following market surveillance efforts in the first half of 2024, where
 inspected. Of which, 15 samples were found to be unsafe as they did not
 meet applicable product safety standards under the Consumer Protection
 (Consumer Goods Safety Requirements) Regulations (CGSR).</p>
+<p></p>
 </li>
 <li>
 <p>Common hazards identified in these non-compliant products, include:</p>
