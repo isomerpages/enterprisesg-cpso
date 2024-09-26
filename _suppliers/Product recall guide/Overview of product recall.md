@@ -29,7 +29,7 @@ for up to 12 months, or both.</p>
 </p>
 <p>Product recalls can be voluntary or mandatory depending on the severity
 of the issue.</p>
-<p>•&nbsp;&nbsp; Voluntary recalls – Initiated by supplier</p>
-<p>•Mandatory recalls – Mandated by the Authority</p>
+<p>• Voluntary recalls – Initiated by supplier</p>
+<p>• Mandatory recalls – Mandated by the Authority</p>
 <p>The information required for submission differs depending on the type
 of recall.</p>
