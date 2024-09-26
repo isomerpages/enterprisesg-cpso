@@ -37,9 +37,9 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|09 Sep 2024|[Reusable Siliocne Water Balloon](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2024-09-09-reusable-silicone-water-balloon-ideacreativity.pdf){:target="_blank"}|
+|09 Sep 2024|[Reusable Silicone Water Balloon](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2024-09-09-reusable-silicone-water-balloon-ideacreativity.pdf){:target="_blank"}|
 |09 Sep 2024|[Toddler Busy Board (Blue Basic)](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2024-09-09-busy-board-deda-nature.pdf){:target="_blank"}|
-|09 Sep 2024|[Reusable Silicone Water Baloon](/files/product-safety-alerts-and-recalls/children-toys-alert-2024-09-09-reusable-silicone-water-balloon.pdf){:target="_blank"}|
+|09 Sep 2024|[Reusable Silicone Water Balloon](/files/product-safety-alerts-and-recalls/children-toys-alert-2024-09-09-reusable-silicone-water-balloon.pdf){:target="_blank"}|
 |09 Sep 2024|[Busy Board](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2024-09-09-busy-board-treeyear-toys-official-shop.pdf){:target="_blank"}|
 |09 Sep 2024|[Busy Cube (I Love You)](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2024-09-09-busy-cube-singapore-daddy.pdf){:target="_blank"}|
 |09 Jun 2023|[Health Canada warns of life-threatening risks posed by water beads to young children](/files/product-safety-alerts-and-recalls/children-toys/children-toys-alert-2023-06-09-health-canada-advisory-on-water-beads.pdf){:target="_blank"}|
