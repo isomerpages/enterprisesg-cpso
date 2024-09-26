@@ -20,6 +20,7 @@ following market surveillance efforts in the first half of 2024, where
 inspected. Of which, 15 samples were found to be unsafe as they did not
 meet applicable product safety standards under the Consumer Protection
 (Consumer Goods Safety Requirements) Regulations (CGSR).</p>
+<p></p>
 </li>
 <li>
 <p>Common hazards identified in these non-compliant products, include:</p>
@@ -35,6 +36,7 @@ hazards detected).</p>
 </ol>
 <p><strong>Safety incidents involving children’s products</strong>
 </p>
+<p></p>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>In Singapore, safety incidents involving the use of such children’s products
@@ -44,6 +46,7 @@ walkers and bouncers each year. These injuries include fractures and head
 injuries due to falls, lacerations by sharp points, and second-degree burns
 when children in walkers are unsupervised and get access to areas with
 hot liquids.</p>
+<p></p>
 </li>
 <li>
 <p>Incidents involving toys with small or magnetic parts also remain frequent,
@@ -57,6 +60,7 @@ in death if the windpipe of the child is completely blocked.</p>
 </ol>
 <p><strong>Ensuring product safety for children</strong>
 </p>
+<p></p>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p>Following the market surveillance, CPSO has engaged the relevant retailers,
@@ -66,6 +70,7 @@ those who may have purchased similar products should also note the potential
 hazards. CPSO will continue to engage e-commerce platforms regularly and
 work with them in advising their sellers on the importance of complying
 with the CGSR.</p>
+<p></p>
 </li>
 <li>
 <p>Consumers also play an important part in ensuring the goods that they
@@ -84,6 +89,7 @@ does not clearly explain its features, functionality, and safety instructions;</
 <p>e. Inspect the product once received for any broken or unsafe parts before
 use;</p>
 <p>f. Supervise your child when they are using or playing with the product.</p>
+<p></p>
 </li>
 <li>
 <p>Under the CGSR, suppliers and manufacturers of general consumer goods
@@ -94,6 +100,7 @@ International. Any person who fails to comply with the CPSO’s directions
 to stop the sale of unsafe products, is liable upon conviction, up to a
 fine not exceeding S$10,000 or to an imprisonment for a term not exceeding
 2 years or to both.</p>
+<p></p>
 </li>
 <li>
 <p>The CPSO also encourages consumers who encounter product safety issues
