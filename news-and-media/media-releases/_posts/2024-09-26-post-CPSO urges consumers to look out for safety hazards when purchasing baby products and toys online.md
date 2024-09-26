@@ -29,7 +29,8 @@ stability issue that can lead to toppling.</p>
 to entrapment and stability issue that can lead to toppling.</p>
 <p>• Toys with small and easily removable parts or magnetic parts, which
 present risk of choking and strangulation</p>
-<p>(Refer to Annex A for list of unsafe products and safety hazards detected).</p>
+<p>(Refer to <strong>Annex A</strong> for list of unsafe products and safety
+hazards detected).</p>
 </li>
 </ol>
 <p><strong>Safety incidents involving children’s products</strong>
@@ -70,8 +71,8 @@ with the CGSR.</p>
 <p>Consumers also play an important part in ensuring the goods that they
 buy online are safe, since they may not be able to physically inspect the
 products at the point of sale. They can refer to the following safety tips
-when purchasing children’s products online (Refer to Annex B for more product-specific
-safety tips):</p>
+when purchasing children’s products online (Refer to <strong>Annex B</strong> for
+more product-specific safety tips):</p>
 <p>a. Buy from official stores or reputable brands and sellers;</p>
 <p>b. Check online listings and product labels for age and safety instructions.
 Caregivers should use this information to determine product suitability
