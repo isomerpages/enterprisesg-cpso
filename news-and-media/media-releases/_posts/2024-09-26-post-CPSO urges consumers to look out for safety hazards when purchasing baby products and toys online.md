@@ -16,10 +16,10 @@ variant: tiptap
 in three categories of products for toddlers and children, namely <strong>(i) baby bouncers; (ii) baby walkers; and (iii) toys<sup>1</sup></strong> sold
 on two major e-commerce platforms Shopee and Lazada. This was detected
 following market surveillance efforts in the first half of 2024, where
-23 product samples2 purchased from the e-commerce platforms were inspected.
-Of which, 15 samples were found to be unsafe as they did not meet applicable
-product safety standards under the Consumer Protection (Consumer Goods
-Safety Requirements) Regulations (CGSR).</p>
+23 product samples<sup>2</sup> purchased from the e-commerce platforms were
+inspected. Of which, 15 samples were found to be unsafe as they did not
+meet applicable product safety standards under the Consumer Protection
+(Consumer Goods Safety Requirements) Regulations (CGSR).</p>
 </li>
 <li>
 <p>Common hazards identified in these non-compliant products, include:</p>
