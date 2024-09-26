@@ -7,7 +7,7 @@ third_nav_title: Faq
 ---
 <p><em>Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](<a href="https://form.gov.sg/63a160c3cf15ee00129a4ab4)*" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/63a160c3cf15ee00129a4ab4)</a></em>
 </p>
-<h1>Frequently Asked Questions on Product Recall</h1>
+<h3>Frequently Asked Questions on Product Recall</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>If I suspect a product I manufactured, imported, distributed, offered to sell, or sold might be a hazard, how much time do I have to report this to the CPSO?</strong>
