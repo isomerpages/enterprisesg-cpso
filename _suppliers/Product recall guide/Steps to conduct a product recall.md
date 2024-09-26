@@ -29,17 +29,16 @@ batches of products. Information captured should clearly identify the product.</
 should inform the relevant stakeholders in the supply chain.</p>
 <p>•Suppliers should also inform the CPSO of the intended product recall
 prior to enacting the recall.</p>
-<p>•Suppliers may include a <u>Recall Action Plan (RAP)</u> for added information
-when notifying the CPSO of the product recall.</p>
+<p>•Suppliers may include a <a href="/files/product-safety-alerts-and-recalls/recall-action-plan-template-26092024.pdf" rel="noopener nofollow" target="_blank">Recall Action Plan (RAP)</a> for
+added information when notifying the CPSO of the product recall.</p>
 <p>&nbsp;</p>
 <p><strong>Step 4: Progress Reporting</strong>
 </p>
-<p>•After initiation <s>implementation</s> of the product recall, the progress
-of the recall should be carefully monitored to ensure that it is effective
-and achieves its objectives.&nbsp;</p>
-<p>•Suppliers should <s>are&nbsp; required to</s> report the progress to the
-CPSO <s>Authority</s>, at an agreed-upon frequency<s> that is agreed upon</s>.
-Suppliers may <s>are to</s> follow the <u>Recall Progress Report</u> template.</p>
+<p>•After initiation of the product recall, the progress of the recall should
+be carefully monitored to ensure that it is effective and achieves its
+objectives.&nbsp;</p>
+<p>•Suppliers should report the progress to the CPSO, at an agreed-upon frequency.
+Suppliers may follow the <a href="/files/product-safety-alerts-and-recalls/recall-progress-report-template-2692024.pdf" rel="noopener nofollow" target="_blank">Recall Progress Report template</a>.</p>
 <p>•It is important to evaluate the effectiveness of the recall continually
 in order to ensure that objectives are being met, and if necessary to adjust
 the Recall Action Plan to improve the recall effectiveness.</p>
@@ -58,5 +57,4 @@ if the active recall operation has concluded.</p>
 <p></p>
 <p></p>
 <p>For detailed guidance on how to conduct a product recall from start to
-finish, please refer to our <u>Product Recall Guide for Suppliers.</u>
-</p>
+finish, please refer to our <a href="/files/product-safety-alerts-and-recalls/product-recall-guide-26092024.pdf" rel="noopener nofollow" target="_blank">Product Recall Guide for Suppliers</a>.</p>
