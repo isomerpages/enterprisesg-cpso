@@ -9,7 +9,7 @@ variant: markdown
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
 **03 Oct 2024**<br>
-**Versuni (licensee of the brand PHILIPS) Recalls Battery Packs of the PHILIPS 2000 and PHILIPS 3000 series Cordless Stick Vacuum Cleaners****<br>
+**Versuni (licensee of the brand PHILIPS) Recalls Battery Packs of the PHILIPS 2000 and PHILIPS 3000 series Cordless Stick Vacuum Cleaners**<br>
 
 Versuni has issued a voluntary recall for the battery packs of the Philips 2000 and philips 3000 series cordless stick vacuum cleaners. This recall has been initiated due to a potential risk of the battery packs overheating, after sustains significant impact, such as from a severe fall or multiple drops.
 
