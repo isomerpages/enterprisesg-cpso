@@ -8,20 +8,20 @@ variant: markdown
 ## Electrical safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**16 Jan 2024**<br>
-**IKEA recalls ÅSKSTORM 40W USB charger due to thermal burn and electric shock hazard****<br>
+**03 Oct 2024**<br>
+**Versuni (licensee of the brand PHILIPS) Recalls Battery Packs of the PHILIPS 2000 and PHILIPS 3000 series Cordless Stick Vacuum Cleaners**<br>
 
-Ikea is recalling ÅSKSTORM 40W USB charger dark grey, model number ICPSW5-40-1.
+Versuni has issued a voluntary recall for the battery packs of the Philips 2000 and Philips 3000 series cordless stick vacuum cleaners. This recall has been initiated due to a potential risk of the battery packs overheating, after sustaining significant impact, such as from a severe fall or multiple drops.
 
-<img src="/images/product-safety-alerts-and-recalls/electrical/ikea_1.png" alt="Askstorm 40W USB charger" style="width:400px;height:300px;"><br>
+Only batteries with S/N code in the range of 2328 to 2423 are affected. Please see below as reference for how to locate the S/N code on your product:
 
-It has been found that the power cable can be damaged or broken, after being wrapped around the charger or bent back and forth after a longer period of use. The damaged cable may lead to thermal burns and electric shock. The affected model can be identified by the model number found on the label on the backside of the USB charger.
+<img src="/images/product-safety-alerts-and-recalls/electrical/versuni.png" alt="Askstorm 40W USB charger" style="width:400px;height:300px;"><br>
 
-<img src="/images/product-safety-alerts-and-recalls/electrical/ikea_2.png" alt="Askstorm 40W USB charger" style="width:400px;height:300px;"><br>
-		 
-IKEA urges all customers who owns ÅSKSTORM 40W USB charger dark grey, article number 60461197, to stop using it and to contact IKEA for a full refund. ÅSKSTORM 40W USB charger dark grey can be returned to any [IKEA store](https://www.ikea.com/sg/en/stores/) for a full refund. Proof of purchase (receipt) is not required.
+Consumers in possession of the affected units should immediately stop using the vacuum cleaner and unplug from the power outlet. To check if your unit is affected and to initiate the process for the free replacement of battery pack, please register [here](https://wega.infotip-rts.com/?Cid=SG&amp;LgId=enhttps://wega.infotip-rts.com/?Cid=SG&amp;LgId=en).
 
-For more information, please contact [IKEA Customer Contact Centre](https://www.ikea.com/sg/en/customer-service/contact-us/) at [+65 6786 6868](tel:+6567866868).
+Please refer to this [website](https://www.philips.com.sg/c-w/support-home/recall/cordless-vacuum-2000-3000-battery) for more information on the recall and instructions on how to replace the battery pack free of charge.
+
+For more assistance, please contact +65 800 8528285 (Mon - Fri 0900 - 1800) or Whatsapp: +65 63119130 (Mon - Sun 0900 - 1800).
 
 Refer to the listing below for more product safety alerts and recalls.
 
@@ -29,6 +29,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|03 Oct 2024|[Versuni Recalls Battery Packs of the PHILIPS 2000 and PHILIPS 3000 series Cordless Stick Vacuum Cleaners](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2024-10-03-versuni-battery-pack.pdf){:target="_blank"}|
 |16 Jan 2024|[IKEA recalls ÅSKSTORM 40W USB charger due to thermal burn and electric shock hazard](/files/product-safety-alerts-and-recalls/electrical/electrical_recall_2024_01_16_ikea_askstorm_40w_usb_charger.pdf){:target="_blank"}|
 |08 Jan 2024|[BlendJet Inc. recalls BlendJet 2 Portable Blenders](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2024-01-08-blendjet-2-portable-blenders.pdf){:target="_blank"}|
 |14 Jul 2023|[Bose Recalls Bass Modules sold with select Acoustimass®, Lifestyle® and Companion™ Home Theater System Due to Fire Hazard](/files/product-safety-alerts-and-recalls/electrical/electrical-alert-2023-07-14-bose.pdf){:target="_blank"}|
