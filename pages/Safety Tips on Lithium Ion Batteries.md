@@ -11,10 +11,90 @@ description: ""
 </p>
 <p></p>
 <h2>Safety Tips on Lithium-Ion Batteries</h2>
-<p>Parents and caregivers must be aware of the dangers that button batteries
-can pose to young children. These batteries are found in many common household
-devices like remote controls, toys and flashlights. They should be kept
-out of the reach of small children as they may be accidentally swallowed
-or inserted into their ears or noses. Parents should get medical help fast
-if these batteries are swallowed as they can get stuck in the throat and
-cause severe burns.</p>
+<p>Lithium-ion batteries are often used in consumer electronic devices and
+household appliances, including mobile phones, laptops, and vacuum cleaners.</p>
+<p></p>
+<p>While these batteries are convenient, they can overheat or explode if
+incorrectly used, charged or are damaged. Lithium-ion battery fires can
+be hard to extinguish and dangerous.</p>
+<p></p>
+<p><strong><u>More safety tips for consumer devices powered by lithium-ion batteries</u></strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p><strong>Choose</strong>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Before purchasing, check if the device has been recalled in any region.
+Visit the <a href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/electrical/" rel="noopener nofollow" target="_blank">CPSO's website</a> for
+product safety alerts and recall notifications.</p>
+</li>
+<li>
+<p>Verify that the device's AC adaptor (aka charger) has a valid SAFETY Mark.
+You may verify the validity by searching for the SAFETY Mark number, as
+well as the device's brand or model in the <a href="https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods" rel="noopener nofollow" target="_blank">CPSO's public registry</a>.</p>
+</li>
+<li>
+<p>Buy from sellers that provide aftersales services, e.g. locally available
+customer service centres and warranty services.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/ac_adaptor.png">
+</div>
+</li>
+</ul>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p><strong>Use</strong>
+</p>
+</li>
+</ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Only use the manufacturer’s recommended charger and battery for the device.</p>
+</li>
+<li>
+<p>Follow the manufacturer's instructions for charging the device and the
+associated lithium-ion battery.</p>
+</li>
+<li>
+<p>Do not use damaged batteries, and never modify or tamper with the device's
+battery. Do not charge devices which have lithium-ion batteries that are
+suspected to be damaged, e.g. bloated or swollen battery, signs of chemical
+leakage, and batteries that feel excessively hot during charging.</p>
+</li>
+<li>
+<p>Monitor products while charging and unplug when the battery is fully charged
+to prevent overcharging.</p>
+</li>
+<li>
+<p>Never charge your device under your pillow, bed, or couch, which may restrict
+airflow and potentially cause overheating and fire.</p>
+</li>
+<li>
+<p>Avoid dropping or applying excessive force to the device, which may damage
+the internal components and pose a risk of short-circuiting.</p>
+</li>
+<li>
+<p>Keep devices and batteries away from direct sunlight, heat sources, and
+moisture.</p>
+</li>
+</ul>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p><strong>Check</strong>
+</p>
+</li>
+</ol>
+<p></p>
+<ol start="4" data-tight="true" class="tight">
+<li>
+<p><strong>Dispose</strong>
+</p>
+</li>
+</ol>
+<p></p>
+<p>By following the above safety tips, consumers can ensure the safe use
+of electronic devices powered by lithium-ion batteries.</p>
