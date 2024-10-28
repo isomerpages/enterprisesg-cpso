@@ -36,13 +36,13 @@ product safety alerts and recall notifications.</p>
 <p>Verify that the device's AC adaptor (aka charger) has a valid SAFETY Mark.
 You may verify the validity by searching for the SAFETY Mark number, as
 well as the device's brand or model in the <a href="https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods" rel="noopener nofollow" target="_blank">CPSO's public registry</a>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/ac_adaptor.png">
+</div>
 </li>
 <li>
 <p>Buy from sellers that provide aftersales services, e.g. locally available
 customer service centres and warranty services.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/ac_adaptor.png">
-</div>
 </li>
 </ul>
 <ol start="2" data-tight="true" class="tight">
