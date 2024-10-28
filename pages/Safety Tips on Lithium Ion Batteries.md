@@ -88,13 +88,44 @@ moisture.</p>
 </p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Regularly inspect the device and the lithium-ion battery for any signs
+of damage, leakage, or unusual odours.</p>
 <p></p>
+</li>
+<li>
+<p>If any abnormalities are detected, stop using the device and seek assistance
+from the authorised distributor/ service provider on repair, replacement
+or disposal steps.</p>
+</li>
+</ul>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong>Dispose</strong>
 </p>
 </li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>Do not dispose of any batteries into general bins or blue recycling bins
+as that may create fire hazards.</p>
+</li>
+<li>
+<p>Tape the ends or wires of rechargeable batteries and seal any leaking
+batteries in a leak-proof container or bag before recycling them. This
+reduces the risk of short circuits and fire hazards.</p>
+</li>
+<li>
+<p>In Singapore, the National Environment Agency (NEA) provides e-waste recycling
+programmes for individuals and households. You may drop off your e-waste
+at designated recycling points to ensure proper recycling.</p>
 <p></p>
+</li>
+<li>
+<p>For more information on e-waste recycling requirements and to locate recycling
+points, you can visit the</p>
+</li>
+</ul>
 <p>By following the above safety tips, consumers can ensure the safe use
 of electronic devices powered by lithium-ion batteries.</p>
