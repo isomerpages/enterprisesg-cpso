@@ -37,7 +37,7 @@ product safety alerts and recall notifications.</p>
 You may verify the validity by searching for the SAFETY Mark number, as
 well as the device's brand or model in the <a href="https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods" rel="noopener nofollow" target="_blank">CPSO's public registry</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 10%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/ac_adaptor.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/ac_adaptor.png">
 </div>
 </li>
 </ul>
@@ -137,3 +137,8 @@ points, you can visit the <a href="https://www.nea.gov.sg/our-services/waste-man
 </ul>
 <p>By following the above safety tips, consumers can ensure the safe use
 of electronic devices powered by lithium-ion batteries.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/OECD.png">
+</div>
+<p></p>
