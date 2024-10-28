@@ -124,7 +124,7 @@ at designated recycling points to ensure proper recycling.</p>
 </li>
 <li>
 <p>For more information on e-waste recycling requirements and to locate recycling
-points, you can visit the</p>
+points, you can visit the <a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/e-waste-management/where-to-recycle-e-waste" rel="noopener nofollow" target="_blank">NEA's website</a>.</p>
 </li>
 </ul>
 <p>By following the above safety tips, consumers can ensure the safe use
