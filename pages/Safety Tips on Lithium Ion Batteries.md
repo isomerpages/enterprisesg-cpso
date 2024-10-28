@@ -93,6 +93,9 @@ moisture.</p>
 <p>Regularly inspect the device and the lithium-ion battery for any signs
 of damage, leakage, or unusual odours.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/power_bank.png">
+</div>
 </li>
 <li>
 <p>If any abnormalities are detected, stop using the device and seek assistance
@@ -121,6 +124,9 @@ reduces the risk of short circuits and fire hazards.</p>
 programmes for individuals and households. You may drop off your e-waste
 at designated recycling points to ensure proper recycling.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/nra.png">
+</div>
 </li>
 <li>
 <p>For more information on e-waste recycling requirements and to locate recycling
