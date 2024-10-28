@@ -2,6 +2,7 @@
 title: Electronics and appliances
 permalink: /consumers/product-safety-tips/electronics-and-appliances/
 third_nav_title: Product safety tips
+variant: markdown
 ---
 *Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 ## Product safety tips for electronics and appliances
@@ -14,3 +15,4 @@ We use a variety of electrical appliances in our everyday lives. Overlooking bas
 * [Safety Tips on Power Banks](/safety-tips-on-power-banks)
 * [Safety Tips on Decorative Lighting](/safety-tips-on-decorative-lighting)
 * [Safety Tips on Ceiling Fans](/safety-tips-on-ceiling-fans)
+* [Safety Tips on Lithium-Ion Batteries](/safety-tips-on-lithium-ion-batteries)
