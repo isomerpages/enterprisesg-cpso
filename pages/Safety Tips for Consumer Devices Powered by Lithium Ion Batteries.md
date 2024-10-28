@@ -40,6 +40,8 @@ well as the device's brand or model in the <a href="https://www.cpsaplus.gov.sg/
 <img style="width: 10%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/ac_adaptor.png">
 </div>
 </li>
+</ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Buy from sellers that provide aftersales services, e.g. locally available
 customer service centres and warranty services.</p>
