@@ -39,7 +39,7 @@ well as the device's brand or model in the <a href="https://www.cpsaplus.gov.sg/
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/ac_adaptor.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/ac_adaptor.jpg">
 </div>
 <ul data-tight="true" class="tight">
 <li>
