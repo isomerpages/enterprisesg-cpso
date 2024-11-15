@@ -13,7 +13,7 @@ We conduct compliance checks on consumer products sold locally to ensure they ad
 
 Versuni has issued a voluntary recall for the Philips Pressurized Steam Generator Irons models starting with PSG8, GC96 and PSG90, and code numbers 2421, 2422 or 2423.
 
-This recall has been initiated due to a manufacturing isue in the welding of the boiler that generates the steam in the steam system, which may result in injuries like burns or impact-related injuries.
+This recall has been initiated due to a manufacturing issue in the welding of the boiler that generates the steam in the steam system, which may result in injuries like burns or impact-related injuries.
 
 To determine whether your unit is impacted, and begin the compensation selection process, enter your device serial number at this [link](https://philips-psg.infotip-rts.com/index.php?Cid=SG&amp;LgId=en).
 
