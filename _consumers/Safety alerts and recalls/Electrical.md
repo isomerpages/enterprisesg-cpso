@@ -8,18 +8,20 @@ variant: markdown
 ## Electrical safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**03 Oct 2024**<br>
-**Versuni (licensee of the brand PHILIPS) Recalls Battery Packs of the PHILIPS 2000 and PHILIPS 3000 series Cordless Stick Vacuum Cleaners**<br>
+**15 Nov 2024**<br>
+**Versuni (licensee of the brand PHILIPS) Recalls Philips Perfect Care 8000, 9000, and Elite series Pressurized Steam Generator Irons**<br>
 
-Versuni has issued a voluntary recall for the battery packs of the Philips 2000 and Philips 3000 series cordless stick vacuum cleaners. This recall has been initiated due to a potential risk of the battery packs overheating, after sustaining significant impact, such as from a severe fall or multiple drops.
+Versuni has issued a voluntary recall for the Philips Pressurized Steam Generator Irons models starting with PSG8, GC96 and PSG90, and code numbers 2421, 2422 or 2423.
 
-Only batteries with S/N code in the range of 2328 to 2423 are affected. Please see below as reference for how to locate the S/N code on your product:
+This recall has been initiated due to a manufacturing issue in the welding of the boiler that generates the steam in the steam system, which may result in injuries like burns or impact-related injuries.
 
-<img src="/images/product-safety-alerts-and-recalls/electrical/versuni.png" alt="Askstorm 40W USB charger" style="width:400px;height:300px;"><br>
+To determine whether your unit is impacted, and begin the compensation selection process, enter your device serial number at this [link](https://philips-psg.infotip-rts.com/index.php?Cid=SG&amp;LgId=en).
 
-Consumers in possession of the affected units should immediately stop using the vacuum cleaner and unplug from the power outlet. To check if your unit is affected and to initiate the process for the free replacement of battery pack, please register [here](https://wega.infotip-rts.com/?Cid=SG&amp;LgId=enhttps://wega.infotip-rts.com/?Cid=SG&amp;LgId=en).
+Please see below as reference for how to locate the serial number on your product:
 
-Please refer to this [website](https://www.philips.com.sg/c-w/support-home/recall/cordless-vacuum-2000-3000-battery) for more information on the recall and instructions on how to replace the battery pack free of charge.
+<img src="/images/product-safety-alerts-and-recalls/electrical/versuni_steam_iron.png" alt="Askstorm 40W USB charger" style="width:600px;height:300px;"><br>
+
+Consumers in possession of the affected units should immediately stop using the steam generating iron, and unplug it from the power outlet.
 
 For more assistance, please contact +65 800 8528285 (Mon - Fri 0900 - 1800) or Whatsapp: +65 63119130 (Mon - Sun 0900 - 1800).
 
@@ -29,6 +31,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
+|15 Nov 2024|[Versuni Recalls Pressurized Steam Generator Irons](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2024-11-15-versuni-steam-iron.pdf){:target="_blank"}|
 |03 Oct 2024|[Versuni Recalls Battery Packs of the PHILIPS 2000 and PHILIPS 3000 series Cordless Stick Vacuum Cleaners](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2024-10-03-versuni-battery-pack.pdf){:target="_blank"}|
 |16 Jan 2024|[IKEA recalls ÅSKSTORM 40W USB charger due to thermal burn and electric shock hazard](/files/product-safety-alerts-and-recalls/electrical/electrical_recall_2024_01_16_ikea_askstorm_40w_usb_charger.pdf){:target="_blank"}|
 |08 Jan 2024|[BlendJet Inc. recalls BlendJet 2 Portable Blenders](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2024-01-08-blendjet-2-portable-blenders.pdf){:target="_blank"}|
