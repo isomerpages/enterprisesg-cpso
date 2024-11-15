@@ -19,7 +19,7 @@ To determine whether your unit is impacted, and begin the compensation selection
 
 Please see below as reference for how to locate the serial number on your product:
 
-<img src="/images/product-safety-alerts-and-recalls/electrical/versuni_steam_iron.png" alt="Askstorm 40W USB charger" style="width:400px;height:300px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/electrical/versuni_steam_iron.png" alt="Askstorm 40W USB charger" style="width:600px;height:300px;"><br>
 
 Consumers in possession of the affected units should immediately stop using the steam generating iron, and unplug it from the power outlet.
 
