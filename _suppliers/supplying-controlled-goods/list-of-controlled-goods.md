@@ -7,7 +7,7 @@ variant: markdown
 ## 33 Categories of Controlled Goods
 The 33 categories of Controlled Goods (CGs) under CPSR are tiered into <a href="#bottom_low" id="top_low">Low</a>, <a href="#bottom_medium" id="top_medium">Medium</a> and <a href="#bottom_high" id="top_high">High</a> Risk CGs that have different conformity assessment approaches.  
 
-For registration of low risk CGs, the Registered Supplier will have to submit a Supplier’s Declaration of Conformity to the Consumer Product Safety Office. For medium and high risk CGs, a Certificate of Conformity issued by a [designated Conformity Assessment Body](https://www.go.gov.sg/list-of-cps-cab) is required for registration of the CG. Click to find out more about [registering CGs.](/suppliers/cpsr/register-your-controlled-goods)
+For registration of low risk CGs, the Registered Supplier will have to submit a Supplier’s Declaration of Conformity to the Consumer Product Safety Office. For medium and high risk CGs, a Certificate of Conformity issued by a [Designated Conformity Assessment Body](https://www.go.gov.sg/list-of-cps-cab) is required for registration of the CG. Click to find out more about [registering CGs.](/suppliers/cpsr/register-your-controlled-goods)
 
 Suppliers must first apply to be a Registered Supplier before supplying these Controlled Goods. Click to find out more on how to [apply as a Registered Supplier.](/suppliers/cpsr/apply-to-be-a-registered-supplier)
 
