@@ -1,8 +1,9 @@
 ---
 title: Type of Mains Plugs Suitable for use in Singapore
 permalink: /types-of-mains-plugs-suitable-for-use-in-singapore/
+variant: markdown
 ---
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
+**[← Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
 *Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
@@ -25,12 +26,12 @@ Some appliances are fitted with mains plugs meant for the German market. These a
 
 Furthermore, while ‘Schuko’ plugs may come with earthing strips located on their sides, they are not safe for use in Singapore as the earthing strips cannot make contact with the earth contact of a local mains socket.
 
-**Examples of approved mains plugs**
+**Examples of suitable mains plugs**
 ![mains plugs 5](/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-5.jpg)<br>
 *From left to right: 2.5A round pin, 13A rectangular pin, 15A round pin*
 
-**Examples of non-approved mains plugs**
+**Examples of non-suitable mains plugs**
 ![non approved mains plugs](/images/consumers/did-you-know/types-of-mains-plugs/non-approved-mains-plugs.jpg)<br>
 *From left to right: Flat-blade plug, Schuko plug with side grounding contact, Schuko plug with side grounding contact, 10/16-Amp round pin, Flat-blade but with round grounding pin, Flat-blade but with round grounding pin*
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
+**[← Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
