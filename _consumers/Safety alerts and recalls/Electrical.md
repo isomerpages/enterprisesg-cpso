@@ -17,7 +17,7 @@ The recall stems from a manufacturing defect in the built-in battery which could
 
 Please see below as reference for how to locate the model number on your product:
 
-<img src="/images/product-safety-alerts-and-recalls/electrical/audio-tech.png" alt="Audio-Technica True Wireless" style="width:600px;height:300px;"><br>
+<img src="/images/product-safety-alerts-and-recalls/electrical/audio-tech.png" alt="Audio-Technica True Wireless" style="width:400px;height:200px;"><br>
 
 Owners of the affected charging cases should stop using them immediately and [register](https://docs.google.com/forms/d/e/1FAIpQLSfEqWG8cPxefWhIgR-4tZjafYb7guAlz5dvCA3vDRIydaJmNA/viewform) for an appointment to receive a replacement.
 
