@@ -8,22 +8,20 @@ variant: markdown
 ## Electrical safety alerts and recalls
 We conduct compliance checks on consumer products sold locally to ensure they adhere to safety requirements. Stay up to date with the latest news regarding unsafe consumer products identified in Singapore.
 
-**15 Nov 2024**<br>
-**Versuni (licensee of the brand PHILIPS) Recalls Philips Perfect Care 8000, 9000, and Elite series Pressurized Steam Generator Irons**<br>
+**11 Dec 2024**<br>
+**Audio-Technica (S.E.A) Pte Ltd Announces Recall of ATH-SQ1TW2 True Wireless Earphones Charging Cases**<br>
 
-Versuni has issued a voluntary recall for the Philips Pressurized Steam Generator Irons models starting with PSG8, GC96 and PSG90, and code numbers 2421, 2422 or 2423.
+Audio-Technica (S.E.A) Pte Ltd has launched a voluntary recall for the charging cases of their ATH-SQ1TW2 True Wireless Earphones.
 
-This recall has been initiated due to a manufacturing issue in the welding of the boiler that generates the steam in the steam system, which may result in injuries like burns or impact-related injuries.
+The recall stems from a manufacturing defect in the built-in battery which could lead to overheating of the charging case.
 
-To determine whether your unit is impacted, and begin the compensation selection process, enter your device serial number at this [link](https://philips-psg.infotip-rts.com/index.php?Cid=SG&amp;LgId=en).
+Please see below as reference for how to locate the model number on your product:
 
-Please see below as reference for how to locate the serial number on your product:
+<img src="/images/product-safety-alerts-and-recalls/electrical/audio-tech.png" alt="Audio-Technica True Wireless" style="width:600px;height:300px;"><br>
 
-<img src="/images/product-safety-alerts-and-recalls/electrical/versuni_steam_iron.png" alt="Askstorm 40W USB charger" style="width:600px;height:300px;"><br>
+Owners of the affected charging cases should stop using them immediately and [register](https://docs.google.com/forms/d/e/1FAIpQLSfEqWG8cPxefWhIgR-4tZjafYb7guAlz5dvCA3vDRIydaJmNA/viewform) for an appointment to receive a replacement.
 
-Consumers in possession of the affected units should immediately stop using the steam generating iron, and unplug it from the power outlet.
-
-For more assistance, please contact +65 800 8528285 (Mon - Fri 0900 - 1800) or Whatsapp: +65 63119130 (Mon - Sun 0900 - 1800).
+For assistance, please contact +65 6749 5686.
 
 Refer to the listing below for more product safety alerts and recalls.
 
