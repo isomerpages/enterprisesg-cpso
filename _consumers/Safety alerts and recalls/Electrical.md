@@ -29,7 +29,7 @@ Refer to the listing below for more product safety alerts and recalls.
 
 |Date|Title|
 |---|---|
-|11 Dec 2024|[Audio-Technica (S.E.A) Announces Recall of ATH-SQ1TW2](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2024-11-15-versuni-steam-iron.pdf){:target="_blank"}|
+|11 Dec 2024|[Audio-Technica (S.E.A) Announces Recall of ATH-SQ1TW2](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2024-12-11-audio-technica-true-wireless.pdf){:target="_blank"}|
 |15 Nov 2024|[Versuni Recalls Pressurized Steam Generator Irons](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2024-11-15-versuni-steam-iron.pdf){:target="_blank"}|
 |03 Oct 2024|[Versuni Recalls Battery Packs of the PHILIPS 2000 and PHILIPS 3000 series Cordless Stick Vacuum Cleaners](/files/product-safety-alerts-and-recalls/electrical/electrical-recall-2024-10-03-versuni-battery-pack.pdf){:target="_blank"}|
 |16 Jan 2024|[IKEA recalls ÅSKSTORM 40W USB charger due to thermal burn and electric shock hazard](/files/product-safety-alerts-and-recalls/electrical/electrical_recall_2024_01_16_ikea_askstorm_40w_usb_charger.pdf){:target="_blank"}|
