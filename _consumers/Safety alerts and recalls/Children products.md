@@ -20,13 +20,15 @@ the sequence "142AA" followed by a number that falls below "0062239".&nbsp;
 Only strollers with these numbers are affected. The serial number is located
 on a tracking label under the stroller seat. &nbsp;</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/YOYO_stroller_.png">
+</div>
 <p>Consumers should immediately stop using the recalled strollers and register
 at the Stokke recall <a href="https://recall.stokke.com/yoyo3" rel="noopener noreferrer nofollow" target="_blank">portal</a> to receive instructions
 for the return/ refund of the affected YOYO<sup>3</sup>&nbsp;stroller and
 all its components.&nbsp;</p>
 <p>&nbsp;</p>
-<p>For more assistance, please contact Stokke® customer service on <a rel="noopener noreferrer nofollow" target="_blank">www.stokke.com</a> or
-email <a rel="noopener noreferrer nofollow" target="_blank">info-usa@stokke.com</a>.</p>
+<p>For more assistance, please contact Stokke® customer service on <a rel="noopener noreferrer nofollow" target="_blank">www.stokke.com</a> or email <a rel="noopener noreferrer nofollow" target="_blank">info-usa@stokke.com</a>.</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
