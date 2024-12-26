@@ -9,43 +9,24 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>09 Sep 2024</strong> 
-<br><strong>SAFETY ALERT: “Baby” Baby Walker with Music Toys</strong>
+<p><strong>26 Dec 2024</strong> 
+<br><strong>Stokke Recalls YOYO³ Strollers Due to Injury Hazard</strong>
 <br>
 </p>
-<p><strong>Date of notice: </strong>9 September 2024</p>
-<p><strong>Name of product: </strong>“Baby” Baby Walker With Music Toys</p>
-<p><strong>Product picture:</strong>
-</p>
+<p>Stokke has issued a voluntary recall for certain Stokke® YOYO³ strollers.
+The parking brake on the recalled strollers may disengage, posing an injury
+hazard. Units affected by this issue have serial numbers that begin with
+the sequence "142AA" followed by a number that falls below "0062239".&nbsp;
+Only strollers with these numbers are affected. The serial number is located
+on a tracking label under the stroller seat. &nbsp;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/juzz4baby.jpg">
-</div>
-<p><strong>Sample taken from</strong>
-</p>
-<p>Seller “Juzz4baby” on Lazada</p>
-<p>&nbsp;The Consumer Product Safety Office has issued a notice to Juzz4baby
-to cease supply of the baby walker.</p>
-<p>During the testing of this sample, it was found that the product does
-not comply with the following requirements from ASTM F977-22 – Standard
-Consumer Safety Specification for Infant Walkers:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The baby walker could tip over when passing over a step and result in
-a potential fall hazard.</p>
-</li>
-<li>
-<p>The leg opening on each side of the walker’s seat does not meet the standard
-requirements and could result in a potential entrapment hazard.</p>
-</li>
-<li>
-<p>The instruction and warnings provided were not in accordance with the
-requirements (e.g. content, format, language).</p>
-</li>
-</ul>
-<p>No report of incident or injury related to the use of this product has
-been received to date.</p>
-<p>Consumers who have bought the product are advised to stop using it immediately.</p>
+<p>Consumers should immediately stop using the recalled strollers and register
+at the Stokke recall <a href="https://recall.stokke.com/yoyo3" rel="noopener noreferrer nofollow" target="_blank">portal</a> to receive instructions
+for the return/ refund of the affected YOYO<sup>3</sup>&nbsp;stroller and
+all its components.&nbsp;</p>
+<p>&nbsp;</p>
+<p>For more assistance, please contact Stokke® customer service on <a rel="noopener noreferrer nofollow" target="_blank">www.stokke.com</a> or
+email <a rel="noopener noreferrer nofollow" target="_blank">info-usa@stokke.com</a>.</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
@@ -63,6 +44,15 @@ been received to date.</p>
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Dec 2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2024_12_26_stroller_YOYO.pdf" rel="noopener noreferrer nofollow" target="_blank">Stokke Recalls YOYO³ Strollers Due to Injury Hazard</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
