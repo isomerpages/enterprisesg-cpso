@@ -27,8 +27,8 @@ on a tracking label under the stroller seat. &nbsp;</p>
 at the Stokke recall <a href="https://recall.stokke.com/yoyo3" rel="noopener noreferrer nofollow" target="_blank">portal</a> to receive instructions
 for the return/ refund of the affected YOYO<sup>3</sup>&nbsp;stroller and
 all its components.&nbsp;</p>
-<p>&nbsp;</p>
-<p>For more assistance, please contact Stokke® customer service on <a rel="noopener noreferrer nofollow" target="_blank">www.stokke.com</a> or email <a rel="noopener noreferrer nofollow" target="_blank">info-usa@stokke.com</a>.</p>
+<p>&nbsp;For more assistance, please contact Stokke® customer service on
+<a rel="noopener noreferrer nofollow" target="_blank">www.stokke.com</a>or email <a rel="noopener noreferrer nofollow" target="_blank">info-usa@stokke.com</a>.</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
