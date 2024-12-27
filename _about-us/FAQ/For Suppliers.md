@@ -127,22 +127,20 @@ to the AC Adaptor only” must be printed near the SAFETY Mark.</p>
 <p></p>
 <p>&nbsp;<strong>11.&nbsp; How should the SAFETY Mark be displayed on mains plugs, portable socket-outlets, and portable cable reels?</strong>
 </p>
-<p>For 3-pin mains plugs (13 and 15 amperes):</p>
+<p>For <strong>3-pin mains plugs (13 and 15 amperes)</strong>:</p>
 <p>The SAFETY Mark must carry the statement “For mains plug” below the certification
 number.</p>
-<p>For 3-pin portable socket-outlets:</p>
+<p>For <strong>3-pin portable socket-outlets</strong>:</p>
 <p>The SAFETY Mark must carry the statement “For 3-pin portable socket-outlet”
 below the certification number.</p>
-<p>For portable cable reels:</p>
+<p>For <strong>portable cable reels</strong>:</p>
 <p>The SAFETY Mark must carry the statement “For portable cable reel” below
 the certification number.</p>
-<p>See examples:</p>
-<p>&nbsp;&nbsp;</p>
+<p>See examples:&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SAFETY_Mark_logos.png">
 </div>
-<p>&nbsp;</p>
-<p><strong>12.&nbsp; How do I download the SAFETY Mark file in CPSA+?</strong>
+<p>&nbsp;<strong>12.&nbsp; How do I download the SAFETY Mark file in CPSA+?</strong>
 </p>
 <p>If you are registered as an RS, log into your CPSA+ account. Then, click
 the “Menu” panel on the left and scroll to “Resources”. Under “Resources”,
