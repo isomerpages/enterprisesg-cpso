@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - overview.md
-      - FAQ/For Suppliers.md
-      - FAQ/For Consumers.md
       - FAQ/.keep
+      - FAQ/For Consumers.md
+      - FAQ/For Suppliers.md
       - FAQ/frequently-asked-questions-on-cpsr.md
       - FAQ/frequently-asked-questions-on-cgsr.md
       - consumer-protection-consumer-goods-safety-requirements-regulations-cgsr.md
