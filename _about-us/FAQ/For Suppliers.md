@@ -161,11 +161,10 @@ Commission (IEC standards)</p>
 for Standardisation (EN standards)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the ASTM International
 (ASTM standards)</p>
-<p>&nbsp;You may also refer to sections 5.1 and 5.2 (pages 9 – 16) of the
-Consumer Protection (Consumer Goods Safety Requirements) Regulations
-<a href="https://www.consumerproductsafety.gov.sg/suppliers/cgsr/resources/" rel="noopener noreferrer nofollow" target="_blank">information booklet</a>for <u>non-exhaustive</u> lists of common general
-consumer goods with their applicable safety standards and any additional
-safety requirements imposed by the CPSO.</p>
+<p>You may also refer to sections 5.1 and 5.2 (pages 9 – 16) of the Consumer
+Protection (Consumer Goods Safety Requirements) Regulations <a href="https://www.consumerproductsafety.gov.sg/suppliers/cgsr/resources/" rel="noopener noreferrer nofollow" target="_blank">information booklet</a>for <u>non-exhaustive</u> lists
+of common general consumer goods with their applicable safety standards
+and any additional safety requirements imposed by the CPSO.</p>
 <p>These goods include toys, children’s products, apparel, furniture and
 beddings, recreation and exercise equipment, DIY tools, and electrical
 and electronic products. The CPSO also imposes additional safety requirements
