@@ -27,19 +27,18 @@ surveillance and action.
 </p>
 <p>The CPSO does not regulate consumer goods already under the purview of
 other Singaporean regulatory agencies. These include:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Food products and products
-containing/in contact with food or beverages:&nbsp;<a href="https://www.sfa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Food Agency (SFA)</a>
+<p>·&nbsp;Food products and products containing/in contact with food or beverages:&nbsp;
+<a href="https://www.sfa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Singapore Food Agency (SFA)</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Cosmetics, medical devices,
-pharmaceuticals and Chinese proprietary medicines:&nbsp;<a href="https://www.hsa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Health Sciences Authority (HSA)</a>
+<p>·&nbsp;Cosmetics, medical devices, pharmaceuticals and Chinese proprietary
+medicines:&nbsp;<a href="https://www.hsa.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Health Sciences Authority (HSA)</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Motor vehicles, personal
-mobility devices and electric bicycles:&nbsp;<a href="https://www.lta.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Land Transport Authority (LTA)</a>
+<p>·&nbsp;Motor vehicles, personal mobility devices and electric bicycles:&nbsp;
+<a href="https://www.lta.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">Land Transport Authority (LTA)</a>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Motorcycle helmets and
-children’s car seats:&nbsp;<a href="https://sso.agc.gov.sg/SL-Supp/S688-2011/Published/20111227170000?DocDate=20111227170000&amp;WholeDoc=1" rel="noopener noreferrer nofollow" target="_blank">Traffic Police (TP</a>)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Hazardous substances,
-pesticides and vector repellents, irradiating apparatus:&nbsp;<a href="https://www.nea.gov.sg/our-services/pollution-control/chemical-safety/hazardous-substances" rel="noopener noreferrer nofollow" target="_blank">National Environment Agency (NEA)</a>
+<p>·&nbsp;Motorcycle helmets and children’s car seats:&nbsp;<a href="https://sso.agc.gov.sg/SL-Supp/S688-2011/Published/20111227170000?DocDate=20111227170000&amp;WholeDoc=1" rel="noopener noreferrer nofollow" target="_blank">Traffic Police (TP</a>)</p>
+<p>·&nbsp;Hazardous substances, pesticides and vector repellents, irradiating
+apparatus:&nbsp;<a href="https://www.nea.gov.sg/our-services/pollution-control/chemical-safety/hazardous-substances" rel="noopener noreferrer nofollow" target="_blank">National Environment Agency (NEA)</a>
 </p>
 <p>The following are also not under the purview of the CPSO:</p>
 <ul data-tight="true" class="tight">
