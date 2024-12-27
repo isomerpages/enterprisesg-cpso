@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: FAQ
 ---
-<h3><strong><u>Registration of Controlled Goods CGs</u></strong></h3>
+<h3><strong><u>Registration of Controlled Goods (CGs)</u></strong></h3>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I register Controlled Goods (CGs)?</strong>
 </p>
 <p><strong>For <em>low risk CGs:</em></strong> The Registered Supplier (RS)
