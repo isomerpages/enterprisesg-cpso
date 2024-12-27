@@ -175,7 +175,8 @@ on toys and childcare articles, as well as portable power banks.</p>
 </p>
 <p>For information on using the CPSA+ system, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.cpsaplus.gov.sg/</a> and
 scroll down to the “Consumer Product Safety” section. Then, click on “User
-Guides on CPSA+ for RS” to load our PDF guide for Registered Suppliers.
+Guides on CPSA+ for RS” to load our PDF guide for Registered Suppliers.</p>
+<p>
 <br><strong>15.&nbsp; How do I change my company address in CPSA+?</strong>
 </p>
 <p>First, update your company’s information in ACRA. Then, log into your
