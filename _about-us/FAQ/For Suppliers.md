@@ -139,7 +139,7 @@ the certification number.</p>
 <p>See examples:</p>
 <p>&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/SAFETY_Mark_logos.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SAFETY_Mark_logos.png">
 </div>
 <p>&nbsp;</p>
 <p><strong>12.&nbsp; How do I download the SAFETY Mark file in CPSA+?</strong>
