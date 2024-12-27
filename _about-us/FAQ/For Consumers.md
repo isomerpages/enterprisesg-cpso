@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: FAQ
 ---
-<h3><u>Purview of the Consumer Product Safety Office (CPSO)</u></h3>
+<h3><strong><u>Purview of the Consumer Product Safety Office (CPSO)</u></strong></h3>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What products are under the CPSO’s purview?</strong>
 </p>
 <p>The CPSO regulates 33 categories of household electrical, electronic and
@@ -83,7 +83,7 @@ as fines. &nbsp;</p>
 <p>The CPSO is unable to assist with resolution matters between suppliers
 and consumers (e.g. refunds, after-sales services, etc.). For resolution
 matters, consumers may wish to contact the <a href="https://www.case.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Consumers Association of Singapore (CASE)</a>.</p>
-<h3><u>Product Safety Tips</u></h3>
+<h3><strong><u>Product Safety Tips</u></strong></h3>
 <p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I check if my appliance has a valid SAFETY Mark?</strong>
 </p>
 <p>Visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/safety-mark</a>.
