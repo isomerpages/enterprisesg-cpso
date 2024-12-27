@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: FAQ
 ---
-<h2><u>Purview of the CPSO</u></h2>
+<h3><u>Purview of the Consumer Product Safety Office (CPSO)</u></h3>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What products are under the CPSO’s purview?</strong>
 </p>
 <p>The CPSO regulates 33 categories of household electrical, electronic and
@@ -21,7 +21,6 @@ and children's products. Such goods are required to conform to applicable
 safety standards, but do not require pre-market approval from the CPSO
 before they can be supplied. The CPSO oversees these goods through post-market
 surveillance and action.
-<br>
 <br>
 </p>
 <p>&nbsp;<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What products are not under the CPSO’s purview?</strong>
@@ -66,7 +65,6 @@ pesticides and vector repellents, irradiating apparatus:&nbsp;<a href="https://w
 <p>Hazards caused by the misuse or unintended use of products</p>
 </li>
 </ul>
-<p></p>
 <p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What actions can the CPSO take? <br></strong>The
 CPSO regularly carries out market surveillance as part of its enforcement
 efforts. If there are reasonable grounds to believe a product does not
@@ -80,16 +78,12 @@ requirements. For e-commerce sales, we also work with online platforms
 to take down listings of CGs that are unregistered or that have a false
 SAFETY Mark. Repeat offenders may be subject to punitive measures such
 as fines. &nbsp;</p>
-<p>&nbsp;</p>
-<p><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the CPSO help me seek redress from suppliers?</strong>
+<p>&nbsp;<strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the CPSO help me seek redress from suppliers?</strong>
 </p>
 <p>The CPSO is unable to assist with resolution matters between suppliers
 and consumers (e.g. refunds, after-sales services, etc.). For resolution
 matters, consumers may wish to contact the <a href="https://www.case.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Consumers Association of Singapore (CASE)</a>.</p>
-<p>
-<br>
-</p>
-<h2><u>Product Safety Tips</u></h2>
+<h3><u>Product Safety Tips</u></h3>
 <p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I check if my appliance has a valid SAFETY Mark?</strong>
 </p>
 <p>Visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/safety-mark</a>.
@@ -100,7 +94,6 @@ learn more about the SAFETY Mark. You may submit an enquiry to the CPSO
 via the “Report” button on the <a href="https://www.cpsaplus.gov.sg/Homepage" rel="noopener noreferrer nofollow" target="_blank">CPSA+ homepage</a> if the SAFETY
 Mark number on your appliance does not tally with the information in the
 database.</p>
-<p></p>
 <p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to the <a rel="noopener noreferrer nofollow" target="_blank">online database</a>, the Safety Mark on my appliance appears to be that for a 3-pin plug. What does that mean?</strong>
 </p>
 <p>13-amp rectangular type, and 15-amp round type 3-Pin plugs are classified
@@ -109,16 +102,13 @@ If your appliance itself is a Controlled Good, it would require its own
 Safety Mark. If not, then a SAFETY Mark is not needed. You may submit an
 enquiry to the CPSO via the “Report” button on the <a href="https://www.cpsaplus.gov.sg/Homepage" rel="noopener noreferrer nofollow" target="_blank">CPSA+ homepage</a> if your appliance
 is a Controlled Good and you cannot locate its relevant SAFETY Mark.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if the SAFETY Mark on my appliance is listed as “Expired” in the database?</strong>
+<p><strong>&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if the SAFETY Mark on my appliance is listed as “Expired” in the database?</strong>
 </p>
 <p>The product was previously tested and certified to meet the relevant safety
 standards as part of the SAFETY Mark registration process. The product
 is compliant with our regulations if it was purchased from a retailer before
 the expiry date.</p>
-<p>&nbsp;</p>
-<p><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I purchase Controlled Goods (CGs) without a SAFETY Mark?</strong>
+<p>&nbsp;<strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I purchase Controlled Goods (CGs) without a SAFETY Mark?</strong>
 </p>
 <p>The SAFETY Mark indicates that products have undergone testing and certification
 to minimize risk of potential dangers such as fire, electric shock and
@@ -127,8 +117,7 @@ gone through the same testing and certification process. They may therefore
 expose users to potential safety risks. As such, the CPSO strongly discourages
 consumers from purchasing CGs without the SAFETY Mark. Consumers who choose
 to purchase unregistered CGs will be doing so at their own risk.</p>
-<p>&nbsp;</p>
-<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I choose safer consumer products and use them safely?</strong>
+<p>&nbsp;<strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I choose safer consumer products and use them safely?</strong>
 </p>
 <p>Before purchase, the CPSO recommends that you research the product and
 brand, for example by reading past customer reviews to check for safety
