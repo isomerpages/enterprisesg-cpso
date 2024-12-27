@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - overview.md
+      - FAQ/For Suppliers.md
       - FAQ/For Consumers.md
       - FAQ/.keep
       - FAQ/frequently-asked-questions-on-cpsr.md
