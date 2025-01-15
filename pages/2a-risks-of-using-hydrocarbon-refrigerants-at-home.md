@@ -1,8 +1,9 @@
 ---
 title: Risk of Using Hydrocarbon Refrigerants At Home
 permalink: /risk-of-using-hydrocarbon-refrigerants-at-home/
+variant: markdown
 ---
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
+**[← Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
 *Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
@@ -27,6 +28,6 @@ In order to achieve this, three general guidelines should be followed:
 * Always read the user instructional manual that comes with the refrigerator.
 * The maintenance, refrigerant handling and disposal of refrigerator are to be handled by trained service personnel from the authorised service centre.
 
-For more details, you may wish to refer to Singapore Civil Defence Force (SCDF) circular on [Review of Hydrocarbon Refrigerant.](https://www.scdf.gov.sg/docs/default-source/scdf-library/fssd-downloads/circulars/scdf-circular-on-hydrocarbon-refrigerants-june-2015.pdf)
+For more details, you may wish to refer to Singapore Civil Defence Force (SCDF) circular on [Review of Hydrocarbon Refrigerant.](https://www.scdf.gov.sg/docs/default-source/fire-safety-docs/downloads/circulars/scdf-circular-on-hydrocarbon-refrigerants-june-2015.pdf?sfvrsn=94c973e7_1)
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
+**[← Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
