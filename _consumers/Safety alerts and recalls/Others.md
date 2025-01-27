@@ -9,27 +9,126 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>09 Sep 2024<br>Marimekko recalls batch of Marimekko’s Krästa&nbsp;Caps</strong> 
+<p><strong>27 Jan 2025<br>Stanley 1913 Recalls Switchback and Trigger Action Travel Mugs Due to Burn Hazard</strong>
 <br>
 </p>
-<p>Marimekko has <a href="https://www.marimekko.com/eu_en/customer-service/recall-krasta-cap" rel="noopener nofollow" target="_blank">recalled</a> the
-following affected products from the market. The product number and batch
-number of affected products can be found on the product care label under
-the product name.</p>
+<p>Stanley 1913 announced a voluntarily recall of certain Switchback and
+Trigger Action Travel Mugs because the lid threads can shrink when exposed
+to heat and torque, causing the lid to detach during use, posing a burn
+hazard.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The products affected include:</p>
+<p>&nbsp;</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Size</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Product Identification Number</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="3" colspan="1">
+<p><strong>Switchback</strong>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>354ml / 12oz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20-01437, 20-02363</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>384ml / 13oz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20-02363</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>473ml / 16oz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20-01436, 20-02354, 20-02211</p>
+</td>
+</tr>
+<tr>
+<td rowspan="5" colspan="1">
+<p><strong>Trigger Action</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>250ml / 8.5oz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20-02824</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>354ml / 12oz (slim)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20-02825, 20-02779</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>354ml / 12oz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20-02454, 20-02033</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>473ml / 16oz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20-02957, 20-02030, 20-02745, 20-02453</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>591ml / 20oz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>20-02746, 20-02034</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>&nbsp;</strong>
+</p>
+<p>The product identification number is located on the bottom of the mug:</p>
+<p>&nbsp;</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/marimekko.png">
-</div>
-<p>The nickel content in the metallic adjustment part of the back strap of
-the caps has been found to be above the allowable limit in two production
-batches.&nbsp;If in direct skin contact, the nickel may cause an allergic
-reaction.</p>
-<p>&nbsp;The caps have been sold in Marimekko stores and on the <a rel="noopener noreferrer nofollow" target="_blank">marimekko.com</a> website from May 2024
-to August 2024, as well as through the sales channels of Marimekko’s distributors.</p>
-<p>&nbsp;Consumers in possession of the affected caps should stop using them
-immediately, and return them to the nearest Marimekko Store at ION Orchard,
-2 Orchard Turn, B1-12, Singapore 238801 for a full refund, or email Marimekko’s
-<a href="mailto:marimekkosupport@tanachira.com.sg" rel="noopener nofollow" target="_blank">customer service</a>for more information on the recall.&nbsp;</p>
+<p>&nbsp;</p>
+<p>Consumers currently in possession of the affected Switchback or Trigger
+Action travel mugs should immediately stop using these products. To determine
+if your product is impacted and to request a free replacement lid, please
+enter your product identification number at this <a href="https://stanley1913tmrecallint.expertinquiry.com/?lang=en" rel="noopener noreferrer nofollow" target="_blank">website</a>.
+This will also begin the compensation selection process.&nbsp;</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
