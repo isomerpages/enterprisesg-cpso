@@ -46,6 +46,9 @@ hazard.</p>
 <p><strong>Switchback</strong>
 </p>
 <p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Switchback.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>354ml / 12oz</p>
