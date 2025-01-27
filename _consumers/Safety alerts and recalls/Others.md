@@ -125,7 +125,7 @@ hazard.</p>
 </p>
 <p>The product identification number is located on the bottom of the mug:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Prd_Identification_Number.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Prd_Identification_Number.png">
 </div>
 <p>&nbsp;</p>
 <p>Consumers currently in possession of the affected Switchback or Trigger
