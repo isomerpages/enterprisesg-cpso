@@ -16,9 +16,7 @@ regarding unsafe consumer products identified in Singapore.</p>
 Trigger Action Travel Mugs because the lid threads can shrink when exposed
 to heat and torque, causing the lid to detach during use, posing a burn
 hazard.</p>
-<p></p>
 <p>The products affected include:</p>
-<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
