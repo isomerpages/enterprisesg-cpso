@@ -16,10 +16,9 @@ regarding unsafe consumer products identified in Singapore.</p>
 Trigger Action Travel Mugs because the lid threads can shrink when exposed
 to heat and torque, causing the lid to detach during use, posing a burn
 hazard.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>The products affected include:</p>
-<p>&nbsp;</p>
+<p></p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -121,17 +120,15 @@ hazard.</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
-<p>The product identification number is located on the bottom of the mug:</p>
+<p><strong>&nbsp;</strong>The product identification number is located on
+the bottom of the mug:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 75%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Prd_Identification_Number.png">
 </div>
-<p>&nbsp;</p>
-<p>Consumers currently in possession of the affected Switchback or Trigger
-Action travel mugs should immediately stop using these products. To determine
-if your product is impacted and to request a free replacement lid, please
-enter your product identification number at this <a href="https://stanley1913tmrecallint.expertinquiry.com/?lang=en" rel="noopener noreferrer nofollow" target="_blank">website</a>.
+<p>&nbsp;Consumers currently in possession of the affected Switchback or
+Trigger Action travel mugs should immediately stop using these products.
+To determine if your product is impacted and to request a free replacement
+lid, please enter your product identification number at this <a href="https://stanley1913tmrecallint.expertinquiry.com/?lang=en" rel="noopener noreferrer nofollow" target="_blank">website</a>.
 This will also begin the compensation selection process.&nbsp;</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
