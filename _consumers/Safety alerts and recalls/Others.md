@@ -153,6 +153,15 @@ This will also begin the compensation selection process.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>27 Jan 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_recall_2025_01_27_stanley_travelmugs.pdf" rel="noopener noreferrer nofollow" target="_blank">Stanley 1913 Recalls Switchback and Trigger Action Travel Mugs Due to Burn Hazard</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>09 Sep 2024</p>
 </td>
 <td rowspan="1" colspan="1">
