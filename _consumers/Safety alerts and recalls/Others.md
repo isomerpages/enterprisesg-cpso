@@ -45,7 +45,6 @@ hazard.</p>
 <td rowspan="3" colspan="1">
 <p><strong>Switchback</strong>
 </p>
-<p>&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Switchback.png">
 </div>
@@ -77,8 +76,9 @@ hazard.</p>
 <td rowspan="5" colspan="1">
 <p><strong>Trigger Action</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Trigger_Action.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>250ml / 8.5oz</p>
@@ -124,8 +124,9 @@ hazard.</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>The product identification number is located on the bottom of the mug:</p>
-<p>&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Prd_Identification_Number.png">
+</div>
 <p>&nbsp;</p>
 <p>Consumers currently in possession of the affected Switchback or Trigger
 Action travel mugs should immediately stop using these products. To determine
