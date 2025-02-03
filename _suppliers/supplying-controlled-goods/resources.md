@@ -22,7 +22,7 @@ variant: tiptap
 </li>
 <li>
 <p>Updated 01 Feb 2025:
-<br><a href="/files/cps_info_booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Consumer Protection (Safety Requirements) Regulations Information Booklet</a>
+<br><a href="/files/cps-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Consumer Protection (Safety Requirements) Regulations Information Booklet</a>
 </p>
 </li>
 <li>
