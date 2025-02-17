@@ -102,6 +102,15 @@ an appointment to receive a replacement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>26 Jul 2023</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/electrical/electrical_recall_2023_07_26_philips_avent_digital_baby_monitor_scd620.pdf" rel="noopener nofollow" target="_blank">Philips Recalls Digital Video Baby Monitor SCD620</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>14 Jul 2023</p>
 </td>
 <td rowspan="1" colspan="1">
