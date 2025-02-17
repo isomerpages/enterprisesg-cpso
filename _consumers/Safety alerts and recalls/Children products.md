@@ -58,15 +58,6 @@ all its components.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>30 Aug 2024</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2024-08-30-pigeon-sterilizer.pdf" rel="noopener nofollow" target="_blank">Pigeon recalls SuperFast Steam &amp; Dry Sterilizer</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>03 May 2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -80,15 +71,6 @@ all its components.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2023-11-06-rainbow-road-board-books.pdf" rel="noopener noreferrer nofollow" target="_blank">MBI recalls five titles in Rainbow Road Board Book Series</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>26 Jul 2023</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2023-07-26-philips-avent-digital-baby-monitor-scd620.pdf" rel="noopener noreferrer nofollow" target="_blank">Philips Recalls Digital Video Baby Monitor SCD620</a>
 </p>
 </td>
 </tr>
@@ -125,15 +107,6 @@ all its components.&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/product-safety-alerts-and-recalls/children-products/frigg-classic-and-daisy-silicone-pacifiers-recall-18-mar-2022.pdf" rel="noopener noreferrer nofollow" target="_blank">Mushie &amp; Co issues voluntary recall for FRIGG silicone pacifiers</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>13 Jan 2020</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-recall-2020-01-13-philips-recalls-digital-video-baby-monitor.pdf" rel="noopener noreferrer nofollow" target="_blank">Philips recalls Digital Video Baby Monitor (SCD620)</a>
 </p>
 </td>
 </tr>
