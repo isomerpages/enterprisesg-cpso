@@ -211,6 +211,15 @@ This will also begin the compensation selection process.&nbsp;</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>07 Jul 2022</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_recall_2022_07_07_ikea_metallisk_espresso_maker.pdf" rel="noopener nofollow" target="_blank">IKEA issues recall of METALLISK Espresso Maker</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>16 Oct 2020</p>
 </td>
 <td rowspan="1" colspan="1">
