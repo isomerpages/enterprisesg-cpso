@@ -15,6 +15,6 @@ The RS can submit a Supplier’s Declaration of Conformity (SDoC) to the Consume
 **For Medium and High Risk CGs:**<br>
 The RS submits test reports and other relevant documentation to a Conformity Assessment Body (Certification) for review. If the CGs meets safety requirements, the CAB (Certification) issues a Certificate of Conformity (CoC) and submits the CoC to the Consumer Product Safety Office. 
 
-If submitted documents are deemed to be in order, a Letter of Approval (LOA) will be issued to the RS within 1 working day.
+If submitted documents are in order, a Letter of Approval (LOA) will be issued to the RS within 1 working day.
 
 You may refer to Chapters 5.3 and 5.4 of our information booklet <a href="/files/cps-info-booklet.pdf">here</a>{:target="_blank"} and our [Resource page](/suppliers/cpsr/resources) for more information on registering controlled goods.
