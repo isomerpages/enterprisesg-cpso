@@ -161,12 +161,12 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/3_pin_plug.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/3_pin_plug.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 95%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/AC_adaptor.jpg">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/AC_adaptor.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,7 +184,6 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-power-adaptors" rel="noopener noreferrer nofollow" target="_blank">AC / power adaptor</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -229,7 +228,6 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/using-and-maintaining-toughened-glass-in-cooking-appliances/" rel="noopener noreferrer nofollow" target="_blank">Gas cooking appliance with toughened glass</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Kettle</a>
@@ -244,6 +242,9 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Refrigerator.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -259,7 +260,6 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/risk-of-using-hydrocarbon-refrigerants-at-home/" rel="noopener noreferrer nofollow" target="_blank">Refrigerator</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -279,16 +279,24 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Ceiling_fan.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Hair_straightener.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Washing_machine.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Water_heater.jpg">
+</div>
 </td>
 </tr>
 <tr>
