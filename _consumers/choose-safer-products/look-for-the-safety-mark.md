@@ -161,7 +161,7 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/3_pin_plug.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/3_pin_plug.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,12 +206,12 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Gas_cooking_appliance.jpg">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Gas_cooking_appliance.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Kettle.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Kettle.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,7 +279,7 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Ceiling_fan.jpg">
+<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Ceiling_fan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -294,7 +294,7 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Water_heater.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Water_heater.jpg">
 </div>
 </td>
 </tr>
