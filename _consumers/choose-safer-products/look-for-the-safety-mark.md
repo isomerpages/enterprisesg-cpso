@@ -39,7 +39,7 @@ they can be supplied in Singapore. It indicates that the Controlled Goods
 are likely to come with internal safeguards to protect against fire and
 electrical hazards.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="safety mark" src="/images/about-us/safety-mark.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="safety mark" src="/images/about-us/safety-mark.jpg">
 </div>
 <p>Controlled Goods (or their packaging) must be affixed with the SAFETY
 Mark in a prominent location. The Mark consists of the “safety logo” and
@@ -50,7 +50,7 @@ the registrant and the registered models.</p>
 <p>In addition, appliances with a 3-pin plug need to have two SAFETY Marks
 on them. One on the appliance and another on the plug.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="appliance with 3 pins" src="/images/consumers/choose-safer-products/about-the-safety-mark/appliance-with-3pins.png">
+<img style="width: 50%;" height="auto" width="100%" alt="appliance with 3 pins" src="/images/consumers/choose-safer-products/about-the-safety-mark/appliance-with-3pins.png">
 </div>
 </div>
 </details>
