@@ -50,7 +50,7 @@ the registrant and the registered models.</p>
 <p>In addition, appliances with a 3-pin plug need to have two SAFETY Marks
 on them. One on the appliance and another on the plug.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="appliance with 3 pins" src="/images/consumers/choose-safer-products/about-the-safety-mark/appliance-with-3pins.png">
+<img style="width: 60%;" height="auto" width="100%" alt="appliance with 3 pins" src="/images/consumers/choose-safer-products/about-the-safety-mark/appliance-with-3pins.png">
 </div>
 </div>
 </details>
@@ -166,7 +166,7 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/AC_adaptor.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/AC_adaptor.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -206,7 +206,7 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Gas_cooking_appliance.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Gas_cooking_appliance.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -285,17 +285,17 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Hair_straightener.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Hair_straightener.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Washing_machine.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Washing_machine.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Water_heater.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Water_heater.jpg">
 </div>
 </td>
 </tr>
