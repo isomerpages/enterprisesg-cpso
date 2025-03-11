@@ -236,7 +236,6 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Microwave oven</a>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
