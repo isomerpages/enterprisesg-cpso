@@ -201,7 +201,7 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Coffeemaker.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Coffeemaker.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -279,7 +279,7 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 55%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Ceiling_fan.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Ceiling_fan.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
