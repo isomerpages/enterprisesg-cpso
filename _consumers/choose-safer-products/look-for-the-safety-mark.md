@@ -292,12 +292,12 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Washing_machine.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Iron.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Water_heater.jpg">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Washing_machine.jpg">
 </div>
 </td>
 </tr>
@@ -312,12 +312,43 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-washing-machines-and-tumble-dryers/" rel="noopener noreferrer nofollow" target="_blank">Washing machine</a>
+<p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Iron</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-washing-machines-and-tumble-dryers/" rel="noopener noreferrer nofollow" target="_blank">Washing machine</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Water_heater.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-water-heaters/" rel="noopener noreferrer nofollow" target="_blank">Water heater</a>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
