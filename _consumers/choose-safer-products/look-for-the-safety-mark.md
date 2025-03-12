@@ -138,9 +138,10 @@ may be taken against the supplier. You can contact us&nbsp;at&nbsp;<a rel="noope
 <p>No. You may find out more about general consumer goods <a href="https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/choose-safer-consumer-goods/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 </div>
 </details>
-</div>
-<p><strong>Looking for safety tips?</strong>
-</p>
+<details class="isomer-details">
+<summary><strong>Looking for safety tips?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Click on the names of the Controlled Goods below to learn how to use them
 safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener noreferrer nofollow" target="_blank">here</a> or
 <a href="http://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/home-appliances-and-furniture/" rel="noopener noreferrer nofollow" target="_blank">here</a>for other consumer product safety tips.</p>
@@ -356,4 +357,9 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 </tr>
 </tbody>
 </table>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <p></p>
