@@ -291,6 +291,7 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Iron.jpg">
 </div>
@@ -340,6 +341,7 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-water-heaters/" rel="noopener noreferrer nofollow" target="_blank">Water heater</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
