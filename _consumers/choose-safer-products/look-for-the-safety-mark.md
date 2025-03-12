@@ -43,9 +43,9 @@ electrical hazards.</p>
 </div>
 <p>Controlled Goods (or their packaging) must be affixed with the SAFETY
 Mark in a prominent location. The Mark consists of the “safety logo” and
-the words “SAFETY MARK” in a rectangle on the right. Each SAFETY Mark.
-&nbsp;has a unique 8-digit registration number, which can be traced to
-the registrant and the registered models.</p>
+the words “SAFETY MARK” in a rectangle on the right. Each SAFETY Mark&nbsp;has
+a unique 8-digit registration number, which can be traced to the registrant
+and the registered models.</p>
 <p></p>
 <p>In addition, appliances with a 3-pin plug need to have two SAFETY Marks
 on them. One on the appliance and another on the plug.</p>
