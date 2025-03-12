@@ -185,6 +185,7 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-power-adaptors" rel="noopener noreferrer nofollow" target="_blank">AC / power adaptor</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -260,6 +261,7 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/risk-of-using-hydrocarbon-refrigerants-at-home/" rel="noopener noreferrer nofollow" target="_blank">Refrigerator</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
