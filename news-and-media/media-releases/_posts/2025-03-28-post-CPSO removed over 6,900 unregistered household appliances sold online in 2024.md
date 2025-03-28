@@ -23,7 +23,7 @@ Qoo10, Shopee, and Tik Tok, between January and December 2024.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The number of non-compliant
 household appliances detected in 2024 is more than double that of previous
 years, where an average of around 3,000 non-compliant appliances were uncovered
-annually between 2021 and 2023 The increased detection in 2024 was driven
+annually between 2021 and 2023. The increased detection in 2024 was driven
 by greater public awareness of product safety issues, resulting in a rise
 in consumer feedback that enabled CPSO to conduct more targeted investigations
 and uncover a higher number of non-compliant appliances.</p>
@@ -126,6 +126,5 @@ We work with committed companies to build capabilities, innovate and internation
 <p>We also support the growth of Singapore as a hub for global trading and
 startups, and build trust in Singapore’s products and services through
 quality and standards.</p>
-<p>&nbsp;</p>
 <p>Visit <a rel="noopener noreferrer nofollow" target="_blank">www.enterprisesg.gov.sg</a> for
 more information.</p>
