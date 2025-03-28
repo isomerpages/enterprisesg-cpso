@@ -15,10 +15,10 @@ Product Safety Office (CPSO) found more than 6,900 listings of household
 appliances, classified as Controlled Goods, sold online that were not affixed
 with a valid SAFETY Mark or registered with the CPSO in accordance with
 regulatory requirements under the Consumer Protection (Safety Requirements)
-Regulations (CPSR)<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>. This was uncovered through the CPSO's market surveillance
-efforts and investigations into consumer feedback on non-compliant products
-sold on major e-commerce platforms like Amazon, Carousell, Lazada, Qoo10,
-Shopee, and Tik Tok, between January and December 2024.</p>
+Regulations (CPSR)<sup>1</sup>. This was uncovered through the CPSO's market
+surveillance efforts and investigations into consumer feedback on non-compliant
+products sold on major e-commerce platforms like Amazon, Carousell, Lazada,
+Qoo10, Shopee, and Tik Tok, between January and December 2024.</p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The number of non-compliant
 household appliances detected in 2024 is more than double that of previous
 years, where an average of around 3,000 non-compliant appliances were uncovered
@@ -58,15 +58,15 @@ Check past reviews by other buyers to ensure no safety hazards or reliability
 issues have been reported. Choose a seller that provides full product warranty
 by the manufacturer, customer service support, and a return or exchange
 policy.</p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Safety Alerts and Recalls:</strong> 
-<a rel="noopener noreferrer nofollow" target="_blank">Check the CPSO’s</a><a href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/electrical/" rel="noopener noreferrer nofollow" target="_blank">Product Safety Alerts and Recalls</a> webpage
+<p>c.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Safety Alerts and Recalls:</strong> Check
+the CPSO's <a href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/electrical/" rel="noopener noreferrer nofollow" target="_blank">Product Safety Alerts and Recalls</a> webpage
 to ensure the product has not been recalled by its manufacturer, or banned
 by regulatory authorities due to safety issues.</p>
 <p>d.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Suitability for Local Use</strong>:
 Check the listing description or contact the seller for information around
 the product’s technical specifications. Consumers should confirm that the
 appliance comes with a <a href="https://www.consumerproductsafety.gov.sg/types-of-mains-plugs-suitable-for-use-in-singapore/" rel="noopener noreferrer nofollow" target="_blank">mains plug type</a> and
-rated voltage suitable for use in Singapore<a href="#_ftn2" rel="noopener noreferrer nofollow" target="_blank">[2]</a>.</p>
+rated voltage suitable for use in Singapore<sup>2</sup>.</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Beatrice Wong, Director of CPSO</strong> said,
 “It is important for consumers to purchase and use only household and electrical
 appliances that comply with the relevant regulatory requirements, otherwise
@@ -86,14 +86,13 @@ unregistered Controlled Goods is liable upon conviction, to a fine not
 exceeding S$10,000 or imprisonment for a term not exceeding two years,
 or both.</p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> Under
-the Consumer Protection (Safety Requirements) Regulations (CPSR), <a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/list-of-controlled-goods/" rel="noopener noreferrer nofollow" target="_blank">33 categories</a> of
+<p><sup>1</sup> Under the Consumer Protection (Safety Requirements) Regulations
+(CPSR), <a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/list-of-controlled-goods/" rel="noopener noreferrer nofollow" target="_blank">33 categories</a> of
 household electrical, electronic and gas appliances &amp; accessories,
 known as Controlled Goods, are required to be tested to specified safety
 standards and affixed with the SAFETY Mark before they can be sold in Singapore.</p>
-<p><a href="#_ftnref2" rel="noopener noreferrer nofollow" target="_blank">[2]</a> Singapore’s
-standard electricity supply is 230 volts AC with a frequency of 50 hertz
-(230V/50Hz).</p>
+<p><sup>2</sup> Singapore’s standard electricity supply is 230 volts AC with
+a frequency of 50 hertz (230V/50Hz).</p>
 <p></p>
 <p><strong>-End-</strong>
 </p>
