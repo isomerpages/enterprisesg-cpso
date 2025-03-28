@@ -8,8 +8,9 @@ image: ""
 variant: tiptap
 ---
 <p>MR No.: 014/25</p>
-<p>Singapore, Friday, 28 March 2025</p>
-<p>&nbsp;</p>
+<p>Singapore, Friday, 28 March 2025
+<br>
+</p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In 2024, the Consumer
 Product Safety Office (CPSO) found more than 6,900 listings of household
 appliances, classified as Controlled Goods, sold online that were not affixed
