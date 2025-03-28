@@ -101,14 +101,13 @@ a frequency of 50 hertz (230V/50Hz).</p>
 <p><strong>Annex A: <a href="/files/media-releases/2025_03_28_MR01425_annex_a.pdf" rel="noopener noreferrer nofollow" target="_blank">Infographic on Online Shopping Product Safety Tips</a></strong>
 </p>
 <p></p>
-<p>For media enquiries, please contact:&nbsp;</p>
+<p>For media enquiries, please contact:</p>
 <p><strong>Desmond Chua</strong>
+<br>Business Partner
+<br>Corporate Communications
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">desmond_chua@enterprisesg.gov.sg</a>
 </p>
-<p>Business Partner</p>
-<p>Corporate Communications</p>
-<p>Email: <a href="mailto:desmond_chua@enterprisesg.gov.sg" rel="noopener noreferrer nofollow" target="_blank">desmond_chua@enterprisesg.gov.sg</a>
-</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>About Consumer Product Safety Office</strong>
 </p>
 <p>The Consumer Product Safety Office (CPSO) safeguards the safety of consumer
