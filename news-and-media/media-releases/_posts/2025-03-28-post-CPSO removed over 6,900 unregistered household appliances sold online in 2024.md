@@ -43,12 +43,12 @@ reduced listing visibility in search results, as well as account suspension
 or termination for errant sellers.</p>
 <p><strong>Safety considerations when purchasing appliances online&nbsp;&nbsp;</strong>
 </p>
-<p>5.&nbsp;&nbsp;&nbsp;&nbsp; Online shopping has increasingly become a norm
-for consumers, given the convenience and accessibility to diverse products
-via e-commerce platforms. It is thus important for consumers to remain
-vigilant and conduct thorough checks when purchasing products like household
-appliances online. Consumers should perform checks in the following key
-areas:</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Online shopping has
+increasingly become a norm for consumers, given the convenience and accessibility
+to diverse products via e-commerce platforms. It is thus important for
+consumers to remain vigilant and conduct thorough checks when purchasing
+products like household appliances online. Consumers should perform checks
+in the following key areas:</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp; <strong>SAFETY Mark</strong>: Check the photos
 and description of the listing for presence of the SAFETY Mark, which indicates
 that the product has undergone safety-related testing and certification.
@@ -68,7 +68,7 @@ Check the listing description or contact the seller for information around
 the product’s technical specifications. Consumers should confirm that the
 appliance comes with a <a href="https://www.consumerproductsafety.gov.sg/types-of-mains-plugs-suitable-for-use-in-singapore/" rel="noopener noreferrer nofollow" target="_blank">mains plug type</a> and
 rated voltage suitable for use in Singapore<sup>2</sup>.</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp; <strong>Beatrice Wong, Director of CPSO</strong> said,
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Beatrice Wong, Director of CPSO</strong> said,
 “It is important for consumers to purchase and use only household and electrical
 appliances that comply with the relevant regulatory requirements, otherwise
 they can face risks such as electric shocks, burns, and fire hazards. With
@@ -77,9 +77,9 @@ years, it is increasingly important for consumers to exercise due diligence
 when purchasing household appliances. We will continue to educate consumers
 and sellers on our safety regulations through our outreach efforts, and
 work with all major e-commerce platforms to ensure compliance.”</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp; The CPSO encourages consumers who encounter
-the sale of any non-compliant products to report them to us at 6898 1800
-or <a rel="noopener noreferrer nofollow" target="_blank">consumerproductsafety@enterprisesg.gov.sg</a>.
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The CPSO encourages
+consumers who encounter the sale of any non-compliant products to report
+them to us at 6898 1800 or <a rel="noopener noreferrer nofollow" target="_blank">consumerproductsafety@enterprisesg.gov.sg</a>.
 The CPSO takes a serious view of non-compliance and will not hesitate to
 take punitive actions such as issuing warnings, fines or even court prosecution
 against errant sellers. Under the CPSR, any person found guilty of selling
