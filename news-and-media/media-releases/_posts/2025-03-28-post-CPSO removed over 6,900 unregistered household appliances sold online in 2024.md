@@ -107,7 +107,7 @@ a frequency of 50 hertz (230V/50Hz).</p>
 <br>Corporate Communications
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">desmond_chua@enterprisesg.gov.sg</a>
 </p>
-<p>_______________________________________________________________________________________<strong>About Consumer Product Safety Office</strong>
+<p>________________________________________________________________________________<strong>About Consumer Product Safety Office</strong>
 </p>
 <p>The Consumer Product Safety Office (CPSO) safeguards the safety of consumer
 products supplied in Singapore through the Consumer Protection (Safety
