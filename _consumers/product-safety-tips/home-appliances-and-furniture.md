@@ -189,10 +189,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Gas_cooking_appliance.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Gas_canister_for_portable_stove.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
