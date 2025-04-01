@@ -195,7 +195,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Gas_canister_for_portable_stove.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Gas_canister_for_portable_stove.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -241,7 +241,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Window_covering.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Window_covering.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
