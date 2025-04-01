@@ -2,25 +2,235 @@
 title: Home appliances and furniture
 permalink: /consumers/product-safety-tips/home-appliances-and-furniture/
 third_nav_title: Product safety tips
+variant: tiptap
 ---
-*Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
-## Safety at home
-
-It is important to consider safety when choosing appliances, electronics and furniture for your home. Dangers can arise from choosing unsafe products, product misuse or improper installation.
-
-Here are some tips you can follow to keep your family safe from injuries as well as protect your house from property damage.
-
-* [Risk of Using Hydrocarbon Refrigerants At Home](/risk-of-using-hydrocarbon-refrigerants-at-home)
-* [Safety Tips on Electric Water Heaters](/safety-tips-on-water-heaters)
-* [Safety Tips on Furniture and TVs](/safety-tips-on-furniture-and-tvs)
-* [Safety Tips on Washing Machines and Tumble Dryers](/safety-tips-on-washing-machines-and-tumble-dryers)
-* [Safety Tips on Portable Butane Stoves and Gas Canisters](/safety-tips-on-portable-butane-stoves-and-gas-canisters)
-* [Safety Tips for Storing Household Chemicals](/safety-tips-for-storing-household-chemicals)
-* [Safety Tips on Small Magnets](/safety-tips-on-small-magnets)
-* [Safety Tips on Window Coverings](/safety-tips-on-window-coverings)
-* [Safety Tips on Universal Socket-Outlets](/safety-tips-on-universal-socket-outlets)
-* [Tips to Keep your Home Safe from Electrical Hazards](/tips-to-keep-your-home-safe-from-electrical-hazards)
-* [Using and Maintaining Toughened Glass in Cooking Appliances](/using-and-maintaining-toughened-glass-in-cooking-appliances)
-* [Type of Mains Plugs Suitable for use in Singapore](/types-of-mains-plugs-suitable-for-use-in-singapore)
-* [Check Your Home's Residual Current Circuit Breaker Regularly](/check-your-home-circuit-breaker-regularly)
-* [Tips on Installation and Maintenance](/tips-on-installation-and-maintenance)
+<p><em>Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this <a href="https://form.gov.sg/63a160c3cf15ee00129a4ab4" rel="noopener noreferrer nofollow" target="_blank">simple survey</a></em>
+</p>
+<h2>Home appliances, furniture, and indoor product safety</h2>
+<table style="minWidth: 100px">
+<colgroup>
+<col>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>General safety practices for home appliances</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/tips-on-installation-and-maintenance" rel="noopener noreferrer nofollow" target="_blank">Installing or maintaining home appliances</a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards" rel="noopener noreferrer nofollow" target="_blank">Using electrical appliances</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Electrical appliances and accessories</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Coffeemaker</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-water-heaters" rel="noopener noreferrer nofollow" target="_blank">Electric water heater</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Iron</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Kettle</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/types-of-mains-plugs-suitable-for-use-in-singapore" rel="noopener noreferrer nofollow" target="_blank">Mains plug</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Microwave oven</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/risk-of-using-hydrocarbon-refrigerants-at-home" rel="noopener noreferrer nofollow" target="_blank">Refrigerator with hydrocarbon refrigerant</a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/check-your-home-circuit-breaker-regularly" rel="noopener noreferrer nofollow" target="_blank">Residual Current Circuit Breaker (households)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-furniture-and-tvs" rel="noopener noreferrer nofollow" target="_blank">Television</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-universal-socket-outlets" rel="noopener noreferrer nofollow" target="_blank">Universal Socket-Outlet</a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-washing-machines-and-tumble-dryers" rel="noopener noreferrer nofollow" target="_blank">Washing machine / Tumble dryer</a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Gas appliances and accessories</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/using-and-maintaining-toughened-glass-in-cooking-appliances" rel="noopener noreferrer nofollow" target="_blank">Gas cooking appliances with toughened glass</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-portable-butane-stoves-and-gas-canisters" rel="noopener noreferrer nofollow" target="_blank">Portable gas stove / Gas canister</a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="4">
+<p><strong>Other general safety practices at home</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-furniture-and-tvs" rel="noopener noreferrer nofollow" target="_blank">Furniture</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-for-storing-household-chemicals" rel="noopener noreferrer nofollow" target="_blank">Storing household chemicals</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-window-coverings" rel="noopener noreferrer nofollow" target="_blank">Window covering</a>
+</p>
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
