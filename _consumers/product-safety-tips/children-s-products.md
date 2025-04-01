@@ -59,7 +59,6 @@ to safeguard your children from injuries.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-constume-jewellery-for-children" rel="noopener noreferrer nofollow" target="_blank">Costume Jewellery for Children</a>
 </p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -97,7 +96,6 @@ to safeguard your children from injuries.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-small-magnets/" rel="noopener noreferrer nofollow" target="_blank">Small Magnets</a>
 </p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-strollers" rel="noopener noreferrer nofollow" target="_blank">Strollers</a>
