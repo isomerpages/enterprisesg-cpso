@@ -88,27 +88,27 @@ to safeguard your children from injuries.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-cycling" rel="noopener noreferrer nofollow" target="_blank">Cycling</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-highchairs" rel="noopener noreferrer nofollow" target="_blank">Highchairs</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-small-magnets/" rel="noopener noreferrer nofollow" target="_blank">Small Magnets</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-strollers" rel="noopener noreferrer nofollow" target="_blank">Strollers</a>
 </p>
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Toys.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
