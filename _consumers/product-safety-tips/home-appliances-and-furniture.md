@@ -66,12 +66,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Coffeemaker.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Coffeemaker.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Water_heater.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Water_heater.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -81,7 +81,7 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Kettle.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Kettle.jpg">
 </div>
 </td>
 </tr>
@@ -106,7 +106,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/3_pin_plug.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/3_pin_plug.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -116,12 +116,12 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Refrigerator.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Refrigerator.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/RCCB.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/RCCB.jpg">
 </div>
 <p></p>
 </td>
@@ -148,12 +148,12 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/USO.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/USO.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Washing_machine.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Washing_machine.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
