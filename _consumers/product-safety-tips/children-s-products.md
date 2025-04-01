@@ -26,7 +26,7 @@ to safeguard your children from injuries.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Baby_Slings.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Baby_Slings.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -70,17 +70,17 @@ to safeguard your children from injuries.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Highchairs.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Highchairs.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Small_magnets.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Small_magnets.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Strollers.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Strollers.jpg">
 </div>
 </td>
 </tr>
