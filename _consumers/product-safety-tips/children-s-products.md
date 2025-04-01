@@ -31,12 +31,12 @@ to safeguard your children from injuries.</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Children_s_apparel.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Children_s_apparel.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Costume_jewellery_for_children.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/Costume_jewellery_for_children.jpg">
 </div>
 </td>
 </tr>
