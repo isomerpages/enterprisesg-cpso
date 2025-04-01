@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <p><em>Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this <a href="https://form.gov.sg/63a160c3cf15ee00129a4ab4" rel="noopener noreferrer nofollow" target="_blank">simple survey</a></em>
 </p>
-<h2>Home appliances, furniture, and indoor product safety</h2>
+<h2>Safety at home</h2>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
