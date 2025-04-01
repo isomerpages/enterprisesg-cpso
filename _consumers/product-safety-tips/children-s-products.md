@@ -138,5 +138,4 @@ to safeguard your children from injuries.</p>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
 <p></p>
