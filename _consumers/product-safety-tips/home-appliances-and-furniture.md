@@ -147,10 +147,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/USO.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Washing_machine.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -161,10 +165,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-furniture-and-tvs" rel="noopener noreferrer nofollow" target="_blank">Television</a>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-universal-socket-outlets" rel="noopener noreferrer nofollow" target="_blank">Universal Socket-Outlet</a>
 </p>
 <p>&nbsp;</p>
@@ -173,6 +173,9 @@ variant: tiptap
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-washing-machines-and-tumble-dryers" rel="noopener noreferrer nofollow" target="_blank">Washing machine / Tumble dryer</a>
 </p>
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
