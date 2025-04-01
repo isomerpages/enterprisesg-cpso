@@ -7,6 +7,12 @@ variant: tiptap
 <p><em>Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this <a href="https://form.gov.sg/63a160c3cf15ee00129a4ab4" rel="noopener noreferrer nofollow" target="_blank">simple survey</a></em>
 </p>
 <h2>Safety at home</h2>
+<p>It is important to consider safety when choosing appliances, electronics,
+and furniture for your home. Dangers can arise from choosing unsafe products,
+misusing products, or improper installations.</p>
+<p>Here are some tips you can follow to keep your family and home safe.</p>
+<p><em>Note: The appliances below with orange background are Controlled Goods that need to have the <a href="https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/look-for-the-safety-mark/" rel="noopener noreferrer nofollow" target="_blank">SAFETY Mark</a>.</em>
+</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -267,4 +273,5 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
