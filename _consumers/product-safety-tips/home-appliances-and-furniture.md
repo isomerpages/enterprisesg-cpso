@@ -123,7 +123,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/RCCB.jpg">
 </div>
-<p></p>
 </td>
 </tr>
 <tr>
