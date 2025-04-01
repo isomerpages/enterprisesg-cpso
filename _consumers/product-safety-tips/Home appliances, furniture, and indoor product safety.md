@@ -51,7 +51,6 @@ misusing products, or improper installations.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/tips-on-installation-and-maintenance" rel="noopener noreferrer nofollow" target="_blank">Installing or maintaining home appliances</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards" rel="noopener noreferrer nofollow" target="_blank">Using electrical appliances</a>
@@ -144,7 +143,7 @@ misusing products, or improper installations.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/risk-of-using-hydrocarbon-refrigerants-at-home" rel="noopener noreferrer nofollow" target="_blank">Refrigerator with hydrocarbon refrigerant</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/check-your-home-circuit-breaker-regularly" rel="noopener noreferrer nofollow" target="_blank">Residual Current Circuit Breaker (households)</a>
@@ -173,12 +172,11 @@ misusing products, or improper installations.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-universal-socket-outlets" rel="noopener noreferrer nofollow" target="_blank">Universal Socket-Outlet</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-washing-machines-and-tumble-dryers" rel="noopener noreferrer nofollow" target="_blank">Washing machine / Tumble dryer</a>
 </p>
-<p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -219,7 +217,7 @@ misusing products, or improper installations.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-portable-butane-stoves-and-gas-canisters" rel="noopener noreferrer nofollow" target="_blank">Portable gas stove / Gas canister</a>
 </p>
-<p>&nbsp;</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
