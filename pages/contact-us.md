@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Consumer Product Safety Office
+agency_name: the Consumer Product Safety Office
 locations:
   - address:
       - 230 Victoria Street
@@ -18,7 +18,7 @@ contacts:
   - content:
       - phone: 6898 1800
       - email: ""
-      - other: ""
+      - other: Our operating hours are 8:30am to 5:30pm on working days.
     title: General Enquiries & Feedback
-feedback: ""
+feedback: https://form.gov.sg/67442830e0ad549b8ee92b55
 ---
