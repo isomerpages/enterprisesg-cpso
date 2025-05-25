@@ -4,8 +4,8 @@
 
 @charset "utf-8";
 
-$primary: #0066B3; //Corporate Blue
-$secondary: #0066B3; 
+$primary: #E7131A; //Corporate Red
+$secondary: #E7131A; //Pantone 432C
 $secondary-hover: lighten($primary, 10%);
 
 {%- for media-color in site.colors.media-colors -%}
@@ -13,16 +13,16 @@ $secondary-hover: lighten($primary, 10%);
 {%- endfor -%}
 
 //shades of corporate red
-$media-color-one: #1a75bb; 
-$media-color-two: #0066b3; 
-$media-color-three: #005ca1; 
-$media-color-four: #00528f; 
-$media-color-five: #00477d; 
-$media-color-six: #003d6b; 
-$media-color-seven: #00335a; 
-$media-color-eight: #002948; 
-$media-color-nine: #001f36; 
-$media-color-ten: #001424;
+$media-color-one: #E7131A; 
+$media-color-two: #960019; 
+$media-color-three: #CA3433; 
+$media-color-four: #C00A32; 
+$media-color-five: #960019; 
+$media-color-six: #E7131A; 
+$media-color-seven: #CE5C5C; 
+$media-color-eight: #CA3433; 
+$media-color-nine: #C00A32; 
+$media-color-ten: #960019; 
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
