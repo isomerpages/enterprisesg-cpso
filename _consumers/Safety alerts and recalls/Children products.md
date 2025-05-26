@@ -9,26 +9,44 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>26 Dec 2024</strong> 
-<br><strong>Stokke Recalls YOYO³ Strollers Due to Injury Hazard</strong>
+<p><strong>26 May 2025</strong> 
+<br><strong>Bugaboo International B.V. Recalls Bugaboo Giraffe Highchair</strong>
 <br>
 </p>
-<p>Stokke has issued a voluntary recall for certain Stokke® YOYO³ strollers.
-The parking brake on the recalled strollers may disengage, posing an injury
-hazard. Units affected by this issue have serial numbers that begin with
-the sequence "142AA" followed by a number that falls below "0062239".&nbsp;
-Only strollers with these numbers are affected. The serial number is located
-on a tracking label under the stroller seat. &nbsp;</p>
-<p></p>
+<p>Bugaboo has issued a voluntary recall for the Bugaboo Giraffe Highchair
+for 6 months to 36 months old with baby set accessory, and from 36 months
+old up to 100kg without the baby set. The recall applies to model numbers
+200001013, 200001001, 200001002, 200001005, and 200001007.</p>
+<p>The recall has been initiated due to a safety concern where the screws
+connecting the legs to the frame may become loose and detach when a child
+is seated in the highchair. This poses a fall hazard.</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/YOYO_stroller_.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/Bugaboo_Giraffe_Highchair_1.png">
 </div>
-<p>Consumers should immediately stop using the recalled strollers and register
-at the Stokke recall <a href="https://recall.stokke.com/yoyo3" rel="noopener noreferrer nofollow" target="_blank">portal</a> to receive instructions
-for the return/ refund of the affected YOYO<sup>3</sup>&nbsp;stroller and
-all its components.&nbsp;</p>
-<p>&nbsp;For more assistance, please contact Stokke® customer service on
-<a rel="noopener noreferrer nofollow" target="_blank">www.stokke.com</a>or email <a rel="noopener noreferrer nofollow" target="_blank">info-usa@stokke.com</a>.</p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/Bugaboo_Giraffe_Highchair_2.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p>Consumers who own the Bugaboo Giraffe highchair should immediately discontinue
+use of the highchair for safety reasons. To address this issue, affected
+consumers should contact Bugaboo to register their information so that
+a repair kit can be sent to them through the Bugaboo service <a href="https://service.bugaboo.com/s/bugaboo-giraffe-repair-kit-checker?language=en_AU&amp;Country=AU" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
+<p></p>
+<p>For additional support, consumers can reach out to their local Bugaboo
+retailers <a href="https://www.bugaboo.com/gb-en/stores/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
@@ -46,6 +64,15 @@ all its components.&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_recall_2025_05_26_bugaboo_giraffe_highchair.pdf" rel="noopener noreferrer nofollow" target="_blank">Bugaboo International B.V. Recalls Bugaboo Giraffe Highchair</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
