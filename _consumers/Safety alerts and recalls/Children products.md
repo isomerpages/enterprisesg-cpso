@@ -34,7 +34,7 @@ is seated in the highchair. This poses a fall hazard.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/Bugaboo_Giraffe_Highchair_2.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/Bugaboo_Giraffe_Highchair_2.png">
 </div>
 </th>
 </tr>
