@@ -49,7 +49,8 @@ a repair kit can be sent to them through the Bugaboo service <a href="https://se
 retailers <a href="https://www.bugaboo.com/gb-en/stores/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p></p>
-<p>For more children products' safety alerts and recalls, see below.</p>
+<p>For more product safety alerts and recalls for children products, see
+below.</p>
 <p><strong>Product recalls</strong>
 </p>
 <table style="minWidth: 50px">
