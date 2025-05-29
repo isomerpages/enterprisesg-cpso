@@ -48,6 +48,15 @@ an appointment to receive a replacement.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>29 May 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/electrical/electrical_recall_2025_05_29_yamaha_recalls_ac_power_adaptor_pa_300c.pdf" rel="noopener nofollow" target="_blank">Yamaha Corporation Recalls AC Power Adaptor PA-300C</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>11 Dec 2024</p>
 </td>
 <td rowspan="1" colspan="1">
