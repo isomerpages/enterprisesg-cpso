@@ -62,6 +62,26 @@ smoke, or ignition causing the DC plug to short circuit.</p>
 </tr>
 </tbody>
 </table>
+<p>Consumers should immediately stop using the affected adaptor, and disconnect
+it from both the mains outlet as well as the product. Please contact Yamaha
+Service Center for a complimentary exchange.</p>
+<p></p>
+<p><strong>Contact Information:</strong>
+</p>
+<p>Yamaha Music (Asia) Private Limited – Service Center</p>
+<p>6 Changi South Street 2 #01-02</p>
+<p>Xilin District Center Building D</p>
+<p>Singapore 486349</p>
+<p>- Service Helpdesk: 67409262</p>
+<p>- WhatsApp: 84748684</p>
+<p>- Email: <a rel="noopener noreferrer nofollow" target="_blank">service-SGP@music.yamaha.com</a>
+</p>
+<p></p>
+<p>Yamaha is offering free home delivery/replacement or self-collection options
+at their Service Centre. Customers must provide the original adapter during
+the exchange process.&nbsp;</p>
+<p>For detailed serial number verification and additional information, please
+visit Yamaha's support <a href="https://sg.yamaha.com/en/news_events/2025/20250521_pa_300c_adaptor_notice.html" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
