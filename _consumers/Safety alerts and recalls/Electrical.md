@@ -9,26 +9,60 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>11 Dec 2024</strong>
-<br><strong>Audio-Technica (S.E.A) Pte Ltd Announces Recall of ATH-SQ1TW2 True Wireless Earphones Charging Cases</strong>
+<p><strong>29 May 2025</strong>
+<br><strong>Yamaha Corporation Recalls AC Power Adaptor PA-300C</strong>
 <br>
 </p>
-<p>Audio-Technica (S.E.A) Pte Ltd has launched a voluntary recall for the
-charging cases of their ATH-SQ1TW2 True Wireless Earphones.</p>
-<p>The recall stems from a manufacturing defect in the built-in battery which
-could lead to overheating of the charging case.</p>
-<p>Please see below as reference for how to locate the model number on your
-product:</p>
-<div class="isomer-image-wrapper">
-<img style="width:400px;height:200px;" height="auto" width="100%" alt="Audio-Technica True Wireless" src="/images/product-safety-alerts-and-recalls/electrical/audio-tech.png">
-</div>
-<p>
-<br>
+<p>Yamaha Corporation has issued a voluntary recall for the PA-300C AC adaptor
+used with various Digital Piano models, and also sold separately as accessories.
+The DC plug may generate abnormal heat, potentially leading to melting,
+smoke, or ignition causing the DC plug to short circuit.</p>
+<p>&nbsp;</p>
+<p><strong>Affected Products:</strong>
 </p>
-<p>Owners of the affected charging cases should stop using them immediately
-and <a href="https://docs.google.com/forms/d/e/1FAIpQLSfEqWG8cPxefWhIgR-4tZjafYb7guAlz5dvCA3vDRIydaJmNA/viewform" rel="noopener noreferrer nofollow" target="_blank">register</a> for
-an appointment to receive a replacement.</p>
-<p>For assistance, please contact +65 6749 5686.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Individually Sold PA-300C Adaptors</p>
+</li>
+</ol>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Serial Numbers: XXXX0XXXXXX to XXXX25XXXXX</p>
+<ol start="2" data-tight="true" class="tight">
+<li>
+<p>Piano models with Included PA-300C Adaptors:</p>
+</li>
+</ol>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DTX900/DTX900M</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICP1</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOTIF-RACK XS</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UR824</p>
+<ol start="3" data-tight="true" class="tight">
+<li>
+<p>Piano models with Built-in PA-300C Adaptors:</p>
+</li>
+</ol>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CLP-430 series (B/C/M/PE/R/WH models)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CVP-601 series (B/PE models)</p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
 </p>
