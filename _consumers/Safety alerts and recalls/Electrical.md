@@ -51,7 +51,9 @@ smoke, or ignition causing the DC plug to short circuit.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/electrical/Yamaha_AC_Power_Adaptor_PA_300C_1.png">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
