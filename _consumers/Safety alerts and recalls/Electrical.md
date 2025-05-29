@@ -17,7 +17,7 @@ regarding unsafe consumer products identified in Singapore.</p>
 used with various Digital Piano models, and also sold separately as accessories.
 The DC plug may generate abnormal heat, potentially leading to melting,
 smoke, or ignition causing the DC plug to short circuit.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Affected Products:</strong>
 </p>
 <ol data-tight="true" class="tight">
