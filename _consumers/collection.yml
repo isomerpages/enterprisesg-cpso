@@ -1,0 +1,24 @@
+collections:
+  consumers:
+    output: true
+    order:
+      - choose-safer-products/.keep
+      - choose-safer-products/look-for-the-safety-mark.md
+      - choose-safer-products/choose-safer-consumer-goods.md
+      - choose-safer-products/shopping-for-safe-products-online.md
+      - product-safety-tips/.keep
+      - product-safety-tips/Products that charge or power appliances.md
+      - product-safety-tips/Home appliances, furniture, and indoor product
+        safety.md
+      - product-safety-tips/children-s-products.md
+      - Safety alerts and recalls/.keep
+      - Safety alerts and recalls/Children apparel.md
+      - Safety alerts and recalls/Children products.md
+      - Safety alerts and recalls/Children toys.md
+      - Safety alerts and recalls/Electrical.md
+      - Safety alerts and recalls/Furniture.md
+      - Safety alerts and recalls/Power banks.md
+      - Safety alerts and recalls/Recreational products.md
+      - Safety alerts and recalls/Others.md
+      - Safety alerts and recalls/Products recalled prior to 2019.md
+      - international-product-recalls.md
