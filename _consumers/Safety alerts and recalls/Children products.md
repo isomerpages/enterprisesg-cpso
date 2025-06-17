@@ -50,11 +50,15 @@ regarding unsafe consumer products identified in Singapore.</p>
 <p>During the testing of this sample, it was found that the product did not
 comply with the following requirements from EN 1888-1(2018) + A1 (2022):
 Child care articles – Wheeled child conveyances – Pushchairs and prams:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The inner foam of the bumper bar
-could be detached and form small parts.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The product information and warnings
-provided were not in accordance with the requirements (e.g. content, format,
-language).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The inner foam of the bumper bar could be detached and form small parts.</p>
+</li>
+<li>
+<p>The product information and warnings provided were not in accordance with
+the requirements (e.g. content, format, language).</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>No report of incident or injury related to the use of this product has
 been received to date.</p>
