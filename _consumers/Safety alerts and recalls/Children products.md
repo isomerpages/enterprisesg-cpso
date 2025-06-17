@@ -32,7 +32,9 @@ regarding unsafe consumer products identified in Singapore.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/OULIANLAN_stroller_1.jpg">
+</div>
 </th>
 <th rowspan="1" colspan="1">
 <p></p>
