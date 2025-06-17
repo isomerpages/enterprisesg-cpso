@@ -11,18 +11,13 @@ they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
 <p></p>
 <h3><strong>SAFETY ALERT: Baby Stroller</strong></h3>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Date of notice</strong>
 </p>
 <p>17 June 2025</p>
-<p>&nbsp;</p>
 <p><strong>Name of product</strong>
 </p>
 <p>Baby Stroller</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Product picture</strong>
+<p><strong>Product pictures</strong>
 </p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -37,7 +32,9 @@ regarding unsafe consumer products identified in Singapore.</p>
 </div>
 </th>
 <th rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/OULIANLAN_stroller_2.jpg">
+</div>
 </th>
 </tr>
 </tbody>
@@ -46,7 +43,7 @@ regarding unsafe consumer products identified in Singapore.</p>
 <p><strong>Sample taken from</strong>
 </p>
 <p>Seller “OULIANLAN” on Lazada</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>The Consumer Product Safety Office has issued a notice to OULIANLAN to cease supply of the stroller.</strong>
 </p>
 <p>During the testing of this sample, it was found that the product did not
@@ -61,7 +58,6 @@ Child care articles – Wheeled child conveyances – Pushchairs and prams:</p>
 the requirements (e.g. content, format, language).</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>No report of incident or injury related to the use of this product has
 been received to date.</p>
 <p>Consumers who have bought the product are advised to stop using it immediately.</p>
