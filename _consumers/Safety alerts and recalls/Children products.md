@@ -9,17 +9,16 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>26 May 2025</strong> 
-<br><strong>Bugaboo International B.V. Recalls Bugaboo Giraffe Highchair</strong>
-<br>
+<p></p>
+<h3><strong>SAFETY ALERT: Baby Stroller</strong></h3>
+<p><strong>Date of notice</strong>
 </p>
-<p>Bugaboo has issued a voluntary recall for the Bugaboo Giraffe Highchair
-for 6 months to 36 months old with baby set accessory, and from 36 months
-old up to 100kg without the baby set. The recall applies to model numbers
-200001013, 200001001, 200001002, 200001005, and 200001007.</p>
-<p>The recall has been initiated due to a safety concern where the screws
-connecting the legs to the frame may become loose and detach when a child
-is seated in the highchair. This poses a fall hazard.</p>
+<p>17 June 2025</p>
+<p><strong>Name of product</strong>
+</p>
+<p>Baby Stroller</p>
+<p><strong>Product pictures</strong>
+</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -29,25 +28,39 @@ is seated in the highchair. This poses a fall hazard.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 45%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/Bugaboo_Giraffe_Highchair_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/OULIANLAN_stroller_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/Bugaboo_Giraffe_Highchair_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/OULIANLAN_stroller_2.jpg">
 </div>
 </th>
 </tr>
 </tbody>
 </table>
-<p>Consumers who own the Bugaboo Giraffe highchair should immediately discontinue
-use of the highchair for safety reasons. To address this issue, affected
-consumers should contact Bugaboo to register their information so that
-a repair kit can be sent to them through the Bugaboo service <a href="https://service.bugaboo.com/s/bugaboo-giraffe-repair-kit-checker?language=en_AU&amp;Country=AU" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
 <p></p>
-<p>For additional support, consumers can reach out to their local Bugaboo
-retailers <a href="https://www.bugaboo.com/gb-en/stores/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p><strong>Sample taken from</strong>
+</p>
+<p>Seller “OULIANLAN” on Lazada</p>
 <p></p>
+<p><strong>The Consumer Product Safety Office has issued a notice to OULIANLAN to cease supply of the stroller.</strong>
+</p>
+<p>During the testing of this sample, it was found that the product did not
+comply with the following requirements from EN 1888-1(2018) + A1 (2022):
+Child care articles – Wheeled child conveyances – Pushchairs and prams:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The inner foam of the bumper bar could be detached and form small parts.</p>
+</li>
+<li>
+<p>The product information and warnings provided were not in accordance with
+the requirements (e.g. content, format, language).</p>
+</li>
+</ul>
+<p>No report of incident or injury related to the use of this product has
+been received to date.</p>
+<p>Consumers who have bought the product are advised to stop using it immediately.</p>
 <p></p>
 <p>For more product safety alerts and recalls for children products, see
 below.</p>
@@ -210,6 +223,42 @@ below.</p>
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_17_stroller_OULIANLAN.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Baby Stroller</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_17_stroller_MiniJonesSG.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Functional Baby Stroller 360° Rotate</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_17_stroller_Leocato.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Lightweight Stroller (Starry White)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>17 Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_17_stroller_JoyeeStoreSG.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Baobaohao Foldable Cabin Stroller</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
