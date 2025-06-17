@@ -229,7 +229,7 @@ below.</p>
 <p>17 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_17_stroller_OULIANLAN.pdf" rel="noopener noreferrer nofollow" target="_blank">Stroller: Baby Stroller</a>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_17_stroller_OULIANLAN.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Baby Stroller</a>
 </p>
 </td>
 </tr>
@@ -238,7 +238,7 @@ below.</p>
 <p>17 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_17_stroller_MiniJonesSG.pdf" rel="noopener noreferrer nofollow" target="_blank">Stroller: Functional Baby Stroller 360° Rotate</a>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_17_stroller_MiniJonesSG.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Functional Baby Stroller 360° Rotate</a>
 </p>
 </td>
 </tr>
@@ -247,7 +247,7 @@ below.</p>
 <p>17 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_17_stroller_Leocato.pdf" rel="noopener noreferrer nofollow" target="_blank">Stroller: Lightweight Stroller (Starry White)</a>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_17_stroller_Leocato.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Lightweight Stroller (Starry White)</a>
 </p>
 </td>
 </tr>
@@ -256,7 +256,7 @@ below.</p>
 <p>17 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_17_stroller_JoyeeStoreSG.pdf" rel="noopener noreferrer nofollow" target="_blank">Stroller: Baobaohao Foldable Cabin Stroller</a>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_17_stroller_JoyeeStoreSG.pdf" rel="noopener noreferrer nofollow" target="_blank">Strollers: Baobaohao Foldable Cabin Stroller</a>
 </p>
 </td>
 </tr>
