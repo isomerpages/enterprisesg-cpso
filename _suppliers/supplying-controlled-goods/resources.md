@@ -12,7 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<h4>Name of resource</h4>
+<h4>Resource</h4>
 </th>
 <th rowspan="1" colspan="1">
 <h4>Updated on:</h4>
