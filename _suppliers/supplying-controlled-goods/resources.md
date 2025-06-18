@@ -21,7 +21,7 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="2">
 <p><strong><em>Guides on registering Controlled Goods, the Safety Mark, </em></strong>
-<a href="https://www.cpsaplus.gov.sg/HomePage/" rel="noopener nofollow" target="_blank">CPSA+</a><strong><em>, and the relevant regulations</em></strong>
+<a href="https://www.cpsaplus.gov.sg/HomePage/" rel="noopener nofollow" target="_blank">CPSA+</a><strong><em>, and relevant regulations</em></strong>
 </p>
 </td>
 </tr>
