@@ -80,6 +80,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="2">
+<p></p>
 <p><strong><em>Application and Notification Forms relating to Controlled Goods</em></strong>
 </p>
 </td>
