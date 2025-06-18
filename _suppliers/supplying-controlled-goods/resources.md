@@ -31,7 +31,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 December 2021</p>
+<p>2 Dec 2021</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +40,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 December 2021</p>
+<p>2 Dec 2021</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +92,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 December 2021</p>
+<p>2 Dec 2021</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 December 2021</p>
+<p>2 Dec 2021</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 June 2022</p>
+<p>27 Jun 2022</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +119,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 June 2022</p>
+<p>27 Jun 2022</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +128,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 April 2022</p>
+<p>1 Apr 2022</p>
 </td>
 </tr>
 </tbody>
