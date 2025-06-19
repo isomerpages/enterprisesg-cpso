@@ -12,7 +12,7 @@ description: ""
 and furniture for your home. Dangers can arise from choosing unsafe products,
 misusing products, or improper installations.</p>
 <p>Here are some tips you can follow to keep your family and home safe.</p>
-<p><em>Note: The appliances below with orange background are Controlled Goods that need to have the <a href="https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/look-for-the-safety-mark/" rel="noopener noreferrer nofollow" target="_blank">SAFETY Mark</a>.</em>
+<p><em>Note: The appliances below with</em><strong><em> orange</em></strong><em> background are Controlled Goods that need to have the <a href="https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/look-for-the-safety-mark/" rel="noopener noreferrer nofollow" target="_blank">SAFETY Mark</a>.</em>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
@@ -51,6 +51,7 @@ misusing products, or improper installations.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/tips-on-installation-and-maintenance" rel="noopener noreferrer nofollow" target="_blank">Installing or maintaining home appliances</a>
 </p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards" rel="noopener noreferrer nofollow" target="_blank">Using electrical appliances</a>
@@ -72,7 +73,12 @@ misusing products, or improper installations.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Coffeemaker.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Ceiling_fan.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Coffeemaker.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -85,13 +91,12 @@ misusing products, or improper installations.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Iron.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Kettle.jpg">
-</div>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-ceiling-fans" rel="noopener nofollow" target="_blank">Ceiling fan</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Coffeemaker</a>
 </p>
@@ -104,12 +109,13 @@ misusing products, or improper installations.</p>
 <p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Iron</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Kettle</a>
-</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Kettle.jpg">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/3_pin_plug.jpg">
@@ -125,13 +131,12 @@ misusing products, or improper installations.</p>
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Refrigerator.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/RCCB.jpg">
-</div>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Kettle</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/types-of-mains-plugs-suitable-for-use-in-singapore" rel="noopener noreferrer nofollow" target="_blank">Mains plug</a>
 </p>
@@ -143,14 +148,14 @@ misusing products, or improper installations.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/risk-of-using-hydrocarbon-refrigerants-at-home" rel="noopener noreferrer nofollow" target="_blank">Refrigerator with hydrocarbon refrigerant</a>
 </p>
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.consumerproductsafety.gov.sg/check-your-home-circuit-breaker-regularly" rel="noopener noreferrer nofollow" target="_blank">Residual Current Circuit Breaker (households)</a>
-</p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/RCCB.jpg">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Overview for tips/USO.jpg">
@@ -162,24 +167,22 @@ misusing products, or improper installations.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
 <p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-universal-socket-outlets" rel="noopener noreferrer nofollow" target="_blank">Universal Socket-Outlet</a>
+<p><a href="https://www.consumerproductsafety.gov.sg/check-your-home-circuit-breaker-regularly" rel="noopener noreferrer nofollow" target="_blank">Residual Current Circuit Breaker (households)</a>
 </p>
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-universal-socket-outlets" rel="noopener noreferrer nofollow" target="_blank">Universal Socket-Outlet</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-washing-machines-and-tumble-dryers" rel="noopener noreferrer nofollow" target="_blank">Washing machine / Tumble dryer</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>&nbsp;</p>
@@ -194,12 +197,12 @@ misusing products, or improper installations.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Gas_cooking_appliance.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Gas_cooking_appliance.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Gas_canister_for_portable_stove.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Gas_canister_for_portable_stove.jpg">
 </div>
 </td>
 <td rowspan="1" colspan="1">
