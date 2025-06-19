@@ -92,7 +92,8 @@ misusing products, or improper installations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-ceiling-fans" rel="noopener nofollow" target="_blank">Ceiling fan</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Coffeemaker</a>
