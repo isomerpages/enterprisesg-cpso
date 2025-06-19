@@ -12,7 +12,7 @@ description: ""
 and furniture for your home. Dangers can arise from choosing unsafe products,
 misusing products, or improper installations.</p>
 <p>Here are some tips you can follow to keep your family and home safe.</p>
-<p><em>Note: The appliances below with orange background are Controlled Goods that need to have the <a href="https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/look-for-the-safety-mark/" rel="noopener noreferrer nofollow" target="_blank">SAFETY Mark</a>.</em>
+<p><em>Note: The appliances below with</em><strong><em> orange</em></strong><em> background are Controlled Goods that need to have the <a href="https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/look-for-the-safety-mark/" rel="noopener noreferrer nofollow" target="_blank">SAFETY Mark</a>.</em>
 </p>
 <table style="minWidth: 100px">
 <colgroup>
