@@ -11,4 +11,4 @@ variant: markdown
 
 ![Safety tips on ceiling fans](/images/product-safety-tips/ceiling-fan.jpg)
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/electronics-and-appliances)**
+**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
