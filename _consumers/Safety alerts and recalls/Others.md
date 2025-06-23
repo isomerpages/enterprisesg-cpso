@@ -43,6 +43,13 @@ looks like shown:</p>
 </tr>
 </tbody>
 </table>
+<p>IKEA is urging all customers who own the affected garlic press to immediately
+stop using it and return it to any IKEA store for a full refund. Proof
+of purchase is not required. If customers are unsure whether their garlic
+press is affected, they are still welcome to return it for a refund.</p>
+<p>For more information, please contact IKEA Customer Contact Centre at +65
+6786 6868 or visit their <a href="https://www.ikea.com/sg/en/newsroom/range-news/ikea-is-recalling-ikea-365-vardefull-garlic-press-pub34a8e890/" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
+<p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
 </p>
