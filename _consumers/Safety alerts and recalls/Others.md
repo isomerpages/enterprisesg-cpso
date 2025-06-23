@@ -17,7 +17,30 @@ number 601.636.02, and date stamps (YYWW) from 2411 to 2522. Due to a production
 error that may cause small metal pieces to detach during use, posing a
 risk of metal pieces being ingested with food.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Ikea_garlic_press_1.png">
+</div>
+<p>The affected products have the article number 601.636.02 and can be identified
+by a&nbsp;marking of the IKEA logo on the upper handle of the product that
+looks like shown:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Ikea_garlic_press_2.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+</tbody>
+</table>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
 </p>
