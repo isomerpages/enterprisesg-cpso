@@ -9,125 +9,46 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>27 Jan 2025<br>Stanley 1913 Recalls Switchback and Trigger Action Travel Mugs Due to Burn Hazard</strong>
+<p><strong>23 Jun 2025<br>IKEA Recalls IKEA 365+ VÄRDEFULL Garlic Press</strong>
 <br>
 </p>
-<p>Stanley 1913 announced a voluntarily recall of certain Switchback and
-Trigger Action Travel Mugs because the lid threads can shrink when exposed
-to heat and torque, causing the lid to detach during use, posing a burn
-hazard.</p>
-<p>The products affected include:</p>
-<table style="minWidth: 75px">
+<p>IKEA is recalling IKEA 365+ VÄRDEFULL garlic press, black, with article
+number 601.636.02, and date stamps (YYWW) from 2411 to 2522. Due to a production
+error that may cause small metal pieces to detach during use, posing a
+risk of metal pieces being ingested with food.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Ikea_garlic_press_1.png">
+</div>
+<p>The affected products have the article number 601.636.02 and can be identified
+by a&nbsp;marking of the IKEA logo on the upper handle of the product that
+looks like shown:</p>
+<table style="minWidth: 50px">
 <colgroup>
-<col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Size</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Product Identification Number</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p><strong>Switchback</strong>
-</p>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Switchback.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Ikea_garlic_press_2.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>354ml / 12oz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20-01437, 20-02363</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>384ml / 13oz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20-02363</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>473ml / 16oz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20-01436, 20-02354, 20-02211</p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1">
-<p><strong>Trigger Action</strong>
-</p>
+</th>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Trigger_Action.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Ikea_garlic_press_3.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<p>250ml / 8.5oz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20-02824</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>354ml / 12oz (slim)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20-02825, 20-02779</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>354ml / 12oz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20-02454, 20-02033</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>473ml / 16oz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20-02957, 20-02030, 20-02745, 20-02453</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>591ml / 20oz</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>20-02746, 20-02034</p>
-</td>
+</th>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>The product identification number is located on
-the bottom of the mug:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Prd_Identification_Number.png">
-</div>
-<p>&nbsp;Consumers currently in possession of the affected Switchback or
-Trigger Action travel mugs should immediately stop using these products.
-To determine if your product is impacted and to request a free replacement
-lid, please enter your product identification number at this <a href="https://stanley1913tmrecallint.expertinquiry.com/?lang=en" rel="noopener noreferrer nofollow" target="_blank">website</a>.
-This will also begin the compensation selection process.&nbsp;</p>
+<p>IKEA is urging all customers who own the affected garlic press to immediately
+stop using it and return it to any IKEA store for a full refund. Proof
+of purchase is not required. If customers are unsure whether their garlic
+press is affected, they are still welcome to return it for a refund.</p>
+<p>For more information, please contact IKEA Customer Contact Centre at +65
+6786 6868 or visit their <a href="https://www.ikea.com/sg/en/newsroom/range-news/ikea-is-recalling-ikea-365-vardefull-garlic-press-pub34a8e890/" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
@@ -145,6 +66,15 @@ This will also begin the compensation selection process.&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_recall_2025_06_23_IKEA_garlic_press.pdf" rel="noopener noreferrer nofollow" target="_blank">IKEA Recalls IKEA 365+ VÄRDEFULL Garlic Press</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
