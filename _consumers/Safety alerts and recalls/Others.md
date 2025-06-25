@@ -9,46 +9,17 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>23 Jun 2025<br>IKEA Recalls IKEA 365+ VÄRDEFULL Garlic Press</strong>
+<p><strong>26 Jun 2025<br>SAFETY ALERT: Sakura - Unicorn Beaded Jewellery Set (Necklace + Bracelet + Clip Earrings + Ring)</strong>
 <br>
 </p>
-<p>IKEA is recalling IKEA 365+ VÄRDEFULL garlic press, black, with article
-number 601.636.02, and date stamps (YYWW) from 2411 to 2522. Due to a production
-error that may cause small metal pieces to detach during use, posing a
-risk of metal pieces being ingested with food.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Ikea_garlic_press_1.png">
-</div>
-<p>The affected products have the article number 601.636.02 and can be identified
-by a&nbsp;marking of the IKEA logo on the upper handle of the product that
-looks like shown:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Ikea_garlic_press_2.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Ikea_garlic_press_3.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p>IKEA is urging all customers who own the affected garlic press to immediately
-stop using it and return it to any IKEA store for a full refund. Proof
-of purchase is not required. If customers are unsure whether their garlic
-press is affected, they are still welcome to return it for a refund.</p>
-<p>For more information, please contact IKEA Customer Contact Centre at +65
-6786 6868 or visit their <a href="https://www.ikea.com/sg/en/newsroom/range-news/ikea-is-recalling-ikea-365-vardefull-garlic-press-pub34a8e890/" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
+<p><strong>Name of product</strong>
+</p>
+<p>Sakura - Unicorn Beaded Jewellery Set (Necklace + Bracelet + Clip Earrings
++ Ring)</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Product picture</strong>
+</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
