@@ -28,7 +28,7 @@ regarding unsafe consumer products identified in Singapore.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sakura_1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sakura_1.png">
 </div>
 </td>
 </tr>
@@ -42,7 +42,7 @@ regarding unsafe consumer products identified in Singapore.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sakura_2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sakura_2.png">
 </div>
 </td>
 </tr>
