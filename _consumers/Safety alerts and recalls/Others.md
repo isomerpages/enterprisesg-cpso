@@ -196,7 +196,8 @@ press is affected, they are still welcome to return it for a refund.</p>
 <p>26 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Children's jewellery and accessories:</p>
+<p>Children's jewellery and accessories: Hello Kitty Green Luminous Strap
+Watch with Light</p>
 </td>
 </tr>
 <tr>
