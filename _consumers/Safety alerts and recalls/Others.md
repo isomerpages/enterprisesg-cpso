@@ -51,15 +51,19 @@ regarding unsafe consumer products identified in Singapore.</p>
 <p><strong>Sample taken from</strong>
 </p>
 <p>Seller “Little Cute” on Shopee</p>
-<p>&nbsp;</p>
 <p><strong>The Consumer Product Safety Office has issued a notice to Little Cute to cease supply of the product.</strong>
 </p>
 <p>During the testing of this sample, it was found that the product did not
 comply with the following requirements from ASTM F2923-20: Standard Specification
 for Consumer Product Safety for Children’s Jewelry:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; During the tension test, the ornament
-from the earring became detached and a sharp point was detecte</p>
-<p></p>
+from the earring became detached and a sharp point was detected</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Age labelling information was not
+provided in accordance with the requirements for point-of-sale guidance
+to consumers.</p>
+<p>No report of incident or injury related to the use of this product has
+been received to date.</p>
+<p>Consumers who have bought the product are advised to stop using it immediately.</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
