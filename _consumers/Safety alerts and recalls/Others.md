@@ -180,7 +180,8 @@ press is affected, they are still welcome to return it for a refund.</p>
 <p>26 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Children's jewellery and accessories:</p>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_recall_2025_06_26_Little_Cute_Sakura_Unicorn_Jewellery_Set.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's jewellery and accessories: Sakura - Unicorn Beaded Jewellery Set</a>
+</p>
 </td>
 </tr>
 <tr>
