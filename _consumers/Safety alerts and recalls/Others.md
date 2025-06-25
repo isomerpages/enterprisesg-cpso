@@ -57,7 +57,7 @@ regarding unsafe consumer products identified in Singapore.</p>
 comply with the following requirements from ASTM F2923-20: Standard Specification
 for Consumer Product Safety for Children’s Jewelry:</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; During the tension test, the ornament
-from the earring became detached and a sharp point was detected</p>
+from the earring became detached and a sharp point was detected.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Age labelling information was not
 provided in accordance with the requirements for point-of-sale guidance
 to consumers.</p>
