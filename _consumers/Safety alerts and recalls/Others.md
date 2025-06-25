@@ -20,6 +20,46 @@ regarding unsafe consumer products identified in Singapore.</p>
 </p>
 <p><strong>Product picture</strong>
 </p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sakura_1.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sakura_2.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Sample taken from</strong>
+</p>
+<p>Seller “Little Cute” on Shopee</p>
+<p>&nbsp;</p>
+<p><strong>The Consumer Product Safety Office has issued a notice to Little Cute to cease supply of the product.</strong>
+</p>
+<p>During the testing of this sample, it was found that the product did not
+comply with the following requirements from ASTM F2923-20: Standard Specification
+for Consumer Product Safety for Children’s Jewelry:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; During the tension test, the ornament
+from the earring became detached and a sharp point was detecte</p>
+<p></p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
