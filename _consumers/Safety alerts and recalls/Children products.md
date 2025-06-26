@@ -13,10 +13,10 @@ regarding unsafe consumer products identified in Singapore.</p>
 <h3><strong>SAFETY ALERT: Baby Stroller</strong></h3>
 <p><strong>Date of notice</strong>
 </p>
-<p>17 June 2025</p>
+<p>27 June 2025</p>
 <p><strong>Name of product</strong>
 </p>
-<p>Baby Stroller</p>
+<p>Cobabies baby cot</p>
 <p><strong>Product pictures</strong>
 </p>
 <table style="minWidth: 50px">
@@ -27,14 +27,10 @@ regarding unsafe consumer products identified in Singapore.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/OULIANLAN_stroller_1.jpg">
-</div>
+<p></p>
 </th>
 <th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/children-products/OULIANLAN_stroller_2.jpg">
-</div>
+<p></p>
 </th>
 </tr>
 </tbody>
@@ -42,20 +38,36 @@ regarding unsafe consumer products identified in Singapore.</p>
 <p></p>
 <p><strong>Sample taken from</strong>
 </p>
-<p>Seller “OULIANLAN” on Lazada</p>
+<p>Seller “Babymylovesg” on Lazada</p>
 <p></p>
-<p><strong>The Consumer Product Safety Office has issued a notice to OULIANLAN to cease supply of the stroller.</strong>
+<p><strong>The Consumer Product Safety Office has issued a notice to Babymylovesg to cease supply of the stroller.</strong>
 </p>
 <p>During the testing of this sample, it was found that the product did not
-comply with the following requirements from EN 1888-1(2018) + A1 (2022):
-Child care articles – Wheeled child conveyances – Pushchairs and prams:</p>
+comply with the following requirements from EN 716-1:2017 “Furniture -
+Children's cots and folding cots for domestic use”:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>The inner foam of the bumper bar could be detached and form small parts.</p>
+<p>There were gaps and openings in the baby cot that can pose an entrapment
+risk to the baby’s body parts such as the fingers and limbs.</p>
 </li>
 <li>
-<p>The product information and warnings provided were not in accordance with
-the requirements (e.g. content, format, language).</p>
+<p>There was an opening on the storage pocket on the cots’ exterior that
+can pose an entrapment risk to a baby’s head.</p>
+</li>
+<li>
+<p>When the movable side was adjusted to its highest position, the force
+needed to operate the locking system was low enough for a baby to operate
+it, posing a fall risk to a baby from potentially escaping the cot due
+to the inadequate locking system.</p>
+</li>
+<li>
+<p>When the mattress base was in the upper position, the mattress folded
+easily when pulling or pushing actions were applied to the bed base, posing
+an entrapment risk to a baby from a folded mattress.</p>
+</li>
+<li>
+<p>The instructions and warnings provided were not in accordance with the
+requirements (e.g., content, format, language).</p>
 </li>
 </ul>
 <p>No report of incident or injury related to the use of this product has
@@ -223,6 +235,51 @@ below.</p>
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_27_cot_Babymylovesg.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Cobabies baby cot</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_27_cot_MAGEEKsg.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Bangluoou baby cot</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_27_cot_MMlandsg.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: MAQ X1 baby cot</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_27_cot_tteynliu619_1_sg.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Beedome baby cot</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Jun 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children_products_alert_2025_06_27_cot_ydfgbbs3sg.pdf" rel="noopener noreferrer nofollow" target="_blank">Cots and cribs: Edison KUB-011 baby cot</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
