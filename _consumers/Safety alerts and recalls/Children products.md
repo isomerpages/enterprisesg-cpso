@@ -19,22 +19,9 @@ regarding unsafe consumer products identified in Singapore.</p>
 <p>Cobabies baby cot</p>
 <p><strong>Product pictures</strong>
 </p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-</tr>
-</tbody>
-</table>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cobabies_baby_cot.png">
+</div>
 <p></p>
 <p><strong>Sample taken from</strong>
 </p>
@@ -778,4 +765,5 @@ below.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
