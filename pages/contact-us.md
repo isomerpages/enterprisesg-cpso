@@ -18,7 +18,13 @@ contacts:
   - content:
       - phone: 1800 325 8282
       - email: ""
-      - other: Our operating hours are 8:30am to 5:30pm on working days.
-    title: General Enquiries & Feedback (CCCS Hotline)
+      - other: "Note: Airtime charges apply for mobile calls to 1800 service lines. <br>
+          See our operating hours above."
+    title: Local Callers - General Enquiries & Feedback
+  - content:
+      - phone: +65 6325 8282
+      - email: ""
+      - other: "Note: See our operating hours above."
+    title: Overseas Callers
 feedback: https://go.gov.sg/contact-cpso
 ---
