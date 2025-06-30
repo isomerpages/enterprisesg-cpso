@@ -1,0 +1,12 @@
+logo: /images/CPSO_Lock_Up_Blue_Bar_2.png
+links:
+  - title: Consumers
+    collection: consumers
+  - title: Suppliers
+    collection: suppliers
+  - title: News And Media
+    resource_room: true
+  - title: About
+    collection: about-us
+  - title: Contact Us
+    url: /contact-us/

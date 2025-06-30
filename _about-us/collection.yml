@@ -1,0 +1,10 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - overview.md
+      - FAQ/.keep
+      - FAQ/For Consumers.md
+      - FAQ/For Suppliers.md
+      - consumer-protection-consumer-goods-safety-requirements-regulations-cgsr.md
+      - consumer-protection-safety-requirements-regulations-cpsr.md
