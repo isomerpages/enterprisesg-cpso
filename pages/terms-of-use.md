@@ -4,7 +4,7 @@ permalink: /terms-of-use/
 variant: tiptap
 ---
 <h3><strong>Terms of Use</strong></h3>
-<p>1. Thank you for visiting <a href="www.consumerproductsafety.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.consumerproductsafety.gov.sg</a> (this
+<p>1. Thank you for visiting <a href="https://www.consumerproductsafety.gov.sg" rel="noopener nofollow" target="_blank">www.consumerproductsafety.gov.sg</a> (this
 website). By accessing and using this website, you shall be deemed to have
 accepted to be legally bound by these Terms of Use. If you do not agree
 to these Terms of Use, please do not use this website.
