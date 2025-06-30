@@ -20,7 +20,7 @@ contacts:
       - email: ""
       - other: "Note: Airtime charges apply for mobile calls to 1800 service lines. <br>
           See our operating hours above."
-    title: Local Callers - General Enquiries & Feedback
+    title: General Enquiries & Feedback - Local Callers
   - content:
       - phone: +65 6325 8282
       - email: ""
