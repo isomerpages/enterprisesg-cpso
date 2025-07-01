@@ -1,51 +1,125 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: tiptap
 ---
-
-### **Terms of Use**
-
-**1. Agreement - Terms**<br>
-All access to any area on our website is governed by the terms and conditions below ("Terms"). If you are not comfortable with any of these Terms, we would advise you to exit. Please continue only if you can accept these Terms.
-
-In these Terms, the words "we", "our" and "us" refers to the Consumer Product Safety Office overseen by Enterprise Singapore.
-
-**2. Access to the Consumer Product Safety Office**<br>
-The accessibility and operation of our website relies on technologies outside our control. We are not able to guarantee continuous accessibility or uninterrupted operation of our website.
-
-**3. Relying on Information**<br>
-We provide our website as a general information source only. Do note that we are not involved in giving professional advice here. The website may not cover all information available on a particular issue. We would advise that you conduct your own checks or obtain professional advice relevant to your particular circumstances, outside of our website.
-
-**4. Security**<br>
-Where appropriate, we use available technology to protect the security of communications made through our website. Do note that we do not accept liability for the security, authenticity, integrity or confidentiality of any transactions and other communications made through our website. Internet communications may be susceptible to interference or interception by third parties. We will do our best but we cannot make any warranties that our website is free of infection by computer viruses or other unauthorised software.
-
-**5. Hyperlinks**<br>
-We are not responsible or liable for the availability or content of any other Internet site (not provided by us) linked to or from our website. Access to any other Internet site is at your own risk. If you create a link or frame to our website, you do so at your own risk.
-
-We reserve the right to object or disable any link or frame to or from our website.
-
-**6. Restrictions on Use of Materials**<br>
-No material from this web site shall be reproduced, republished, uploaded, posted, transmitted or otherwise distributed in any way without the prior written consent of Enterprise Singapore. Graphics and images on this web site, including the Consumer Product Safety Office logo and related images, are protected by copyright and may not be reproduced or appropriated in any manner without prior written consent.
-
-Modification of any of the materials or use of any of the materials for any other purpose will be a violation of Enterprise Singapore’s copyright and other intellectual property rights, and may also constitute an offence under the Enterprise Singapore Board Act 2018.
-
-The downloading of any software, including any files, images and data accompanying the software (hereinafter called "the software") from the web site by you does not in any way transfer title of the software to you. You may not redistribute, sell, de-compile, reverse-engineer or disassemble or otherwise deal with the software nor create derivative works from this web site or the materials thereon. Any unauthorized use of the web site or the materials thereon is strictly prohibited.
-
-**7. Third Party Content**<br>
-Third party content may appear on the web site or may be accessible via links from the web site. Enterprise Singapore shall not be responsible and assumes no liability for any infringement, mistakes, misstatements of law, defamation, libel, slander, omissions, falsehood or profanity in the statements, opinions, representations or any other form of content contained in any third party content appearing on the web site.
-
-**8. Non-confidentiality**<br>
-You agree that all information and/or particulars sent or submitted by you to Enterprise Singapore in relation to the access of this web site is non-confidential and non-proprietary unless otherwise expressly indicated by you. You further undertake not to submit any information and/or other materials which are or may be offensive, illegal or which may not be lawfully disseminated under the laws of Singapore or any other relevant country.
-
-**9. Modification to Terms and Conditions of Use**<br>
-The Terms and Conditions set out here may be edited from time to time. Updated versions of the Terms and Conditions of Use will be posted on the web site and are effective immediately.
-
-**10. Privacy**<br>
-Your use of the web site is subject to the Consumer Product Safety Office's Privacy Policy.
-
-**11. Registration on Web Site and e-Services Web Sites**<br>
-Information collected from our users may be used for various reasons.<br>
-
-We are committed to safeguarding your privacy. We do not disclose specific information about our users to any third parties unless so required by law or any government agencies. In the event that you participate in contests or other promotional programs on our site sponsored or organized by third parties or purchase goods and services offered by third parties or offer goods and services to third parties on our sites, your information may be disclosed to and used by such third parties.  
-
-
+<h3><strong>Terms of Use</strong></h3>
+<p>1. Thank you for visiting <a href="https://www.consumerproductsafety.gov.sg" rel="noopener nofollow" target="_blank">www.consumerproductsafety.gov.sg</a> (this
+website). By accessing and using this website, you shall be deemed to have
+accepted to be legally bound by these Terms of Use. If you do not agree
+to these Terms of Use, please do not use this website.
+<br>
+<br><strong>General</strong>
+</p>
+<p>2. These Terms of Use may be changed from time to time. Changes will be
+posted on this page and your use of this website after such changes have
+been posted will constitute your agreement to the modified Terms of Use
+and all of the changes.
+<br>
+<br><strong>Proprietary Rights</strong>
+</p>
+<p>3. This website is maintained by Competition and Consumer Commission of
+Singapore (CCCS).</p>
+<p>4. The materials located on this website including the information and
+software programs (the Contents), are protected by copyright, trademark
+and other forms of proprietary rights. All rights, title and interest in
+the Contents are owned by, licensed to or controlled by CCCS.
+<br>
+<br><strong>Privacy Policy</strong>
+</p>
+<p>5.&nbsp;Click <a href="https://www.consumerproductsafety.gov.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+review this website's Privacy Statement.</p>
+<p><strong>Restrictions on use of Materials</strong>
+</p>
+<p>6. Except as otherwise provided, the contents of this website shall not
+be reproduced, adapted, modified, republished, displayed, broadcast, uploaded,
+posted, framed, transmitted linked to or otherwise distributed in any way
+or stored in an information retrieval system, without the prior written
+permission of CCCS.</p>
+<p>7. Modification of any of the contents or use of the contents for any
+other purpose will be a violation of CCCS's copyright and other intellectual
+property rights. Graphics and images on this website are protected by copyright
+and may not be reproduced or appropriated in any manner without written
+permission of CCCS.</p>
+<p>8. The above terms are without prejudice to any rights granted under the
+Copyright Act 2021.
+<br>
+<br><strong>Disclaimer of Warranties and Liability</strong>
+</p>
+<p>9. The contents of this website are provided on an "as is" basis without
+warranties of any kind. To the fullest extent permitted by law, CCCS does
+not warrant and hereby disclaims any warranty:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>as to the accuracy, correctness, reliability, timeliness, non-infringement,
+title, merchantability or fitness for any particular purpose of the contents
+of this website;</p>
+</li>
+<li>
+<p>that the contents available through this website or any functions associated
+therewith will be uninterrupted or error-free, or that defects will be
+corrected or that this website and the server is and will be free of all
+viruses and/or other harmful elements.</p>
+</li>
+</ul>
+<p>10. CCCS shall also not be liable for any damage or loss of any kind caused
+as a result (direct or indirect) of the use of the website, including but
+not limited to any damage or loss suffered as a result of reliance on the
+contents contained in or available from the website.</p>
+<p>11. You agree that all information and/or particulars sent or submitted
+by you to CCCS in relation to the access of this web site is non-confidential
+and non-proprietary unless otherwise expressly indicated by you. You further
+undertake not to submit any information and/or other materials which are
+or may be offensive, illegal or which may not be lawfully disseminated
+under the laws of Singapore or any other relevant country.
+<br>
+<br><strong>Right of Access</strong>
+</p>
+<p>12. CCCS reserves all rights to deny or restrict access to this website
+to any particular person, or to block access from a particular Internet
+address to this website, at any time, without ascribing any reasons whatsoever.
+<br>
+<br><strong>Links from this website to other websites</strong>
+</p>
+<p>13. This website contains hyperlinks to websites which are not maintained
+by CCCS. CCCS is not responsible for the contents of those websites and
+shall not be liable for any damages or loss arising from access to those
+websites. Use of the hyperlinks and access to such web sites are entirely
+at your own risk.</p>
+<p>14. Hyperlinks to other websites are provided as a convenience. In no
+circumstances shall CCCS be considered to be associated or affiliated with
+any trade or service marks, logos, insignia or other devices used or appearing
+on websites to which this website is linked.
+<br>
+<br><strong>Links to this website</strong>
+</p>
+<p>15. Linking to specific pages within this website is permitted, provided
+you do not, without CCCS’ prior knowledge and permission, suggest or claim
+any affiliation to CCCS or any content on this website.</p>
+<p>16. Caching and the framing of this website or any of the contents are
+prohibited. You must secure permission from CCCS prior to framing this
+website or any of the contents, or engaging in similar activities. CCCS
+reserves the right to impose conditions when permitting any framing of
+this website or any of the contents.</p>
+<p>17. Your linking to, or framing any part of this website or its contents
+constitute acceptance of these Terms of Use. This is deemed to be the case
+even after the posting of any changes or modifications to these Terms of
+Use. If you do not accept these Terms of Use, you must discontinue linking
+to, or framing of this website or any of the contents.</p>
+<p>18. In no circumstances shall CCCS be considered to be associated or affiliated
+in whatever manner with any trade or service marks, logos, insignia or
+other devices used or appearing on websites that link to this website or
+any of the contents.</p>
+<p>19. CCCS reserves all rights to disable any links to, or frames of any
+site containing inappropriate, profane, defamatory, infringing, obscene,
+indecent or unlawful topics, names, material or information, or material
+or information that violates any written law, any applicable intellectual
+property, proprietary, privacy or publicity rights.</p>
+<p>20. CCCS reserves the right to disable any unauthorised links or frames
+and disclaims any responsibility for the content available on any other
+site reached by links to or from this website or any of the contents.
+<br>
+<br><strong>Governing Law</strong>
+</p>
+<p>21. These Terms of Use shall be governed and construed in accordance with
+laws of the Republic of Singapore.</p>

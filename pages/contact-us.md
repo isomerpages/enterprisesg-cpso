@@ -6,7 +6,7 @@ agency_name: the Consumer Product Safety Office
 locations:
   - address:
       - 230 Victoria Street
-      - 09-00 Bugis Junction Office Tower
+      - 14-00 Bugis Junction Office Tower
       - Singapore 188024
     operating_hours:
       - days: Mon - Fri
@@ -16,9 +16,15 @@ locations:
     title: Address
 contacts:
   - content:
-      - phone: 6898 1800
+      - phone: 1800 325 8282
       - email: ""
-      - other: Our operating hours are 8:30am to 5:30pm on working days.
-    title: General Enquiries & Feedback
-feedback: https://form.gov.sg/67442830e0ad549b8ee92b55
+      - other: "Note: Airtime charges apply for mobile calls to 1800 service lines. <br>
+          See our operating hours above."
+    title: General Enquiries & Feedback - Local Callers
+  - content:
+      - phone: +65 6325 8282
+      - email: ""
+      - other: "Note: See our operating hours above."
+    title: Overseas Callers
+feedback: https://go.gov.sg/contact-cpso
 ---
