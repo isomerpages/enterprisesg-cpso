@@ -29,9 +29,11 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="/files/overview-cps-registration.pdf" rel="noopener noreferrer nofollow" target="_blank">Overview of Registration Process for Controlled Goods</a>
 </p>
+<p>Note: Includes the contact information of Conformity Assessment Bodies
+for Certification</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Dec 2021</p>
+<p>1 Jul 2025</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +42,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Dec 2021</p>
+<p>1 Jul 2025</p>
 </td>
 </tr>
 <tr>
@@ -49,25 +51,18 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Nov 2021</p>
+<p>1 Jul 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/cps-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Consumer Protection (Safety Requirements) Regulations Information Booklet</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>1 Feb 2025</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><a href="/images/cpsr-resources/guidelines-on-the-usage-of-the-safety-mark.pdf" rel="noopener noreferrer nofollow" target="_blank">Guidelines on the Usage of the SAFETY Mark</a>
+<p>Note: Includes guidance on the use of the <strong>Safety Mark</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>31 May 2021</p>
+<p>1 Jul 2025</p>
 </td>
 </tr>
 <tr>
@@ -92,7 +87,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Dec 2021</p>
+<p>1 Jul 2025</p>
 </td>
 </tr>
 <tr>
@@ -101,7 +96,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>2 Dec 2021</p>
+<p>1 Jul 2025</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +105,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Jun 2022</p>
+<p>1 Jul 2025</p>
 </td>
 </tr>
 <tr>
@@ -119,7 +114,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>27 Jun 2022</p>
+<p>1 Jul 2025</p>
 </td>
 </tr>
 <tr>
@@ -128,7 +123,7 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Apr 2022</p>
+<p>1 Jul 2025</p>
 </td>
 </tr>
 </tbody>
