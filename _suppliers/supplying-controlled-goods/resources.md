@@ -38,7 +38,7 @@ for Certification</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/images/cpsr-resources/guide-to-sdoc-application-and-renewal.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to using CPSA+</a>
+<p><a href="/files/guide-to-sdoc-application-and-renewal.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to using CPSA+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,7 +47,7 @@ for Certification</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/images/cpsr-resources/cab-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Conformity Assessment Information Booklet</a>
+<p><a href="/files/cab-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Conformity Assessment Information Booklet</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -83,7 +83,7 @@ for Certification</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/images/cpsr-application-info/coc-11a-transfer-of-coc.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Withdrawal of Controlled Goods Registration and Handing Over of Technical Files</a>
+<p><a href="/files/coc-11a-transfer-of-coc.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Withdrawal of Controlled Goods Registration and Handing Over of Technical Files</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -92,7 +92,7 @@ for Certification</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/images/cpsr-application-info/coc-11b-transfer-of-coc.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Resubmission of Controlled Goods Registration and Taking Over of Technical Files</a>
+<p><a href="/files/coc-11b-transfer-of-coc.pdf" rel="noopener noreferrer nofollow" target="_blank">Application for Resubmission of Controlled Goods Registration and Taking Over of Technical Files</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
