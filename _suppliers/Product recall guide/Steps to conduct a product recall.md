@@ -30,7 +30,7 @@ batches of products. Information captured should clearly identify the product.</
 should inform the relevant stakeholders in the supply chain.</p>
 <p>•Suppliers should also inform the CPSO of the intended product recall
 prior to enacting the recall.</p>
-<p>•Suppliers may include a Recall Action Plan (RAP) (click <a href="/files/product-safety-alerts-and-recalls/recall_action_plan_template.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<p>•Suppliers may include a Recall Action Plan (click <a href="/files/product-safety-alerts-and-recalls/recall_action_plan_template.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 the template) for added information when notifying the CPSO of the product
 recall.</p>
 <p></p>
