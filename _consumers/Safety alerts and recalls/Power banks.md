@@ -115,6 +115,15 @@ the serial number using the online recall <a href="https://www.anker.com/mmrc250
 unit is part of the recall. Through this same form, consumers can submit
 a claim to receive either a free replacement power bank or a gift card
 redeemable at the Anker Lazada store.</p>
+<p><em>Note: When checking serial numbers, please be careful to distinguish between similar-looking characters. Affected serial numbers do not contain the letters "O" or "I".</em>
+</p>
+<p>After receiving confirmation of eligibility, dispose of the affected unit
+at a certified facility that accepts recalled lithium-ion batteries. Do
+not dispose of these units in regular trash or recycling bins.</p>
+<p>For questions or assistance, contact Anker at <a rel="noopener noreferrer nofollow" target="_blank">support@anker.com</a> with
+the subject line "[Model Number] Anker Power Bank Recall" (e.g., "A1647
+Anker Power Bank Recall").&nbsp;</p>
+<p>For more information on the recall, visit <a href="https://anker.com.sg/pages/anker-innovations-initiates-voluntary-recall-for-select-power-banks" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <p></p>
 <p>Please see below for more product safety alerts and recalls on power banks.</p>
 <p><strong>Product recalls</strong>
