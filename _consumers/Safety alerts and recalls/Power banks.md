@@ -103,11 +103,15 @@ bottom or side of their power bank (refer to the images below).</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Anker_3.png">
+</div>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p>Please see below for more product safety alerts and recalls on power banks.</p>
 <p><strong>Product recalls</strong>
 </p>
