@@ -110,7 +110,11 @@ bottom or side of their power bank (refer to the images below).</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>If the model is an affected model listed above, consumers should verify
+the serial number using the online recall <a href="https://www.anker.com/mmrc2506-form" rel="noopener nofollow" target="_blank">form</a> to confirm if their
+unit is part of the recall. Through this same form, consumers can submit
+a claim to receive either a free replacement power bank or a gift card
+redeemable at the Anker Lazada store.</p>
 <p></p>
 <p>Please see below for more product safety alerts and recalls on power banks.</p>
 <p><strong>Product recalls</strong>
