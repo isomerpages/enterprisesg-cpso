@@ -91,7 +91,6 @@ bottom or side of their power bank (refer to the images below).</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="2">
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Anker_1.png">
 </div>
@@ -99,7 +98,9 @@ bottom or side of their power bank (refer to the images below).</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Anker_2.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
