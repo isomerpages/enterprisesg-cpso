@@ -10,7 +10,7 @@ variant: tiptap
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
 <p></p>
-<h3><strong>SAFETY ALERT: Baby Stroller</strong></h3>
+<h3><strong>SAFETY ALERT: Baby Cot</strong></h3>
 <p><strong>Date of notice</strong>
 </p>
 <p>27 June 2025</p>
@@ -27,7 +27,7 @@ regarding unsafe consumer products identified in Singapore.</p>
 </p>
 <p>Seller “Babymylovesg” on Lazada</p>
 <p></p>
-<p><strong>The Consumer Product Safety Office has issued a notice to Babymylovesg to cease supply of the stroller.</strong>
+<p><strong>The Consumer Product Safety Office has issued a notice to Babymylovesg to cease supply of the cot.</strong>
 </p>
 <p>During the testing of this sample, it was found that the product did not
 comply with the following requirements from EN 716-1:2017 “Furniture -
