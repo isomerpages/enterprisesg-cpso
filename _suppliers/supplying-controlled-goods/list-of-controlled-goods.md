@@ -232,12 +232,10 @@ of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Rope lights</u>
-</p>
-<p>IEC 60598-2-21:2014 (Ed.1.0)</p>
+<br>IEC 60598-2-21:2014 (Ed.1.0)</p>
 <p></p>
 <p><u>Decorative lighting chain (excluding rope lights)</u>
-</p>
-<p>IEC 60598-2-20:2022 (Ed.5.0)</p>
+<br>IEC 60598-2-20:2022 (Ed.5.0)</p>
 </td>
 </tr>
 <tr>
