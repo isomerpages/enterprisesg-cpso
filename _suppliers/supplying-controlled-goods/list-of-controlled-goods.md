@@ -155,9 +155,9 @@ home entertainment equipment or toys.</p>
 <br>
 </p>
 <p><u>Applicable for computer / telephonic appliances</u>
-<br>IEC 60950-1: 2001
-<br>or
-<br>IEC 62368-1:2014
+<br>IEC 62368-1:2018 (Ed.3.0)</p>
+<p>or</p>
+<p>IEC 60950-1:2005 + A1:2009 + A2:2013 (Ed.2.2)
 <br>
 </p>
 <p><u>Applicable for shavers</u>
