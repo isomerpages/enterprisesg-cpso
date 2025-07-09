@@ -101,8 +101,8 @@ of not more than 250 VAC.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>An electrical portable general purpose luminary intended for household
-use with supply voltage of not more than 250 Vac</p>
+<p>An electrical portable general-purpose luminaire intended for household
+use with supply voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>IEC 60598-2-4: 2017</p>
