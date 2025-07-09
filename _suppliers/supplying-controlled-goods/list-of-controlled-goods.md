@@ -12,7 +12,7 @@ conformity assessment approaches.</p>
 <p>For registration of low risk CGs, the Registered Supplier will have to
 submit a Supplier’s Declaration of Conformity to the Consumer Product Safety
 Office. For medium and high risk CGs, a Certificate of Conformity issued
-by a <a href="https://www.go.gov.sg/list-of-cps-cab" rel="noopener noreferrer nofollow" target="_blank">Designated Conformity Assessment Body</a> is
+by a <a href="https://www.go.gov.sg/list-of-cps-cab" rel="noopener noreferrer nofollow" target="_blank">designated Conformity Assessment Body</a> is
 required for registration of the CG. Click to find out more about <a href="/suppliers/cpsr/register-your-controlled-goods" rel="noopener noreferrer nofollow" target="_blank">registering CGs.</a>
 </p>
 <p>Suppliers must first apply to be a Registered Supplier before supplying
