@@ -510,11 +510,11 @@ earth electrode.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Rice cooker, which is an electrical appliance intended for household use
-to cook rice, with rated voltage of not more than 250 Vac.</p>
+<p>Rice cookers, which are electrical appliances intended for household use
+to cook rice, with rated voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-15: 2002</p>
+<p>IEC 60335-2-15:2012 + A1:2016 + A2:2018 (Ed.6.2)</p>
 </td>
 </tr>
 <tr>
@@ -527,11 +527,11 @@ to cook rice, with rated voltage of not more than 250 Vac.</p>
 <td rowspan="1" colspan="1">
 <p>Stationary cooking appliances, limited to cooking ranges, hobs and ovens,
 which are electrical stationary appliances intended for household use for
-cooking, with rated voltage of not more than 250 Vac for single-phase and
-480 Vac for three-phase.</p>
+cooking, with rated voltage of not more than 250 VAC for single-phase and
+480 VAC for three-phase.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-6: 2002</p>
+<p>IEC 60335-2-6:2014 + A1:2018 (Ed.6.1)</p>
 </td>
 </tr>
 <tr>
@@ -545,7 +545,7 @@ cooking, with rated voltage of not more than 250 Vac for single-phase and
 <p>Toasters, grills, roasters, hot plates, deep fryers and similar appliances,
 which are electrical appliances intended for household use that use heated
 medium such as air and cooking oil for food preparation, with rated voltage
-of not more than 250 Vac.</p>
+of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>IEC 60335-2-9: 2002 (applicable for toaster, hot plate (including induction
