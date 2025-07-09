@@ -382,16 +382,19 @@ rated voltage of not more than 250 VAC.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lamp control gear, which is an electrical device intended for household
-electrical installation that limits the current of the lamp or supplies
-constant current or constant voltage to power LED lighting.</p>
+<p>Lamp control gears, which are electrical devices intended for household
+electrical installations that limit the current of the lamp or supply constant
+current or constant voltage power to LED lighting.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 61347-2-8: 2000 (magnetic type)
-<br>
-<br>IEC 61347-2-3: 2000 (electronic type)
-<br>
-<br>IEC 61347-2-13: 2000 (for LED driver)</p>
+<p><u>Magnetic type</u>
+<br>IEC 61347-2-8:2000 + A1:2006 (Ed. 1.1)</p>
+<p></p>
+<p><u>Electronic type</u>
+<br>IEC 61347-2-3:2011 + A1:2016 (Ed. 2.1)</p>
+<p></p>
+<p><u>For LED driver</u>
+<br>IEC 61347-2-13:2014 + A1:2016 (Ed. 2.1)</p>
 </td>
 </tr>
 <tr>
