@@ -697,15 +697,17 @@ gas.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Domestic electric wall switch, which is an electrical manually operated
-general purpose switch for alternating current only, with a rated voltage
+<p>Domestic electric wall switches, which are electrical manually operated
+general purpose switches for alternating current only, with a rated voltage
 not exceeding 440 V and a rated current not exceeding 63 A, intended for
 household fixed-electrical installations.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60669-1: 2017
-<br>
-<br>SS 403: 1997 (13A fused connection units switched)</p>
+<p><u>13A fused connection units (switched)</u>
+<br>SS 145-4: 2022</p>
+<p></p>
+<p><u>General purpose domestic electric wall switch</u>
+<br>IEC 60669-1: 2017 (Ed. 4.0)</p>
 </td>
 </tr>
 <tr>
@@ -722,19 +724,18 @@ use that use gas or liquefied petroleum gas obtained from a non-refillable
 gas canister up to 1.4 litres as fuel.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>EN 30-1-1:2008 + A3:2013
-<br>or
-<br>AS 5263.1.1:2020 (gas cooker)
-<br>
-<br>EN 30-1-2: 2012 (forced-convection gas oven)
-<br>
-<br>EN 30-1-3: 2003 +A1:2006 (glass-ceramic gas hob with enclosed covered
-burner)
-<br>
-<br>EN 30-1-4: 2012 + IEC 60335-2-102: 2017 (gas cooker with automatic burner
-control system)
-<br>
-<br>SS 401: 1997 (Portable cooking gas appliance)</p>
+<p>Gas Cooker</p>
+<p>EN 30-1-1:2008 + A3:2013 or</p>
+<p>AS/NZS 5263.1.1:2020</p>
+<p>Forced-convection gas oven</p>
+<p>EN 30-1-2:2012</p>
+<p>Glass-ceramic gas hob with enclosed covered burner</p>
+<p>EN 30-1-3:2003 + A1:2006</p>
+<p>Gas cooker with automatic burner control system</p>
+<p>EN 30-1-4:2012 + IEC 60335-2-102:2017 (Ed.2.0)</p>
+<p>Portable gas appliance</p>
+<p>SS 401:1997 (valid till 31 December 2025)</p>
+<p>SS 401:2023 (effective from 1 January 2026)</p>
 </td>
 </tr>
 <tr>
