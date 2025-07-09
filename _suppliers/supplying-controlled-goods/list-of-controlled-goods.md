@@ -191,10 +191,12 @@ home entertainment equipment or toys.</p>
 <p>Audio and video products, which are electronic devices for home entertainment
 designed to be fed from the supply mains and intended for reception, generation,
 recording or reproduction, respectively of audio, video and associated
-signals, with rated voltage of not more than 250 Vac.</p>
+signals, with rated voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60065: 2001 or IEC 62368-1:2014</p>
+<p>IEC 60065:2014 (Ed.8.0)
+<br>or</p>
+<p>IEC 62368-1:2018 (Ed.3.0)</p>
 </td>
 </tr>
 <tr>
