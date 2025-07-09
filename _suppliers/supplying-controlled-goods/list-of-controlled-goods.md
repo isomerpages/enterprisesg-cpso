@@ -429,12 +429,12 @@ to heat liquids for consumption that have a rated capacity not exceeding
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Microwave oven, which is an electrical appliance intended for household
-use that uses high-frequency electromagnetic waves for heating food or
-beverages, with rated voltage of not more than 250 Vac.</p>
+<p>Microwave ovens, which are electrical appliances intended for household
+use that use high-frequency electromagnetic waves for heating food or beverages,
+with rated voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-25: 2002</p>
+<p>IEC 60335-2-25:2020 (Ed.7.0)</p>
 </td>
 </tr>
 <tr>
