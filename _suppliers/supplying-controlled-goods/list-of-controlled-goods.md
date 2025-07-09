@@ -51,12 +51,12 @@ to agitate the air and equipped to use water as a cooling medium, with
 rated voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-98: 2002 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+<p>IEC 60335-2-98: 2002 (Ed.2.0)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</p>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ a wall to provide conditioned air to an enclosed area, with rated voltage
 of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-40: 2002</p>
+<p>IEC 60335-2-40: 2002 (Ed.4.0)</p>
 </td>
 </tr>
 <tr>
@@ -144,9 +144,8 @@ home entertainment equipment or toys.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Applicable for electrical appliances</u>
-<br>IEC 61558-2-6: 1997
-<br>or
-<br>IEC 61558-2-16: 2009
+<br>IEC 61558-2-6:2021 (Ed.3.0) or</p>
+<p>IEC 61558-2-16:2021 (Ed.2.0)
 <br>
 </p>
 <p><u>Applicable for electronic appliances</u>
