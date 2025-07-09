@@ -295,10 +295,10 @@ cooker.</p>
 <p>Hair care appliances, limited to hair dryers, hair curlers, hair straighteners
 and hair stylers, which are electrical hand-held appliances intended for
 household use to dry or care for human hair, with rated voltage of not
-more than 250 Vac.</p>
+more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-23: 2003</p>
+<p>IEC 60335-2-23:2016 + A1:2019 (Ed. 6.1)</p>
 </td>
 </tr>
 <tr>
