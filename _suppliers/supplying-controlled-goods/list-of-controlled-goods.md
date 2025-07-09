@@ -154,11 +154,15 @@ equipment, home entertainment equipment or toys</p>
 <br>or
 <br>IEC 62368-1:2014
 <br>
+</p>
+<p><u>Applicable for computer / telephonic appliances</u>
 <br>IEC 60950-1: 2001
 <br>or
-<br>IEC 62368-1:2014 (applicable for computer / telephonic appliances)
+<br>IEC 62368-1:2014
 <br>
-<br>IEC 60335-2-8: 2002 (applicable for shavers)
+</p>
+<p><u>Applicable for shavers</u>
+<br>IEC 60335-2-8: 2002
 <br>
 <br>IEC 60335-2-29: 2002 with A1: 2004 (applicable for battery chargers)
 <br>
