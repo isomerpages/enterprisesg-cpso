@@ -7,9 +7,8 @@ variant: tiptap
 <h2>33 Categories of Controlled Goods</h2>
 <p>The 33 categories of Controlled Goods (<strong>CGs</strong>) under the
 Consumer Protection (Safety Requirements) Regulations (<strong>CPSR</strong>)
-are tiered into <a href="#bottom_low" rel="noopener noreferrer nofollow" target="_blank">Low</a>,
-<a href="#bottom_medium" rel="noopener noreferrer nofollow" target="_blank">Medium</a>and <a href="#bottom_high" rel="noopener noreferrer nofollow" target="_blank">High </a>Risk
-CGs that have different conformity assessment approaches.</p>
+are tiered into Low Risk, Medium Risk, and High Risk CGs that have different
+conformity assessment approaches.</p>
 <p>For registration of low risk CGs, the Registered Supplier will have to
 submit a Supplier’s Declaration of Conformity to the Consumer Product Safety
 Office. For medium and high risk CGs, a Certificate of Conformity issued
@@ -23,8 +22,8 @@ these CGs. Click to find out more on how to <a href="/suppliers/cpsr/apply-to-be
 safety standards stated in the table below), please refer to the <a href="/files/cps-info-booklet.pdf" rel="noopener nofollow" target="_blank">Consumer Protection (Safety Requirements) Regulations Information Booklet<u>.</u></a>
 </p>
 <p><strong>The 33 Categories of Controlled Goods under CPSR are:</strong>
-<br><a href="#top_low" rel="noopener noreferrer nofollow" target="_blank">Low Risk CGs</a>
 </p>
+<h4><strong><u>Low Risk CGs</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -115,8 +114,7 @@ use with supply voltage of not more than 250 VAC.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="#top_medium" rel="noopener noreferrer nofollow" target="_blank">Medium Risk CGs</a>
-</p>
+<h4><strong><u>Medium Risk CGs</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -622,8 +620,7 @@ connection and the mechanical retention of a suitable flexible cord.</p>
 </tr>
 </tbody>
 </table>
-<p><a href="#top_high" rel="noopener noreferrer nofollow" target="_blank">High Risk CGs</a>
-</p>
+<h4><strong><u>High Risk CGs</u></strong></h4>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
