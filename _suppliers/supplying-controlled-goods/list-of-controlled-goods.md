@@ -164,13 +164,21 @@ equipment, home entertainment equipment or toys</p>
 <p><u>Applicable for shavers</u>
 <br>IEC 60335-2-8: 2002
 <br>
-<br>IEC 60335-2-29: 2002 with A1: 2004 (applicable for battery chargers)
+</p>
+<p><u>Applicable for battery chargers</u>
+<br>IEC 60335-2-29: 2002 with A1: 2004
 <br>
-<br>IEC 61347-2-13: 2006 (applicable for LED lightings)
+</p>
+<p><u>Applicable for LED lightings</u>
+<br>IEC 61347-2-13: 2006
 <br>
-<br>IEC 60598-2-4: 2017 (applicable for table/standing lamps)
+</p>
+<p><u>Applicable for table/standing lamps</u>
+<br>IEC 60598-2-4: 2017
 <br>
-<br>IEC 60601-1: 2005 (applicable for breast pump)</p>
+</p>
+<p><u>Applicable for breast pump</u>
+<br>IEC 60601-1: 2005</p>
 </td>
 </tr>
 <tr>
