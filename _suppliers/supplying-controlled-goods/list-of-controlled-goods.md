@@ -476,9 +476,8 @@ supply of not more than 250 VAC.</p>
 <br>SS 307:1996</p>
 <p></p>
 <p><u>Power track’s socket outlet tap-off unit</u>
-<br>SS 241:1996 + SS 145-2:2018 (seq. 1, 2, 3 only) (valid <strong>till 30 June 2026</strong>)</p>
-<p></p>
-<p>SS 241:1996 + SS 145-2:2018 (effective <strong>from 1 July 2026</strong>)</p>
+<br>SS 241:1996 + SS 145-2:2018 (seq. 1, 2, 3 only) (valid <strong>till 30 June 2026</strong>)
+<br>SS 241:1996 + SS 145-2:2018 (effective <strong>from 1 July 2026</strong>)</p>
 <p></p>
 <p><u>Power track’s socket outlet tap-off unit with USB port(s) and/or electronic device(s)</u>
 <br>SS 241:1996 + SS 145-2:2018</p>
@@ -724,18 +723,22 @@ use that use gas or liquefied petroleum gas obtained from a non-refillable
 gas canister up to 1.4 litres as fuel.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Gas Cooker</p>
-<p>EN 30-1-1:2008 + A3:2013 or</p>
+<p><u>Gas Cooker</u>
+<br>EN 30-1-1:2008 + A3:2013 or</p>
 <p>AS/NZS 5263.1.1:2020</p>
-<p>Forced-convection gas oven</p>
-<p>EN 30-1-2:2012</p>
-<p>Glass-ceramic gas hob with enclosed covered burner</p>
-<p>EN 30-1-3:2003 + A1:2006</p>
-<p>Gas cooker with automatic burner control system</p>
-<p>EN 30-1-4:2012 + IEC 60335-2-102:2017 (Ed.2.0)</p>
-<p>Portable gas appliance</p>
-<p>SS 401:1997 (valid till 31 December 2025)</p>
-<p>SS 401:2023 (effective from 1 January 2026)</p>
+<p></p>
+<p><u>Forced-convection gas oven</u>
+<br>EN 30-1-2:2012</p>
+<p></p>
+<p><u>Glass-ceramic gas hob with enclosed covered burner</u>
+<br>EN 30-1-3:2003 + A1:2006</p>
+<p></p>
+<p><u>Gas cooker with automatic burner control system</u>
+<br>EN 30-1-4:2012 + IEC 60335-2-102:2017 (Ed.2.0)</p>
+<p></p>
+<p><u>Portable gas appliance</u>
+<br>SS 401:1997 (valid <strong>till 31 December 2025</strong>)
+<br>SS 401:2023 (effective <strong>from 1 January 2026</strong>)</p>
 </td>
 </tr>
 <tr>
