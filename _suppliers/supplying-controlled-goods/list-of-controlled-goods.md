@@ -144,20 +144,21 @@ home entertainment equipment or toys.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Applicable for electrical appliances</u>
-<br>IEC 61558-2-6:2021 (Ed.3.0) or</p>
-<p>IEC 61558-2-16:2021 (Ed.2.0)
+<br>IEC 61558-2-6:2021 (Ed.3.0)
+<br>or
+<br>IEC 61558-2-16:2021 (Ed.2.0)
 <br>
 </p>
 <p><u>Applicable for electronic appliances</u>
-<br>IEC 60065:2014 (Ed.8.0)</p>
-<p>or</p>
-<p>IEC 62368-1:2018 (Ed.3.0)
+<br>IEC 60065:2014 (Ed.8.0)
+<br>or
+<br>IEC 62368-1:2018 (Ed.3.0)
 <br>
 </p>
 <p><u>Applicable for computer / telephonic appliances</u>
-<br>IEC 62368-1:2018 (Ed.3.0)</p>
-<p>or</p>
-<p>IEC 60950-1:2005 + A1:2009 + A2:2013 (Ed.2.2)
+<br>IEC 62368-1:2018 (Ed.3.0)
+<br>or
+<br>IEC 60950-1:2005 + A1:2009 + A2:2013 (Ed.2.2)
 <br>
 </p>
 <p><u>Applicable for shavers</u>
@@ -195,8 +196,8 @@ signals, with rated voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>IEC 60065:2014 (Ed.8.0)
-<br>or</p>
-<p>IEC 62368-1:2018 (Ed.3.0)</p>
+<br>or
+<br>IEC 62368-1:2018 (Ed.3.0)</p>
 </td>
 </tr>
 <tr>
