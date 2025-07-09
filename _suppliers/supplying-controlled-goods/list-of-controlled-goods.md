@@ -161,7 +161,7 @@ home entertainment equipment or toys.</p>
 <br>
 </p>
 <p><u>Applicable for shavers</u>
-<br>IEC 60335-2-8: 2002
+<br>IEC 60335-2-8:2012 + A1:2015 + A2:2018 (Ed.6.2)
 <br>
 </p>
 <p><u>Applicable for battery chargers</u>
