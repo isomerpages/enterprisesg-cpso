@@ -105,7 +105,7 @@ of not more than 250 VAC.</p>
 use with supply voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60598-2-4: 2017</p>
+<p>IEC 60598-2-4: 2017 (Ed.3.0)</p>
 </td>
 </tr>
 </tbody>
@@ -149,9 +149,9 @@ home entertainment equipment or toys.</p>
 <br>
 </p>
 <p><u>Applicable for electronic appliances</u>
-<br>IEC 60065: 2001
-<br>or
-<br>IEC 62368-1:2014
+<br>IEC 60065:2014 (Ed.8.0)</p>
+<p>or</p>
+<p>IEC 62368-1:2018 (Ed.3.0)
 <br>
 </p>
 <p><u>Applicable for computer / telephonic appliances</u>
