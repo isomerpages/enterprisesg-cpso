@@ -46,9 +46,9 @@ these Controlled Goods. Click to find out more on how to <a href="/suppliers/cps
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Air cooler, which is an electrical appliance intended for household use
+<p>Air cooler, which are electrical appliances intended for household use
 to agitate the air and equipped to use water as a cooling medium, with
-rated voltage of not more than 250 Vac.</p>
+rated voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>IEC 60335-2-98: 2002 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
