@@ -405,17 +405,20 @@ current or constant voltage power to LED lighting.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Liquid heating appliances, limited to kettles, airpots and hot water dispensers,
-which are electrical appliances intended for household use to heat liquids
-for consumption that have a rated capacity not exceeding 10 litres, with
-rated voltage of not more than 250 Vac.</p>
+<p>Liquid heating appliances, limited to kettles, air pots and hot water
+dispensers, which are electrical appliances intended for household use
+to heat liquids for consumption that have a rated capacity not exceeding
+10 litres, with rated voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-15: 2002
-<br>
-<br>IEC 60335-2-21: 2004 (hot water dispenser-storage type)
-<br>
-<br>IEC 60335-2-35: 2002 (hot water dispenser-instantaneous type)</p>
+<p><u>Storage liquid heating appliance (Heats water below boiling temperature)</u>
+<br>IEC 60335-2-21:2012 + A1:2018 (Ed. 6.1)</p>
+<p></p>
+<p><u>Instantaneous liquid heating appliance (Heats water below boiling temperature)</u>
+<br>IEC 60335-2-35:2012 + A1:2016 + A2:2020 (Ed. 5.2)</p>
+<p></p>
+<p><u>Liquid heating appliance (Heats water to boiling temperature)</u>
+<br>IEC 60335-2-15:2012 + A1:2016 + A2:2018 (Ed. 6.2)</p>
 </td>
 </tr>
 <tr>
