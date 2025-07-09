@@ -248,15 +248,21 @@ of not more than 250 VAC.</p>
 <td rowspan="1" colspan="1">
 <p>Fans, limited to ceiling, table, standing and wall fans, which are electrical
 appliances for circulating the air in its vicinity and intended for household
-use, with rated voltage of not more than 250 Vac.</p>
+use, with rated voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-80: 2002 or SS 655: 2020 (applicable for table, standing or
-wall fan)
-<br>
-<br>IEC 60335-2-80: 2002 + SS 655: 2020 (Annex ZA only)
+<p><u>Table, standing or wall fan</u>
+<br>SS 655: 2020
 <br>or
-<br>SS 655:2020 (applicable for ceiling or cycle fan)</p>
+<br>IEC 60335-2-80:2015 (Ed. 3.0)</p>
+<p></p>
+<p><u>Ceiling or cycle fan</u>
+<br>IEC 60335-2-80:2015 + SS 655:2020 (Annex ZA only)
+<br>or
+<br>SS 655:2020
+<br>or
+<br>IEC 60335-2-80:2015 + SS 360:1992 (sub-clauses 5.7 &amp; 5.8 only) (for
+renewal only)</p>
 </td>
 </tr>
 <tr>
