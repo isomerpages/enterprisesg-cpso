@@ -666,8 +666,7 @@ gas.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Hose</u>
-</p>
-<p>SS 233: 2013
+<br>SS 233: 2013
 <br>
 <br>
 <br>
@@ -679,14 +678,16 @@ gas.</p>
 <p></p>
 <p><u>Regulator</u>
 <br>SS 281: 1984</p>
+<p>
+<br>
+<br>
+</p>
 <p></p>
 <p></p>
 <p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>
+<br>
+</p>
 <p></p>
 <p></p>
 <p><u>Valve</u>
