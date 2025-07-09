@@ -676,19 +676,18 @@ gas.</p>
 <p></p>
 <p></p>
 <p><u>Regulator</u>
-<br>SS 281: 1984
-<br>
-<br>
-<br>
-</p>
+<br>SS 281: 1984</p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
 <p></p>
-<p>
-<br><u>Valve</u>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><u>Valve</u>
 <br>SS 294: 1998</p>
 </td>
 </tr>
