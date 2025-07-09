@@ -173,11 +173,11 @@ home entertainment equipment or toys.</p>
 <br>
 </p>
 <p><u>Applicable for table/standing lamps</u>
-<br>IEC 60598-2-4: 2017
+<br>IEC 60598-2-4:2017 (Ed.3.0)
 <br>
 </p>
 <p><u>Applicable for breast pump</u>
-<br>IEC 60601-1: 2005</p>
+<br>IEC 60601-1:2005 + A1:2012 + A2:2020 (Ed.3.2)</p>
 </td>
 </tr>
 <tr>
