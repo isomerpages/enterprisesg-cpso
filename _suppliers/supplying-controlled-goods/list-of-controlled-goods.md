@@ -328,13 +328,13 @@ than 250 VAC.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Iron, which is an electrical hand-held appliance intended for household
+<p>Irons, which are electrical hand-held appliances intended for household
 use, with a heated soleplate for smoothing or pressing fabric, including
 those with a separate water reservoir or boiler having a capacity not exceeding
-5 litres, with rated voltage of not more than 250 Vac.</p>
+5 litres, with rated voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-3: 2002</p>
+<p>IEC 60335-2-3:2012 + A1:2015 (Ed. 6.1)</p>
 </td>
 </tr>
 <tr>
@@ -345,16 +345,17 @@ those with a separate water reservoir or boiler having a capacity not exceeding
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Isolating transformer for downlight fitting, which is an isolating transformer
+<p>Isolating transformers for downlight fitting, which are isolating transformers
 intended for household electrical installation with input and output windings
 that are electrically separated to limit hazards due to accidental simultaneous
 contact with earth and live parts or metal parts that may become live in
 the event of an insulation failure.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 61558-2-6: 1997 (magnetic type)
-<br>
-<br>IEC 61347-2-2: 2000 (electronic type)</p>
+<p><u>Magnetic type</u>
+<br>IEC 61558-2-6:2021 (Ed. 3.0)</p>
+<p></p>
+<p><u>Electronic type<br></u>IEC 61347-2-2:2011 (Ed. 2.0)</p>
 </td>
 </tr>
 <tr>
