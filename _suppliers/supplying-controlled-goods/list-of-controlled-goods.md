@@ -21,7 +21,7 @@ these CGs. Click to find out more on how to <a href="/suppliers/cpsr/apply-to-be
 <p>For the full requirements for CGs (including additional ones besides the
 safety standards stated in the tables below), please refer to the <a href="/files/cps-info-booklet.pdf" rel="noopener nofollow" target="_blank">Consumer Protection (Safety Requirements) Regulations Information Booklet<u>.</u></a>
 </p>
-<p><strong>The 33 Categories of Controlled Goods under CPSR are:</strong>
+<p><strong>The 33 categories of Controlled Goods under CPSR are:</strong>
 </p>
 <h4><strong><u>Low Risk CGs</u></strong></h4>
 <table style="minWidth: 75px">
