@@ -368,10 +368,10 @@ the event of an insulation failure.</p>
 <td rowspan="1" colspan="1">
 <p>Kitchen machines, including mixers, blenders and mincers, which are electrical
 appliances intended for household use to prepare food or beverages, with
-rated voltage of not more than 250 Vac.</p>
+rated voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-14: 2002</p>
+<p>IEC 60335-2-14:2016 + A1:2019 (Ed. 6.1)</p>
 </td>
 </tr>
 <tr>
