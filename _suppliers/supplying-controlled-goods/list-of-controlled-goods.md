@@ -278,10 +278,12 @@ liquefied petroleum gases intended for household use with a portable gas
 cooker.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SS 400:1997 (valid<strong> till 31 December 2025</strong>)
+<p>Valid<strong> till 31 Dec 2025: </strong>
+<br>SS 400:1997
 <br>
 </p>
-<p>SS 400:2023 (effective <strong>from 1 January 2026</strong>)</p>
+<p>Effective <strong>from 1 Jan 2026:</strong>
+<br>SS 400:2023</p>
 </td>
 </tr>
 <tr>
@@ -476,8 +478,10 @@ supply of not more than 250 VAC.</p>
 <br>SS 307:1996</p>
 <p></p>
 <p><u>Power track’s socket outlet tap-off unit</u>
-<br>SS 241:1996 + SS 145-2:2018 (seq. 1, 2, 3 only) (valid <strong>till 30 June 2026</strong>)
-<br>SS 241:1996 + SS 145-2:2018 (effective <strong>from 1 July 2026</strong>)</p>
+<br>- Valid <strong>till 30 June 2026:</strong> 
+<br>SS 241:1996 + SS 145-2:2018 (seq. 1, 2, 3 only)
+<br>- Effective<strong> from 1 July 2026</strong>:
+<br>SS 241:1996 + SS 145-2:2018</p>
 <p></p>
 <p><u>Power track’s socket outlet tap-off unit with USB port(s) and/or electronic device(s)</u>
 <br>SS 241:1996 + SS 145-2:2018</p>
