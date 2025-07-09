@@ -469,18 +469,20 @@ be easily moved from one place to another while connected to rated voltage
 supply of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SS145: Part 2: 1997 (3-pin portable socket-outlet)
-<br>
-<br>SS 145- 2: 2018 (3-pin portable socket outlet incorporated with USB port(s)
-and/or electronic device(s))
-<br>
-<br>SS 307: 1996 (Portable cable reel)
-<br>
-<br>SS 241: 1996 + SS 145-2:2018 (sequence 1, 2, 3 only) (applicable for power
-track's tap-off unit)
-<br>
-<br>SS 241: 1996 + SS 145-2:2018 (applicable for power track's tap-off unit
-incorporated with USB port(s) and/or electronic device(s))</p>
+<p><u>3-pin portable socket-outlet</u>
+<br>SS 145-2:2018</p>
+<p></p>
+<p><u>Portable cable reel</u>
+<br>SS 307:1996</p>
+<p></p>
+<p><u>Power track’s socket outlet tap-off unit</u>
+<br>SS 241:1996 + SS 145-2:2018 (seq. 1, 2, 3 only) (valid <strong>till 30 June 2026</strong>)</p>
+<p></p>
+<p>SS 241:1996 + SS 145-2:2018 (effective <strong>from 1 July 2026</strong>)</p>
+<p></p>
+<p>Power track’s socket outlet tap-off unit with USB port(s) and/or electronic
+device(s)</p>
+<p>SS 241:1996 + SS 145-2:2018</p>
 </td>
 </tr>
 <tr>
