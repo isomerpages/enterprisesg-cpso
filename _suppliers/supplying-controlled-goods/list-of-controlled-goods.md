@@ -740,8 +740,8 @@ gas canister up to 1.4 litres as fuel.</p>
 <br>EN 30-1-4:2012 + IEC 60335-2-102:2017 (Ed.2.0)</p>
 <p></p>
 <p><u>Portable gas appliance</u>
-<br>SS 401:1997 (valid <strong>till 31 December 2025</strong>)
-<br>SS 401:2023 (effective <strong>from 1 January 2026</strong>)</p>
+<br>- Valid <strong>till 31 Dec 2025: </strong>SS 401:1997
+<br>- Effective <strong>from 1 Jan 2026:</strong> SS 401:2023</p>
 </td>
 </tr>
 <tr>
