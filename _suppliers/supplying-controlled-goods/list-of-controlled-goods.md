@@ -445,7 +445,7 @@ with rated voltage of not more than 250 VAC.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Multi-way adaptor, which is intended for household use, has more than
+<p>Multi-way adaptors, which are intended for household use, have more than
 one set of socket contacts, and which may or may not be of the same type
 or rating as the plug pin portion.</p>
 </td>
@@ -466,7 +466,7 @@ Adaptors incorporating USB Port(s) and/or electronic devices)</p>
 electrical accessories intended for household use that have at least a
 set of 13-amp shuttered socket-outlets with flexible cords, and which can
 be easily moved from one place to another while connected to rated voltage
-supply of not more than 250 Vac.</p>
+supply of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SS145: Part 2: 1997 (3-pin portable socket-outlet)
