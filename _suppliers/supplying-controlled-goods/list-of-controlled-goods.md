@@ -312,12 +312,12 @@ more than 250 VAC.</p>
 <p>Home computer system (inclusive of monitor, printer, speaker and other
 mains operated accessories), which is a microcomputer and its associated
 accessories, intended for household use, with rated voltage of not more
-than 250 Vac.</p>
+than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60950-1: 2001
+<p>IEC 62368-1:2018 (Ed. 3.0)
 <br>or
-<br>IEC 62368-1: 2014</p>
+<br>IEC 60950-1:2005 + A1:2009 + A2:2013 (Ed. 2.2)</p>
 </td>
 </tr>
 <tr>
