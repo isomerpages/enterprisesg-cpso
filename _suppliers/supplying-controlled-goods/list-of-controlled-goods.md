@@ -773,18 +773,18 @@ in a suitable box or for surface or panel mounting.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Refrigerator</p>
+<p>Refrigerators</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="refrigerator" src="/images/about-us/33-categories-controlled-goods/refrigerator.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Refrigerator, which is an electrical appliance intended for household
-use that operates on the vapour compression principle for food storage
-and preservation, with rated voltage of not more than 250 Vac.</p>
+<p>Refrigerators, which are electrical appliances intended for household
+use that operate on the vapour compression principle for food storage and
+preservation, with rated voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-24: 2020</p>
+<p>IEC 60335-2-24:2020 (Ed.8.0)</p>
 </td>
 </tr>
 <tr>
@@ -797,14 +797,14 @@ and preservation, with rated voltage of not more than 250 Vac.</p>
 <td rowspan="1" colspan="1">
 <p>Water heaters, limited to instantaneous and storage types, which are electrical
 appliances intended for household use to heat water below boiling temperature,
-with rated voltage of not more than 250 Vac.</p>
+with rated voltage of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-35: 2012 + A1:2016 + A2:2020 (Instantaneous electric water
-heater)
-<br>
-<br>IEC 60335-2-21: 2012 + A1:2018 (Mains pressure electric storage water
-heater)</p>
+<p><u>Instantaneous electric water heater</u>
+<br>IEC 60335-2-35:2012 + A1:2016 + A2:2020 (Ed.5.2)</p>
+<p></p>
+<p><u>Mains pressure electric storage water heater</u>
+<br>IEC 60335-2-21:2012 + A1:2018 (Ed.6.1)</p>
 </td>
 </tr>
 </tbody>
