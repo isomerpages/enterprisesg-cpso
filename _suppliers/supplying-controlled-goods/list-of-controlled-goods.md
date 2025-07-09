@@ -5,9 +5,10 @@ third_nav_title: Supplying controlled goods
 variant: tiptap
 ---
 <h2>33 Categories of Controlled Goods</h2>
-<p>The 33 categories of Controlled Goods (CGs) under CPSR are tiered into
-<a href="#bottom_low" rel="noopener noreferrer nofollow" target="_blank">Low</a>, <a href="#bottom_medium" rel="noopener noreferrer nofollow" target="_blank">Medium</a> and
-<a href="#bottom_high" rel="noopener noreferrer nofollow" target="_blank">High</a>Risk CGs that have different conformity assessment approaches.</p>
+<p>The 33 categories of Controlled Goods (<strong>CGs</strong>) under CPSR
+are tiered into <a href="#bottom_low" rel="noopener noreferrer nofollow" target="_blank">Low</a>,
+<a href="#bottom_medium" rel="noopener noreferrer nofollow" target="_blank">Medium</a>and <a href="#bottom_high" rel="noopener noreferrer nofollow" target="_blank">High </a>Risk
+CGs that have different conformity assessment approaches.</p>
 <p>For registration of low risk CGs, the Registered Supplier will have to
 submit a Supplier’s Declaration of Conformity to the Consumer Product Safety
 Office. For medium and high risk CGs, a Certificate of Conformity issued
@@ -15,8 +16,9 @@ by a <a href="https://www.go.gov.sg/list-of-cps-cab" rel="noopener noreferrer no
 required for registration of the CG. Click to find out more about <a href="/suppliers/cpsr/register-your-controlled-goods" rel="noopener noreferrer nofollow" target="_blank">registering CGs.</a>
 </p>
 <p>Suppliers must first apply to be a Registered Supplier before supplying
-these Controlled Goods. Click to find out more on how to <a href="/suppliers/cpsr/apply-to-be-a-registered-supplier" rel="noopener noreferrer nofollow" target="_blank">apply as a Registered Supplier.</a>
+these CGs. Click to find out more on how to <a href="/suppliers/cpsr/apply-to-be-a-registered-supplier" rel="noopener noreferrer nofollow" target="_blank">apply as a Registered Supplier.</a>
 </p>
+<p>For the full requirements for CGs, please refer to the</p>
 <p><strong>The 33 Categories of Controlled Goods under CPSR are:</strong>
 <br><a href="#top_low" rel="noopener noreferrer nofollow" target="_blank">Low Risk CGs</a>
 </p>
