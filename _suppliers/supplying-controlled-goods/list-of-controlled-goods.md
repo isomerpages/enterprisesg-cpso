@@ -67,10 +67,10 @@ rated voltage of not more than 250 VAC.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fuse (13-amp or less) for use in a 13-amp plug, which is a device that,
-by the fusion of one or more of its specially designed and proportioned
-components, opens the circuit in which it is inserted and breaks the current
-when this exceeds a given value for a sufficient time.</p>
+<p>Fuses (13-amp or less) for use in a 13-amp plug, which are devices that,
+by the fusion of one or more of their specially designed and proportioned
+components, open the circuit in which they are inserted and break the current
+when it exceeds a given value for a sufficient time.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>SS 167: 1977</p>
@@ -84,10 +84,10 @@ when this exceeds a given value for a sufficient time.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Room air-conditioner, which is an electrical appliance intended for household
-use and designed as a self-contained unit for mounting on a window or through
+<p>Room air-conditioners, which are electrical appliances intended for household
+use and designed as self-contained units for mounting on a window or through
 a wall to provide conditioned air to an enclosed area, with rated voltage
-of not more than 250 Vac.</p>
+of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>IEC 60335-2-40: 2002</p>
