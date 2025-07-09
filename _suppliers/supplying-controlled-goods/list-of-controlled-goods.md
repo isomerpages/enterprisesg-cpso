@@ -548,13 +548,14 @@ medium such as air and cooking oil for food preparation, with rated voltage
 of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-9: 2002 (applicable for toaster, hot plate (including induction
-type), grill, oven and similar appliances)
-<br>
-<br>IEC 60335-2-13: 2002 (applicable for deep fryer, electric wok and similar
-appliances)
-<br>
-<br>IEC 60335-2-78: 2002 (applicable for outdoor electric barbeque grill)</p>
+<p><u>Toaster, hot plate (including induction type), grill, oven, and similar appliances</u>
+<br>IEC 60335-2-9:2019 (Ed.7.0)</p>
+<p></p>
+<p><u>Deep fryer, electric wok, and similar appliances</u>
+<br>IEC 60335-2-13:2021 (Ed.7.0)</p>
+<p></p>
+<p><u>Outdoor electric barbeque grill</u>
+<br>IEC 60335-2-78:2021 (Ed.3.0)</p>
 </td>
 </tr>
 <tr>
