@@ -202,19 +202,19 @@ signals, with rated voltage of not more than 250 VAC.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Coffee maker, slow cooker, steam boat and similar appliances</p>
+<p>Coffee maker, slow cooker, steamboat and similar appliances</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="coffee maker" src="/images/about-us/33-categories-controlled-goods/coffee-maker.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Coffee makers, slow cookers, steam boats and similar appliances, which
+<p>Coffee makers, slow cookers, steamboats and similar appliances, which
 are electrical appliances intended for household use to heat liquids for
 the purpose of food or beverages preparation, with rated voltage of not
-more than 250 Vac.</p>
+more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-15: 2002</p>
+<p>IEC 60335-2-15:2012 + A1:2016 + A2:2018 (Ed.6.2)</p>
 </td>
 </tr>
 <tr>
