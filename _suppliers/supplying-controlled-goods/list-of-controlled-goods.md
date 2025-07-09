@@ -755,22 +755,20 @@ gas canister up to 1.4 litres as fuel.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mains socket-outlets, which are electrical devices that have 13-amp or
-15-amp switched shuttered socket-outlets in a single or multiple arrangements,
+15-amp switched shuttered socket-outlets in a single or multiple arrangement,
 to engage with the pins of a corresponding plug designed for flush mounting
 in a suitable box or for surface or panel mounting.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SS 145-2:2018 (3-pin 13-amp socket-outlet)
-<br>
-<br>SS 145-2:2018 (3-pin 13-amp socket outlet incorporated with USB port(s)
-and/or energy monitoring device(s))
-<br>
-<br>BS 4177: 1992 + A1:1993 + A2:1997 + A3:2004 + A4:2007 (3-pin 13-amp socket-outlet)
-(cooker control unit)
-<br>
-<br>BS 7288: 2016 (3-pin 13-amp socket-outlet) (socket-outlet with RCD)
-<br>
-<br>SS 472: 1999 + A1:2020 (3-pin round type 15-amp socketoutlet)</p>
+<p><u>3-pin 13-amp socket-outlet</u>
+<br>SS 145-2:2018</p>
+<p></p>
+<p><u>3-pin 13-amp socket-outlet (cooker control unit)<br></u>BS 4177:1992
++ A1:1993 + A2:1997 + A3:2004 + A4:2007</p>
+<p></p>
+<p><u>3-pin 13-amp socket-outlet with RCD<br></u>BS 7288:2016</p>
+<p></p>
+<p><u>3-pin round type 15-amp socket-outlet<br></u>SS 472:1999(2020) + E1:2001/A1:2020</p>
 </td>
 </tr>
 <tr>
