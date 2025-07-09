@@ -499,7 +499,7 @@ conductive parts of the installation being connected to an appropriate
 earth electrode.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SS 97: Part 1: 2005</p>
+<p>SS 97:2016</p>
 </td>
 </tr>
 <tr>
