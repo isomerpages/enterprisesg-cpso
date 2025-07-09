@@ -668,27 +668,8 @@ gas.</p>
 <p><u>Hose</u>
 <br>SS 233: 2013
 <br>
-<br>
-<br>
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p><u>Regulator</u>
+<br><u>Regulator</u>
 <br>SS 281: 1984</p>
-<p>
-<br>
-<br>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p>
-<br>
-</p>
-<p></p>
 <p></p>
 <p><u>Valve</u>
 <br>SS 294: 1998</p>
