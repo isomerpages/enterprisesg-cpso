@@ -480,9 +480,8 @@ supply of not more than 250 VAC.</p>
 <p></p>
 <p>SS 241:1996 + SS 145-2:2018 (effective <strong>from 1 July 2026</strong>)</p>
 <p></p>
-<p>Power track’s socket outlet tap-off unit with USB port(s) and/or electronic
-device(s)</p>
-<p>SS 241:1996 + SS 145-2:2018</p>
+<p><u>Power track’s socket outlet tap-off unit with USB port(s) and/or electronic device(s)</u>
+<br>SS 241:1996 + SS 145-2:2018</p>
 </td>
 </tr>
 <tr>
