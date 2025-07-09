@@ -566,12 +566,12 @@ of not more than 250 VAC.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Vacuum cleaner, which is an electrical portable appliance intended for
+<p>Vacuum cleaners, which are electrical portable appliances intended for
 household use to remove dirt or dust, with supply voltage of not more than
-250 Vac.</p>
+250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-2: 2002</p>
+<p>IEC 60335-2-2:2019 (Ed.7.0)</p>
 </td>
 </tr>
 <tr>
@@ -582,12 +582,12 @@ household use to remove dirt or dust, with supply voltage of not more than
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Washing machine, which is an electrical appliance intended for household
+<p>Washing machines, which are electrical appliances intended for household
 use to wash clothes and textiles, with rated voltage of not more than 250
-Vac.</p>
+VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60335-2-7: 2000</p>
+<p>IEC 60335-2-7:2019 (Ed.8.0)</p>
 </td>
 </tr>
 <tr>
@@ -598,16 +598,18 @@ Vac.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>3-pin mains plug, limited to 13-amp rectangular types and 15-amp round
+<p>3-pin mains plugs, limited to 13-amp rectangular types and 15-amp round
 types, which are portable devices that have rectangular or cylindrical
 projecting pins designed to engage with the contacts of a corresponding
 socket-outlet. 3-pin mains plugs also incorporate means for the electrical
 connection and the mechanical retention of a suitable flexible cord.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SS 145: Part 1: 1997 (3-pin rectangular type 13-amp plug)
-<br>
-<br>SS 472: 1999 (3-pin round type 15-amp plug)</p>
+<p><u>13-amp plug with rectangular plug pins</u>
+<br>SS 145-1:2019</p>
+<p></p>
+<p><u>15-amp plug with round plug pins</u>
+<br>SS 472:1999(2020) + E1:2001/A1:2020</p>
 </td>
 </tr>
 </tbody>
@@ -640,35 +642,51 @@ connection and the mechanical retention of a suitable flexible cord.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Hose</strong>
+<p><u>Hose</u>
 <br>Hose, namely a hose intended for household use in liquefied petroleum
 gas vapour phase and liquefied petroleum gas or air appliances not exceeding
 5 KPa (50 mbar) operating pressure.
 <br>
-<br><strong>Regulator</strong>
+<br><u>Regulator</u>
 <br>Regulator, which is a non-adjustable device intended for household use
 that maintains the outlet pressure constant at a nominal value up to and
 including 50 mbar, independent, within specified limits, of inlet pressure
 or flow rate.
 <br>
-<br><strong>Valve</strong>
+<br><u>Valve</u>
 <br>Valve, which is a device that is made from brass, bronze or aluminium
 forging, intended for household use with liquefied petroleum gas cylinders,
 to control the direction and volume of flow of the liquefied petroleum
 gas.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SS 233: 2013 (for <strong>Hose</strong>)
+<p><u>Hose</u>
+</p>
+<p>SS 233: 2013
 <br>
 <br>
 <br>
 <br>
-<br>SS 281: 1984 (for <strong>Regulator</strong>)
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><u>Regulator</u>
+<br>SS 281: 1984
 <br>
 <br>
 <br>
-<br>
-<br>SS 294: 1998 (for <strong>Valve</strong>)</p>
+</p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>
+<br><u>Valve</u>
+<br>SS 294: 1998</p>
 </td>
 </tr>
 <tr>
