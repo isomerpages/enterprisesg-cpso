@@ -138,9 +138,9 @@ use with supply voltage of not more than 250 VAC.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>A device with rated voltage of not more than 250 Vac, and designed to
-supply a.c. or d.c. power for applications such as computers, telecommunication
-equipment, home entertainment equipment or toys</p>
+<p>A device with rated voltage of not more than 250 VAC and designed to supply
+AC or DC power for applications such as computers, telecommunication equipment,
+home entertainment equipment or toys.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><u>Applicable for electrical appliances</u>
