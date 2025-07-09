@@ -165,11 +165,11 @@ home entertainment equipment or toys.</p>
 <br>
 </p>
 <p><u>Applicable for battery chargers</u>
-<br>IEC 60335-2-29: 2002 with A1: 2004
+<br>IEC 60335-2-29:2016 + A1:2019 (Ed.5.1)
 <br>
 </p>
 <p><u>Applicable for LED lightings</u>
-<br>IEC 61347-2-13: 2006
+<br>IEC 61347-2-13:2014 + A1:2016 (Ed.2.1)
 <br>
 </p>
 <p><u>Applicable for table/standing lamps</u>
