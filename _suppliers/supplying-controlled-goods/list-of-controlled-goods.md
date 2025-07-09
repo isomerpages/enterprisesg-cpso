@@ -225,15 +225,19 @@ more than 250 VAC.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Decorative lighting chain, which is an electrical lighting chain intended
+<p>Decorative lighting chains, which are electrical lightning chains intended
 for household use and fitted with a series or parallel or combination of
 series or parallel connected light emitting devices, with rated voltage
-of not more than 250 Vac.</p>
+of not more than 250 VAC.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>IEC 60598-2-20: 2002
-<br>
-<br>IEC 60598-2-21: 2014 (applicable for rope lights)</p>
+<p><u>Rope lights</u>
+</p>
+<p>IEC 60598-2-21:2014 (Ed.1.0)</p>
+<p></p>
+<p><u>Decorative lighting chain (excluding rope lights)</u>
+</p>
+<p>IEC 60598-2-20:2022 (Ed.5.0)</p>
 </td>
 </tr>
 <tr>
