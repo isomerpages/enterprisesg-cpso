@@ -278,7 +278,10 @@ liquefied petroleum gases intended for household use with a portable gas
 cooker.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>SS 400: 1997</p>
+<p>SS 400:1997 (valid<strong> till 31 December 2025</strong>)
+<br>
+</p>
+<p>SS 400:2023 (effective <strong>from 1 January 2026</strong>)</p>
 </td>
 </tr>
 <tr>
