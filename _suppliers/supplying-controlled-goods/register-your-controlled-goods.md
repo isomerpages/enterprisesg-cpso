@@ -5,9 +5,9 @@ third_nav_title: Supplying controlled goods
 variant: tiptap
 ---
 <h2>Register your Controlled Goods</h2>
-<p>For registration of the Controlled Goods, Registered Suppliers (RS) need
-to first obtain the necessary test reports for their products, showing
-compliance to the relevant safety standards.</p>
+<p>For registration of Controlled Goods, Registered Suppliers (RS) need to
+first obtain the necessary test reports for their products, showing compliance
+to the relevant safety standards.</p>
 <p>You may refer to the following chapters of our information booklet <a href="/files/cps-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>:</p>
 <ul data-tight="true" class="tight">
 <li>
