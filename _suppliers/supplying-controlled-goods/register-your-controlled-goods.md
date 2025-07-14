@@ -27,5 +27,5 @@ Conformity (CoC) and submits the CoC to the Consumer Product Safety Office.</p>
 issued to the RS within 1 working day.</p>
 <p>You may refer to Chapters <strong>5.3</strong> and <strong>5.4</strong> of
 our information booklet <a href="/files/cps-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for flowcharts on the regisration
-process, and our <a href="/suppliers/cpsr/resources" rel="noopener noreferrer nofollow" target="_blank">Resource page</a> for
+process, and our <a href="/suppliers/cpsr/resources" rel="noopener noreferrer nofollow" target="_blank">resources page</a> for
 more information on registering controlled goods.</p>
