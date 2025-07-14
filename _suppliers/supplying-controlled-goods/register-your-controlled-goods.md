@@ -12,14 +12,14 @@ compliance to the relevant safety standards.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chapter <strong>4.1</strong>: List of applicable safety standards for each
-category of Controlled Good</p>
+category of Controlled Good,</p>
 </li>
 <li>
 <p>Chapter <strong>4.2</strong>: Additional safety requirements specified
-by the Consumer Product Safety Office for Controlled Goods</p>
+by the Consumer Product Safety Office for Controlled Goods, and</p>
 </li>
 <li>
-<p>Chapter <strong>5.3</strong>: Types of acceptable test reports</p>
+<p>Chapter <strong>5.3</strong>: Types of acceptable test reports.</p>
 </li>
 </ul>
 <p><strong>For Low Risk CGs:</strong>
