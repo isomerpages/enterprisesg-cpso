@@ -22,16 +22,16 @@ by the Consumer Product Safety Office (CPSO) for Controlled Goods, and</p>
 <p>Chapter <strong>5.3</strong>: Types of acceptable test reports.</p>
 </li>
 </ul>
-<p><strong>For Low Risk CGs:</strong>
+<p><strong>For Low Risk Controlled Goods:</strong>
 <br>The RS can submit a Supplier’s Declaration of Conformity (SDoC) to the
 CPSO. In doing so the RS is making a self-declaration that the low risk
 Controlled Goods conform to the requirements of CPSR.</p>
-<p><strong>For Medium and High Risk CGs:</strong>
+<p><strong>For Medium and High Risk Controlled Goods:</strong>
 <br>The RS submits test reports and other relevant documentation to a Conformity
 Assessment Body responsible for certification [i.e. CAB (Certification)]
-for review. If the Controlled Goods meets the safety requirements, the
-CAB (Certification) issues a Certificate of Conformity (CoC) and submits
-the CoC to the CPSO.</p>
+for review. If the Controlled Good meets the safety requirements, the CAB
+(Certification) issues a Certificate of Conformity (CoC) and submits the
+CoC to the CPSO.</p>
 <p>If the submitted documents are in order, a Letter of Approval (LOA) will
 be issued to the RS within 1 working day.</p>
 <p>You may refer to chapters <strong>5.3</strong> and <strong>5.4</strong> of
