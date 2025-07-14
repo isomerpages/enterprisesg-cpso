@@ -25,7 +25,7 @@ by the Consumer Product Safety Office (CPSO) for Controlled Goods, and</p>
 <p><strong>For Low Risk Controlled Goods:</strong>
 <br>The RS can submit a Supplier’s Declaration of Conformity (SDoC) to the
 CPSO. In doing so the RS is making a self-declaration that the low risk
-Controlled Goods conform to the requirements of CPSR.</p>
+Controlled Good conforms to the requirements of CPSR.</p>
 <p><strong>For Medium and High Risk Controlled Goods:</strong>
 <br>The RS submits test reports and other relevant documentation to a Conformity
 Assessment Body responsible for certification [i.e. CAB (Certification)]
