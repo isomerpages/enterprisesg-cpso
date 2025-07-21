@@ -2,10 +2,9 @@
 title: Safety Tips on Universal Socket Outlets
 permalink: /safety-tips-on-universal-socket-outlets/
 description: ""
+variant: markdown
 ---
 **[← Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
-
-*Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
 
 ## Safety Tips on Universal Socket-Outlets
 Universal socket-outlets are intended to accommodate a variety of plug types used in countries outside of Singapore. These universal socket-outlets are commonly installed in hotels and other locations where international visitors are prevalent.<br><br>
