@@ -2,10 +2,9 @@
 title: Safety Tips on Electric Water Heaters
 permalink: /safety-tips-on-water-heaters/
 description: ""
+variant: markdown
 ---
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
-
-*Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this [simple survey](https://form.gov.sg/63a160c3cf15ee00129a4ab4)*
+**[← Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
 
 ## Safety Tips on Electric Water Heaters
 Water heaters offer great convenience and benefits to households. They come in a variety of sizes and designs to suit different household needs. With the ability to provide a constant supply of hot water, water heaters provide improved comfort and convenience for daily activities such as showers, dishwashing, and laundry.
@@ -40,4 +39,4 @@ Do not use extension cords or multi-way outlets to power the water heater.
 
 You may also wish to view this video produced by Channel News Asia on water heater safety on their [website](https://www.channelnewsasia.com/watch/talking-point-2022-2023/can-my-water-heater-kill-me-3203771) or [YouTube](https://www.youtube.com/watch?v=Bp3mc6ycNWw).
 
-**[&#8592; Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
+**[← Back to Product safety tips](/consumers/product-safety-tips/home-appliances-and-furniture)**
