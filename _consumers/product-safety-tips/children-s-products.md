@@ -4,8 +4,6 @@ permalink: /consumers/product-safety-tips/children-product/
 third_nav_title: Product safety tips
 variant: tiptap
 ---
-<p><em>Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this <a href="https://form.gov.sg/63a160c3cf15ee00129a4ab4" rel="noopener noreferrer nofollow" target="_blank">simple survey</a></em>
-</p>
 <h2>Safety tips for children's products</h2>
 <p>Children and toddlers belong to a vulnerable group and require greater
 care when using products. Keep the following product safety tips in mind
