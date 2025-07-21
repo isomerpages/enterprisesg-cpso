@@ -3,7 +3,7 @@ title: Risk of Using Hydrocarbon Refrigerants At Home
 permalink: /risk-of-using-hydrocarbon-refrigerants-at-home/
 variant: tiptap
 ---
-<p><strong><a href="/consumers/product-safety-tips/home-appliances-and-furniture" rel="noopener noreferrer nofollow" target="_blank">← Back to Product safety tips</a></strong>
+<p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/home-appliances-and-furniture/" rel="noopener noreferrer nofollow" target="_blank">← Back to Product safety tips</a></strong>
 </p>
 <h2>Risks of Using Hydrocarbon Refrigerants at Home</h2>
 <p>Hydrocarbon (HC) refrigerants are increasingly seen as suitable replacements
