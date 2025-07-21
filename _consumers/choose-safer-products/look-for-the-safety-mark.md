@@ -4,13 +4,10 @@ permalink: /consumers/choose-safer-products/look-for-the-safety-mark/
 third_nav_title: Choose safer products
 variant: tiptap
 ---
-<p><em>Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this <a href="https://form.gov.sg/63a160c3cf15ee00129a4ab4" rel="noopener noreferrer nofollow" target="_blank">simple survey</a></em>
-</p>
-<p></p>
 <h2>Controlled Goods Must have the SAFETY Mark</h2>
-<p>Consumers can do their part in keeping their families safe by looking
-out for the SAFETY Mark when purchasing household electrical, electronic
-and gas appliances.</p>
+<p>Consumers can do their part in keeping their families safe by out for
+the SAFETY Mark when purchasing household electrical, electronic and gas
+appliances.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
@@ -394,6 +391,5 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 </div>
 </details>
 </div>
-<p></p>
 <p></p>
 <p></p>
