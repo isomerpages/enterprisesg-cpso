@@ -5,8 +5,6 @@ third_nav_title: Product safety tips
 variant: tiptap
 description: ""
 ---
-<p><em>Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this <a href="https://form.gov.sg/63a160c3cf15ee00129a4ab4" rel="noopener noreferrer nofollow" target="_blank">simple survey</a></em>
-</p>
 <h2>Safety tips for products that charge or power appliances</h2>
 <p>We use a variety of products to charge or power electrical appliances
 in our daily lives. Overlooking basic product safety practices can lead
