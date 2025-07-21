@@ -11,15 +11,11 @@ or chargers. They are plugged into the mains power supply and convert the
 mains electricity voltage to the lower voltage required to power electrical
 appliances, such as computers, mobile telecommunication devices, home entertainment
 equipment and toys.</p>
-<p>|</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="power adaptors" src="/images/product-safety-tips/power-adaptors.jpg">
 </div>
-<p>|</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/blankx2.png">
-</div>
-<p>|</p>
+<p></p>
 <p>Here are some tips to help ensure you enjoy safe and long-lasting use
 of your electrical appliances and electronic devices.</p>
 <p><strong>Look out for the SAFETY Mark</strong>
