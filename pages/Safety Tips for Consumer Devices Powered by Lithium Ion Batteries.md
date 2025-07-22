@@ -4,12 +4,8 @@ permalink: /safety-tips-on-lithium-ion-batteries/
 variant: tiptap
 description: ""
 ---
-<p><a href="/consumers/product-safety-tips/electronics-and-appliances" rel="noopener nofollow" target="_blank">Back to Product safety tips</a>
+<p><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener nofollow" target="_blank">Back to Product safety tips</a>
 </p>
-<p><em>Help us better understand consumer habits so that we can improve the effectiveness of our safety regimes. Please spare 5 mins to fill out this </em>
-<a href="https://form.gov.sg/63a160c3cf15ee00129a4ab4" rel="noopener nofollow" target="_blank">simple survey</a><em>.</em>
-</p>
-<p></p>
 <h2>Safety Tips on Lithium-Ion Batteries</h2>
 <p>Lithium-ion batteries are often used in consumer electronic devices and
 household appliances, including mobile phones, laptops, and vacuum cleaners.</p>
