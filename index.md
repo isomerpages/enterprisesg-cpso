@@ -42,8 +42,9 @@ sections:
           description: "27 June 2025 <br> Seller name: Babymylovesg"
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-products/
-        - title: "Alert: A children's jewellery set sold on Shopee"
-          description: 26 June 2025
+        - title: "Safety Alert: Kid's jewellery set sold on Shopee"
+          description: "26 June 2025 <br>Sakura – Unicorn Beaded Jewellery Set <br>Seller:
+            Little Cute"
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/others/
   - infopic:
