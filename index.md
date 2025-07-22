@@ -40,7 +40,7 @@ sections:
           description: 27 June 2025
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-products/
-        - title: "Alert: A childrens' jewellery set sold on Shopee"
+        - title: "Alert: A children's jewellery set sold on Shopee"
           description: 26 June 2025
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/others/
