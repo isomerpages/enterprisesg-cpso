@@ -28,11 +28,11 @@ sections:
           description: Check if the product has a valid SAFETY Mark
           url: https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods
   - textcards:
-      title: Product Safety Alerts & Recalls
+      title: Latest Product Safety Alerts & Recalls
       id: textcards
-      description: Our latest notices. <a
+      description: Click <a
         href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-apparel">
-        View more →</a>
+        here</a> for more notices.
       cards:
         - title: Anker Recalls Multiple Power Bank Models
           description: 4 July 2025
