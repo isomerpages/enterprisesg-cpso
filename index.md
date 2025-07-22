@@ -27,6 +27,23 @@ sections:
         - title: Check if your Controlled Goods are registered
           description: Check if the product has a valid SAFETY Mark
           url: https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods
+  - textcards:
+      title: Product Safety Alerts and Recalls
+      id: textcards
+      description: Find out more about our latest notices
+      cards:
+        - title: Anker Recalls Multiple Power Bank Models
+          description: 4 July 2025
+          linktext: Learn more
+          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/
+        - title: "Alert: A baby cot sold on Lazada"
+          description: 27 June 2025
+          linktext: Learn more
+          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-products/
+        - title: "Alert: A childrens' jewellery set sold on Shopee"
+          description: 26 June 2025
+          linktext: Learn more
+          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/others/
   - infopic:
       title: Find out more about children's product safety tips
       description: Keep these tips in mind to safeguard your children from injuries.
