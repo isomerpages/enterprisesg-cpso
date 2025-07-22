@@ -35,7 +35,7 @@ sections:
         here</a> for more notices.
       cards:
         - title: Anker Recalls Multiple Power Bank Models
-          description: 4 July 2025
+          description: "4 July 2025 <br> Model no.s: A1681, A1689, A1257, and A1647"
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/
         - title: "Safety Alert: Cobabies baby cot sold on Lazada"
@@ -43,8 +43,8 @@ sections:
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-products/
         - title: "Safety Alert: Kid's jewellery set sold on Shopee"
-          description: "26 June 2025 <br>Sakura – Unicorn Beaded Jewellery Set <br>Seller:
-            Little Cute"
+          description: 26 June 2025 <br> Sakura – Unicorn Beaded Jewellery Set by seller
+            'Little Cute'
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/others/
   - infopic:
