@@ -30,9 +30,9 @@ sections:
   - textcards:
       title: Product Safety Alerts & Recalls
       id: textcards
-      description: The latest notices. View more <a
+      description: Our latest notices. <a
         href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-apparel">
-        here</a>.
+        View more →</a>.
       cards:
         - title: Anker Recalls Multiple Power Bank Models
           description: 4 July 2025
