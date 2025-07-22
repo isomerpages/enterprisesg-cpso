@@ -28,7 +28,7 @@ sections:
           description: Check if the product has a valid SAFETY Mark
           url: https://www.cpsaplus.gov.sg/Homepage/RegisterOfRegisteredControlledGoods
   - textcards:
-      title: Product Safety Alerts and Recalls
+      title: Product Safety Alerts & Recalls
       id: textcards
       description: Find out more about our latest notices
       cards:
