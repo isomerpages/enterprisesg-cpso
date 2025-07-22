@@ -39,7 +39,7 @@ sections:
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/
         - title: "Safety Alert: Cobabies baby cot sold on Lazada"
-          description: "27 June 2025 <br> Seller name: Little Cute"
+          description: "27 June 2025 <br> Seller name: Babymylovesg"
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-products/
         - title: "Alert: A children's jewellery set sold on Shopee"
