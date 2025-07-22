@@ -38,7 +38,7 @@ sections:
           description: "4 July 2025 <br> Model no.s: A1681, A1689, A1257, and A1647"
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/
-        - title: "Safety Alert: Cobabies baby cot sold on Lazada"
+        - title: "Safety Alert: 'Cobabies baby cot' sold on Lazada"
           description: "27 June 2025 <br> Seller name: Babymylovesg"
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-products/
