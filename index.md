@@ -44,7 +44,7 @@ sections:
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-products/
         - title: "Safety Alert: Kid's jewellery set sold on Shopee"
           description: 26 June 2025 <br> 'Sakura – Unicorn Beaded Jewellery Set' sold by
-            'Little Cute'
+            Little Cute
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/others/
   - infopic:
