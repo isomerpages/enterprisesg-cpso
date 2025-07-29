@@ -113,7 +113,7 @@ on the product’s packaging.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>protection against over-charge, short-circuit, over-temperature or over-heat,</p>
 </td>
 </tr>
 <tr>
@@ -121,7 +121,8 @@ on the product’s packaging.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>automatic power-off when the power bank is fully charged but still connected
+to the power source.</p>
 </td>
 </tr>
 <tr>
