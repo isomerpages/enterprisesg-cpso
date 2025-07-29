@@ -206,6 +206,9 @@ liquids.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/electrical_hazard_sign.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Avoid storing power banks with other metal objects (e.g., coins, keys,
