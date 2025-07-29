@@ -166,7 +166,7 @@ support that can be contacted in the event of an issue or incident.</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>Beware of false representation</strong></h4>
+<h4><strong>⚠️Beware of false representation</strong></h4>
 <p>There is no “CPSO approved” or “CCCS approved” power bank, or Safety Mark
 issued to any power bank. Power banks are not required to be registered
 or approved before they can be sold in Singapore. Suppliers are to ensure
