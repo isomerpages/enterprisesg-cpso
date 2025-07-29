@@ -291,6 +291,9 @@ surfaces.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dispose old/damaged power banks at e-waste recycling points.</p>
@@ -299,6 +302,9 @@ surfaces.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Keep power banks out of children's reach and/or supervise your child’s
@@ -308,15 +314,20 @@ use of power banks.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p>Check safety recalls or alerts for power banks (see <a href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/" rel="noopener noreferrer nofollow" target="_blank">CPSO’s webpage</a>)
-regularly.</p>
+<p>Check safety recalls or alerts for power banks (see CPSO’s webpage) regularly.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Warning_sign.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Never attempt self-repairs.</p>
