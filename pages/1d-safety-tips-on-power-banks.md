@@ -13,7 +13,7 @@ burns if they malfunction.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/fire_stock_img.jpg">
 </div>
-<h3><strong>Safety requirements for power banks</strong></h3>
+<h4><strong>Safety requirements for power banks</strong></h4>
 <p>Power banks that are sold to consumers in Singapore must comply with applicable
 international safety standards and requirements as specified in the <a href="https://www.consumerproductsafety.gov.sg/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">Consumer Protection (Consumer Goods Safety Requirements) (</a><strong><a href="https://www.consumerproductsafety.gov.sg/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">CGSR</a></strong>
 <a href="https://www.consumerproductsafety.gov.sg/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">) Information Booklet</a>.</p>
@@ -65,7 +65,7 @@ to power banks</p>
 page 15 of the CGSR Information Booklet</p>
 <p><strong>B. </strong>Charging instructions</p>
 <p><strong>C. </strong>Operating temperature range</p>
-<h3><strong>🛒Before buying a power bank, you should:</strong></h3>
+<h4><strong>🛒Before buying a power bank, you should:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -111,6 +111,9 @@ on the product’s packaging.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Protection_sign.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>protection against over-charge, short-circuit, over-temperature or over-heat,</p>
@@ -118,6 +121,10 @@ on the product’s packaging.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Auto_power_off.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -151,6 +158,8 @@ support that can be contacted in the event of an issue or incident.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<p></p>
 <p><strong><a href="/consumers/product-safety-tips/electronics-and-appliances" rel="noopener noreferrer nofollow" target="_blank">Back to Product safety tips</a></strong>
 </p>
 <p></p>
