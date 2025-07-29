@@ -86,16 +86,16 @@ page 15 of the CGSR Information Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Check if the power bank has any safety certification mark accepted in
-Singapore. E.g. the IEC certification, which is indicated by the &nbsp;mark
-on the product’s packaging.</p>
+Singapore. E.g. the IEC certification, which is indicated by the <strong>CE</strong>&nbsp;mark
+(see example below) on the product’s packaging.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/CE_mark.jpg">
+</div>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
-</div>
+<p>✅</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Check for safety protection features such as:</p>
@@ -135,10 +135,7 @@ to the power source.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
-</div>
+<p>✅</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Check if the power bank has any indicator for users to know when it is
@@ -147,10 +144,7 @@ fully charged. An example of such an indicator is circled in red below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
-</div>
+<p>✅</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Look for a power bank that comes with warranty and a local service centre
