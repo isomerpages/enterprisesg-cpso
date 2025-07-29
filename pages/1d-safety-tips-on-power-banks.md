@@ -74,10 +74,7 @@ page 15 of the CGSR Information Booklet</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
-</div>
+<p>✅</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Buy from reputable retailers and authorised sellers.</p>
@@ -85,11 +82,7 @@ page 15 of the CGSR Information Booklet</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
-</div>
-<p></p>
+<p>✅</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Check if the power bank has any safety certification mark accepted in
