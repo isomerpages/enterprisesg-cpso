@@ -181,10 +181,7 @@ top of this webpage before they are sold in Singapore.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
-</div>
+<p>✅</p>
 </th>
 <td rowspan="1" colspan="1">
 <p>Use the original charging cable and follow the operating instructions.</p>
@@ -192,15 +189,11 @@ top of this webpage before they are sold in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
-</div>
+<p>✅</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use and store the power bank in cool and dry places <strong>away</strong> from
-heat sources, direct sunlight, combustible gas, humidity, water or other
-liquids.</p>
+<p>Use and store the power bank in cool and dry places away from heat sources,
+direct sunlight, combustible gas, humidity, water or other liquids.</p>
 </td>
 </tr>
 <tr>
@@ -219,10 +212,7 @@ or electric shocks.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Fire_hazard_sign.jpg">
-</div>
+<p>🔥</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Avoid exceeding the recommended charging time, which may cause the power
@@ -231,10 +221,7 @@ bank to overheat.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Fire_hazard_sign.jpg">
-</div>
+<p>🔥</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Avoid charging power banks on beds, under blankets, or on other flammable
@@ -243,10 +230,7 @@ surfaces.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Warning_sign.jpg">
-</div>
+<p>⚠️</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Stop using power banks immediately if you notice:</p>
@@ -257,26 +241,12 @@ surfaces.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
 <p>Excessive heat during use</p>
-</li>
-<li>
 <p>Swelling or deformation</p>
-</li>
-<li>
 <p>Unusual odours</p>
-</li>
-<li>
 <p>Physical damage</p>
-</li>
-<li>
 <p>Leakage</p>
-</li>
-<li>
 <p>Colour changes</p>
-</li>
-</ul>
 </td>
 </tr>
 </tbody>
@@ -290,10 +260,7 @@ surfaces.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
-</div>
+<p>✅</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Dispose old/damaged power banks at e-waste recycling points.</p>
@@ -301,10 +268,7 @@ surfaces.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
-</div>
+<p>✅</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Keep power banks out of children's reach and/or supervise your child’s
@@ -313,10 +277,7 @@ use of power banks.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
-</div>
+<p>✅</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Check safety recalls or alerts for power banks (see CPSO’s webpage) regularly.</p>
@@ -324,10 +285,7 @@ use of power banks.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Warning_sign.jpg">
-</div>
+<p>⚠️</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Never attempt self-repairs.</p>
