@@ -116,7 +116,11 @@ on the product’s packaging.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>protection against over-charge, short-circuit, over-temperature or over-heat,</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -128,8 +132,12 @@ on the product’s packaging.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>automatic power-off when the power bank is fully charged but still connected
 to the power source.</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -174,6 +182,9 @@ top of this webpage before they are sold in Singapore.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
+</div>
 </th>
 <td rowspan="1" colspan="1">
 <p>Use the original charging cable and follow the operating instructions.</p>
@@ -182,6 +193,9 @@ top of this webpage before they are sold in Singapore.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Use and store the power bank in cool and dry places <strong>away</strong> from
