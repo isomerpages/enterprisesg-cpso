@@ -15,8 +15,7 @@ burns if they malfunction.</p>
 </div>
 <h4><strong>Safety requirements for power banks</strong></h4>
 <p>Power banks that are sold to consumers in Singapore must comply with applicable
-international safety standards and requirements as specified in the <a href="https://www.consumerproductsafety.gov.sg/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">Consumer Protection (Consumer Goods Safety Requirements) (</a><strong><a href="https://www.consumerproductsafety.gov.sg/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">CGSR</a></strong>
-<a href="https://www.consumerproductsafety.gov.sg/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">) Information Booklet</a>.</p>
+international safety standards and requirements as specified in the <a href="/files/cgsr-info-book.pdf" rel="noopener nofollow" target="_blank">Consumer Protection (Consumer Goods Safety Requirements) (CGSR) Information Booklet</a>.</p>
 <p>Specifically, power banks must:</p>
 <p><strong>1.</strong> Meet safety requirements of either:</p>
 <table style="minWidth: 75px">
