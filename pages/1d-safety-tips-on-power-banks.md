@@ -75,6 +75,9 @@ page 15 of the CGSR Information Booklet</p>
 <tr>
 <th rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
+</div>
 </th>
 <td rowspan="1" colspan="1">
 <p>Buy from reputable retailers and authorised sellers.</p>
@@ -82,6 +85,10 @@ page 15 of the CGSR Information Booklet</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
+</div>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -93,6 +100,9 @@ on the product’s packaging.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Check for safety protection features such as:</p>
@@ -134,3 +144,4 @@ on the product’s packaging.</p>
 </table>
 <p><strong><a href="/consumers/product-safety-tips/electronics-and-appliances" rel="noopener noreferrer nofollow" target="_blank">Back to Product safety tips</a></strong>
 </p>
+<p></p>
