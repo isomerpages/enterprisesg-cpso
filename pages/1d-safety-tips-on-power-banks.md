@@ -29,7 +29,8 @@ international safety standards and requirements as specified in the <a href="htt
 <tbody>
 <tr>
 <td rowspan="1" colspan="3">
-<p>A. Option 1:</p>
+<p><strong>A. Option 1:</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -37,34 +38,25 @@ international safety standards and requirements as specified in the <a href="htt
 <p>i. IEC 62133:2012 for battery safety</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>AND</p>
+<p><u>AND</u>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<p>ii.</p>
+<p>ii. IEC 60950-1:2005 <u>or</u> IEC 6238-1:2018 for general safety</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p><strong><u>OR</u></strong>
+</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>B. Option 2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<td rowspan="1" colspan="3">
+<p><strong>B. Option 2: </strong>Other equivalent industry standards specific
+to power banks</p>
 </td>
 </tr>
 </tbody>
