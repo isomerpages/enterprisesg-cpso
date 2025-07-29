@@ -158,6 +158,7 @@ support that can be contacted in the event of an issue or incident.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Beware of false representation</strong></h4>
 <p></p>
 <p></p>
 <p><strong><a href="/consumers/product-safety-tips/electronics-and-appliances" rel="noopener noreferrer nofollow" target="_blank">Back to Product safety tips</a></strong>
