@@ -127,17 +127,25 @@ on the product’s packaging.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Check if the power bank has any indicator for users to know when it is
+fully charged. An example of such an indicator is circled in red below.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/tick.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Look for a power bank that comes with warranty and a local service centre
+support that can be contacted in the event of an issue or incident.</p>
 </td>
 </tr>
 </tbody>
