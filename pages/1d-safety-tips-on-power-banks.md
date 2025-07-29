@@ -220,6 +220,9 @@ or electric shocks.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Fire_hazard_sign.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Avoid exceeding the recommended charging time, which may cause the power
@@ -229,6 +232,9 @@ bank to overheat.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Fire_hazard_sign.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Avoid charging power banks on beds, under blankets, or on other flammable
@@ -238,6 +244,9 @@ surfaces.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Warning_sign.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p>Stop using power banks immediately if you notice:</p>
