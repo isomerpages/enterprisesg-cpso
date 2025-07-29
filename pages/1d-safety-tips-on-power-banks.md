@@ -223,7 +223,7 @@ surfaces.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Stop using power banks immediately if you notice:</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +231,26 @@ surfaces.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Excessive heat during use</p>
+</li>
+<li>
+<p>Swelling or deformation</p>
+</li>
+<li>
+<p>Unusual odours</p>
+</li>
+<li>
+<p>Physical damage</p>
+</li>
+<li>
+<p>Leakage</p>
+</li>
+<li>
+<p>Colour changes</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
