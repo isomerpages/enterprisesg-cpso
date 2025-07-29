@@ -165,6 +165,77 @@ or approved before they can be sold in Singapore. Suppliers are to ensure
 that power banks meet the relevant safety requirements as stated at the
 top of this webpage before they are sold in Singapore.</p>
 <h4><strong>⚡When using power banks, you should:</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
+<td rowspan="1" colspan="1">
+<p>Use the original charging cable and follow the operating instructions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Use and store the power bank in cool and dry places <strong>away</strong> from
+heat sources, direct sunlight, combustible gas, humidity, water or other
+liquids.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Avoid storing power banks with other metal objects (e.g., coins, keys,
+paper clips) as a short circuit may occur if a metal object enters the
+power bank’s ports. Short-circuiting a device may cause electrical fires
+or electric shocks.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Avoid exceeding the recommended charging time, which may cause the power
+bank to overheat.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Avoid charging power banks on beds, under blankets, or on other flammable
+surfaces.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong><a href="/consumers/product-safety-tips/electronics-and-appliances" rel="noopener noreferrer nofollow" target="_blank">Back to Product safety tips</a></strong>
 </p>
