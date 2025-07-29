@@ -10,6 +10,9 @@ variant: tiptap
 batteries that are used to provide a portable source of power for electronic
 devices. Although generally considered safe, they can catch fire or cause
 burns if they malfunction.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/fire_stock_img.jpg">
+</div>
 <p><strong>Understand the product</strong>
 </p>
 <p>Before buying a product, ask questions like:</p>
