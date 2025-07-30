@@ -296,6 +296,6 @@ regularly.</p>
 </tbody>
 </table>
 <p></p>
-<p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener noreferrer nofollow" target="_blank">Back to Product safety tips</a></strong>
+<p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener noreferrer nofollow" target="_blank">Back to product safety tips</a></strong>
 </p>
 <p></p>
