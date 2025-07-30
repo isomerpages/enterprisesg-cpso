@@ -142,6 +142,9 @@ to the power source.</p>
 <td rowspan="1" colspan="1">
 <p>Check if the power bank has any indicator for users to know when it is
 fully charged. An example of such an indicator is circled in red below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Indicator_circled.jpg">
+</div>
 </td>
 </tr>
 <tr>
