@@ -281,7 +281,8 @@ use of power banks.</p>
 <p>✅</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Check safety recalls or alerts for power banks (see CPSO’s webpage) regularly.</p>
+<p>Check safety recalls or alerts for power banks (see <a href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/" rel="noopener nofollow" target="_blank">CPSO's website</a>)
+regularly.</p>
 </td>
 </tr>
 <tr>
