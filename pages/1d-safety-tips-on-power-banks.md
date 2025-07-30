@@ -11,7 +11,7 @@ batteries that are used to provide a portable source of power for electronic
 devices. Although generally considered safe, they can catch fire or cause
 burns if they malfunction.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/fire_stock_img.jpg">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/fire_stock_img.jpg">
 </div>
 <h4><strong>Safety requirements for power banks</strong></h4>
 <p>Power banks that are sold to consumers in Singapore must comply with applicable
