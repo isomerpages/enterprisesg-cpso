@@ -18,7 +18,8 @@ burns if they malfunction.</p>
 international safety standards and requirements as specified in the <a href="/files/cgsr-info-book.pdf" rel="noopener nofollow" target="_blank">Consumer Protection (Consumer Goods Safety Requirements) (</a><strong><a href="/files/cgsr-info-book.pdf" rel="noopener nofollow" target="_blank">CGSR</a></strong>
 <a href="/files/cgsr-info-book.pdf" rel="noopener nofollow" target="_blank">) Information Booklet</a>.</p>
 <p>Specifically, power banks must:</p>
-<p><strong>1.</strong> Meet safety requirements of either:</p>
+<p><strong>1. Meet safety requirements of either:</strong>
+</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -60,7 +61,8 @@ to power banks</p>
 </tr>
 </tbody>
 </table>
-<p><strong>2.</strong> Come with essential safety information, including:</p>
+<p><strong>2. Come with essential safety information, including:</strong>
+</p>
 <p><strong>A.</strong> Minimum instructions for use that are specified on
 page 15 of the CGSR Information Booklet</p>
 <p><strong>B. </strong>Charging instructions</p>
