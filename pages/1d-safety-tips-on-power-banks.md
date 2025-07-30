@@ -34,11 +34,8 @@ international safety standards and requirements as specified in the <a href="/fi
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>i. IEC 62133:2012 for battery safety</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><u>AND</u>
+<td rowspan="1" colspan="3">
+<p>i. IEC 62133:2012 for battery safety <u>AND</u>
 </p>
 </td>
 </tr>
