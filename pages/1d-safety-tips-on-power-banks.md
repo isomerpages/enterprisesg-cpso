@@ -181,8 +181,9 @@ top of this webpage before they are sold in Singapore.</p>
 <p>✅</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Use and store the power bank in cool and dry places away from heat sources,
-direct sunlight, combustible gas, humidity, water or other liquids.</p>
+<p>Use and store the power bank in cool and dry places <strong>away</strong> from
+heat sources, direct sunlight, combustible gas, humidity, water or other
+liquids.</p>
 </td>
 </tr>
 <tr>
