@@ -61,9 +61,9 @@ to power banks</p>
 <p><strong>2. Come with essential safety information, including:</strong>
 </p>
 <p><strong>A.</strong> Minimum instructions for use that are specified on
-page 15 of the CGSR Information Booklet</p>
-<p><strong>B. </strong>Charging instructions</p>
-<p><strong>C. </strong>Operating temperature range</p>
+page 15 of the CGSR Information Booklet,</p>
+<p><strong>B. </strong>Charging instructions, and</p>
+<p><strong>C. </strong>Operating temperature range.</p>
 <h4><strong>🛒Before buying a power bank, you should:</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
