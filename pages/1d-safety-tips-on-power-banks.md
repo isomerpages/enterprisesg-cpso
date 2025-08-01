@@ -64,7 +64,85 @@ are specified on page 15 of the CGSR Information Booklet</p>
 <p><strong>B.&nbsp;&nbsp;&nbsp; </strong>Charging instructions</p>
 <p><strong>C.&nbsp;&nbsp;&nbsp; </strong>Operating temperature range</p>
 <h4><strong>🛒Before buying a power bank, you should:</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buy from reputable retailers and authorised sellers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Check if the power bank has any safety certification mark accepted in
+Singapore. E.g. the IEC certification, which is indicated by the CE&nbsp;mark
+on the product’s packaging.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Check for safety protection features such as:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>protection against over-charge, short-circuit, over-temperature or over-heat,</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>automatic power-off when the power bank is fully charged but still connected
+to the power source.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Check if the power bank has any indicator for users to know when it is
+fully charged. An example of such an indicator is circled in red below.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Look for a power bank that comes with warranty and a local service centre
+support that can be contacted in the event of an issue or incident.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener noreferrer nofollow" target="_blank">Back to product safety tips</a></strong>
 </p>
