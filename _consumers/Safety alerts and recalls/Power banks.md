@@ -78,6 +78,11 @@ on the bottom of the device.</p>
 </tr>
 </tbody>
 </table>
+<p>After receiving confirmation of eligibility, dispose of the affected unit
+at a certified facility that accepts recalled lithium-ion batteries. Do
+not dispose of these units in regular trash or recycling bins.</p>
+<p>For questions or assistance, contact Baseus customer service team manager,
+Cathy Chen at care@baseus.com.</p>
 <p></p>
 <p>Please see below for more product safety alerts and recalls on power banks.</p>
 <h4><strong>Product recalls</strong></h4>
