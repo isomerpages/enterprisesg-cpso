@@ -158,6 +158,79 @@ support that can be contacted in the event of an issue or incident.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>⚠️Beware of false representation</strong></h4>
+<p>There is no “CPSO approved” or “CCCS approved” power bank, or Safety Mark
+issued to any power bank. Power banks are not required to be registered
+or approved before they can be sold in Singapore. Suppliers are to ensure
+that power banks meet the relevant safety requirements as stated at the
+top of this webpage before they are sold in Singapore.</p>
+<h4><strong>⚡When using power banks, you should:</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Use the original charging cable and follow the operating instructions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Use and store the power bank in cool and dry places <strong>away</strong> from
+heat sources, direct sunlight, combustible gas, humidity, water or other
+liquids.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener noreferrer nofollow" target="_blank">Back to product safety tips</a></strong>
 </p>
