@@ -65,11 +65,9 @@ in the event of any product-related issue or incident.</p>
 <p><strong>False representation</strong>
 </p>
 <p>Take note that certain power banks have been incorrectly advertised as
-“SPRING Singapore approved” or “Enterprise Singapore approved”. Please
-note that Enterprise Singapore (previously SPRING Singapore) does not require
-a registration or approval process for power banks. Suppliers are to ensure
-that power banks meet the relevant safety requirements before they are
-sold in Singapore.</p>
+“CPSO approved”. Please note that CPSO does not require a registration
+or approval process for power banks. Suppliers are to ensure that power
+banks meet the relevant safety requirements before they are sold in Singapore.</p>
 <p><strong>Some Dos and Don’ts</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -104,5 +102,6 @@ or any unusual occurrences are detected.</p>
 </p>
 </li>
 </ul>
-<p><strong><a href="/consumers/product-safety-tips/electronics-and-appliances" rel="noopener noreferrer nofollow" target="_blank">← Back to Product safety tips</a></strong>
+<p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener noreferrer nofollow" target="_blank">Back to product safety tips</a></strong>
 </p>
+<p></p>

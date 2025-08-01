@@ -9,80 +9,24 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>4 July 2025</strong>
-<br><strong>Anker Recalls Multiple Power Bank Models<br></strong>Anker Innovations
-has identified manufacturing defects in the following models of power banks,
-which may potentially cause overheating, melting, smoking or fire:</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>S/N</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Model No.</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Product brand and name</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A1681</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anker Zolo Power Bank (20K, 30W, Built-In USB-C and Lightning Cable)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A1689</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anker Zolo Power Bank (20K, 30W, Built-In USB-C Cable)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A1257</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anker Power Bank (10K, 22.5W)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>A1647</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Anker Power Bank (20,000mAh, 22.5W, Built-In USB-C Cable)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>Consumers should immediately stop using these power banks and check if
-their unit is affected by locating the model and serial numbers on the
-bottom or side of their power bank (refer to the images below).</p>
+<h4><strong>1 August 2025:</strong><br><strong>Baseus Recalls Selected Portable Chargers with Model Number BS-30KP365<br></strong></h4>
+<p>Shenzhen Baseus Technology Co., Ltd ("Baseus") is voluntarily recalling
+the following portable charger:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Baseus Portable Charger, 65W 30000mAh High-Capacity Portable Charger with&nbsp;model
+number BS-30KP365&nbsp;with&nbsp;a serial number (SN) ending in the number
+0 through 9 or the letter "D".</p>
+</li>
+</ul>
+<p>The lithium-ion battery in the portable charger may overheat, posing a
+fire hazard.</p>
+<p>Consumers should immediately stop using these portable chargers and register
+at this <a href="https://www.baseus.com/pages/recall_select_BS-30KP365" rel="noopener nofollow" target="_blank">link</a> to
+request for a free replacement BS-30KP365 portable charger with a serial
+number (SN) ending with the letter ‘A’.</p>
+<p>No other Baseus portable chargers or power banks are affected by this
+voluntary recall.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -90,44 +34,55 @@ bottom or side of their power bank (refer to the images below).</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Anker_1.png">
-</div>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Anker_2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Baseus_BS_30KP365_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Anker_3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Baseus_BS_30KP365_2.png">
 </div>
 </td>
 </tr>
 </tbody>
 </table>
-<p>If the model is an affected model listed above, consumers should verify
-the serial number using the online recall <a href="https://www.anker.com/mmrc2506-form" rel="noopener nofollow" target="_blank">form</a> to confirm if their
-unit is part of the recall. Through this same form, consumers can submit
-a claim to receive either a free replacement power bank or a gift card
-redeemable at the Anker Lazada store.</p>
-<p><em>Note: When checking serial numbers, please be careful to distinguish between similar-looking characters. Affected serial numbers do not contain the letters "O" or "I".</em>
-</p>
+<p>To participate in this recall, consumers will need to provide:</p>
+<p>Contact information,</p>
+<p>Proof of purchase (such as an order invoice), or, if unavailable, a photo
+of the recalled portable charger with your name and submission date written
+on it in permanent marker,</p>
+<p>A photo of the recalled portable charger showing the model number and
+serial number (SN), which are printed on the bottom of the device.</p>
+<p>Please see example images below:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Baseus_BS_30KP365_3.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Baseus_BS_30KP365_4.png">
+</div>
+</td>
+</tr>
+</tbody>
+</table>
 <p>After receiving confirmation of eligibility, dispose of the affected unit
 at a certified facility that accepts recalled lithium-ion batteries. Do
 not dispose of these units in regular trash or recycling bins.</p>
-<p>For questions or assistance, contact Anker at <a rel="noopener noreferrer nofollow" target="_blank">support@anker.com</a> with
-the subject line "[Model Number] Anker Power Bank Recall" (e.g., "A1647
-Anker Power Bank Recall").&nbsp;</p>
-<p>For more information on the recall, visit <a href="https://anker.com.sg/pages/anker-innovations-initiates-voluntary-recall-for-select-power-banks" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+<p>For questions or assistance, contact Baseus customer service team manager,
+Cathy Chen at care@baseus.com.</p>
 <p></p>
 <p>Please see below for more product safety alerts and recalls on power banks.</p>
-<p><strong>Product recalls</strong>
-</p>
+<h4><strong>Product recalls</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -141,6 +96,15 @@ Anker Power Bank Recall").&nbsp;</p>
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1 Aug 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/power-banks/powerbanks_recall_2025_08_01_baseus_recalls_selected_portable_chargers_BS_30KP365.pdf" rel="noopener noreferrer nofollow" target="_blank">Baseus Recalls Selected Portable Chargers with Model Number BS-30KP365</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -180,8 +144,7 @@ Anker Power Bank Recall").&nbsp;</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Product safety alerts</strong>
-</p>
+<h4><strong>Product safety alerts</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
