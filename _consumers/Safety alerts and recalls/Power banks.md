@@ -50,20 +50,12 @@ voluntary recall.</p>
 </tbody>
 </table>
 <p>To participate in this recall, consumers will need to provide:</p>
-<ol data-tight="true" class="tight">
-<li>
 <p>Contact information,</p>
-</li>
-<li>
 <p>Proof of purchase (such as an order invoice), or, if unavailable, a photo
 of the recalled portable charger with your name and submission date written
 on it in permanent marker,</p>
-</li>
-<li>
 <p>A photo of the recalled portable charger showing the model number and
 serial number (SN), which are printed on the bottom of the device.</p>
-</li>
-</ol>
 <p>Please see example images below:</p>
 <table style="minWidth: 50px">
 <colgroup>
