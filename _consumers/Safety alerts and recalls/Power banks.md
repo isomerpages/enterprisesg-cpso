@@ -9,9 +9,7 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>1 August 2025:</strong>
-<br><strong>Baseus Recalls Selected Portable Chargers with Model Number BS-30KP365<br></strong>
-</p>
+<h4><strong>1 August 2025:</strong><br><strong>Baseus Recalls Selected Portable Chargers with Model Number BS-30KP365<br></strong></h4>
 <p>Shenzhen Baseus Technology Co., Ltd ("Baseus") is voluntarily recalling
 the following portable charger:</p>
 <ul data-tight="true" class="tight">
