@@ -18,6 +18,45 @@ burns if they malfunction.</p>
 international safety standards and requirements as specified in the Consumer
 Protection (Consumer Goods Safety Requirements) (<strong>CGSR</strong>)
 <a href="/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Booklet</a>.</p>
+<p>Specifically, power banks must:</p>
+<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp; Meet safety requirements of either:</strong>
+</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>A. Option 1:</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>i. IEC 62133:2012 for battery safety <u>AND</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ii. IEC 60950-1:2005 <u>or</u> IEC 62368-1:2018 for general safety</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>OR</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>B. Option 2:</strong> Other equivalent industry standards specific
+to power banks</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p></p>
 <p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener noreferrer nofollow" target="_blank">Back to product safety tips</a></strong>
