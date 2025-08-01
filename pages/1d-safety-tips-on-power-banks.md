@@ -72,7 +72,8 @@ are specified on page 15 of the CGSR Information Booklet</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>✅</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Buy from reputable retailers and authorised sellers.</p>
@@ -80,7 +81,8 @@ are specified on page 15 of the CGSR Information Booklet</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>✅</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Check if the power bank has any safety certification mark accepted in
@@ -91,7 +93,8 @@ on the product’s packaging.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>✅</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Check for safety protection features such as:</p>
@@ -124,7 +127,8 @@ to the power source.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>✅</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Check if the power bank has any indicator for users to know when it is
@@ -134,7 +138,8 @@ fully charged. An example of such an indicator is circled in red below.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>✅</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Look for a power bank that comes with warranty and a local service centre
