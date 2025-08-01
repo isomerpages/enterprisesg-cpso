@@ -19,7 +19,7 @@ international safety standards and requirements as specified in the Consumer
 Protection (Consumer Goods Safety Requirements) (<strong>CGSR</strong>)
 <a href="/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Booklet</a>.</p>
 <p>Specifically, power banks must:</p>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp; Meet safety requirements of either:</strong>
+<p><strong>1. Meet safety requirements of either:</strong>
 </p>
 <table style="minWidth: 25px">
 <colgroup>
