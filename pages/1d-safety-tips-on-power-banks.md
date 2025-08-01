@@ -88,7 +88,9 @@ are specified on page 15 of the CGSR Information Booklet</p>
 <p>Check if the power bank has any safety certification mark accepted in
 Singapore. E.g. the IEC certification, which is indicated by the CE&nbsp;mark
 on the product’s packaging.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/CE_mark.jpg">
+</div>
 </td>
 </tr>
 <tr>
@@ -133,7 +135,9 @@ to the power source.</p>
 <td rowspan="1" colspan="1">
 <p>Check if the power bank has any indicator for users to know when it is
 fully charged. An example of such an indicator is circled in red below.</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Indicator_circled.jpg">
+</div>
 </td>
 </tr>
 <tr>
