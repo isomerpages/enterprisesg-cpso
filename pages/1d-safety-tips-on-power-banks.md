@@ -173,7 +173,8 @@ top of this webpage before they are sold in Singapore.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>✅</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Use the original charging cable and follow the operating instructions.</p>
@@ -181,7 +182,8 @@ top of this webpage before they are sold in Singapore.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>✅</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Use and store the power bank in cool and dry places <strong>away</strong> from
@@ -191,7 +193,8 @@ liquids.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>⚠️⚡</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Avoid storing power banks with other metal objects (e.g., coins, keys,
@@ -202,7 +205,8 @@ or electric shocks.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>⚠️🔥</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Avoid exceeding the recommended charging time, which may cause the power
@@ -211,7 +215,8 @@ bank to overheat.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>⚠️🔥</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Avoid charging power banks on beds, under blankets, or on other flammable
@@ -220,7 +225,8 @@ surfaces.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>⚠️</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Stop using power banks immediately if you notice:</p>
@@ -248,6 +254,7 @@ surfaces.</p>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
 <p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener noreferrer nofollow" target="_blank">Back to product safety tips</a></strong>
 </p>
