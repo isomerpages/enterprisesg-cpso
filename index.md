@@ -34,6 +34,11 @@ sections:
         href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-apparel">
         here</a> for more notices.
       cards:
+        - title: Baseus Recalls Selected Portable Chargers
+          description: 1 August 2025 <br> Model no. BS-30KP365 with serial no.s ending in
+            0 - 9 or D
+          linktext: Learn more
+          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/
         - title: Anker Recalls Multiple Power Bank Models
           description: "4 July 2025 <br> Model no.s: A1681, A1689, A1257, and A1647"
           linktext: Learn more
@@ -42,11 +47,6 @@ sections:
           description: "27 June 2025 <br> Seller: Babymylovesg"
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-products/
-        - title: "Safety Alert: Kid's jewellery set sold on Shopee"
-          description: 26 June 2025 <br> 'Sakura – Unicorn Beaded Jewellery Set' sold by
-            Little Cute
-          linktext: Learn more
-          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/others/
   - infopic:
       title: Find out more about children's product safety tips
       description: Keep these tips in mind to safeguard your children from injuries.
