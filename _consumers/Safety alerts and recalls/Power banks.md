@@ -99,6 +99,14 @@ Cathy Chen at care@baseus.com.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1 Aug 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Baseus Recalls Selected Portable Chargers with Model Number BS-30KP365</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4 Jul 2025</p>
 </td>
 <td rowspan="1" colspan="1">
