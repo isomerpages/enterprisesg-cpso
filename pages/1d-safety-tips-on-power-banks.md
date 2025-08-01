@@ -57,6 +57,12 @@ to power banks</p>
 </tr>
 </tbody>
 </table>
+<p><strong>2. Come with essential safety information, including:</strong>
+</p>
+<p><strong>A.&nbsp;&nbsp;&nbsp; </strong>Minimum instructions for use that
+are specified on page 15 of the CGSR Information Booklet</p>
+<p><strong>B.&nbsp;&nbsp;&nbsp; </strong>Charging instructions</p>
+<p><strong>C.&nbsp;&nbsp;&nbsp; </strong>Operating temperature range</p>
 <p></p>
 <p></p>
 <p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener noreferrer nofollow" target="_blank">Back to product safety tips</a></strong>
