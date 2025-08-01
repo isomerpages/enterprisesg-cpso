@@ -63,6 +63,7 @@ to power banks</p>
 are specified on page 15 of the CGSR Information Booklet</p>
 <p><strong>B.&nbsp;&nbsp;&nbsp; </strong>Charging instructions</p>
 <p><strong>C.&nbsp;&nbsp;&nbsp; </strong>Operating temperature range</p>
+<h4><strong>🛒Before buying a power bank, you should:</strong></h4>
 <p></p>
 <p></p>
 <p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener noreferrer nofollow" target="_blank">Back to product safety tips</a></strong>
