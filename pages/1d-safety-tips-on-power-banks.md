@@ -254,7 +254,52 @@ surfaces.</p>
 </tr>
 </tbody>
 </table>
+<h4><strong>Other good practices:</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>✅</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dispose old/damaged power banks at e-waste recycling points.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>✅</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keep power banks out of children's reach and/or supervise your child’s
+use of power banks.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>✅</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Check safety recalls or alerts for power banks (see <a href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/" rel="noopener nofollow" target="_blank">CPSO's webpage</a>)
+regularly.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Never attempt self-repairs.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
 <p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener noreferrer nofollow" target="_blank">Back to product safety tips</a></strong>
 </p>
