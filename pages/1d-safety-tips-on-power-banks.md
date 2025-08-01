@@ -105,6 +105,9 @@ on the product’s packaging.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Protection_sign.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -117,6 +120,9 @@ on the product’s packaging.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Auto_power_off.jpg">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
