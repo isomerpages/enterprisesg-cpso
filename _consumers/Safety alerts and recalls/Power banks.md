@@ -38,13 +38,38 @@ voluntary recall.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Baseus_BS_30KP365_1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Baseus_BS_30KP365_1.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Baseus_BS_30KP365_2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Baseus_BS_30KP365_2.png">
 </div>
+</td>
+</tr>
+</tbody>
+</table>
+<p>To participate in this recall, consumers will need to provide:</p>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Contact information,</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proof of purchase (such as an order
+invoice), or, if unavailable, a photo of the recalled portable charger
+with your name and submission date written on it in permanent marker,</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A photo of the recalled portable
+charger showing the model number and serial number (SN), which are printed
+on the bottom of the device.</p>
+<p>Please see example images below:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
