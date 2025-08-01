@@ -102,7 +102,8 @@ Cathy Chen at care@baseus.com.</p>
 <p>1 Aug 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Baseus Recalls Selected Portable Chargers with Model Number BS-30KP365</p>
+<p><a href="/files/product-safety-alerts-and-recalls/power-banks/powerbanks_recall_2025_08_01_baseus_recalls_selected_portable_chargers_BS_30KP365.pdf" rel="noopener noreferrer nofollow" target="_blank">Baseus Recalls Selected Portable Chargers with Model Number BS-30KP365</a>
+</p>
 </td>
 </tr>
 <tr>
