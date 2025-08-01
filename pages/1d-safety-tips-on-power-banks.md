@@ -86,7 +86,7 @@ are specified on page 15 of the CGSR Information Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Check if the power bank has any safety certification mark accepted in
-Singapore. E.g. the IEC certification, which is indicated by the CE&nbsp;mark
+Singapore. E.g. the IEC certification, which is indicated by the <strong>CE</strong>&nbsp;mark
 on the product’s packaging.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 5%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/CE_mark.jpg">
