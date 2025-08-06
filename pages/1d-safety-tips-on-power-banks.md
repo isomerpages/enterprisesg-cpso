@@ -10,9 +10,6 @@ variant: tiptap
 batteries that are used to provide a portable source of power for electronic
 devices. Although generally considered safe, they can catch fire or cause
 burns if they malfunction.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/fire_stock_img.jpg">
-</div>
 <h4><strong>Safety requirements for power banks</strong></h4>
 <p>Power banks that are sold to consumers in Singapore must comply with applicable
 international safety standards and requirements as specified in the Consumer
@@ -77,20 +74,6 @@ are specified on page 15 of the CGSR Information Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Buy from reputable retailers and authorised sellers.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>✅</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Check if the power bank has any safety certification mark accepted in
-Singapore. E.g. the IEC certification, which is indicated by the <strong>CE</strong>&nbsp;mark
-on the product’s packaging.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 5%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/CE_mark.jpg">
-</div>
 </td>
 </tr>
 <tr>
