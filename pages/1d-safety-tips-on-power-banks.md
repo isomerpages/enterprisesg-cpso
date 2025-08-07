@@ -10,98 +10,281 @@ variant: tiptap
 batteries that are used to provide a portable source of power for electronic
 devices. Although generally considered safe, they can catch fire or cause
 burns if they malfunction.</p>
-<p><strong>Understand the product</strong>
+<h4><strong>Safety requirements for power banks</strong></h4>
+<p>Power banks that are sold to consumers in Singapore must comply with applicable
+international safety standards and requirements as specified in the Consumer
+Protection (Consumer Goods Safety Requirements) (<strong>CGSR</strong>)
+<a href="/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Booklet</a>.</p>
+<p>Specifically, power banks must:</p>
+<p><strong>1. Meet safety requirements of either:</strong>
 </p>
-<p>Before buying a product, ask questions like:</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>A. Option 1:</strong>
+</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>i. IEC 62133:2012 for battery safety <u>AND</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ii. IEC 60950-1:2005 <u>or</u> IEC 62368-1:2018 for general safety</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><u>OR</u>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>B. Option 2:</strong> Other equivalent industry standards specific
+to power banks</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong>2. Come with essential safety information, including:</strong>
+</p>
+<p><strong>A.&nbsp;&nbsp;&nbsp; </strong>Minimum instructions for use that
+are specified on page 15 of the CGSR Information Booklet</p>
+<p><strong>B.&nbsp;&nbsp;&nbsp; </strong>Charging instructions</p>
+<p><strong>C.&nbsp;&nbsp;&nbsp; </strong>Operating temperature range</p>
+<h4><strong>🛒Before buying a power bank, you should:</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>✅</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Buy from reputable retailers and authorised sellers.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>✅</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Check for safety protection features such as:</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Protection_sign.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Does this power bank come with operating and safety instructions?</p>
-</li>
-<li>
-<p>How do I charge the power bank?</p>
-</li>
-<li>
-<p>How do I charge my device with the power bank?</p>
-</li>
-<li>
-<p>Are the different ports indicated clearly?</p>
-</li>
-<li>
-<p>What type of cables and chargers can I use? Are these supplied with the
-power bank or do I have to use my own?</p>
-</li>
-<li>
-<p>How can I tell when the power bank is fully charged?</p>
-</li>
-<li>
-<p>How much time is needed for a full charge?</p>
-</li>
-<li>
-<p>What will happen if the power bank is fully charged but still connected
-to the charging source? Is there automatic power-off?</p>
-</li>
-<li>
-<p>What safety features does this power bank come with?</p>
-</li>
-<li>
-<p>What safety testing and certification information is available?</p>
+<p>protection against over-charge, short-circuit, over-temperature or over-heat,</p>
 </li>
 </ul>
-<p><strong>Safety protection features</strong>
-</p>
-<p>Look for power banks that come with safety protection features, such as
-over-charge protection, short-circuit protection, over-temperature or over-heat
-protection, over-current protection or over-voltage protection.</p>
-<p><strong>Instructions for use</strong>
-</p>
-<p>Always read operating and safety instructions as well as understand how
-the power bank should be used. Take note of warnings and avoid mishandling
-the product.</p>
-<p><strong>Who is the manufacturer?</strong>
-</p>
-<p>Consider a trusted brand and buy a power bank that comes with a warranty.
-Find out if there is an authorised service centre that you can contact
-in the event of any product-related issue or incident.</p>
-<p><strong>False representation</strong>
-</p>
-<p>Take note that certain power banks have been incorrectly advertised as
-“CPSO approved”. Please note that CPSO does not require a registration
-or approval process for power banks. Suppliers are to ensure that power
-banks meet the relevant safety requirements before they are sold in Singapore.</p>
-<p><strong>Some Dos and Don’ts</strong>
-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Auto_power_off.jpg">
+</div>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>Charging</strong>: Avoid leaving your power bank on prolonged
-charge as this may cause it to overheat. Follow the manufacturer’s guidelines
-on the time required to fully charge your power bank. If the power bank
-becomes excessively hot during charging or discharging, unplug it from
-the power source or your mobile device immediately. Avoid charging the
-power bank on places that build up heat, such as on your bed.</p>
-</li>
-<li>
-<p><strong>Avoid short circuits</strong>: Keep your power bank away from
-metal objects such as coins, paper clips and keys. Do not insert any metal
-objects into the USB output port or joining terminals of the power bank.
-Short circuits may present risks of excessive heat, fire or explosion.</p>
-</li>
-<li>
-<p><strong>Storage</strong>: Keep the power bank in a cool and dry place
-away from heat sources, moisture and dust. Avoid leaving the power bank
-in places with high temperature such as cars parked under the sun.</p>
-</li>
-<li>
-<p><strong>Avoid applying excessive force on the power bank or dropping the power bank</strong>:
-By doing so, it may damage the internal components of the power bank and
-risk short circuiting the device when used. Always inspect the power bank
-and refrain from using it if leakage, strange odours, colour changes, deformation
-or any unusual occurrences are detected.</p>
-</li>
-<li>
-<p><strong>Do not allow children to use and play with the power bank.</strong>
-</p>
+<p>automatic power-off when the power bank is fully charged but still connected
+to the power source.</p>
 </li>
 </ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>✅</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Check if the power bank has any indicator for users to know when it is
+fully charged. An example of such an indicator is circled in red below.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/product-safety-tips/Power bank tips/Indicator_circled.jpg">
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>✅</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Look for a power bank that comes with warranty and a local service centre
+support that can be contacted in the event of an issue or incident.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>⚠️Beware of false representation</strong></h4>
+<p>There is no “CPSO approved” or “CCCS approved” power bank, or Safety Mark
+issued to any power bank. Power banks are not required to be registered
+or approved before they can be sold in Singapore. Suppliers are to ensure
+that power banks meet the relevant safety requirements as stated at the
+top of this webpage before they are sold in Singapore.</p>
+<h4><strong>⚡When using power banks, you should:</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>✅</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Use the original charging cable and follow the operating instructions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>✅</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Use and store the power bank in cool and dry places <strong>away</strong> from
+heat sources, direct sunlight, combustible gas, humidity, water or other
+liquids.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>⚠️⚡</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Avoid storing power banks with other metal objects (e.g., coins, keys,
+paper clips) as a short circuit may occur if a metal object enters the
+power bank’s ports. Short-circuiting a device may cause electrical fires
+or electric shocks.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>⚠️🔥</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Avoid exceeding the recommended charging time, which may cause the power
+bank to overheat.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>⚠️🔥</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Avoid charging power banks on beds, under blankets, or on other flammable
+surfaces.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>⚠️</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Stop using power banks immediately if you notice:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Excessive heat during use</p>
+</li>
+<li>
+<p>Swelling or deformation</p>
+</li>
+<li>
+<p>Unusual odours</p>
+</li>
+<li>
+<p>Physical damage</p>
+</li>
+<li>
+<p>Leakage</p>
+</li>
+<li>
+<p>Colour changes</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<h4><strong>Other good practices:</strong></h4>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>✅</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Dispose old/damaged power banks at e-waste recycling points.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>✅</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Keep power banks out of children's reach and/or supervise your child’s
+use of power banks.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>✅</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Check safety recalls or alerts for power banks (see <a href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/" rel="noopener nofollow" target="_blank">CPSO's webpage</a>)
+regularly.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>⚠️</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Never attempt self-repairs.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener noreferrer nofollow" target="_blank">Back to product safety tips</a></strong>
 </p>
 <p></p>
