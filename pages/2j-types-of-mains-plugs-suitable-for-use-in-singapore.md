@@ -27,7 +27,7 @@ for the ‘Neutral’ wire.</p>
 electrical appliances such as refrigerators, washing machines and microwave
 ovens. These appliances have a metal body which must be grounded so that
 in the event of a short circuit, there is no risk of electrocution to the
-user.| |</p>
+user.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="mains plugs 3" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-3.jpg">
 </div>
