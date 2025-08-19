@@ -41,7 +41,7 @@ ensure that its mains plug carries a SAFETY Mark.</p>
 <p><strong>Caution: Schuko plugs</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="mains plugs 4" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-4.jpg">
+<img style="width: 25%;" height="auto" width="100%" alt="mains plugs 4" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-4.jpg">
 </div>
 <p>Some appliances are fitted with mains plugs meant for the German market.
 These are <strong>rated at 10/16AMP</strong> and known as <strong>‘Schuko’</strong> plugs
