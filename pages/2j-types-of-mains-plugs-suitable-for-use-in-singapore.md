@@ -19,7 +19,7 @@ socket to avoid hazards such as fires and electrocution.</p>
 used for electronics appliances such as TV, DVD and audio sets. These appliances
 do not rely on the ‘Earth’ wire for protection from a short circuit and
 therefore only 2 pins are needed – one for the ‘Live’ wire and the other
-for the ‘Neutral’ wire.| |</p>
+for the ‘Neutral’ wire.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="mains plugs 2" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-2.jpg">
 </div>
