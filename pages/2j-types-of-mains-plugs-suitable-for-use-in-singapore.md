@@ -45,7 +45,7 @@ ensure that its mains plug carries a SAFETY Mark.</p>
 </div>
 <p>Some appliances are fitted with mains plugs meant for the German market.
 These are <strong>rated at 10/16AMP</strong> and known as <strong>‘Schuko’</strong> plugs
-(<em>See image</em>). This type of mains plug is <strong>not suitable for use in Singapore</strong>.
+(<em>see image</em>). This type of mains plug is <strong>not suitable for use in Singapore</strong>.
 The dimension of the round pins will stress the contacts of the mains socket
 outlet, subsequently leading to poor contact and overheating.</p>
 <p>Furthermore, while ‘Schuko’ plugs may come with earthing strips located
