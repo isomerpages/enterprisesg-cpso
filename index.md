@@ -34,6 +34,11 @@ sections:
         href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-apparel">
         here</a> for more notices.
       cards:
+        - title: DT Swiss Recalls Carbon Fibre Bicycle Wheels
+          description: 21 August 2025 <br> Please see the notice for the affected model
+            serieses.
+          linktext: Learn more
+          url: ""
         - title: Baseus Recalls Selected Portable Chargers
           description: 1 August 2025 <br> Model no. BS-30KP365 with serial no.s ending in
             0 - 9 or D
@@ -43,10 +48,6 @@ sections:
           description: "4 July 2025 <br> Model no.s: A1681, A1689, A1257, and A1647"
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/
-        - title: "Safety Alert: 'Cobabies baby cot' sold on Lazada"
-          description: "27 June 2025 <br> Seller: Babymylovesg"
-          linktext: Learn more
-          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-products/
   - infopic:
       title: Find out more about children's product safety tips
       description: Keep these tips in mind to safeguard your children from injuries.
