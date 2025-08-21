@@ -58,8 +58,8 @@ for Certification</p>
 <td rowspan="1" colspan="1">
 <p><a href="/files/cps-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Consumer Protection (Safety Requirements) Regulations Information Booklet</a>
 </p>
-<p>Note: Includes guidance on the use of the <strong>Safety Mark</strong>
-</p>
+<p>Note: Includes guidance on the use of the <strong>Safety Mark</strong>,
+and definitions of Controlled Goods</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2025</p>
