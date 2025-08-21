@@ -47,19 +47,19 @@ for Certification</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/cab-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Conformity Assessment Information Booklet</a>
+<p><a href="/files/cab_info_booklet.pdf" rel="noopener nofollow" target="_blank">Conformity Assessment Information Booklet</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Jul 2025</p>
+<p>21 Aug 2025</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p><a href="/files/cps-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Consumer Protection (Safety Requirements) Regulations Information Booklet</a>
 </p>
-<p>Note: Includes guidance on the use of the <strong>Safety Mark</strong>
-</p>
+<p>Note: Includes guidance on the use of the <strong>Safety Mark</strong>,
+and definitions of Controlled Goods</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>1 Jul 2025</p>
