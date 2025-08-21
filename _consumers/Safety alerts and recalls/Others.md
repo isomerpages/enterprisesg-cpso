@@ -14,11 +14,54 @@ regarding unsafe consumer products identified in Singapore.</p>
 carbon fibre composite rims manufactured in Vietnam from 1 August 2024
 onwards due to potential delamination issues that could lead to structural
 failure. This defect increases the risk of accidents and crashes.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/DT_Swiss_0825_1.png">
 </div>
+<p>This recall involves bicycle wheels from the following model series: ARC
+1100, 1400, 1600 DICUT 50/55/65; ARC 1600 SPLINE 50/55/65; ERC 1100, 1400,
+1600 DICUT 35/45; ERC 1600 SPLINE 35/45; ERC LOG CLASSIC 45; CRC 1100 DICUT
+45; CRC 1400, 1600 SPLINE 35/45; and HEC 1400 SPLINE 45. These products
+were sold either as parts of complete bicycles or as individual components
+via online retailers or specialist shops.</p>
+<p>Consumers can check if their product is affected, by first identifying
+if it has a DT Swiss ID number of 2740000 or higher stamped on the product.
+Next, use the DT Swiss ID number to confirm whether your product is involved
+in this product safety recall on the <a href="https://www.dtswiss.com/en/recall" rel="noopener noreferrer nofollow" target="_blank">website</a> set up specifically
+for this purpose.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/DT_Swiss_0825_2.png">
+</div>
+<p>If the stickers with the DT Swiss ID number are no longer visible or have
+become illegible, consumers can email (recall@dtswiss.com) the rim series
+number located under the rim tape for verification.</p>
+<p>Consumers should immediately stop using the affected wheels and visit
+DT Swiss’ <a href="http://www.dtswiss.com/en/recall" rel="noopener noreferrer nofollow" target="_blank">website</a> to
+check if their product is affected by the recall. Affected consumers will
+receive a new bicycle wheel of the same type as a replacement after quality
+testing confirms the defect.</p>
+<p>For more information, consumers can:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Visit:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.dtswiss.com/en/recall</a>
+</p>
+</li>
+<li>
+<p>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">recall@dtswiss.com</a>
+</p>
+</li>
+<li>
+<p>Call (Europe GMT+2, 09:00-12:00 &amp; 13:30-17:00):</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Free Hotline: +800 0000 1994</p>
+</li>
+<li>
+<p>Alternative Phone: +41 32 344 62 44</p>
 <p></p>
+</li>
+</ul>
+</li>
+</ul>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
 </p>
