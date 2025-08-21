@@ -46,8 +46,7 @@ testing confirms the defect.</p>
 </p>
 </li>
 <li>
-<p>Email:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">recall@dtswiss.com</a>
-</p>
+<p>Email: recall@dtswiss.com</p>
 </li>
 <li>
 <p>Call (Europe GMT+2, 09:00-12:00 &amp; 13:30-17:00):</p>
