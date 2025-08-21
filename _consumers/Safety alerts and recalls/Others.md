@@ -83,7 +83,8 @@ testing confirms the defect.</p>
 <p>21 Aug 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DT Swiss Recalls Carbon Fibre Bicycle Wheels Due to Crash Hazard</p>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_recall_2025_08_21_DTSwiss_Wheels.pdf" rel="noopener noreferrer nofollow" target="_blank">DT Swiss Recalls Carbon Fibre Bicycle Wheels Due to Crash Hazard</a>
+</p>
 </td>
 </tr>
 <tr>
