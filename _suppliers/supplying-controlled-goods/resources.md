@@ -47,7 +47,7 @@ for Certification</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/cab-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Conformity Assessment Information Booklet</a>
+<p><a href="/files/cab_info_booklet.pdf" rel="noopener nofollow" target="_blank">Conformity Assessment Information Booklet</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
