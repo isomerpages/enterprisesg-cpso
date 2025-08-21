@@ -81,6 +81,14 @@ testing confirms the defect.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>21 Aug 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>DT Swiss Recalls Carbon Fibre Bicycle Wheels Due to Crash Hazard</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>23 Jun 2025</p>
 </td>
 <td rowspan="1" colspan="1">
