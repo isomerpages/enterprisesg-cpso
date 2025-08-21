@@ -9,61 +9,15 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>26 Jun 2025<br>SAFETY ALERT: Sakura - Unicorn Beaded Jewellery Set (Necklace + Bracelet + Clip Earrings + Ring)</strong>
-<br>
-</p>
-<p><strong>Name of product</strong>
-</p>
-<p>Sakura - Unicorn Beaded Jewellery Set (Necklace + Bracelet + Clip Earrings
-+ Ring)</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>Product picture</strong>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<h4><strong>21 August 2025<br>DT Swiss Recalls Carbon Fibre Bicycle Wheels Due to Crash Hazard</strong></h4>
+<p>DT Swiss has launched a voluntary recall for certain bicycle wheels with
+carbon fibre composite rims manufactured in Vietnam from 1 August 2024
+onwards due to potential delamination issues that could lead to structural
+failure. This defect increases the risk of accidents and crashes.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sakura_1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/DT_Swiss_0825_1.png">
 </div>
-</td>
-</tr>
-</tbody>
-</table>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sakura_2.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Sample taken from</strong>
-</p>
-<p>Seller “Little Cute” on Shopee</p>
-<p><strong>The Consumer Product Safety Office has issued a notice to Little Cute to cease supply of the product.</strong>
-</p>
-<p>During the testing of this sample, it was found that the product did not
-comply with the following requirements from ASTM F2923-20: Standard Specification
-for Consumer Product Safety for Children’s Jewelry:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; During the tension test, the ornament
-from the earring became detached and a sharp point was detected.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Age labelling information was not
-provided in accordance with the requirements for point-of-sale guidance
-to consumers.</p>
-<p>No report of incident or injury related to the use of this product has
-been received to date.</p>
-<p>Consumers who have bought the product are advised to stop using it immediately.</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
@@ -267,7 +221,7 @@ been received to date.</p>
 <p>01 May 2012</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2012-05-01-children-products-testing.pdf" rel="noopener noreferrer nofollow" target="_blank">Jewellery and accessories: Children’s Products Testing</a>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2012-05-01-children-products-testing.pdf" rel="noopener noreferrer nofollow" target="_blank">Jewellery and accessories: Children’s Products Testin</a>
 </p>
 </td>
 </tr>
