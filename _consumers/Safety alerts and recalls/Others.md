@@ -42,7 +42,7 @@ testing confirms the defect.</p>
 <p>For more information, consumers can:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Visit:&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">www.dtswiss.com/en/recall</a>
+<p>Visit:&nbsp;<a href="https://www.dtswiss.com/en/recall" rel="noopener noreferrer nofollow" target="_blank">www.dtswiss.com/en/recall</a>
 </p>
 </li>
 <li>
