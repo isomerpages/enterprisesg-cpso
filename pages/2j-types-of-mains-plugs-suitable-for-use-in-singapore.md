@@ -6,12 +6,43 @@ variant: tiptap
 <p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/home-appliances-and-furniture/" rel="noopener noreferrer nofollow" target="_blank">← Back to Product safety tips</a></strong>
 </p>
 <h2>Type of Mains Plugs Suitable for use in Singapore</h2>
-<p>Apart from Brunei, Hong Kong, Malaysia or the UK, mains plugs that are
-used in other countries are different from those intended for use in Singapore.
+<p>Some countries that use the same type of mains plugs as Singapore include
+Brunei, Hong Kong, Malaysia or the UK. However, there are countries that
+use other types of mains plugs that may not be suitable for use in Singapore.
 It is important to ensure that the correct plug is used with a local wall
 socket to avoid hazards such as fires and electrocution.</p>
-<p><strong>3 types of mains plugs suitable for use in Singapore</strong>
+<p><strong>Types of mains plugs suitable for use in Singapore</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="mains plugs 2" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-2.jpg">
+</div>
+<p><strong>13-ampere (A) 3 pin fused mains plug (or Type G plug)</strong>&nbsp;–
+This is suitable for most electrical appliances in Singapore, but particularly
+important for those with metal bodies, such as refrigerators, washing machines
+and microwave ovens. Appliances with metal bodies should be grounded through
+the plug’s earthing pin to reduce the risk of electrocution to the user
+in the event of a short circuit.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="mains plugs 3" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-3.jpg">
+</div>
+<p><strong>15A 3 round-pin mains plug</strong>&nbsp;<strong>(or Type D plug) </strong>–
+This is generally used by energy-intensive appliances such as air-conditioners
+which require more electrical current than the standard 13A Type G plug
+can safely provide. Take note that the installation of corresponding 15A
+Type D socket outlets should only be carried out by qualified electrical
+workers.</p>
+<p>When purchasing mains-powered electrical appliances for use in Singapore,
+the Consumer Product Safety Office (CPSO) recommends looking out for those
+with 13A Type G plugs for most electrical appliances. For more energy-intensive
+electrical appliances that require higher power consumption, consumers
+should check with the supplier on whether the 15A Type D plug is required,
+and if so, what are the associated installation requirements.</p>
+<p>In addition, 13A and 15A mains plugs are controlled goods under the Consumer
+Protection (Safety Requirements) Regulations. They must be affixed with
+the <a href="https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/look-for-the-safety-mark/" rel="noopener noreferrer nofollow" target="_blank">SAFETY Mark</a> which
+carries a unique certification number traceable to the supplier. Consumers
+should always ensure that their appliances’ 3-pin mains plug carries a
+SAFETY Mark.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="mains plugs 1" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-1.jpg">
 </div>
@@ -20,24 +51,7 @@ used for electronics appliances such as TV, DVD and audio sets. These appliances
 do not rely on the ‘Earth’ wire for protection from a short circuit and
 therefore only 2 pins are needed – one for the ‘Live’ wire and the other
 for the ‘Neutral’ wire.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="mains plugs 2" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-2.jpg">
-</div>
-<p><strong>(2) The 13AMP 3 pin fused mains plug</strong> – This is used for
-electrical appliances such as refrigerators, washing machines and microwave
-ovens. These appliances have a metal body which must be grounded so that
-in the event of a short circuit, there is no risk of electrocution to the
-user.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 30%;" height="auto" width="100%" alt="mains plugs 3" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-3.jpg">
-</div>
-<p><strong>(3) The 15AMP 3 round-pin mains plug</strong> – This is used generally
-for air-conditioners.</p>
-<p>The 13AMP and 15AMP mains plugs are controlled goods under the Consumer
-Protection (Safety Requirements) Regulations. They must be affixed with
-the SAFETY Mark which carries a unique certification number traceable to
-the supplier. When purchasing a mains-powered electric appliance, always
-ensure that its mains plug carries a SAFETY Mark.</p>
+<p></p>
 <p><strong>Caution: Schuko plugs</strong>
 </p>
 <div class="isomer-image-wrapper">
