@@ -62,11 +62,11 @@ the 2-pin plug into a 3-pin socket without a proper adaptor.</p>
 <img style="width: 25%;" height="auto" width="100%" alt="mains plugs 4" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-4.jpg">
 </div>
 <p>Some appliances are fitted with mains plugs meant for the German market.
-These are&nbsp;<strong>rated at 10A/16A</strong>&nbsp;and known as&nbsp;<strong>‘Schuko’</strong>&nbsp;plugs
+These are&nbsp;<strong>rated at 10A/16A</strong>&nbsp;and known as&nbsp;<strong>Schuko</strong>&nbsp;plugs
 (<em>see image</em>). This type of mains plug is&nbsp;<strong>not suitable for use in Singapore</strong>.
 The dimension of the round pins will stress the contacts of the mains socket
 outlet, subsequently leading to poor contact and overheating.</p>
-<p>Furthermore, while ‘Schuko’ plugs may come with earthing strips located
+<p>Furthermore, while Schuko plugs may come with earthing strips located
 on their sides, they are not safe for use in Singapore as the earthing
 strips cannot make contact with the earth contact of a local mains socket.</p>
 <p><strong>Examples of suitable mains plugs</strong>
