@@ -63,7 +63,7 @@ the 2-pin plug into a 3-pin socket without a proper adaptor.</p>
 </div>
 <p>Some appliances are fitted with mains plugs meant for the German market.
 These are&nbsp;<strong>rated at 10A/16A</strong>&nbsp;and known as&nbsp;<strong>Schuko</strong>&nbsp;plugs
-(<em>see image</em>). This type of mains plug is&nbsp;<strong>not suitable for use in Singapore</strong>.
+(see image). This type of mains plug is&nbsp;<strong>not suitable for use in Singapore</strong>.
 The dimension of the round pins will stress the contacts of the mains socket
 outlet, subsequently leading to poor contact and overheating.</p>
 <p>Furthermore, while Schuko plugs may come with earthing strips located
