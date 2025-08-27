@@ -32,8 +32,8 @@ can safely provide. Take note that the installation of corresponding 15A
 Type D socket outlets should only be carried out by qualified electrical
 workers.</p>
 <p>When purchasing mains-powered electrical appliances for use in Singapore,
-the Consumer Product Safety Office (CPSO) recommends looking out for those
-with 13A Type G plugs for most electrical appliances. For more energy-intensive
+the Consumer Product Safety Office recommends looking out for those with
+13A Type G plugs for most electrical appliances. For more energy-intensive
 electrical appliances that require higher power consumption, consumers
 should check with the supplier on whether the 15A Type D plug is required,
 and if so, what are the associated installation requirements.</p>
