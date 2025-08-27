@@ -16,7 +16,7 @@ socket to avoid hazards such as fires and electrocution.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="mains plugs 2" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-2.jpg">
 </div>
-<p><strong>13-ampere (A) 3 pin fused mains plug (or Type G plug)</strong>&nbsp;–
+<p><strong>13-ampere (A) 3-pin fused mains plug (or Type G plug)</strong>&nbsp;–
 This is suitable for most electrical appliances in Singapore, but particularly
 important for those with metal bodies, such as refrigerators, washing machines
 and microwave ovens. Appliances with metal bodies should be grounded through
