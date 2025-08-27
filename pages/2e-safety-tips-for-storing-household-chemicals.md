@@ -47,9 +47,9 @@ If not properly labelled, it may lead to mistaken use or accidental consumption.
 of proper use and handling.</p>
 </li>
 <li>
-<p>Consider <a href="https://www.sgls.sec.org.sg/sgls-standard.php" rel="noopener noreferrer nofollow" target="_blank">Green Label</a>{:target="_blank"}
-certified products that have been tested to meet specific environmental
-and health prerequisites such as reduced toxicity and biodegradability.</p>
+<p>Consider <a href="https://www.sgls.sec.org.sg/sgls-standard.php" rel="noopener noreferrer nofollow" target="_blank">Green Label</a> certified
+products that have been tested to meet specific environmental and health
+prerequisites such as reduced toxicity and biodegradability.</p>
 </li>
 </ul>
 <p><em>During use</em>:</p>
