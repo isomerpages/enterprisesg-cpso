@@ -25,17 +25,17 @@ in the event of a short circuit.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="mains plugs 3" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-3.jpg">
 </div>
-<p><strong>15A 3 round-pin mains plug</strong>&nbsp;<strong>(or Type D plug) </strong>–
+<p><strong>15A 3 round-pin mains plug</strong>&nbsp;<strong>(or Type M plug) </strong>–
 This is generally used by energy-intensive appliances such as air-conditioners
 which require more electrical current than the standard 13A Type G plug
 can safely provide. Take note that the installation of corresponding 15A
-Type D socket outlets should only be carried out by qualified electrical
+Type M socket outlets should only be carried out by qualified electrical
 workers.</p>
 <p>When purchasing mains-powered electrical appliances for use in Singapore,
 the Consumer Product Safety Office recommends looking out for those with
 13A Type G plugs for most electrical appliances. For more energy-intensive
 electrical appliances that require higher power consumption, consumers
-should check with the supplier on whether the 15A Type D plug is required,
+should check with the supplier on whether the 15A Type M plug is required,
 and if so, what are the associated installation requirements.</p>
 <p>In addition, 13A and 15A mains plugs are controlled goods under the Consumer
 Protection (Safety Requirements) Regulations. They must be affixed with
