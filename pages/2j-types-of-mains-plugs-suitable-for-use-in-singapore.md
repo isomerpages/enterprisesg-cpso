@@ -5,7 +5,7 @@ variant: tiptap
 ---
 <p><strong><a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/home-appliances-and-furniture/" rel="noopener noreferrer nofollow" target="_blank">← Back to Product safety tips</a></strong>
 </p>
-<h2>Type of Mains Plugs Suitable for use in Singapore</h2>
+<h3>Type of Mains Plugs Suitable for use in Singapore</h3>
 <p>Some countries that use the same type of mains plugs as Singapore include
 Brunei, Hong Kong, Malaysia or the UK. However, there are countries that
 use other types of mains plugs that may not be suitable for use in Singapore.
