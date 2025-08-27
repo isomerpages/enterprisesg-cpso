@@ -81,7 +81,7 @@ strips cannot make contact with the earth contact of a local mains socket.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="non approved mains plugs" src="/images/consumers/did-you-know/types-of-mains-plugs/non-approved-mains-plugs.jpg">
 </div>
-<p><em>From left to right: Flat-blade plug, Schuko plug with side grounding contact, Schuko plug with side grounding contact, 10/16-Amp round pin, Flat-blade but with round grounding pin, Flat-blade but with round grounding pin</em>
+<p><em>From left to right: Flat-blade plug, Schuko plug with side grounding contact, Schuko plug with side grounding contact, 10A/16A round pin, Flat-blade but with round grounding pin, Flat-blade but with round grounding pin</em>
 </p>
 <p><strong><a href="/consumers/product-safety-tips/home-appliances-and-furniture" rel="noopener noreferrer nofollow" target="_blank">← Back to Product safety tips</a></strong>
 </p>
