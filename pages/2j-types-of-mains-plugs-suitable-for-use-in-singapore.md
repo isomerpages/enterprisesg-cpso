@@ -46,20 +46,24 @@ SAFETY Mark.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="mains plugs 1" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-1.jpg">
 </div>
-<p><strong>(1) The 2.5AMP 2 round-pin mains plug</strong> – This is generally
-used for electronics appliances such as TV, DVD and audio sets. These appliances
-do not rely on the ‘Earth’ wire for protection from a short circuit and
-therefore only 2 pins are needed – one for the ‘Live’ wire and the other
+<p><strong>2.5A 2 round-pin mains plug (or Type C plug)</strong>&nbsp;– This
+is generally used for low-power appliances (e.g., TV, DVD, and audio sets)
+that are designed with internal safety features, such as double insulation,
+that provide sufficient protection against leakage current. &nbsp;Such
+appliances do not rely on the ‘Earth’ wire for protection from a short
+circuit and only 2 pins are needed – one for the ‘Live’ wire and the other
 for the ‘Neutral’ wire.</p>
-<p></p>
+<p>Consumers should use suitable adaptors (e.g. fused conversion plugs) to
+safely connect 2.5A 2-pin plugs to 3-pin mains socket outlets. Do not force
+the 2-pin plug into a 3-pin socket without a proper adaptor.</p>
 <p><strong>Caution: Schuko plugs</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 25%;" height="auto" width="100%" alt="mains plugs 4" src="/images/consumers/did-you-know/types-of-mains-plugs/mains-plugs-4.jpg">
 </div>
 <p>Some appliances are fitted with mains plugs meant for the German market.
-These are <strong>rated at 10/16AMP</strong> and known as <strong>‘Schuko’</strong> plugs
-(<em>see image</em>). This type of mains plug is <strong>not suitable for use in Singapore</strong>.
+These are&nbsp;<strong>rated at 10A/16A</strong>&nbsp;and known as&nbsp;<strong>‘Schuko’</strong>&nbsp;plugs
+(<em>see image</em>). This type of mains plug is&nbsp;<strong>not suitable for use in Singapore</strong>.
 The dimension of the round pins will stress the contacts of the mains socket
 outlet, subsequently leading to poor contact and overheating.</p>
 <p>Furthermore, while ‘Schuko’ plugs may come with earthing strips located
