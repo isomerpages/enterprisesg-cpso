@@ -67,11 +67,11 @@ and definitions of Controlled Goods</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.go.gov.sg/list-of-cps-cab" rel="noopener nofollow" target="_blank">List of Conformity of Assessment Bodies</a>
+<p><a href="/files/list_of_CABs_and_approved_scope.pdf" rel="noopener noreferrer nofollow" target="_blank">List of Conformity Assessment Bodies</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>See the document</p>
+<p>12 Sep 2025</p>
 </td>
 </tr>
 <tr>
