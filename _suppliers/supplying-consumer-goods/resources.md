@@ -20,11 +20,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/cgsr-info-book.pdf" rel="noopener nofollow" target="_blank">Consumer Protection (Consumer Goods Safety Requirements) Regulations Information Booklet</a>
+<p><a href="/files/04__CGSR_Info_booklet__26_Sep_25_.pdf" rel="noopener nofollow" target="_blank">Consumer Protection (Consumer Goods Safety Requirements) Regulations Information Booklet</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Jul 2025</p>
+<p>26 Sep 2025</p>
 </td>
 </tr>
 </tbody>
