@@ -2,9 +2,10 @@
 layout: homepage
 title: Consumer Product Safety Office
 description: The Consumer Product Safety Office (CPSO) is an office overseen by
-  Enterprise Singapore that is responsible for implementing the Consumer
-  Protection (Safety Requirements) Regulations (CPSR) and Consumer Protection
-  (Consumer Goods Safety Requirements) Regulations 2011 (CGSR).
+  the Competition and Consumer Commision of Singapore that is responsible for
+  implementing the Consumer Protection (Safety Requirements) Regulations (CPSR)
+  and Consumer Protection (Consumer Goods Safety Requirements) Regulations 2011
+  (CGSR).
 image: /images/isomer-logo.svg
 permalink: /
 notification: From 1 July 2025, the Consumer Product Safety Office is
