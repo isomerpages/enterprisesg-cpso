@@ -24,7 +24,7 @@ how to <a href="/suppliers/cpsr/register-your-controlled-goods" rel="noopener no
 <p>Any person found guilty of selling unregistered Controlled Goods, is liable
 upon conviction, to a fine not exceeding S$10,000 or imprisonment for a
 term not exceeding two years or both.</p>
-<h2>What is the SAFETY Mark</h2>
+<h2>What is the SAFETY Mark?</h2>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="safety mark" src="/images/about-us/safety-mark.jpg">
 </div>
