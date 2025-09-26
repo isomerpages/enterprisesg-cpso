@@ -30,8 +30,7 @@ test reports will be affixed with this logo:</p>
 </div>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reports issued by designated Conformity
 Assessment Bodies (Testing). Our list of Conformity Assessment Bodies (CABs)
-can be found on page 3 of this document: <a rel="noopener noreferrer nofollow" target="_blank">https://file.go.gov.sg/list-of-cps-cab.pdf</a>
-</p>
+can be found in this <a href="/files/list_of_CABs_and_approved_scope.pdf" rel="noopener nofollow" target="_blank">document</a>.</p>
 <p>The RS then submits the test reports and other relevant documentation
 to a CAB (Certification) for review. If the CGs meet safety requirements,
 the CAB (Certification) issues a Certificate of Conformity (CoC) and submits
