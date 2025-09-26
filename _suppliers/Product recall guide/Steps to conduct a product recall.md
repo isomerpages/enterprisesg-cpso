@@ -56,4 +56,5 @@ to provide capability to receive products that are subject to recall, even
 if the active recall operation has concluded.</p>
 <p></p>
 <p>For detailed guidance on how to conduct a product recall from start to
-finish, please refer to our <a href="/files/product-safety-alerts-and-recalls/product_recall_guide.pdf" rel="noopener noreferrer nofollow" target="_blank">Product Recall Guide for Suppliers</a>.</p>
+finish, please refer to our <a href="/files/guidelines_on_recall_notice.pdf" rel="noopener nofollow" target="_blank">Product Recall Guide for Suppliers.</a>
+</p>
