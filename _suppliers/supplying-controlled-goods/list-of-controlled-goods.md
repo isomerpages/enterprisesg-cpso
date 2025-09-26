@@ -12,7 +12,7 @@ conformity assessment approaches.</p>
 <p>For registration of low risk CGs, the Registered Supplier will have to
 submit a Supplier’s Declaration of Conformity to the Consumer Product Safety
 Office. For medium and high risk CGs, a Certificate of Conformity issued
-by a <a href="https://www.go.gov.sg/list-of-cps-cab" rel="noopener noreferrer nofollow" target="_blank">designated Conformity Assessment Body</a> is
+by a <a href="https://safe.menlosecurity.com/https://www.consumerproductsafety.gov.sg/files/list_of_CABs_and_approved_scope.pdf" rel="noopener noreferrer nofollow" target="_blank">designated Conformity Assessment Body</a> is
 required for registration of the CG. Click to find out more about <a href="/suppliers/cpsr/register-your-controlled-goods" rel="noopener noreferrer nofollow" target="_blank">registering CGs.</a>
 </p>
 <p>Suppliers must first apply to be a Registered Supplier before supplying
@@ -746,6 +746,9 @@ in a suitable box or for surface or panel mounting.</p>
 <td rowspan="1" colspan="1">
 <p><u>3-pin 13-amp socket-outlet</u>
 <br>SS 145-2:2018</p>
+<p></p>
+<p><u>3-pin 13-amp socket-outlet with remote-control function </u>
+<br>TR 116:2023</p>
 <p></p>
 <p><u>3-pin 13-amp socket-outlet (cooker control unit)<br></u>BS 4177:1992
 + A1:1993 + A2:1997 + A3:2004 + A4:2007</p>

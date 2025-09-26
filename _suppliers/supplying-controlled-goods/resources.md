@@ -27,7 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/01a__Overview_of_CPS_Registration__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">Overview of Registration Process for Controlled Goods</a>
+<p><a href="/files/overview-cps-registration.pdf" rel="noopener noreferrer nofollow" target="_blank">Overview of Registration Process for Controlled Goods</a>
 </p>
 <p>Note: Includes the contact information of Conformity Assessment Bodies
 for Certification</p>
@@ -38,7 +38,7 @@ for Certification</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/01b__CPSA__guide_for_RS__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to using CPSA</a>
+<p><a href="/files/CPSA_guide_for_RS.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to using CPSA+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -47,7 +47,7 @@ for Certification</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/01c__CPS_CAB_Info_booklet__26_Sep_25_.pdf" rel="noopener nofollow" target="_blank">Conformity Assessment Information Booklet</a>
+<p><a href="/files/cab-info-booklet.pdf" rel="noopener nofollow" target="_blank">Conformity Assessment Information Booklet</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
