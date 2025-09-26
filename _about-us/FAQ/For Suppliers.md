@@ -109,7 +109,8 @@ developer) must then register the washing machine before it reaches consumers.</
 <h3><strong><u>Displaying the SAFETY Mark</u></strong></h3>
 <p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How should the SAFETY Mark be displayed on Controlled Goods (CGs)?</strong>
 </p>
-<p>Please refer to the guidelines on the usage of the SAFETY Mark <a href="https://www.consumerproductsafety.gov.sg/images/cpsr-resources/guidelines-on-the-usage-of-the-safety-mark.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+<p>Please refer to the guidelines on the usage of the SAFETY Mark at <strong>Appendix E</strong> of
+our <a href="/files/cps-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">CPSR Information Booklet</a>.
 In general, the SAFETY Mark should be easily discernible on the CGs. The
 marking should not be removed when rubbed lightly with a piece of cloth
 soaked with petroleum, spirit, or water.
