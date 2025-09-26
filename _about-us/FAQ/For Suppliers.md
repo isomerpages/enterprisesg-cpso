@@ -45,8 +45,9 @@ find out more on how to register CGs.</p>
 <p>&nbsp;<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the CPSO conduct testing on products for the purpose of registering CGs?</strong>
 </p>
 <p>The CPSO is not a test laboratory and does not perform any testing. For
-the testing and certification of CGs, please refer to the list of Conformity
-Assessment Bodies <a href="/files/list_of_CABs_and_approved_scope.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+the testing and certification of CGs, please contact any of our designated
+Conformity Assessment Bodies. Their contact information (see last page
+of the file) and certification scopes are available <a href="/files/list_of_CABs_and_approved_scope.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How much does it cost to test and certify my CGs?</strong>
 </p>
 <p>The CPSO does not directly regulate prices charged by CABs for testing
