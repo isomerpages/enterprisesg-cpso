@@ -15,7 +15,7 @@ electronic device used to access our website.</p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; You can choose to accept or decline our
 cookies. Most web browsers automatically accept cookies, but you can usually
 modify your browser setting to decline our cookies if you prefer. This
-may prevent you from taking full advantage of the CCCS website.</p>
+may prevent you from taking full advantage of the CCS website.</p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; If you provide us with personal data</p>
 <p>a.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We may share your personal data, where
 necessary, with other Government agencies, so as to serve you in the most
@@ -35,7 +35,7 @@ secured with appropriate security technologies.</p>
 sites whose data protection and privacy practices may differ from ours.
 We are not responsible for the content and privacy practices of these other
 websites and encourage you to consult the privacy notices of those sites.</p>
-<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please&nbsp;<a href="https://www.cccs.gov.sg/get-in-touch/general-feedback/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a>&nbsp;if
+<p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Please&nbsp;<a href="https://www.ccs.gov.sg/get-in-touch/general-feedback/contact-us/" rel="noopener noreferrer nofollow" target="_blank">contact us</a>&nbsp;if
 you have any enquires or feedback on our data protection policies and procedures
 and/or need more information on or access to data which you have provided
 to us in the past.</p>
