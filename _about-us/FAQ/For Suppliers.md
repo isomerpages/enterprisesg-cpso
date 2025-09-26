@@ -35,8 +35,8 @@ can be found in this <a href="/files/list_of_CABs_and_approved_scope.pdf" rel="n
 to a CAB (Certification) for review. If the CGs meet safety requirements,
 the CAB (Certification) issues a Certificate of Conformity (<strong>CoC</strong>)
 and submits the CoC to the CPSO. If the CPSO deems the application to be
-in order, a Letter of Approval will be issued to the RS. &nbsp;&nbsp;</p>
-<p>Registration is completed when the registration fee for the SDoC and the
+in order, a Letter of Approval will be issued to the RS. &nbsp;&nbsp;
+<br>Registration is completed when the registration fee for the SDoC and the
 CoC is paid. The RS will be issued a SAFETY Mark number, which must be
 displayed on all units of the CG or its packaging. The SAFETY Mark number
 is the same for every single model of the product.</p>
