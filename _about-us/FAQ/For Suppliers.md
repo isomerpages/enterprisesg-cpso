@@ -46,8 +46,8 @@ find out more on how to register CGs.</p>
 </p>
 <p>The CPSO is not a test laboratory and does not perform any testing. Suppliers
 may approach any testing laboratories accredited by the Singapore Accreditation
-Council (SAC) with the relevant testing scope for your product (see the
-list of accredited laboratories on SAC’s website at <a rel="noopener noreferrer nofollow" target="_blank"><u>https://sacinet2.enterprisesg.gov.sg/sacsearch/search)</u></a>.</p>
+Council (SAC) with the relevant testing scope for your product (click
+<a href="https://sacinet2.enterprisesg.gov.sg/sacsearch/search" rel="noopener nofollow" target="_blank">here</a>for the list of accredited laboratories on SAC's website).</p>
 <p>For the certification of CGs, please contact any of our designated Conformity
 Assessment Bodies. Their contact information (see last page of the file)
 and certification scopes are available <a href="/files/list_of_CABs_and_approved_scope.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
