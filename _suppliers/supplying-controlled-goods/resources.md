@@ -27,8 +27,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/01a__Overview_of_CPS_Registration__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">Overview of Registrat</a>
-<a href="/files/01a__Overview_of_CPS_Registration__26_Sep_25_.pdf" rel="noopener nofollow" target="_blank">i</a><a href="/files/01a__Overview_of_CPS_Registration__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">on Process for Controlled Goods</a>
+<p><a href="/files/01a__Overview_of_CPS_Registration__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">Overview of Registration Process for Controlled Goods</a>
 </p>
 <p>Note: Includes the contact information of Conformity Assessment Bodies
 for Certification</p>
@@ -43,7 +42,7 @@ for Certification</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Sep 202526 Sep 202526 Sep 2025</p>
+<p>26 Sep 2025</p>
 </td>
 </tr>
 <tr>
@@ -57,13 +56,13 @@ for Certification</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/01d__CPS_Info_booklet__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">Consumer Protection (Safety Requirements) Regulations Information Booklet</a>
+<p><a href="/files/cps-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Consumer Protection (Safety Requirements) Regulations Information Booklet</a>
 </p>
 <p>Note: Includes guidance on the use of the <strong>Safety Mark</strong>,
 and definitions of Controlled Goods</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1 Jul 2025</p>
+<p>26 Sep 2025</p>
 </td>
 </tr>
 <tr>
