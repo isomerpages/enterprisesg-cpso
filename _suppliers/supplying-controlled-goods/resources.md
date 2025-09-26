@@ -56,7 +56,7 @@ for Certification</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/01d__CPS_Info_booklet__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">Consumer Protection (Safety Requirements) Regulations Information Booklet</a>
+<p><a href="/files/cps-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">Consumer Protection (Safety Requirements) Regulations Information Booklet</a>
 </p>
 <p>Note: Includes guidance on the use of the <strong>Safety Mark</strong>,
 and definitions of Controlled Goods</p>
