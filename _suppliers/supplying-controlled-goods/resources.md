@@ -38,7 +38,7 @@ for Certification</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/01b__CPSA__guide_for_RS__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to using CPSA</a>
+<p><a href="/files/01b__CPSA__guide_for_RS__26_Sep_25_.pdf" rel="noopener noreferrer nofollow" target="_blank">Guide to using CPSA+</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
