@@ -30,9 +30,8 @@ batches of products. Information captured should clearly identify the product.</
 should inform the relevant stakeholders in the supply chain.</p>
 <p>•Suppliers should also inform the CPSO of the intended product recall
 prior to enacting the recall.</p>
-<p>•Suppliers may include a Recall Action Plan (click <a href="/files/product-safety-alerts-and-recalls/recall_action_plan_template.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-the template) for added information when notifying the CPSO of the product
-recall.</p>
+<p>•Suppliers may include a Recall Action Plan (click <a href="/files/recall_action_plan_template.pdf" rel="noopener nofollow" target="_blank">here</a> for the template)
+for added information when notifying the CPSO of the product recall.</p>
 <p></p>
 <p><strong>Step 4: Progress Reporting</strong>
 </p>
@@ -40,7 +39,7 @@ recall.</p>
 be carefully monitored to ensure that it is effective and achieves its
 objectives.&nbsp;</p>
 <p>•Suppliers should report the progress to the CPSO, at an agreed-upon frequency.
-Suppliers may follow the <a href="/files/product-safety-alerts-and-recalls/recall_progress_template.pdf" rel="noopener noreferrer nofollow" target="_blank">Recall Progress Report template</a>.</p>
+Suppliers may follow the <a href="/files/recall_progress_template.pdf" rel="noopener nofollow" target="_blank">Product Recall Progress Template</a>.</p>
 <p>•It is important to evaluate the effectiveness of the recall continually
 in order to ensure that objectives are being met, and if necessary to adjust
 the Recall Action Plan to improve the recall effectiveness.</p>
