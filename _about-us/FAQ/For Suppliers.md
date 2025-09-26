@@ -48,17 +48,17 @@ find out more on how to register CGs.</p>
 may approach any testing laboratories accredited by the Singapore Accreditation
 Council (SAC) with the relevant testing scope for your product (click
 <a href="https://sacinet2.enterprisesg.gov.sg/sacsearch/search" rel="noopener nofollow" target="_blank">here</a>for the list of accredited laboratories on SAC's website).</p>
-<p>For the certification of CGs, please contact any of our designated Conformity
-Assessment Bodies. Their contact information (see last page of the file)
-and certification scopes are available <a href="/files/list_of_CABs_and_approved_scope.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How much does it cost to test and certify my CGs?</strong>
 </p>
-<p>The CPSO does not directly regulate prices charged by CABs for testing
-and certification. Therefore, we are unable to advise on the cost of these
-services. However, we recommend that you approach multiple CABs for price
-comparison. The CABs can also better guide you through the registration
-process (e.g. the type of test reports needed) after reviewing your product’s
-technical specifications.</p>
+<p>The CPSO does not directly regulate prices charged by CABs and laboratories
+for testing and certification. Therefore, we are unable to advise on the
+cost of these services. Please contact any of our designated Conformity
+Assessment Bodies for certification. Their contact information (see last
+page of the file) and certification scopes are available <a href="/files/list_of_CABs_and_approved_scope.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>However, we recommend that you approach multiple CABs for price comparison.
+The CABs can also better guide you through the registration process (e.g.
+the type of test reports needed) after reviewing your product’s technical
+specifications.</p>
 <p><strong>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How long does it take to test or to certify CGs?</strong>
 </p>
 <p>This is dependent on your product and your arrangement with the CABs.
