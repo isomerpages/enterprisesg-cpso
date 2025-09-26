@@ -747,6 +747,10 @@ in a suitable box or for surface or panel mounting.</p>
 <p><u>3-pin 13-amp socket-outlet</u>
 <br>SS 145-2:2018</p>
 <p></p>
+<p><u>3-pin 13-amp socket-outlet with remote-control function</u>
+</p>
+<p>TR 116: 2023</p>
+<p></p>
 <p><u>3-pin 13-amp socket-outlet (cooker control unit)<br></u>BS 4177:1992
 + A1:1993 + A2:1997 + A3:2004 + A4:2007</p>
 <p></p>
