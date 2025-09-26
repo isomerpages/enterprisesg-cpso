@@ -8,10 +8,10 @@ third_nav_title: FAQ
 <h3><strong><u>Registration of Controlled Goods (CGs)</u></strong></h3>
 <p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I register Controlled Goods (CGs)?</strong>
 </p>
-<p><strong>For <em>low risk CGs:</em></strong> The Registered Supplier (RS)
-can submit a Supplier’s Declaration of Conformity (SDoC) to the CPSO via
-the CPSA+ system. In doing so, the RS is making a self-declaration that
-the low risk CGs conform to the requirements of the Consumer Protection
+<p><strong>For <em>low risk CGs:</em></strong> The Registered Supplier (<strong>RS</strong>)
+can submit a Supplier’s Declaration of Conformity (<strong>SDoC</strong>)
+to the CPSO via the CPSA+ system. In doing so, the RS is making a self-declaration
+that the low risk CGs conform to the requirements of the Consumer Protection
 (Safety Requirements) Regulations.</p>
 <p><strong>For <em>medium and high risk CGs</em></strong><em>:</em> The RS
 should first obtain the relevant test reports for their products. The following
@@ -29,13 +29,13 @@ test reports will be affixed with this logo:</p>
 <img style="width: 10%;" height="auto" width="100%" alt="" src="/images/ILAC_MRA_logo.png">
 </div>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Reports issued by designated Conformity
-Assessment Bodies (Testing). Our list of Conformity Assessment Bodies (CABs)
+Assessment Bodies (Testing). Our list of Conformity Assessment Bodies (<strong>CABs</strong>)
 can be found in this <a href="/files/list_of_CABs_and_approved_scope.pdf" rel="noopener nofollow" target="_blank">document</a>.</p>
 <p>The RS then submits the test reports and other relevant documentation
 to a CAB (Certification) for review. If the CGs meet safety requirements,
-the CAB (Certification) issues a Certificate of Conformity (CoC) and submits
-the CoC to the CPSO. If the CPSO deems the application to be in order,
-a Letter of Approval will be issued to the RS. &nbsp;&nbsp;</p>
+the CAB (Certification) issues a Certificate of Conformity (<strong>CoC</strong>)
+and submits the CoC to the CPSO. If the CPSO deems the application to be
+in order, a Letter of Approval will be issued to the RS. &nbsp;&nbsp;</p>
 <p>Registration is completed when the registration fee for the SDoC and the
 CoC is paid. The RS will be issued a SAFETY Mark number, which must be
 displayed on all units of the CG or its packaging. The SAFETY Mark number
@@ -46,29 +46,28 @@ find out more on how to register CGs.</p>
 </p>
 <p>The CPSO is not a test laboratory and does not perform any testing. For
 the testing and certification of CGs, please refer to the list of Conformity
-Assessment Bodies <a href="https://www.consumerproductsafety.gov.sg/images/cpsr-resources/list-of-cab-cps-scheme-ver-22-04-21.xlsx" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+Assessment Bodies <a href="/files/list_of_CABs_and_approved_scope.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How much does it cost to test and certify my CGs?</strong>
 </p>
-<p>The CPSO does not directly regulate prices charged by Conformity Assessment
-Bodies for testing and certification. Therefore, we are unable to advise
-on the cost of these services. However, we recommend that you approach
-multiple CABs for price comparison. The CABs can also better guide you
-through the registration process (e.g. the type of test reports needed)
-after reviewing your product’s technical specifications.</p>
+<p>The CPSO does not directly regulate prices charged by CABs for testing
+and certification. Therefore, we are unable to advise on the cost of these
+services. However, we recommend that you approach multiple CABs for price
+comparison. The CABs can also better guide you through the registration
+process (e.g. the type of test reports needed) after reviewing your product’s
+technical specifications.</p>
 <p><strong>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How long does it take to test or to certify CGs?</strong>
 </p>
-<p>This is dependent on your product and your arrangement with the Conformity
-Assessment Bodies. Registered Suppliers should check with the CABs to gauge
-the amount of lead time needed and allocate ample time for the testing,
-certification and registration process. Depending on the complexity and
-logistics arrangements with the CABs, the entire process may take several
-months to complete.</p>
+<p>This is dependent on your product and your arrangement with the CABs.
+Registered Suppliers should check with the CABs to gauge the amount of
+lead time needed and allocate ample time for the testing, certification
+and registration process. Depending on the complexity and logistics arrangements
+with the CABs, the entire process may take several months to complete.</p>
 <p>&nbsp;<strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the validity period of the CG registration?</strong>
 </p>
-<p>The registration of CGs is valid for three years and may be renewed prior
-to expiry. Registered Suppliers should initiate the renewal process at
-least 6 months prior to the expiration date to cater for any potential
-unforeseen delays.</p>
+<p>The registration of CGs is valid for<strong> three years</strong> and may
+be renewed prior to expiry. Registered Suppliers should initiate the renewal
+process <strong>at least 6 months prior</strong> to the expiration date to
+cater for any potential unforeseen delays.</p>
 <p>&nbsp;<strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why does the registration of CGs expire?</strong>
 </p>
 <p>Controlled Goods (CGs) may evolve over time due to reasons such as changes
