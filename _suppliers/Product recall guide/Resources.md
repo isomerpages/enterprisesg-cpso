@@ -21,7 +21,7 @@ third_nav_title: Product recall guide
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/03a___Product_recall_guide_for_suppliers.pdf" rel="noopener nofollow" target="_blank">Product Recall Guide for Suppliers</a>
+<p><a href="/files/product_recall_guide.pdf" rel="noopener nofollow" target="_blank">Product Recall Guide for Suppliers</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -30,7 +30,7 @@ third_nav_title: Product recall guide
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/03b__Recall_action_plan_template_for_suppliers.pdf" rel="noopener nofollow" target="_blank">Recall Action Plan Template</a>
+<p><a href="/files/recall_action_plan_template.pdf" rel="noopener nofollow" target="_blank">Recall Action Plan Template</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -39,7 +39,7 @@ third_nav_title: Product recall guide
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/03c__Guidance_on_recall_notice.pdf" rel="noopener nofollow" target="_blank">Guidance on Recall Notice</a>
+<p><a href="/files/guidelines_on_recall_notice.pdf" rel="noopener nofollow" target="_blank">Guidance on Recall Notice</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
