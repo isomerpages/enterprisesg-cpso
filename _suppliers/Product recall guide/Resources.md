@@ -48,7 +48,7 @@ third_nav_title: Product recall guide
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/03d__Recall_progress_template.pdf" rel="noopener nofollow" target="_blank">Recall Progress Report Template</a>
+<p><a href="/files/recall_progress_template.pdf" rel="noopener nofollow" target="_blank">Recall Progress Template</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
