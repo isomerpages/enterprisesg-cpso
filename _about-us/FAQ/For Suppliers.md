@@ -44,10 +44,13 @@ is the same for every single model of the product.</p>
 find out more on how to register CGs.</p>
 <p>&nbsp;<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the CPSO conduct testing on products for the purpose of registering CGs?</strong>
 </p>
-<p>The CPSO is not a test laboratory and does not perform any testing. For
-the testing and certification of CGs, please contact any of our designated
-Conformity Assessment Bodies. Their contact information (see last page
-of the file) and certification scopes are available <a href="/files/list_of_CABs_and_approved_scope.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p>The CPSO is not a test laboratory and does not perform any testing. Suppliers
+may approach any testing laboratories accredited by the Singapore Accreditation
+Council (SAC) with the relevant testing scope for your product (see the
+list of accredited laboratories on SAC’s website at <a rel="noopener noreferrer nofollow" target="_blank"><u>https://sacinet2.enterprisesg.gov.sg/sacsearch/search)</u></a>.</p>
+<p>For the certification of CGs, please contact any of our designated Conformity
+Assessment Bodies. Their contact information (see last page of the file)
+and certification scopes are available <a href="/files/list_of_CABs_and_approved_scope.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
 <p>&nbsp;<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How much does it cost to test and certify my CGs?</strong>
 </p>
 <p>The CPSO does not directly regulate prices charged by CABs for testing
