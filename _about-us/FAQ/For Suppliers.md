@@ -150,21 +150,22 @@ information on the CPSA+ (under “User Guides on CPSA+ for RS”).</p>
 <h3><strong>&nbsp;<u>Sale of General Consumer Goods</u></strong></h3>
 <p><strong>13.&nbsp; What safety standards apply to general consumer goods sold in Singapore?</strong>
 </p>
-<p>General consumer goods covered by the CGSR regulations are required to <u>meet applicable international safety standards</u>,
-such as standards formulated or adopted and published by:</p>
-<p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the International
-Organisation for Standardization (ISO standards)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the International Electro-Technical
-Commission (IEC standards)</p>
+<p>General consumer goods covered by the CGSR regulations are required to
+comply with<u> applicable international safety standards</u> by at least
+one of the following organisations:</p>
+<p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International
+Organisation for Standardization (ISO)</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Electro-Technical
+Commission (IEC)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the European Committee
 for Standardisation (EN standards)</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the ASTM International
 (ASTM standards)</p>
 <p>You may also refer to sections 5.1 and 5.2 (pages 9 – 16) of the Consumer
-Protection (Consumer Goods Safety Requirements) Regulations <a href="https://www.consumerproductsafety.gov.sg/suppliers/cgsr/resources/" rel="noopener noreferrer nofollow" target="_blank">information booklet</a> for
-a <u>non-exhaustive</u> list of common general consumer goods with their
-applicable safety standards and any additional safety requirements imposed
-by the CPSO.</p>
+Protection (Consumer Goods Safety Requirements) Regulations Information
+Booklet for a <u>non-exhaustive</u> list of common general consumer goods
+with their applicable safety standards and any additional safety requirements
+imposed by the CPSO.</p>
 <p>These goods include toys, children’s products, apparel, furniture and
 beddings, recreation and exercise equipment, DIY tools, and electrical
 and electronic products. The CPSO also imposes additional safety requirements
