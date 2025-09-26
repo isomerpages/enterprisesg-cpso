@@ -39,7 +39,7 @@ third_nav_title: Product recall guide
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><a href="/files/guidelines_on_recall_notice.pdf" rel="noopener nofollow" target="_blank">Guidance on Recall Notice</a>
+<p><a href="/files/guidelines_on_recall_notice.pdf" rel="noopener nofollow" target="_blank">Guidelines on Recall Notice</a>
 </p>
 </td>
 <td rowspan="1" colspan="1">
