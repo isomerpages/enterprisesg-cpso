@@ -52,7 +52,7 @@ Council (SAC) with the relevant testing scope for your product (click
 </p>
 <p>The CPSO does not directly regulate prices charged by CABs and laboratories
 for testing and certification. Therefore, we are unable to advise on the
-cost of these services. Please contact any accredited testing laboratory
+cost of these services. Please contact any SAC-accredited testing laboratory
 (see FAQ 2 above) or any of our designated CAB (Certification) to enquire.
 Our CABs' contact information (see last page of the file) and certification
 scopes are available <a href="/files/list_of_CABs_and_approved_scope.pdf" rel="noopener nofollow" target="_blank">here</a>.</p>
@@ -62,8 +62,8 @@ type of test reports needed) after reviewing your product’s technical specific
 <p><strong>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How long does it take to test or to certify CGs?</strong>
 </p>
 <p>This is dependent on your product and your arrangement with the CABs.
-Registered Suppliers should check with the CABs to gauge the amount of
-lead time needed and allocate ample time for the testing, certification
+Registered Suppliers should check with the CABs (see FAQ 3) to gauge the
+amount of lead time needed and allocate ample time for the testing, certification
 and registration process. Depending on the complexity and logistics arrangements
 with the CABs, the entire process may take several months to complete.</p>
 <p>&nbsp;<strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the validity period of the CG registration?</strong>
