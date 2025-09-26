@@ -77,7 +77,7 @@ found on the SAFETY Mark</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Check that the product information in the search results tallies with
-the product. Should there be no matches, contact us at 6325 8282 or <a href="https://go.gov.sg/contact-cpso" rel="noopener nofollow" target="_blank">our online form</a>.</p>
+the product. Should there be no matches, contact us at <a href="https://go.gov.sg/contact-cpso" rel="noopener nofollow" target="_blank">our online form</a>.</p>
 </td>
 </tr>
 </tbody>
