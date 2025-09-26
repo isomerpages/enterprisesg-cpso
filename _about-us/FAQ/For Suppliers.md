@@ -153,19 +153,25 @@ information on the CPSA+ (under “User Guides on CPSA+ for RS”).</p>
 <p>General consumer goods covered by the CGSR regulations are required to
 comply with<u> applicable international safety standards</u> by at least
 one of the following organisations:</p>
-<p>&nbsp;·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International
-Organisation for Standardization (ISO)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; International Electro-Technical
-Commission (IEC)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the European Committee
-for Standardisation (EN standards)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; the ASTM International
-(ASTM standards)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>International Organisation for Standardization (ISO)</p>
+</li>
+<li>
+<p>International Electro-Technical Commission (IEC)</p>
+</li>
+<li>
+<p>European Committee for Standardisation (EN)</p>
+</li>
+<li>
+<p>ASTM International.</p>
+</li>
+</ul>
 <p>You may also refer to sections 5.1 and 5.2 (pages 9 – 16) of the Consumer
-Protection (Consumer Goods Safety Requirements) Regulations Information
-Booklet for a <u>non-exhaustive</u> list of common general consumer goods
-with their applicable safety standards and any additional safety requirements
-imposed by the CPSO.</p>
+Protection (Consumer Goods Safety Requirements) Regulations <a href="/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Booklet</a> for
+a <u>non-exhaustive</u> list of common general consumer goods with their
+applicable safety standards and any additional safety requirements imposed
+by the CPSO.</p>
 <p>These goods include toys, children’s products, apparel, furniture and
 beddings, recreation and exercise equipment, DIY tools, and electrical
 and electronic products. The CPSO also imposes additional safety requirements
