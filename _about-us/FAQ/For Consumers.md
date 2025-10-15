@@ -132,7 +132,7 @@ is a Controlled Good and you cannot locate its relevant SAFETY Mark.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if the SAFETY Mark on my appliance is listed as “Expired” in the <a href="https://www.cpsaplus.gov.sg/Homepage" rel="noopener nofollow" target="_blank">CPSA+ database for Controlled Goods</a>?</strong>
+<summary><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if the SAFETY Mark on my appliance is listed as “Expired” in the <a href="https://www.cpsaplus.gov.sg/Homepage" rel="noopener nofollow" target="_blank">CPSA+ database for Controlled Goods</a>?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The product was previously tested and certified to meet the relevant safety
@@ -155,7 +155,7 @@ to purchase unregistered CGs will be doing so at their own risk.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>&nbsp;<strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I choose safer consumer products and use them safely?</strong>
+<summary><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I choose safer consumer products and use them safely?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Before purchase, the CPSO recommends that you research the product and
