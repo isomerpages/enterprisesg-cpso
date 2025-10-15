@@ -245,7 +245,7 @@ on toys and childcare articles, as well as portable power banks.</p>
 </details>
 </div>
 <p></p>
-<h3><u>Company Information in CPSA+</u></h3>
+<h3><strong><u>Company Information in CPSA+</u></strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>14.&nbsp; How do I navigate the CPSA+ system?</strong>
@@ -267,18 +267,19 @@ the CPSA+ system to pull your company’s information from the ACRA database
 and sync automatically.</p>
 </div>
 </details>
-</div>
-<p>
-<br>
-</p>
-<p></p>
-<p>&nbsp;<strong>16.&nbsp; How do I change my company contact person in CPSA+?</strong>
-</p>
+<details class="isomer-details">
+<summary><strong>16.&nbsp; How do I change my company contact person in CPSA+?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Click on the grey “Edit Profile” button in the top left corner of the
 landing page. Then, scroll to the “Contact Person(s) Information” section
 and key in the details of your new contact person. Every supplier must
 have one contact person. The CPSO will send email updates regarding changes
 in regulatory policy or actions required from the supplier to the contact
 person.</p>
+</div>
+</details>
+</div>
+<p></p>
 <p>&nbsp;</p>
 <p></p>
