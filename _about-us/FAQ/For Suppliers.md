@@ -246,7 +246,7 @@ on toys and childcare articles, as well as portable power banks.</p>
 </div>
 <p></p>
 <h3><u>Company Information in CPSA+</u></h3>
-<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>14.&nbsp; How do I navigate the CPSA+ system?</strong>
 </summary>
@@ -256,15 +256,22 @@ scroll down to the “Consumer Product Safety” section. Then, click on “User
 Guides on CPSA+ for RS” to load our PDF guide for Registered Suppliers.</p>
 </div>
 </details>
-</div>
-<p>
-<br><strong>15.&nbsp; How do I change my company address in CPSA+?</strong>
-</p>
-<p>First, update your company’s information in ACRA. Then, log into your
+<details class="isomer-details">
+<summary><strong>15.&nbsp; How do I change my company address in CPSA+?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>First, update your company’s information in ACRA. Then, log in to your
 CPSA+ account. Click on the grey “Edit Profile” button on the top left
 corner. Under your profile, select “Retrieve Company Info”. This will allow
 the CPSA+ system to pull your company’s information from the ACRA database
 and sync automatically.</p>
+</div>
+</details>
+</div>
+<p>
+<br>
+</p>
+<p></p>
 <p>&nbsp;<strong>16.&nbsp; How do I change my company contact person in CPSA+?</strong>
 </p>
 <p>Click on the grey “Edit Profile” button in the top left corner of the
