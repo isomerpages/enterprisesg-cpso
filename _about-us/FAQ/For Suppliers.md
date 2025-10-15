@@ -281,5 +281,34 @@ person.</p>
 </details>
 </div>
 <p></p>
-<p>&nbsp;</p>
+<h4><strong><u>Resources / Guides by CPSO</u></strong></h4>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>17. Where can I find the CPSO's guides on Controlled Goods (CGs), the Safety Mark, or the relevant regulations?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Yes, please click on the hyperlinks below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/overview-of-cpsr/" rel="noopener nofollow" target="_blank">Resources</a> on
+CPSO's requirements for CGs, the Safety Mark, and relevant regulations;</p>
+</li>
+<li>
+<p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/overview-of-cpsr/" rel="noopener nofollow" target="_blank">Overview</a> of
+the relevant regulations;</p>
+</li>
+<li>
+<p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/list-of-controlled-goods/" rel="noopener nofollow" target="_blank">List</a> of
+CGs and the applicable safety standards.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
 <p></p>
