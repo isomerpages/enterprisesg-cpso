@@ -59,7 +59,7 @@ Council (SAC) with the relevant testing scope for your product (click
 </div>
 </details>
 <details class="isomer-details">
-<summary>&nbsp;<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How much does it cost to test and certify my CGs?</strong>
+<summary><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How much does it cost to test and certify my CGs?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The CPSO does not directly regulate prices charged by CABs and laboratories
@@ -74,7 +74,7 @@ type of test reports needed) after reviewing your product’s technical specific
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How long does it take to test or to certify CGs?</strong>
+<summary><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How long does it take to test or to certify CGs?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>This is dependent on your product and your arrangement with the CABs.
@@ -95,7 +95,7 @@ cater for any potential unforeseen delays.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>&nbsp;<strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why does the registration of CGs expire?</strong>
+<summary><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why does the registration of CGs expire?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>CGs may evolve over time due to reasons such as changes in components
@@ -110,7 +110,7 @@ updated regulations introduced since their last certification.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>&nbsp;&nbsp;<strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a parallel importer, reseller, or distributor. Do I need to register for a SAFETY Mark?</strong>
+<summary><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a parallel importer, reseller, or distributor. Do I need to register for a SAFETY Mark?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>At least one party in the supply chain must register for the SAFETY Mark
@@ -128,7 +128,7 @@ sending the product for testing and certification.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary>&nbsp;<strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do CGs supplied between businesses (i.e. B2B) require a SAFETY Mark?</strong>
+<summary><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do CGs supplied between businesses (i.e. B2B) require a SAFETY Mark?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Suppliers who choose to supply only to the commercial market need not
