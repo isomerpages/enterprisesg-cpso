@@ -287,11 +287,11 @@ person.</p>
 <summary><strong>17. Where can I find the CPSO's guides on Controlled Goods (CGs), the Safety Mark, or the relevant regulations?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Yes, please click on the hyperlinks below:</p>
+<p>Please click on the hyperlinks below:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/overview-of-cpsr/" rel="noopener nofollow" target="_blank">Resources</a> on
-CPSO's requirements for CGs, the Safety Mark, and relevant regulations;</p>
+the requirements for CGs and Safety Mark, and the relevant regulations;</p>
 </li>
 <li>
 <p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/overview-of-cpsr/" rel="noopener nofollow" target="_blank">Overview</a> of
@@ -305,9 +305,20 @@ CGs and the applicable safety standards.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>18. Where can I find the CPSO's guides on general consumer goods or the relevant regulations?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>Please click on the hyperlinks below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cgsr/resources/" rel="noopener nofollow" target="_blank">Resources</a> on
+the requirements for general consumer goods and the relevant regulations;</p>
+</li>
+<li>
+<p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cgsr/overview-of-cgsr/" rel="noopener nofollow" target="_blank">Overview</a> of
+the relevant regulations.</p>
+</li>
+</ul>
 </div>
 </details>
 </div>
