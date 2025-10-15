@@ -45,7 +45,7 @@ CoC is paid. The RS will be issued a SAFETY Mark number, which must be
 displayed on all units of the CG or its packaging. The SAFETY Mark number
 is the same for every single model of the product.</p>
 <p>Click <a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/register-your-controlled-goods/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more on how to register CGs.</p>
+find out more about the regulations for CGs (i.e. the <strong>Consumer Protection (Safety Requirements) Regulations</strong>).</p>
 </div>
 </details>
 <details class="isomer-details">
