@@ -194,17 +194,20 @@ the certification number.</p>
 <p>&nbsp;</p>
 </div>
 </details>
-</div>
-<p></p>
-<p>&nbsp;</p>
-<p><strong>12.&nbsp; How do I download the SAFETY Mark file in CPSA+?</strong>
-</p>
+<details class="isomer-details">
+<summary><strong>12.&nbsp; How do I download the SAFETY Mark file in CPSA+?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>If you are registered as an RS, log into your CPSA+ account. Then, click
 the “Menu” panel on the left and scroll to “Resources”. Under “Resources”,
 download the AI file type(s) for the SAFETY Mark logo.</p>
 <p>Click <a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/apply-to-be-a-registered-supplier/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 learn about how to register as an RS, and <a href="https://safe.menlosecurity.com/https:/www.cpsaplus.gov.sg/HomePage/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 information on the CPSA+ (under “User Guides on CPSA+ for RS”).</p>
+</div>
+</details>
+</div>
+<p></p>
 <h3><strong><u>Sale of General Consumer Goods</u></strong></h3>
 <p><strong>13.&nbsp; What safety standards apply to general consumer goods sold in Singapore?</strong>
 </p>
