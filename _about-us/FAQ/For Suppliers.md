@@ -109,12 +109,10 @@ of CGs with current regulatory requirements, and that they adhere to any
 updated regulations introduced since their last certification.</p>
 </div>
 </details>
-</div>
-<p></p>
-<p></p>
-<p></p>
-<p>&nbsp;&nbsp;<strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a parallel importer, reseller, or distributor. Do I need to register for a SAFETY Mark?</strong>
-</p>
+<details class="isomer-details">
+<summary>&nbsp;&nbsp;<strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a parallel importer, reseller, or distributor. Do I need to register for a SAFETY Mark?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>At least one party in the supply chain must register for the SAFETY Mark
 and affix it on the product before it is supplied to consumers. You cannot
 use the SAFETY Mark belonging to another registering company without their
@@ -127,6 +125,10 @@ before supplying it in Singapore.</p>
 <p>However, if you are unable to purchase units already affixed with the
 SAFETY Mark, you may need to register the product yourself, which involves
 sending the product for testing and certification.</p>
+</div>
+</details>
+</div>
+<p></p>
 <p>&nbsp;<strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do CGs supplied between businesses require a SAFETY Mark?</strong>
 </p>
 <p>Suppliers who choose to supply only to the commercial market need not
