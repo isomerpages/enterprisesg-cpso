@@ -95,24 +95,24 @@ cater for any potential unforeseen delays.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary>&nbsp;<strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why does the registration of CGs expire?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
+<p>CGs may evolve over time due to reasons such as changes in components
+or in manufacturing processes, which may make the product different from
+their initial design. Concurrently, regulatory requirements are periodically
+updated to align with industry developments and ensure continued protection
+for consumers. Examples of updates may include revisions to safety standards
+required for the SAFETY Mark.</p>
+<p>Hence, the expiry and renewal process serve to ensure ongoing compliance
+of CGs with current regulatory requirements, and that they adhere to any
+updated regulations introduced since their last certification.</p>
 </div>
 </details>
 </div>
 <p></p>
-<p>&nbsp;<strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why does the registration of CGs expire?</strong>
-</p>
-<p>Controlled Goods (CGs) may evolve over time due to reasons such as changes
-in components or in manufacturing processes, which may make the product
-different from their initial design. Concurrently, regulatory requirements
-are periodically updated to align with industry developments and ensure
-continued protection for consumers. Examples of updates may include revisions
-to safety standards required for the SAFETY Mark.</p>
-<p>Hence, the expiry and renewal process serve to ensure ongoing compliance
-of CGs with current regulatory requirements, and that they adhere to any
-updated regulations introduced since their last certification.</p>
+<p></p>
+<p></p>
 <p>&nbsp;&nbsp;<strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a parallel importer, reseller, or distributor. Do I need to register for a SAFETY Mark?</strong>
 </p>
 <p>At least one party in the supply chain must register for the SAFETY Mark
