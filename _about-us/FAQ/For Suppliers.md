@@ -127,21 +127,28 @@ SAFETY Mark, you may need to register the product yourself, which involves
 sending the product for testing and certification.</p>
 </div>
 </details>
-</div>
-<p></p>
-<p>&nbsp;<strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do CGs supplied between businesses require a SAFETY Mark?</strong>
-</p>
+<details class="isomer-details">
+<summary>&nbsp;<strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do CGs supplied between businesses (i.e. B2B) require a SAFETY Mark?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Suppliers who choose to supply only to the commercial market need not
 register their goods with the CPSO. However, they must ensure that the
 end users of such goods are not consumers. This could be done by vetting
 potential buyers or limiting sales channels to ensure the CGs are only
 for use or installed in non-households. A CG that is eventually used by
-consumers downstream for <em>home use</em> will require the SAFETY Mark.</p>
+consumers downstream for <strong>home</strong> use will require the SAFETY
+Mark.</p>
 <p>For example, if a supplier sells washing machines to a condominium developer
 to be placed inside the condominium units, the washing machines will require
-a SAFETY Mark. A party in the supply chain (e.g. the supplier or the condominium
-developer) must then register the washing machine before it reaches consumers.</p>
+a SAFETY Mark. One party in the supply chain (e.g. the supplier or the
+condominium developer) must register the washing machine before it reaches
+consumers.</p>
+</div>
+</details>
+</div>
+<p></p>
 <h3><strong><u>Displaying the SAFETY Mark</u></strong></h3>
+<p></p>
 <p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How should the SAFETY Mark be displayed on Controlled Goods (CGs)?</strong>
 </p>
 <p>Please refer to the guidelines on the usage of the SAFETY Mark at <strong>Appendix E</strong> of
