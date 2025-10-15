@@ -209,8 +209,11 @@ information on the CPSA+ (under “User Guides on CPSA+ for RS”).</p>
 </div>
 <p></p>
 <h3><strong><u>Sale of General Consumer Goods</u></strong></h3>
-<p><strong>13.&nbsp; What safety standards apply to general consumer goods sold in Singapore?</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>13.&nbsp; What safety standards apply to general consumer goods sold in Singapore?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Under the Consumer Protection (Consumer Goods Safety Requirements) Regulations&nbsp;2011
 (CGSR), general consumer goods must comply with <u>at least one</u> of the
 applicable safety standards by any of the following organisations, where
@@ -238,6 +241,10 @@ by the CPSO.</p>
 and beddings, recreation and exercise equipment, DIY tools, and electrical
 and electronic products. The CPSO also imposes additional safety requirements
 on toys and childcare articles, as well as portable power banks.</p>
+</div>
+</details>
+</div>
+<p></p>
 <h3><u>Company Information in CPSA+</u></h3>
 <p><strong>14.&nbsp; How do I navigate the CPSA+ system?</strong>
 </p>
