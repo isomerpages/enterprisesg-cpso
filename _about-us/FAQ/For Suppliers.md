@@ -233,7 +233,7 @@ available:</p>
 </li>
 </ul>
 <p>You may refer to sections 5.1 and 5.2 (<strong>pages 9 – 16</strong>)
-of the CGSR <a href="/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Booklet</a> for
+of the <a href="/files/cgsr-info-book.pdf" rel="noopener nofollow" target="_blank">CGSR Information Booklet</a> for
 a <u>non-exhaustive</u> list of common general consumer goods with their
 applicable safety standards and any additional safety requirements imposed
 by the CPSO.</p>
