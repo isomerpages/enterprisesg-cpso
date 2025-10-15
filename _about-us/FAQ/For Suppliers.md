@@ -281,7 +281,7 @@ person.</p>
 </details>
 </div>
 <p></p>
-<h4><strong><u>Resources by CPSO</u></strong></h4>
+<h3><strong><u>Resources by CPSO</u></strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>17. Where can I find the CPSO's guides on Controlled Goods (CGs), the Safety Mark, or the relevant regulations?</strong>
