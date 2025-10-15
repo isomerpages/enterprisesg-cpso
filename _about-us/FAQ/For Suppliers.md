@@ -6,8 +6,11 @@ description: ""
 third_nav_title: FAQ
 ---
 <h3><strong><u>Registration of Controlled Goods (CGs)</u></strong></h3>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I register Controlled Goods (CGs)?</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I register Controlled Goods (CGs)?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>For <em>low risk CGs:</em></strong> The Registered Supplier (<strong>RS</strong>)
 can submit a Supplier’s Declaration of Conformity (<strong>SDoC</strong>)
 to the CPSO via the CPSA+ system. In doing so, the RS is making a self-declaration
@@ -43,12 +46,27 @@ displayed on all units of the CG or its packaging. The SAFETY Mark number
 is the same for every single model of the product.</p>
 <p>Click <a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/register-your-controlled-goods/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out more on how to register CGs.</p>
-<p>&nbsp;<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the CPSO conduct testing on products for the purpose of registering CGs?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the CPSO conduct testing on products for the purpose of registering CGs?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The CPSO is not a test laboratory and does not perform any testing. Suppliers
 may approach any testing laboratories accredited by the Singapore Accreditation
 Council (SAC) with the relevant testing scope for your product (click
 <a href="https://sacinet2.enterprisesg.gov.sg/sacsearch/search" rel="noopener nofollow" target="_blank">here</a>for the list of accredited laboratories on SAC's website).</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
+<p></p>
 <p>&nbsp;<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How much does it cost to test and certify my CGs?</strong>
 </p>
 <p>The CPSO does not directly regulate prices charged by CABs and laboratories
