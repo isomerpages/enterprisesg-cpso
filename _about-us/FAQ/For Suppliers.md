@@ -150,7 +150,7 @@ consumers.</p>
 <h3><strong><u>Displaying the SAFETY Mark</u></strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
-<summary><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How should the SAFETY Mark be displayed on Controlled Goods (CGs)?</strong>
+<summary><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;How should the SAFETY Mark be displayed on Controlled Goods (CGs)?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Please refer to the guidelines on the usage of the SAFETY Mark at <strong>Appendix E</strong> of
