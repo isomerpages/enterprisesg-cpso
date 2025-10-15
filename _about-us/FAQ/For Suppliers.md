@@ -152,33 +152,34 @@ download the AI file type(s) for the SAFETY Mark logo.</p>
 <p>Click <a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/apply-to-be-a-registered-supplier/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 learn about how to register as an RS, and <a href="https://safe.menlosecurity.com/https:/www.cpsaplus.gov.sg/HomePage/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 information on the CPSA+ (under “User Guides on CPSA+ for RS”).</p>
-<h3><strong>&nbsp;<u>Sale of General Consumer Goods</u></strong></h3>
+<h3><strong><u>Sale of General Consumer Goods</u></strong></h3>
 <p><strong>13.&nbsp; What safety standards apply to general consumer goods sold in Singapore?</strong>
 </p>
-<p>General consumer goods covered by the CGSR regulations are required to
-comply with applicable international safety standards by <u>at least one</u> of
-the following organisations:</p>
+<p>Under the Consumer Protection (Consumer Goods Safety Requirements) Regulations&nbsp;2011
+(CGSR), general consumer goods must comply with <u>at least one</u> of the
+applicable safety standards by any of the following organisations, where
+available:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>International Organisation for Standardization (ISO)</p>
+<p>International Organisation for Standardization (ISO),</p>
 </li>
 <li>
-<p>International Electro-Technical Commission (IEC)</p>
+<p>International Electro-Technical Commission (IEC),</p>
 </li>
 <li>
-<p>European Committee for Standardisation (EN)</p>
+<p>European Committee for Standardisation (EN), or</p>
 </li>
 <li>
-<p>ASTM International.</p>
+<p>ASTM International</p>
 </li>
 </ul>
-<p>You may also refer to sections 5.1 and 5.2 (pages 9 – 16) of the Consumer
-Protection (Consumer Goods Safety Requirements) Regulations <a href="/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Booklet</a> for
+<p>You may refer to sections 5.1 and 5.2 (<strong>pages 9 – 16</strong>)
+of the CGSR <a href="/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Booklet</a> for
 a <u>non-exhaustive</u> list of common general consumer goods with their
 applicable safety standards and any additional safety requirements imposed
 by the CPSO.</p>
-<p>These goods include toys, children’s products, apparel, furniture and
-beddings, recreation and exercise equipment, DIY tools, and electrical
+<p>General consumer goods include toys, children’s products, apparel, furniture
+and beddings, recreation and exercise equipment, DIY tools, and electrical
 and electronic products. The CPSO also imposes additional safety requirements
 on toys and childcare articles, as well as portable power banks.</p>
 <h3><u>Company Information in CPSA+</u></h3>
