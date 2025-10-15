@@ -27,14 +27,14 @@ products, furniture, mattresses and bedding and DIY tools.</p>
 </p>
 </li>
 </ul>
-<p><strong>B.</strong>  <strong>The additional safety requirements in section 5.2 of the <a href="/files/cgsr-info-book.pdf" rel="noopener nofollow" target="_blank">CGSR Information Booklet</a>.</strong> 
+<p><strong>B.</strong>  <strong>The additional safety requirements in section 5.2 of the <a href="/files/cgsr-info-book.pdf" rel="noopener nofollow" target="_blank">CGSR Information Booklet</a>.</strong>
 </p>
 <p></p>
 <p>Regional or national standards may also be accepted for consumer goods
 that do not have applicable international safety standards.</p>
 <p>Please refer to section 5.1 (<strong>pages 9 – 12)</strong> of the <a href="/files/cgsr-info-book.pdf" rel="noopener nofollow" target="_blank">CGSR Information Booklet</a> for
-a a <u>non-exhaustive</u> list of common general consumer goods and their
-applicable safety standards.</p>
+a <u>non-exhaustive</u> list of common general consumer goods and their applicable
+safety standards.</p>
 <p>The &nbsp;CPSO does active post-market surveillance to reduce the impact
 of unsafe general consumer goods. When general consumer goods that do not
 meet applicable safety standards and requirements are detected, the CPSO
