@@ -128,7 +128,7 @@ sending the product for testing and certification.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do CGs supplied between businesses (i.e. B2B) require a SAFETY Mark?</strong>
+<summary><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do CGs supplied to businesses (i.e. B2B) require a SAFETY Mark?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Suppliers who choose to supply only to the commercial market need <strong>not</strong> register
