@@ -74,7 +74,7 @@ the market and/or replacement of products</p>
 <p>Penalties and fines</p>
 </li>
 </ul>
-<h4><strong>Exclusion under the Regulations</strong></h4>
+<h4><strong>Exclusions under the Regulations</strong></h4>
 <p>The following consumer goods are under other regulations or regulatory
 agencies in Singapore, and do not come under the CGSR.</p>
 <table style="minWidth: 50px">
