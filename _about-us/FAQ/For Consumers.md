@@ -180,5 +180,3 @@ We have also compiled safety tips for <a href="https://www.consumerproductsafety
 </details>
 </div>
 <p></p>
-<p></p>
-<p></p>
