@@ -148,16 +148,26 @@ consumers.</p>
 </div>
 <p></p>
 <h3><strong><u>Displaying the SAFETY Mark</u></strong></h3>
-<p></p>
-<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How should the SAFETY Mark be displayed on Controlled Goods (CGs)?</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How should the SAFETY Mark be displayed on Controlled Goods (CGs)?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Please refer to the guidelines on the usage of the SAFETY Mark at <strong>Appendix E</strong> of
 our <a href="/files/cps-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">CPSR Information Booklet</a>.
 In general, the SAFETY Mark should be easily discernible on the CGs. The
 marking should not be removed when rubbed lightly with a piece of cloth
-soaked with petroleum, spirit, or water.
-<br>
-</p>
+soaked with petroleum, spirit, or water.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <p><strong>10.&nbsp; How should the SAFETY Mark be displayed on AC adaptors?</strong>
 </p>
 <p>For AC adaptors to be used with <em>other</em> products, registration is
@@ -243,4 +253,4 @@ have one contact person. The CPSO will send email updates regarding changes
 in regulatory policy or actions required from the supplier to the contact
 person.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
