@@ -120,7 +120,7 @@ database.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to the <a rel="noopener noreferrer nofollow" target="_blank">online database for Controlled Goods</a>, the Safety Mark on my appliance appears to be that for a 3-pin plug. What does that mean?</strong>
+<summary><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to the <a href="https://www.cpsaplus.gov.sg/Homepage" rel="noopener nofollow" target="_blank">CPSA+ database for Controlled Goods</a>, the Safety Mark on my appliance appears to be that for a 3-pin plug. What does that mean?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>13-amp rectangular type, and 15-amp round type 3-Pin plugs are classified
@@ -132,7 +132,7 @@ is a Controlled Good and you cannot locate its relevant SAFETY Mark.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if the SAFETY Mark on my appliance is listed as “Expired” in the database?</strong>
+<summary><strong>&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if the SAFETY Mark on my appliance is listed as “Expired” in the <a href="https://www.cpsaplus.gov.sg/Homepage" rel="noopener nofollow" target="_blank">CPSA+ database for Controlled Goods</a>?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The product was previously tested and certified to meet the relevant safety
