@@ -161,38 +161,43 @@ soaked with petroleum, spirit, or water.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary></summary>
+<summary><strong>10.&nbsp; How should the SAFETY Mark be displayed on AC adaptors?</strong>
+</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p></p>
-</div>
-</details>
-</div>
-<p></p>
-<p><strong>10.&nbsp; How should the SAFETY Mark be displayed on AC adaptors?</strong>
-</p>
 <p>For AC adaptors to be used with <em>other</em> products, registration is
 granted for the adaptors only and does not cover the other products. Therefore,
 only the adaptors should be affixed with the SAFETY Mark.</p>
 <p>However, if the SAFETY Mark is affixed on packaging containing both the
 AC adaptor and other products, then the statement “This SAFETY Mark applies
 to the AC Adaptor only” must be printed near the SAFETY Mark.</p>
-<p></p>
-<p>&nbsp;<strong>11.&nbsp; How should the SAFETY Mark be displayed on mains plugs, portable socket-outlets, and portable cable reels?</strong>
-</p>
-<p>For <strong>3-pin mains plugs (13 and 15 amperes)</strong>:</p>
-<p>The SAFETY Mark must carry the statement “For mains plug” below the certification
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>11.&nbsp; How should the SAFETY Mark be displayed on mains plugs, portable socket-outlets, and portable cable reels?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>For <strong>3-pin mains plugs (13 and 15 amperes)</strong>:
+<br>The SAFETY Mark must carry the statement “For mains plug” below the certification
 number.</p>
-<p>For <strong>3-pin portable socket-outlets</strong>:</p>
-<p>The SAFETY Mark must carry the statement “For 3-pin portable socket-outlet”
+<p></p>
+<p>For <strong>3-pin portable socket-outlets</strong>:
+<br>The SAFETY Mark must carry the statement “For 3-pin portable socket-outlet”
 below the certification number.</p>
-<p>For <strong>portable cable reels</strong>:</p>
-<p>The SAFETY Mark must carry the statement “For portable cable reel” below
+<p></p>
+<p>For <strong>portable cable reels</strong>:
+<br>The SAFETY Mark must carry the statement “For portable cable reel” below
 the certification number.</p>
 <p>See examples:&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SAFETY_Mark_logos.png">
 </div>
-<p>&nbsp;<strong>12.&nbsp; How do I download the SAFETY Mark file in CPSA+?</strong>
+<p>&nbsp;</p>
+</div>
+</details>
+</div>
+<p></p>
+<p>&nbsp;</p>
+<p><strong>12.&nbsp; How do I download the SAFETY Mark file in CPSA+?</strong>
 </p>
 <p>If you are registered as an RS, log into your CPSA+ account. Then, click
 the “Menu” panel on the left and scroll to “Resources”. Under “Resources”,
