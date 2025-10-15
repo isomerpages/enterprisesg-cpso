@@ -10,7 +10,7 @@ variant: tiptap
 consumer goods such as toys, children’s products, apparel, sports and recreation
 products, furniture, mattresses and bedding and DIY tools.</p>
 <p>General consumer goods covered by the CGSR must comply with <strong>A and B</strong> below:</p>
-<p><strong>A. At least one of the applicable safety standards by any of the following organisations:</strong>
+<p><strong>A. <u>At least one</u> of the applicable safety standards by any of the following organisations:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -23,10 +23,11 @@ products, furniture, mattresses and bedding and DIY tools.</p>
 <p>European Committee for Standardisation (EN); or</p>
 </li>
 <li>
-<p>ASTM International; <strong>and</strong>
-</p>
+<p>ASTM International;</p>
 </li>
 </ul>
+<p><strong>and</strong>
+</p>
 <p><strong>B.</strong>  <strong>The additional safety requirements in section 5.2 of the <a href="/files/cgsr-info-book.pdf" rel="noopener nofollow" target="_blank">CGSR Information Booklet</a>.</strong>
 </p>
 <p></p>
