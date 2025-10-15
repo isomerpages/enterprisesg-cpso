@@ -6,8 +6,11 @@ description: ""
 third_nav_title: FAQ
 ---
 <h3><strong><u>Purview of the Consumer Product Safety Office (CPSO)</u></strong></h3>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What products are under the CPSO’s purview?</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What products are under the CPSO’s purview?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The CPSO regulates 33 categories of household electrical, electronic and
 gas appliances and accessories as Controlled Goods (CGs). These appliances
 must be tested to specified safety standards, registered with the CPSO,
@@ -20,11 +23,13 @@ furniture, sports and recreation products, stationery, costume jewellery,
 and children's products. Such goods are required to conform to applicable
 safety standards, but do not require pre-market approval from the CPSO
 before they can be supplied. The CPSO oversees these goods through post-market
-surveillance and action.
-<br>
-</p>
-<p>&nbsp;<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What products are not under the CPSO’s purview?</strong>
-</p>
+surveillance and action.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What products are not under the CPSO’s purview?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The CPSO does not regulate consumer goods already under the purview of
 other Singaporean regulatory agencies. These include:</p>
 <p>·&nbsp;Food products and products containing/in contact with food or beverages:&nbsp;
@@ -64,8 +69,13 @@ apparatus:&nbsp;<a href="https://www.nea.gov.sg/our-services/pollution-control/c
 <p>Hazards caused by the misuse or unintended use of products</p>
 </li>
 </ul>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What actions can the CPSO take? <br></strong>The
-CPSO regularly carries out market surveillance as part of its enforcement
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What actions can the CPSO take? </strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The CPSO regularly carries out market surveillance as part of its enforcement
 efforts. If there are reasonable grounds to believe a product does not
 conform to its applicable safety standards, the CPSO will look into the
 matter and may notify the supplier and the public, and instruct the supplier
@@ -77,11 +87,19 @@ requirements. For e-commerce sales, we also work with online platforms
 to take down listings of CGs that are unregistered or that have a false
 SAFETY Mark. Repeat offenders may be subject to punitive measures such
 as fines. &nbsp;</p>
-<p>&nbsp;<strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the CPSO help me seek redress from suppliers?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the CPSO help me seek redress from suppliers?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The CPSO is unable to assist with resolution matters between suppliers
-and consumers (e.g. refunds, after-sales services, etc.). For resolution
-matters, consumers may wish to contact the <a href="https://www.case.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Consumers Association of Singapore (CASE)</a>.</p>
+and consumers (e.g. refunds, after-sales services, etc.). For assistance
+with resolution matters, consumers may contact the <a href="https://www.case.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Consumers Association of Singapore (CASE)</a>.</p>
+</div>
+</details>
+</div>
+<p></p>
 <h3><strong><u>Product Safety Tips</u></strong></h3>
 <p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I check if my appliance has a valid SAFETY Mark?</strong>
 </p>
