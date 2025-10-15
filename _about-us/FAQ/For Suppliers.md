@@ -73,21 +73,35 @@ CABs can also better guide you through the registration process (e.g. the
 type of test reports needed) after reviewing your product’s technical specifications.</p>
 </div>
 </details>
-</div>
-<p></p>
-<p><strong>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How long does it take to test or to certify CGs?</strong>
-</p>
+<details class="isomer-details">
+<summary><strong>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How long does it take to test or to certify CGs?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>This is dependent on your product and your arrangement with the CABs.
 Registered Suppliers should check with the CABs (see FAQ 3) to gauge the
 amount of lead time needed and allocate ample time for the testing, certification
 and registration process. Depending on the complexity and logistics arrangements
 with the CABs, the entire process may take several months to complete.</p>
-<p>&nbsp;<strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the validity period of the CG registration?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the validity period of the CG registration?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The registration of CGs is valid for<strong> three years</strong> and may
 be renewed prior to expiry. Registered Suppliers should initiate the renewal
 process <strong>at least 6 months prior</strong> to the expiration date to
 cater for any potential unforeseen delays.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p></p>
+</div>
+</details>
+</div>
+<p></p>
 <p>&nbsp;<strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why does the registration of CGs expire?</strong>
 </p>
 <p>Controlled Goods (CGs) may evolve over time due to reasons such as changes
