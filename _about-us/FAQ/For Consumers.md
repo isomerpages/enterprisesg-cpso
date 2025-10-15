@@ -132,7 +132,7 @@ is a Controlled Good and you cannot locate its relevant SAFETY Mark.</p>
 </div>
 </details>
 <details class="isomer-details">
-<summary><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if the SAFETY Mark on my appliance is listed as “Expired” in the <a href="https://www.cpsaplus.gov.sg/Homepage" rel="noopener nofollow" target="_blank">CPSA+ database for Controlled Goods</a>?</strong>
+<summary><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What does it mean if the SAFETY Mark on my appliance is listed as “Expired” in the <a href="https://www.cpsaplus.gov.sg/Homepage" rel="noopener nofollow" target="_blank">CPSA+ database for Controlled Goods</a>?</strong>
 </summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>The product was previously tested and certified to meet the relevant safety
