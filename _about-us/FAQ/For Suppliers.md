@@ -312,7 +312,7 @@ CGs and the applicable safety standards.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cgsr/resources/" rel="noopener nofollow" target="_blank">Resources</a> on
-the requirements for general consumer goods and the relevant regulations;</p>
+the requirements for general consumer goods, and the relevant regulations;</p>
 </li>
 <li>
 <p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cgsr/overview-of-cgsr/" rel="noopener nofollow" target="_blank">Overview</a> of
