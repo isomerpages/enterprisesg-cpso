@@ -15,15 +15,10 @@ For your own safety, please ensure that decorative lighting chains bear
 the SAFETY Mark before purchase. The SAFETY Mark indicates that the product
 model has been tested to specific safety standards and also carries a unique
 certification number traceable to the supplier.</p>
-<p>|</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="deco lighting" src="/images/product-safety-tips/decorative-lighting.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="deco lighting" src="/images/product-safety-tips/decorative-lighting.jpg">
 </div>
-<p>|</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/blankx2.png">
-</div>
-<p>|</p>
 <p>Here are some other safety considerations to keep in mind when purchasing
 or using decorative light chains:</p>
 <ul data-tight="true" class="tight">

@@ -6,8 +6,11 @@ description: ""
 third_nav_title: FAQ
 ---
 <h3><strong><u>Purview of the Consumer Product Safety Office (CPSO)</u></strong></h3>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What products are under the CPSO’s purview?</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What products are under the CPSO’s purview?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The CPSO regulates 33 categories of household electrical, electronic and
 gas appliances and accessories as Controlled Goods (CGs). These appliances
 must be tested to specified safety standards, registered with the CPSO,
@@ -20,11 +23,13 @@ furniture, sports and recreation products, stationery, costume jewellery,
 and children's products. Such goods are required to conform to applicable
 safety standards, but do not require pre-market approval from the CPSO
 before they can be supplied. The CPSO oversees these goods through post-market
-surveillance and action.
-<br>
-</p>
-<p>&nbsp;<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What products are not under the CPSO’s purview?</strong>
-</p>
+surveillance and action.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What products are not under the CPSO’s purview?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The CPSO does not regulate consumer goods already under the purview of
 other Singaporean regulatory agencies. These include:</p>
 <p>·&nbsp;Food products and products containing/in contact with food or beverages:&nbsp;
@@ -64,8 +69,13 @@ apparatus:&nbsp;<a href="https://www.nea.gov.sg/our-services/pollution-control/c
 <p>Hazards caused by the misuse or unintended use of products</p>
 </li>
 </ul>
-<p><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What actions can the CPSO take? <br></strong>The
-CPSO regularly carries out market surveillance as part of its enforcement
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What actions can the CPSO take?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>The CPSO regularly carries out market surveillance as part of its enforcement
 efforts. If there are reasonable grounds to believe a product does not
 conform to its applicable safety standards, the CPSO will look into the
 matter and may notify the supplier and the public, and instruct the supplier
@@ -77,38 +87,64 @@ requirements. For e-commerce sales, we also work with online platforms
 to take down listings of CGs that are unregistered or that have a false
 SAFETY Mark. Repeat offenders may be subject to punitive measures such
 as fines. &nbsp;</p>
-<p>&nbsp;<strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the CPSO help me seek redress from suppliers?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the CPSO help me seek redress from suppliers?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The CPSO is unable to assist with resolution matters between suppliers
-and consumers (e.g. refunds, after-sales services, etc.). For resolution
-matters, consumers may wish to contact the <a href="https://www.case.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Consumers Association of Singapore (CASE)</a>.</p>
+and consumers (e.g. refunds, after-sales services, etc.). For assistance
+with resolution matters, consumers may contact the <a href="https://www.case.org.sg/" rel="noopener noreferrer nofollow" target="_blank">Consumers Association of Singapore (CASE)</a>.</p>
+</div>
+</details>
+</div>
+<p></p>
 <h3><strong><u>Product Safety Tips</u></strong></h3>
-<p><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I check if my appliance has a valid SAFETY Mark?</strong>
-</p>
-<p>Visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/safety-mark</a>.
-Key in the 8-digit registration number on the SAFETY Mark, or the product
-model number. Then, check that the product information in the search results
-tallies with your product. Click <a href="https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/look-for-the-safety-mark/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How can I check if my appliance has a valid SAFETY Mark?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p><strong>A.</strong> Visit <a rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/safety-mark</a>.</p>
+<p><strong>B.</strong> Key in the 8-digit registration number on the SAFETY
+Mark, or the product model number.</p>
+<p><strong>C.</strong> Check that the product information in the search results
+tallies with your product.</p>
+<p></p>
+<p>Click <a href="https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/look-for-the-safety-mark/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 learn more about the SAFETY Mark. You may submit an enquiry to the CPSO
 via the “Report” button on the <a href="https://www.cpsaplus.gov.sg/Homepage" rel="noopener noreferrer nofollow" target="_blank">CPSA+ homepage</a> if the SAFETY
 Mark number on your appliance does not tally with the information in the
 database.</p>
-<p><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to the <a rel="noopener noreferrer nofollow" target="_blank">online database</a>, the Safety Mark on my appliance appears to be that for a 3-pin plug. What does that mean?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to the <a href="https://www.cpsaplus.gov.sg/Homepage" rel="noopener nofollow" target="_blank">CPSA+ database for Controlled Goods</a>, the Safety Mark on my appliance appears to be that for a 3-pin plug. What does that mean?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>13-amp rectangular type, and 15-amp round type 3-Pin plugs are classified
 as Controlled Goods under the CPSR and will require a separate Safety Mark.
 If your appliance itself is a Controlled Good, it would require its own
 Safety Mark. If not, then a SAFETY Mark is not needed. You may submit an
 enquiry to the CPSO via the “Report” button on the <a href="https://www.cpsaplus.gov.sg/Homepage" rel="noopener noreferrer nofollow" target="_blank">CPSA+ homepage</a> if your appliance
 is a Controlled Good and you cannot locate its relevant SAFETY Mark.</p>
-<p><strong>&nbsp;7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What if the SAFETY Mark on my appliance is listed as “Expired” in the database?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What does it mean if the SAFETY Mark on my appliance is listed as “Expired” in the <a href="https://www.cpsaplus.gov.sg/Homepage" rel="noopener nofollow" target="_blank">CPSA+ database for Controlled Goods</a>?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The product was previously tested and certified to meet the relevant safety
 standards as part of the SAFETY Mark registration process. The product
 is compliant with our regulations if it was purchased from a retailer before
 the expiry date.</p>
-<p>&nbsp;<strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I purchase Controlled Goods (CGs) without a SAFETY Mark?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can I purchase Controlled Goods (CGs) without a SAFETY Mark?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The SAFETY Mark indicates that products have undergone testing and certification
 to minimize risk of potential dangers such as fire, electric shock and
 explosion. There is no assurance that CGs without the SAFETY Mark have
@@ -116,8 +152,12 @@ gone through the same testing and certification process. They may therefore
 expose users to potential safety risks. As such, the CPSO strongly discourages
 consumers from purchasing CGs without the SAFETY Mark. Consumers who choose
 to purchase unregistered CGs will be doing so at their own risk.</p>
-<p>&nbsp;<strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I choose safer consumer products and use them safely?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I choose safer consumer products and use them safely?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Before purchase, the CPSO recommends that you research the product and
 brand, for example by reading past customer reviews to check for safety
 or reliability issues. When possible, buy from reputable sellers and well-known
@@ -136,3 +176,7 @@ important updates directly.</p>
 or <a href="https://www.consumerproductsafety.gov.sg/consumers/choose-safer-products/choose-safer-consumer-goods/" rel="noopener noreferrer nofollow" target="_blank">purchasing consumer products in general</a>.
 We have also compiled safety tips for <a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/electronics-and-appliances/" rel="noopener noreferrer nofollow" target="_blank">electronics and appliances</a>,
 <a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/home-appliances-and-furniture/" rel="noopener noreferrer nofollow" target="_blank">home appliances and furniture</a>, and <a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-tips/children-product/" rel="noopener noreferrer nofollow" target="_blank">children’s products</a>.</p>
+</div>
+</details>
+</div>
+<p></p>

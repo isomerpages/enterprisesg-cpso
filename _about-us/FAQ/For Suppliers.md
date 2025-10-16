@@ -6,8 +6,11 @@ description: ""
 third_nav_title: FAQ
 ---
 <h3><strong><u>Registration of Controlled Goods (CGs)</u></strong></h3>
-<p><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I register Controlled Goods (CGs)?</strong>
-</p>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I register Controlled Goods (CGs)?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p><strong>For <em>low risk CGs:</em></strong> The Registered Supplier (<strong>RS</strong>)
 can submit a Supplier’s Declaration of Conformity (<strong>SDoC</strong>)
 to the CPSO via the CPSA+ system. In doing so, the RS is making a self-declaration
@@ -42,15 +45,23 @@ CoC is paid. The RS will be issued a SAFETY Mark number, which must be
 displayed on all units of the CG or its packaging. The SAFETY Mark number
 is the same for every single model of the product.</p>
 <p>Click <a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/register-your-controlled-goods/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-find out more on how to register CGs.</p>
-<p>&nbsp;<strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the CPSO conduct testing on products for the purpose of registering CGs?</strong>
-</p>
+find out more about the regulations for CGs (i.e. the <strong>Consumer Protection (Safety Requirements) Regulations</strong>).</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Can the CPSO conduct testing on products for the purpose of registering CGs?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The CPSO is not a test laboratory and does not perform any testing. Suppliers
 may approach any testing laboratories accredited by the Singapore Accreditation
 Council (SAC) with the relevant testing scope for your product (click
 <a href="https://sacinet2.enterprisesg.gov.sg/sacsearch/search" rel="noopener nofollow" target="_blank">here</a>for the list of accredited laboratories on SAC's website).</p>
-<p>&nbsp;<strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How much does it cost to test and certify my CGs?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How much does it cost to test and certify my CGs?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The CPSO does not directly regulate prices charged by CABs and laboratories
 for testing and certification. Therefore, we are unable to advise on the
 cost of these services. Please contact any SAC-accredited testing laboratory
@@ -60,32 +71,48 @@ scopes are available <a href="/files/list_of_CABs_and_approved_scope.pdf" rel="n
 <p>We recommend that you approach multiple CABs for price comparison. The
 CABs can also better guide you through the registration process (e.g. the
 type of test reports needed) after reviewing your product’s technical specifications.</p>
-<p><strong>&nbsp;4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How long does it take to test or to certify CGs?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How long does it take to test or to certify CGs?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>This is dependent on your product and your arrangement with the CABs.
 Registered Suppliers should check with the CABs (see FAQ 3) to gauge the
 amount of lead time needed and allocate ample time for the testing, certification
 and registration process. Depending on the complexity and logistics arrangements
 with the CABs, the entire process may take several months to complete.</p>
-<p>&nbsp;<strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the validity period of the CG registration?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; What is the validity period of the CG registration?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The registration of CGs is valid for<strong> three years</strong> and may
 be renewed prior to expiry. Registered Suppliers should initiate the renewal
 process <strong>at least 6 months prior</strong> to the expiration date to
 cater for any potential unforeseen delays.</p>
-<p>&nbsp;<strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why does the registration of CGs expire?</strong>
-</p>
-<p>Controlled Goods (CGs) may evolve over time due to reasons such as changes
-in components or in manufacturing processes, which may make the product
-different from their initial design. Concurrently, regulatory requirements
-are periodically updated to align with industry developments and ensure
-continued protection for consumers. Examples of updates may include revisions
-to safety standards required for the SAFETY Mark.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Why does the registration of CGs expire?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>CGs may evolve over time due to reasons such as changes in components
+or in manufacturing processes, which may make the product different from
+their initial design. Concurrently, regulatory requirements are periodically
+updated to align with industry developments and ensure continued protection
+for consumers. Examples of updates may include revisions to safety standards
+required for the SAFETY Mark.</p>
 <p>Hence, the expiry and renewal process serve to ensure ongoing compliance
 of CGs with current regulatory requirements, and that they adhere to any
 updated regulations introduced since their last certification.</p>
-<p>&nbsp;&nbsp;<strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a parallel importer, reseller, or distributor. Do I need to register for a SAFETY Mark?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I am a parallel importer, reseller, or distributor. Do I need to register for a SAFETY Mark?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>At least one party in the supply chain must register for the SAFETY Mark
 and affix it on the product before it is supplied to consumers. You cannot
 use the SAFETY Mark belonging to another registering company without their
@@ -98,110 +125,200 @@ before supplying it in Singapore.</p>
 <p>However, if you are unable to purchase units already affixed with the
 SAFETY Mark, you may need to register the product yourself, which involves
 sending the product for testing and certification.</p>
-<p>&nbsp;<strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do CGs supplied between businesses require a SAFETY Mark?</strong>
-</p>
-<p>Suppliers who choose to supply only to the commercial market need not
-register their goods with the CPSO. However, they must ensure that the
-end users of such goods are not consumers. This could be done by vetting
-potential buyers or limiting sales channels to ensure the CGs are only
-for use or installed in non-households. A CG that is eventually used by
-consumers downstream for <em>home use</em> will require the SAFETY Mark.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Do CGs supplied to businesses (i.e. B2B) require a SAFETY Mark?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Suppliers who choose to supply only to the commercial market need <strong>not</strong> register
+their goods with the CPSO. However, they must ensure that the end users
+of such goods are not consumers. This could be done by vetting potential
+buyers or limiting sales channels to ensure the CGs are only for use or
+installed in non-households. A CG that is eventually used by consumers
+downstream for <strong>home</strong> use will require the SAFETY Mark.</p>
 <p>For example, if a supplier sells washing machines to a condominium developer
 to be placed inside the condominium units, the washing machines will require
-a SAFETY Mark. A party in the supply chain (e.g. the supplier or the condominium
-developer) must then register the washing machine before it reaches consumers.</p>
-<h3><strong><u>Displaying the SAFETY Mark</u></strong></h3>
-<p><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How should the SAFETY Mark be displayed on Controlled Goods (CGs)?</strong>
-</p>
+a SAFETY Mark. One party in the supply chain (e.g. the supplier or the
+condominium developer) must register the washing machine before it reaches
+consumers.</p>
+</div>
+</details>
+</div>
+<p></p>
+<h3><strong><u>Displaying the SAFETY Mark on Controlled Goods (CGs)</u></strong></h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;How should the SAFETY Mark be displayed on CGs?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Please refer to the guidelines on the usage of the SAFETY Mark at <strong>Appendix E</strong> of
 our <a href="/files/cps-info-booklet.pdf" rel="noopener noreferrer nofollow" target="_blank">CPSR Information Booklet</a>.
 In general, the SAFETY Mark should be easily discernible on the CGs. The
 marking should not be removed when rubbed lightly with a piece of cloth
-soaked with petroleum, spirit, or water.
-<br>
-</p>
-<p><strong>10.&nbsp; How should the SAFETY Mark be displayed on AC adaptors?</strong>
-</p>
+soaked with petroleum, spirit, or water.</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>10.&nbsp; How should the SAFETY Mark be displayed on AC adaptors?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>For AC adaptors to be used with <em>other</em> products, registration is
 granted for the adaptors only and does not cover the other products. Therefore,
 only the adaptors should be affixed with the SAFETY Mark.</p>
 <p>However, if the SAFETY Mark is affixed on packaging containing both the
 AC adaptor and other products, then the statement “This SAFETY Mark applies
 to the AC Adaptor only” must be printed near the SAFETY Mark.</p>
-<p></p>
-<p>&nbsp;<strong>11.&nbsp; How should the SAFETY Mark be displayed on mains plugs, portable socket-outlets, and portable cable reels?</strong>
-</p>
-<p>For <strong>3-pin mains plugs (13 and 15 amperes)</strong>:</p>
-<p>The SAFETY Mark must carry the statement “For mains plug” below the certification
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>11.&nbsp; How should the SAFETY Mark be displayed on mains plugs, portable socket-outlets, and portable cable reels?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>For <strong>3-pin mains plugs (13 and 15 amperes)</strong>:
+<br>The SAFETY Mark must carry the statement “For mains plug” below the certification
 number.</p>
-<p>For <strong>3-pin portable socket-outlets</strong>:</p>
-<p>The SAFETY Mark must carry the statement “For 3-pin portable socket-outlet”
+<p></p>
+<p>For <strong>3-pin portable socket-outlets</strong>:
+<br>The SAFETY Mark must carry the statement “For 3-pin portable socket-outlet”
 below the certification number.</p>
-<p>For <strong>portable cable reels</strong>:</p>
-<p>The SAFETY Mark must carry the statement “For portable cable reel” below
+<p></p>
+<p>For <strong>portable cable reels</strong>:
+<br>The SAFETY Mark must carry the statement “For portable cable reel” below
 the certification number.</p>
 <p>See examples:&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SAFETY_Mark_logos.png">
 </div>
-<p>&nbsp;<strong>12.&nbsp; How do I download the SAFETY Mark file in CPSA+?</strong>
-</p>
+<p>&nbsp;</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>12.&nbsp; How do I download the SAFETY Mark file in CPSA+?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>If you are registered as an RS, log into your CPSA+ account. Then, click
 the “Menu” panel on the left and scroll to “Resources”. Under “Resources”,
 download the AI file type(s) for the SAFETY Mark logo.</p>
 <p>Click <a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/apply-to-be-a-registered-supplier/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 learn about how to register as an RS, and <a href="https://safe.menlosecurity.com/https:/www.cpsaplus.gov.sg/HomePage/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 information on the CPSA+ (under “User Guides on CPSA+ for RS”).</p>
-<h3><strong>&nbsp;<u>Sale of General Consumer Goods</u></strong></h3>
-<p><strong>13.&nbsp; What safety standards apply to general consumer goods sold in Singapore?</strong>
-</p>
-<p>General consumer goods covered by the CGSR regulations are required to
-comply with applicable international safety standards by <u>at least one</u> of
-the following organisations:</p>
+</div>
+</details>
+</div>
+<p></p>
+<h3><strong><u>Sale of General Consumer Goods</u></strong></h3>
+<div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>13.&nbsp; What safety standards apply to general consumer goods sold in Singapore?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Under the Consumer Protection (Consumer Goods Safety Requirements) Regulations&nbsp;2011
+(CGSR), general consumer goods must comply with <u>at least one</u> of the
+applicable safety standards by any of the following organisations, where
+available:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>International Organisation for Standardization (ISO)</p>
+<p>International Organisation for Standardization (ISO),</p>
 </li>
 <li>
-<p>International Electro-Technical Commission (IEC)</p>
+<p>International Electro-Technical Commission (IEC),</p>
 </li>
 <li>
-<p>European Committee for Standardisation (EN)</p>
+<p>European Committee for Standardisation (EN), or</p>
 </li>
 <li>
-<p>ASTM International.</p>
+<p>ASTM International</p>
 </li>
 </ul>
-<p>You may also refer to sections 5.1 and 5.2 (pages 9 – 16) of the Consumer
-Protection (Consumer Goods Safety Requirements) Regulations <a href="/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">Information Booklet</a> for
+<p>You may refer to sections 5.1 and 5.2 (<strong>pages 9 – 16</strong>)
+of the <a href="/files/cgsr-info-book.pdf" rel="noopener nofollow" target="_blank">CGSR Information Booklet</a> for
 a <u>non-exhaustive</u> list of common general consumer goods with their
 applicable safety standards and any additional safety requirements imposed
 by the CPSO.</p>
-<p>These goods include toys, children’s products, apparel, furniture and
-beddings, recreation and exercise equipment, DIY tools, and electrical
+<p>General consumer goods include toys, children’s products, apparel, furniture
+and beddings, recreation and exercise equipment, DIY tools, and electrical
 and electronic products. The CPSO also imposes additional safety requirements
 on toys and childcare articles, as well as portable power banks.</p>
-<h3><u>Company Information in CPSA+</u></h3>
-<p><strong>14.&nbsp; How do I navigate the CPSA+ system?</strong>
-</p>
+</div>
+</details>
+</div>
+<p></p>
+<h3><strong><u>Company Information in CPSA+</u></strong></h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>14.&nbsp; How do I navigate the CPSA+ system?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>For information on using the CPSA+ system, please visit <a rel="noopener noreferrer nofollow" target="_blank">https://www.cpsaplus.gov.sg/</a> and
 scroll down to the “Consumer Product Safety” section. Then, click on “User
 Guides on CPSA+ for RS” to load our PDF guide for Registered Suppliers.</p>
-<p>
-<br><strong>15.&nbsp; How do I change my company address in CPSA+?</strong>
-</p>
-<p>First, update your company’s information in ACRA. Then, log into your
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>15.&nbsp; How do I change my company address in CPSA+?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>First, update your company’s information in ACRA. Then, log in to your
 CPSA+ account. Click on the grey “Edit Profile” button on the top left
 corner. Under your profile, select “Retrieve Company Info”. This will allow
 the CPSA+ system to pull your company’s information from the ACRA database
 and sync automatically.</p>
-<p>&nbsp;<strong>16.&nbsp; How do I change my company contact person in CPSA+?</strong>
-</p>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>16.&nbsp; How do I change my company contact person in CPSA+?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>Click on the grey “Edit Profile” button in the top left corner of the
 landing page. Then, scroll to the “Contact Person(s) Information” section
 and key in the details of your new contact person. Every supplier must
 have one contact person. The CPSO will send email updates regarding changes
 in regulatory policy or actions required from the supplier to the contact
 person.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+</div>
+</details>
+</div>
+<p></p>
+<h3><strong><u>Resources by CPSO</u></strong></h3>
+<div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
+<details class="isomer-details">
+<summary><strong>17. Where can I find the CPSO's guides on Controlled Goods (CGs), the Safety Mark, or the relevant regulations?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please click on the hyperlinks below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/overview-of-cpsr/" rel="noopener nofollow" target="_blank">Resources</a> on
+the requirements for CGs and Safety Mark, and the relevant regulations;</p>
+</li>
+<li>
+<p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/overview-of-cpsr/" rel="noopener nofollow" target="_blank">Overview</a> of
+the relevant regulations;</p>
+</li>
+<li>
+<p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cpsr/list-of-controlled-goods/" rel="noopener nofollow" target="_blank">List</a> of
+CGs and the applicable safety standards.</p>
+</li>
+</ul>
+</div>
+</details>
+<details class="isomer-details">
+<summary><strong>18. Where can I find the CPSO's guides on general consumer goods or the relevant regulations?</strong>
+</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Please click on the hyperlinks below:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cgsr/resources/" rel="noopener nofollow" target="_blank">Resources</a> on
+the requirements for general consumer goods, and the relevant regulations;</p>
+</li>
+<li>
+<p><a href="https://www.consumerproductsafety.gov.sg/suppliers/cgsr/overview-of-cgsr/" rel="noopener nofollow" target="_blank">Overview</a> of
+the relevant regulations.</p>
+</li>
+</ul>
+</div>
+</details>
+</div>
+<p></p>
