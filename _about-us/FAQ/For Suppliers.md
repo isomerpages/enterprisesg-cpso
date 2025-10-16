@@ -142,8 +142,8 @@ it will require the SAFETY Mark at the point of supply to consumers. For
 example, if a supplier sells a CG to a downstream retailer, the CG will
 require a SAFETY Mark before they end up being supplied to consumers. Only
 one party in the supply chain (i.e. either the supplier or downstream retailer)
-will need to register the CG with a SAFETY Mark before it ends up being
-supplied to consumers.</p>
+must register the CG with a SAFETY Mark before it ends up being supplied
+to consumers.</p>
 </div>
 </details>
 </div>
