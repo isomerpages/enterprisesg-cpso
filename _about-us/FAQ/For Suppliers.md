@@ -135,13 +135,15 @@ sending the product for testing and certification.</p>
 their goods with the CPSO. However, they must ensure that the end users
 of such goods are not consumers. This could be done by vetting potential
 buyers or limiting sales channels to ensure the CGs are only for use or
-installed in non-households. A CG that is eventually used by consumers
-downstream for <strong>home</strong> use will require the SAFETY Mark.</p>
-<p>For example, if a supplier sells washing machines to a condominium developer
-to be placed inside the condominium units, the washing machines will require
-a SAFETY Mark. One party in the supply chain (e.g. the supplier or the
-condominium developer) must register the washing machine before it reaches
-consumers.</p>
+installed in non-households.</p>
+<p></p>
+<p>However, if a CG eventually ends up being supplied to <strong>consumers</strong> for <strong>home</strong> use,
+it will require the SAFETY Mark at the point of supply to consumers. For
+example, if a supplier sells a CG to a downstream retailer, the CG will
+require a SAFETY Mark before they end up being supplied to consumers. Only
+one party in the supply chain (i.e. either the supplier or downstream retailer)
+will need to register the CG with a SAFETY Mark before it ends up being
+supplied to consumers.</p>
 </div>
 </details>
 </div>
