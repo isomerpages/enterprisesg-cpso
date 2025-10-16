@@ -80,13 +80,11 @@ misusing products, or improper installations.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Water_heater.jpg">
-</div>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Iron.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Water_heater.jpg">
 </div>
 </td>
 </tr>
@@ -100,15 +98,19 @@ misusing products, or improper installations.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-water-heaters" rel="noopener noreferrer nofollow" target="_blank">Electric water heater</a>
-</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Iron</a>
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-water-heaters" rel="noopener noreferrer nofollow" target="_blank">Electric water heater</a>
 </p>
 </td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Iron.jpg">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Kettle.jpg">
@@ -124,13 +126,12 @@ misusing products, or improper installations.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Microwave_oven.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Refrigerator.jpg">
-</div>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Iron</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Kettle</a>
 </p>
@@ -143,12 +144,13 @@ misusing products, or improper installations.</p>
 <p><a href="https://www.consumerproductsafety.gov.sg/tips-to-keep-your-home-safe-from-electrical-hazards/" rel="noopener noreferrer nofollow" target="_blank">Microwave oven</a>
 </p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="https://www.consumerproductsafety.gov.sg/risk-of-using-hydrocarbon-refrigerants-at-home" rel="noopener noreferrer nofollow" target="_blank">Refrigerator with hydrocarbon refrigerant</a>
-</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Refrigerator.jpg">
+</div>
+</td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/RCCB.jpg">
@@ -164,11 +166,12 @@ misusing products, or improper installations.</p>
 <img style="width: 90%;" height="auto" width="100%" alt="" src="/images/consumers/CG Icons/Washing_machine.jpg">
 </div>
 </td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
-</td>
 </tr>
 <tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.consumerproductsafety.gov.sg/risk-of-using-hydrocarbon-refrigerants-at-home" rel="noopener noreferrer nofollow" target="_blank">Refrigerator with hydrocarbon refrigerant</a>
+</p>
+</td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/check-your-home-circuit-breaker-regularly" rel="noopener noreferrer nofollow" target="_blank">Residual Current Circuit Breaker (households)</a>
 </p>
@@ -181,9 +184,6 @@ misusing products, or improper installations.</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-washing-machines-and-tumble-dryers" rel="noopener noreferrer nofollow" target="_blank">Washing machine / Tumble dryer</a>
 </p>
-</td>
-<td rowspan="1" colspan="1">
-<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
