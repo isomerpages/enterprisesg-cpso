@@ -17,7 +17,7 @@ model has been tested to specific safety standards and also carries a unique
 certification number traceable to the supplier.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="deco lighting" src="/images/product-safety-tips/decorative-lighting.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="deco lighting" src="/images/product-safety-tips/decorative-lighting.jpg">
 </div>
 <p>Here are some other safety considerations to keep in mind when purchasing
 or using decorative light chains:</p>
