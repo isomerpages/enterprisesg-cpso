@@ -98,7 +98,8 @@ misusing products, or improper installations.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-decorative-lighting/" rel="noopener nofollow" target="_blank">Decorative lighting chains</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.consumerproductsafety.gov.sg/safety-tips-on-water-heaters" rel="noopener noreferrer nofollow" target="_blank">Electric water heater</a>
