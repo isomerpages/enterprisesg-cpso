@@ -22,8 +22,7 @@ misusing products, or improper installations.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>General safety practices for home appliances</strong>
-</p>
+<h4><strong>General safety practices for home appliances</strong></h4>
 </td>
 </tr>
 <tr>
@@ -64,8 +63,7 @@ misusing products, or improper installations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Electrical appliances and accessories</strong>
-</p>
+<h4><strong>Electrical appliances and accessories</strong></h4>
 </td>
 </tr>
 <tr>
@@ -191,8 +189,7 @@ misusing products, or improper installations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Gas appliances and accessories</strong>
-</p>
+<h4><strong>Gas appliances and accessories</strong></h4>
 </td>
 </tr>
 <tr>
@@ -232,8 +229,7 @@ misusing products, or improper installations.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="4">
-<p><strong>Other general safety practices at home</strong>
-</p>
+<h4><strong>Other general safety practices at home</strong></h4>
 </td>
 </tr>
 <tr>
