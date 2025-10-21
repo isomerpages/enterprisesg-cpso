@@ -9,11 +9,11 @@ variant: tiptap
 recreation products, furniture, mattresses and bedding and DIY tools, which
 are not regulated under other product safety Regulations, fall under the
 Consumer Protection (Consumer Goods Safety Requirements) Regulations 2011
-(<strong>CGSR</strong>).
-<br>
-<br>General consumer goods covered by the CGSR must comply with:</p>
-<p><strong>(i)</strong> at least one of the applicable safety standards by
-any of the following organisations:</p>
+(<strong>CGSR</strong>).</p>
+<p>General consumer goods under the CGSR do not require pre-market approval
+by the authority, but they must comply with:</p>
+<p><strong>(i)</strong>  <u>at least one</u> of the applicable safety standards
+by any of the following organisations:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>International Organization for Standardization (ISO);</p>
