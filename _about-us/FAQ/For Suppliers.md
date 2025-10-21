@@ -139,11 +139,10 @@ installed in non-households.</p>
 <p></p>
 <p>However, if a CG eventually ends up being supplied to <strong>consumers</strong>&nbsp;for <strong>home</strong>&nbsp;use,
 it will require the SAFETY Mark at the point of supply to consumers. For
-example, if a supplier sells&nbsp;a CG to &nbsp; downstream supplier, the
-CG&nbsp;will require a SAFETY Mark before they end up being supplied to
-consumers. Only&nbsp;one party in the supply chain (e.g. the supplier or
-downstream supplier) needs to&nbsp;register the CG with a SAFETY Mark before
-it is supplied to consumers.</p>
+example, if a supplier sells&nbsp;a CG to downstream supplier, the CG&nbsp;will
+require a SAFETY Mark before they end up being supplied to consumers. Only&nbsp;one
+party in the supply chain (e.g. the supplier or downstream supplier) needs
+to&nbsp;register the CG with a SAFETY Mark before it is supplied to consumers.</p>
 </div>
 </details>
 </div>
