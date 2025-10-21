@@ -31,7 +31,7 @@ any of the following organisations:</p>
 <p><strong>and</strong>
 </p>
 <p><strong>(ii) </strong>the additional safety requirements in section 5.2
-of the CGSR Information Booklet.</p>
+of the <a href="https://www.consumerproductsafety.gov.sg/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">CGSR Information Booklet</a>.</p>
 <p>Regional or national standards may also be accepted for general consumer
 goods that do not have applicable international safety standards.</p>
 <p>Please refer to section 5.1 (<strong>pages 9 – 12)</strong> of the <a href="https://www.consumerproductsafety.gov.sg/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">CGSR Information Booklet</a> for
