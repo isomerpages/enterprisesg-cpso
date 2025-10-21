@@ -21,8 +21,8 @@ number BS-30KP365&nbsp;with&nbsp;a serial number (SN) ending in the number
 </ul>
 <p>The lithium-ion battery in the portable charger may overheat, posing a
 fire hazard.</p>
-<p>Consumers should immediately stop using these portable chargers and register
-at this <a href="https://www.baseus.com/pages/recall_select_BS-30KP365" rel="noopener nofollow" target="_blank">link</a> to
+<p>Consumers should immediately stop using these portable chargers and contact
+Baseus customer service team manager, Cathy Chen at <strong><u>care@baseus.com</u></strong> to
 request for a free replacement BS-30KP365 portable charger with a serial
 number (SN) ending with the letter ‘A’.</p>
 <p>No other Baseus portable chargers or power banks are affected by this
@@ -48,12 +48,20 @@ voluntary recall.</p>
 </tbody>
 </table>
 <p>To participate in this recall, consumers will need to provide:</p>
+<ul data-tight="true" class="tight">
+<li>
 <p>Contact information,</p>
+</li>
+<li>
 <p>Proof of purchase (such as an order invoice), or, if unavailable, a photo
 of the recalled portable charger with your name and submission date written
 on it in permanent marker,</p>
+</li>
+<li>
 <p>A photo of the recalled portable charger showing the model number and
 serial number (SN), which are printed on the bottom of the device.</p>
+</li>
+</ul>
 <p>Please see example images below:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -78,8 +86,6 @@ serial number (SN), which are printed on the bottom of the device.</p>
 <p>After receiving confirmation of eligibility, dispose of the affected unit
 at a certified facility that accepts recalled lithium-ion batteries. Do
 not dispose of these units in regular trash or recycling bins.</p>
-<p>For questions or assistance, contact Baseus customer service team manager,
-Cathy Chen at care@baseus.com.</p>
 <p></p>
 <p>Please see below for more product safety alerts and recalls on power banks.</p>
 <h4><strong>Product recalls</strong></h4>
