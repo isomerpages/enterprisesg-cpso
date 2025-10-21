@@ -36,10 +36,10 @@ of the <a href="https://www.consumerproductsafety.gov.sg/files/cgsr-info-book.pd
 goods that do not have applicable international safety standards.</p>
 <p>Please refer to section 5.1 (<strong>pages 9 – 12)</strong> of the <a href="https://www.consumerproductsafety.gov.sg/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">CGSR Information Booklet</a> for
 a <u>non-exhaustive</u> list of common general consumer goods and their applicable
-safety standards</p>
+safety standards.</p>
 <p>The Consumer Product Safety Office does active post-market surveillance
-to reduce the impact of unsafe general consumer goods as soon as safety
-issues are discovered. Consumers may refer to the <a href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-apparel/" rel="noopener noreferrer nofollow" target="_blank">Product Safety Alerts and Recalls page</a> for
+to reduce the impact of unsafe general consumer goods.</p>
+<p>Consumers may refer to the <a href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-apparel/" rel="noopener noreferrer nofollow" target="_blank">Product Safety Alerts and Recalls page</a> for
 the latest news regarding unsafe consumer products identified in Singapore.</p>
 <p><strong>When purchasing consumer goods, consumers are encouraged to:</strong>
 </p>
