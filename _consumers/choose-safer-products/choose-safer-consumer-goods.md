@@ -7,7 +7,7 @@ variant: tiptap
 <h2>Products that do not require a SAFETY Mark</h2>
 <p>Consumer goods such as toys, children’s products, apparel, sports and
 recreation products, furniture, mattresses and bedding and DIY tools, which
-are not regulated under other product safety Regulations, fall under the
+are not regulated under other product safety regulations, fall under the
 Consumer Protection (Consumer Goods Safety Requirements) Regulations 2011
 (<strong>CGSR</strong>).</p>
 <p>General consumer goods under the CGSR do not require pre-market approval
