@@ -28,6 +28,8 @@ any of the following organisations:</p>
 <p>ASTM International.</p>
 </li>
 </ul>
+<p><strong>and</strong>
+</p>
 <p><strong>(ii) </strong>the additional safety requirements in section 5.2
 of the CGSR Information Booklet.</p>
 <p>Regional or national standards may also be accepted for general consumer
