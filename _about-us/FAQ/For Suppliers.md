@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: FAQ
 ---
-<h3><strong><u>Registration of Controlled Goods (CGs)</u></strong></h3>
+<h3><strong>Registration of Controlled Goods (CGs)</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I register Controlled Goods (CGs)?</strong>
@@ -147,7 +147,7 @@ to&nbsp;register the CG with a SAFETY Mark before it is supplied to consumers.</
 </details>
 </div>
 <p></p>
-<h3><strong><u>Displaying the SAFETY Mark on Controlled Goods (CGs)</u></strong></h3>
+<h3><strong>Displaying the SAFETY Mark on Controlled Goods (CGs)</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;How should the SAFETY Mark be displayed on CGs?</strong>
@@ -208,7 +208,7 @@ information on the CPSA+ (under “User Guides on CPSA+ for RS”).</p>
 </details>
 </div>
 <p></p>
-<h3><strong><u>Sale of General Consumer Goods</u></strong></h3>
+<h3><strong>Sale of General Consumer Goods</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>13.&nbsp; What safety standards apply to general consumer goods sold in Singapore?</strong>
@@ -245,7 +245,7 @@ on toys and childcare articles, as well as portable power banks.</p>
 </details>
 </div>
 <p></p>
-<h3><strong><u>Company Information in CPSA+</u></strong></h3>
+<h3><strong>Company Information in CPSA+</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>14.&nbsp; How do I navigate the CPSA+ system?</strong>
@@ -281,7 +281,7 @@ person.</p>
 </details>
 </div>
 <p></p>
-<h3><strong><u>Resources by CPSO</u></strong></h3>
+<h3><strong>Resources by CPSO</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>17. Where can I find the CPSO's guides on Controlled Goods (CGs), the Safety Mark, or the relevant regulations?</strong>
