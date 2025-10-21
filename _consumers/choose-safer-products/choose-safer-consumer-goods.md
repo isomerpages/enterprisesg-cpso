@@ -25,7 +25,7 @@ any of the following organisations:</p>
 <p>European Committee for Standardisation (EN); or</p>
 </li>
 <li>
-<p>ASTM International.</p>
+<p>ASTM International</p>
 </li>
 </ul>
 <p><strong>and</strong>
