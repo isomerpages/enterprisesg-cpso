@@ -48,7 +48,7 @@ voluntary recall.</p>
 </tbody>
 </table>
 <p>To participate in this recall, consumers will need to provide:</p>
-<ol data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>Contact information,</p>
 </li>
@@ -61,7 +61,7 @@ on it in permanent marker,</p>
 <p>A photo of the recalled portable charger showing the model number and
 serial number (SN), which are printed on the bottom of the device.</p>
 </li>
-</ol>
+</ul>
 <p>Please see example images below:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -86,6 +86,8 @@ serial number (SN), which are printed on the bottom of the device.</p>
 <p>After receiving confirmation of eligibility, dispose of the affected unit
 at a certified facility that accepts recalled lithium-ion batteries. Do
 not dispose of these units in regular trash or recycling bins.</p>
+<p>For questions or assistance, contact Baseus customer service team manager,
+Cathy Chen at <strong><u>care@baseus.com</u></strong>.</p>
 <p></p>
 <p>Please see below for more product safety alerts and recalls on power banks.</p>
 <h4><strong>Product recalls</strong></h4>
