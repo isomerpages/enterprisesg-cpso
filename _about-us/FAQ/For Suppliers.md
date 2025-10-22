@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: FAQ
 ---
-<h3><strong><u>Registration of Controlled Goods (CGs)</u></strong></h3>
+<h3><strong>Registration of Controlled Goods (CGs)</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; How do I register Controlled Goods (CGs)?</strong>
@@ -135,18 +135,19 @@ sending the product for testing and certification.</p>
 their goods with the CPSO. However, they must ensure that the end users
 of such goods are not consumers. This could be done by vetting potential
 buyers or limiting sales channels to ensure the CGs are only for use or
-installed in non-households. A CG that is eventually used by consumers
-downstream for <strong>home</strong> use will require the SAFETY Mark.</p>
-<p>For example, if a supplier sells washing machines to a condominium developer
-to be placed inside the condominium units, the washing machines will require
-a SAFETY Mark. One party in the supply chain (e.g. the supplier or the
-condominium developer) must register the washing machine before it reaches
-consumers.</p>
+installed in non-households.</p>
+<p></p>
+<p>However, if a CG eventually ends up being supplied to <strong>consumers</strong>&nbsp;for <strong>home</strong>&nbsp;use,
+it will require the SAFETY Mark at the point of supply to consumers. For
+example, if a supplier sells&nbsp;a CG to downstream supplier, the CG&nbsp;will
+require a SAFETY Mark before they end up being supplied to consumers. Only&nbsp;one
+party in the supply chain (e.g. the supplier or downstream supplier) needs
+to&nbsp;register the CG with a SAFETY Mark before it is supplied to consumers.</p>
 </div>
 </details>
 </div>
 <p></p>
-<h3><strong><u>Displaying the SAFETY Mark on Controlled Goods (CGs)</u></strong></h3>
+<h3><strong>Displaying the SAFETY Mark on Controlled Goods (CGs)</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>9.&nbsp;&nbsp;&nbsp;&nbsp;How should the SAFETY Mark be displayed on CGs?</strong>
@@ -207,7 +208,7 @@ information on the CPSA+ (under “User Guides on CPSA+ for RS”).</p>
 </details>
 </div>
 <p></p>
-<h3><strong><u>Sale of General Consumer Goods</u></strong></h3>
+<h3><strong>Sale of General Consumer Goods</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion-group isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>13.&nbsp; What safety standards apply to general consumer goods sold in Singapore?</strong>
@@ -244,7 +245,7 @@ on toys and childcare articles, as well as portable power banks.</p>
 </details>
 </div>
 <p></p>
-<h3><strong><u>Company Information in CPSA+</u></strong></h3>
+<h3><strong>Company Information in CPSA+</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>14.&nbsp; How do I navigate the CPSA+ system?</strong>
@@ -280,7 +281,7 @@ person.</p>
 </details>
 </div>
 <p></p>
-<h3><strong><u>Resources by CPSO</u></strong></h3>
+<h3><strong>Resources by CPSO</strong></h3>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
 <summary><strong>17. Where can I find the CPSO's guides on Controlled Goods (CGs), the Safety Mark, or the relevant regulations?</strong>

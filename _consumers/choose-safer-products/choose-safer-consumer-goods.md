@@ -7,30 +7,39 @@ variant: tiptap
 <h2>Products that do not require a SAFETY Mark</h2>
 <p>Consumer goods such as toys, children’s products, apparel, sports and
 recreation products, furniture, mattresses and bedding and DIY tools, which
-are not regulated under other product safety Regulations, fall under the
-Consumer Protection (Consumer Goods Safety Requirements) Regulations (CGSR).
-Consumer goods under the CGSR do not require pre-market approval by the
-authority. However, they must comply with international safety standards
-such as:</p>
+are not regulated under other product safety regulations, fall under the
+Consumer Protection (Consumer Goods Safety Requirements) Regulations 2011
+(<strong>CGSR</strong>).</p>
+<p>General consumer goods under the CGSR do not require pre-market approval
+by the authority. However, they must comply with:</p>
+<p><strong>(i)</strong>  <u>at least one</u> of the applicable safety standards
+by any of the following organisations:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>International Organization for Standardization (ISO)</p>
+<p>International Organization for Standardization (ISO);</p>
 </li>
 <li>
-<p>International Electrotechnical Commission (IEC)</p>
+<p>International Electrotechnical Commission (IEC);</p>
 </li>
 <li>
-<p>European Committee for Standardisation</p>
+<p>European Committee for Standardisation (EN); or</p>
 </li>
 <li>
 <p>ASTM International</p>
 </li>
 </ul>
-<p>Regional or national standards may also be accepted for consumer goods
-that do not have applicable international safety standards.</p>
+<p><strong>and</strong>
+</p>
+<p><strong>(ii) </strong>the additional safety requirements in section 5.2
+of the <a href="https://www.consumerproductsafety.gov.sg/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">CGSR Information Booklet</a>.</p>
+<p>Regional or national standards may also be accepted for general consumer
+goods that do not have applicable international safety standards.</p>
+<p>Please refer to section 5.1 (<strong>pages 9 – 12)</strong> of the <a href="https://www.consumerproductsafety.gov.sg/files/cgsr-info-book.pdf" rel="noopener noreferrer nofollow" target="_blank">CGSR Information Booklet</a> for
+a <u>non-exhaustive</u> list of common general consumer goods and their applicable
+safety standards.</p>
 <p>The Consumer Product Safety Office does active post-market surveillance
-to reduce the impact of unsafe general consumer goods as soon as safety
-issues are discovered. Consumers may refer to the <a href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-apparel/" rel="noopener noreferrer nofollow" target="_blank">Product Safety Alerts and Recalls page</a> for
+to reduce the impact of unsafe general consumer goods. Consumers may refer
+to the <a href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-apparel/" rel="noopener noreferrer nofollow" target="_blank">Product Safety Alerts and Recalls page</a> for
 the latest news regarding unsafe consumer products identified in Singapore.</p>
 <p><strong>When purchasing consumer goods, consumers are encouraged to:</strong>
 </p>
