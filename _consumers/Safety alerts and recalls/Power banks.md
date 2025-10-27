@@ -16,7 +16,7 @@ Cable) (model: PB2030MI) manufactured between August and September 2024.
 These Power Banks may experience malfunctions under certain usage scenarios,
 potentially resulting in battery overheating, which could pose a fire hazard.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Xiaomi_power_bank_PB2030MI.png">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Xiaomi_power_bank_PB2030MI.png">
 </div>
 <p>One local incident took place involving a power bank fire at a train cabin
 at Raffles MRT on 7 March 2025. Xiaomi has also received reports of 23
