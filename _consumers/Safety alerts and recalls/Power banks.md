@@ -26,7 +26,7 @@ by the recall. Visit Xiaomi's <a href="https://www.mi.com/sg/support/safety-noti
 the Power Bank’s serial number to check if it is affected by the recall,
 and for instructions on returning affected Power Banks for a refund.
 <br>
-<br>Consumers may also contact Xiaomi at 800 8528474 (toll-free) and <strong><u>service.sg@support.mi.com</u></strong> for
+<br>Consumers may also contact Xiaomi at 800 8528474 (toll-free) and <u>service.sg@support.mi.com</u> for
 assistance.</p>
 <p></p>
 <p>Please see below for more product safety alerts and recalls on power banks.</p>
