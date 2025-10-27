@@ -50,8 +50,8 @@ assistance.</p>
 <p>27 Oct 2025</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Xiaomi Announces Recall of Xiaomi 33W Power Bank 20000mAh (Integrated
-Cable)</p>
+<p><a href="/files/product-safety-alerts-and-recalls/power-banks/powerbanks_recall_2025_10_27_xiaomi_recalls_batch_of_PB2030MI_model.pdf" rel="noopener noreferrer nofollow" target="_blank">Xiaomi Announces Recall of Xiaomi 33W Power Bank 20000mAh (Integrated Cable)</a>
+</p>
 </td>
 </tr>
 <tr>
