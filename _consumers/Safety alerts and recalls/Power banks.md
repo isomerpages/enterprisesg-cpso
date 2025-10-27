@@ -9,7 +9,7 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<h4><strong>27 October 2025:</strong><br><strong>Xiaomi Announces Recall of Xiaomi 33W Power Bank 20000mAh (Integrated Cable)</strong></h4>
+<h4><strong>27 October 2025</strong><br><strong>Xiaomi Announces Recall of Xiaomi 33W Power Bank 20000mAh (Integrated Cable)</strong></h4>
 <p>Due to issues identified with certain raw materials from suppliers, Xiaomi
 is voluntarily recalling a batch of Xiaomi 33W Power Bank 20000mAh (Integrated
 Cable) (model: PB2030MI) manufactured between August and September 2024.
