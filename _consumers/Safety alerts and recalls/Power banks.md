@@ -9,85 +9,25 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<h4><strong>1 August 2025:</strong><br><strong>Baseus Recalls Selected Portable Chargers with Model Number BS-30KP365<br></strong></h4>
-<p>Shenzhen Baseus Technology Co., Ltd ("Baseus") is voluntarily recalling
-the following portable charger:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Baseus Portable Charger, 65W 30000mAh High-Capacity Portable Charger with&nbsp;model
-number BS-30KP365&nbsp;with&nbsp;a serial number (SN) ending in the number
-0 through 9 or the letter "D".</p>
-</li>
-</ul>
-<p>The lithium-ion battery in the portable charger may overheat, posing a
-fire hazard.</p>
-<p>Consumers should immediately stop using these portable chargers and contact
-Baseus customer service team manager, Cathy Chen at <strong><u>care@baseus.com</u></strong> to
-request for a free replacement BS-30KP365 portable charger with a serial
-number (SN) ending with the letter ‘A’.</p>
-<p>No other Baseus portable chargers or power banks are affected by this
-voluntary recall.</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
+<h4><strong>27 October 2025:</strong><br><strong>Xiaomi Announces Recall of Xiaomi 33W Power Bank 20000mAh (Integrated Cable)</strong></h4>
+<p>Due to issues identified with certain raw materials from suppliers, Xiaomi
+is voluntarily recalling a batch of Xiaomi 33W Power Bank 20000mAh (Integrated
+Cable) (model: PB2030MI) manufactured between August and September 2024.
+These Power Banks may experience malfunctions under certain usage scenarios,
+potentially resulting in battery overheating, which could pose a fire hazard.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Baseus_BS_30KP365_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Xiaomi_power_bank_PB2030MI.png">
 </div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Baseus_BS_30KP365_2.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>To participate in this recall, consumers will need to provide:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Contact information,</p>
-</li>
-<li>
-<p>Proof of purchase (such as an order invoice), or, if unavailable, a photo
-of the recalled portable charger with your name and submission date written
-on it in permanent marker,</p>
-</li>
-<li>
-<p>A photo of the recalled portable charger showing the model number and
-serial number (SN), which are printed on the bottom of the device.</p>
-</li>
-</ul>
-<p>Please see example images below:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Baseus_BS_30KP365_3.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/powerbanks/Baseus_BS_30KP365_4.png">
-</div>
-</td>
-</tr>
-</tbody>
-</table>
-<p>After receiving confirmation of eligibility, dispose of the affected unit
-at a certified facility that accepts recalled lithium-ion batteries. Do
-not dispose of these units in regular trash or recycling bins.</p>
-<p>For questions or assistance, contact Baseus customer service team manager,
-Cathy Chen at <strong><u>care@baseus.com</u></strong>.</p>
+<p>One local incident took place involving a power bank fire at a train cabin
+at Raffles MRT on 7 March 2025. Xiaomi has also received reports of 23
+incidents globally related to this product.</p>
+<p>Consumers should immediately stop using Power Banks that are affected
+by the recall. Visit Xiaomi's <a href="https://www.mi.com/sg/support/safety-notice/" rel="noopener nofollow" target="_blank">website</a> and enter
+the Power Bank’s serial number to check if it is affected by the recall,
+and for instructions on returning affected Power Banks for a refund.
+<br>
+<br>Consumers may also contact Xiaomi at 800 8528474 (toll-free) and <a href="mailto:service.sg@support.mi.com" rel="noopener noreferrer nofollow" target="_blank">service.sg@support.mi.com</a> for
+assistance.</p>
 <p></p>
 <p>Please see below for more product safety alerts and recalls on power banks.</p>
 <h4><strong>Product recalls</strong></h4>
