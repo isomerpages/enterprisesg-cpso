@@ -47,6 +47,15 @@ assistance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>27 Oct 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Xiaomi Announces Recall of Xiaomi 33W Power Bank 20000mAh (Integrated
+Cable)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1 Aug 2025</p>
 </td>
 <td rowspan="1" colspan="1">
