@@ -8,8 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<h4><strong>MEDIA RELEASE</strong></h4>
-<h4><strong>13 November 2025</strong></h4>
+<h4><strong>MEDIA RELEASE</strong><br><strong>13 November 2025</strong></h4>
 <h4><strong>CCS Warns Consumers About Safety Risks When Buying Baby Products and Children's Jewellery Online</strong></h4>
 <p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As part of ongoing
@@ -143,11 +142,14 @@ For more information on consumer product safety, visit the CPSO’s website
 at <a href="www.consumerproductsafety.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.consumerproductsafety.gov.sg</a>.</p>
 <p>&nbsp;</p>
 <p></p>
-<p></p>
 <p><strong>-END-</strong>
 <br>
 </p>
+<p><strong>Annex A:</strong>  <a href="/files/media-releases/2025_11_13_MR_annex_a.pdf" rel="noopener nofollow" target="_blank">List of Unsafe Products and Specific Safety Hazards</a>
+</p>
+<p><strong>Annex B:</strong> 
+</p>
 <hr>
-<p>[1] The National Trauma Registry was established by the Ministry of Health
-to systematically capture data on trauma cases seen in public healthcare
-institutions in Singapore.</p>
+<p><sup>[1]</sup> The National Trauma Registry was established by the Ministry
+of Health to systematically capture data on trauma cases seen in public
+healthcare institutions in Singapore.</p>
