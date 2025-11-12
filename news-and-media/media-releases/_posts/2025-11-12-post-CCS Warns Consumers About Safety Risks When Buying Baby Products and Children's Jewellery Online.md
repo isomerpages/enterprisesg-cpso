@@ -58,34 +58,31 @@ systems, both of which could allow a child to fall out.</p>
 parts that could cause choking.</p>
 <p>o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Shearing and crushing hazards: Having
 moving parts that could trap, pinch, or cut fingers or toes.</p>
-</li>
-<li>
 <p></p>
 </li>
-</ul>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Children’s jewellery (including accessories):</strong>
+<li>
+<p><strong>Children’s jewellery (including accessories):</strong>
 </p>
 <p>o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Laceration hazards: Having ornaments that
 detached during testing, exposing sharp points.</p>
 <p>o&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Button/cell battery ingestion hazard:
 Watches having button battery compartments that were easily accessible
 by children, which could cause chemical burns internally if swallowed.</p>
+</li>
+</ul>
 <p>(Refer to <strong>Annex A</strong> for the list of unsafe products and specific
 safety hazards).</p>
-<p><strong><a rel="noopener noreferrer nofollow" target="_blank">&nbsp;</a></strong>
-</p>
+<p></p>
 <p><strong>Safety incidents involving children’s products</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In Singapore, safety
 incidents involving the three categories of children’s products surveyed
 by the CPSO have continued to occur. &nbsp;The National Trauma Registry
 <a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>records an average of about 140 cases of child injuries annually
 between 2022 and 2024 from the use of baby cots, strollers, button batteries
 and children’s jewellery. &nbsp;</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to KK Women’s and Children’s Hospital (“</a><strong><a rel="noopener noreferrer nofollow" target="_blank">KKH</a></strong>
 <a rel="noopener noreferrer nofollow" target="_blank">”), incidents of children’s injuries involving baby cots and strollers
 were primarily head injuries from falls. Dr Ronald Tan, Senior Consultant</a>，Department
@@ -150,9 +147,9 @@ other sources to assess product quality and potential safety concerns.</p>
 cannot be easily accessed by children during use.</p>
 <p>&nbsp;</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consumers who encounter product
-safety issues are encouraged to report them to the CPSO at <a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/contact-cpso</a>.
-For more information on consumer product safety, visit the CPSO’s website
-at <a rel="noopener noreferrer nofollow" target="_blank">www.consumerproductsafety.gov.sg</a>.</p>
+safety issues are encouraged to report them to the CPSO at <a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/contact-cpso</a>. For
+more information on consumer product safety, visit the CPSO’s website at
+<a rel="noopener noreferrer nofollow" target="_blank">www.consumerproductsafety.gov.sg</a>.</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
