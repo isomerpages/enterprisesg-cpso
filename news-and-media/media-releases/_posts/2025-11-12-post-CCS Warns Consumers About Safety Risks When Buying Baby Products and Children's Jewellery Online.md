@@ -75,10 +75,10 @@ safety hazards).</p>
 <p></p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In Singapore, safety
 incidents involving the three categories of children’s products surveyed
-by the CPSO have continued to occur. &nbsp;The National Trauma Registry
-<a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>records an average of about 140 cases of child injuries annually
-between 2022 and 2024 from the use of baby cots, strollers, button batteries
-and children’s jewellery. &nbsp;</p>
+by the CPSO have continued to occur. &nbsp;The National Trauma Registry<sup>[1]</sup> records
+an average of about 140 cases of child injuries annually between 2022 and
+2024 from the use of baby cots, strollers, button batteries and children’s
+jewellery. &nbsp;</p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to KK Women's
 and Children's Hospital ("<strong>KKH</strong>"), incidents of children's
 injuries involving baby cots and strollers were primarily head injuries
@@ -125,18 +125,17 @@ or imprisonment not exceeding two years, or both.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents and caregivers
 play an important role in ensuring that children use safe products. The
 following safety tips can serve as a reference when buying or using children’s
-products (more product-specific safety tips can be found in <strong>Annex B</strong>):</p>
-<p></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">a.&nbsp;&nbsp;&nbsp; Buy from authorised retailers or reputable brands/suppliers.</a>
-</p>
-<p>b.&nbsp;&nbsp;&nbsp; Check online listings or product labels for age recommendations
-and safety instructions.</p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp; Compare reviews from reputable websites or
-other sources to assess product quality and potential safety concerns.</p>
-<p>d.&nbsp;&nbsp;&nbsp; Before use, inspect the product for any unsafe parts
-(e.g. presence of detachable small parts and sharp points/edges).</p>
-<p>Ensure that button or cell battery compartments are properly secured and
-cannot be easily accessed by children during use.</p>
+products (more product-specific safety tips can be found in <strong>Annex B</strong>):
+<br>
+<br>a.&nbsp;&nbsp;&nbsp; Buy from authorised retailers or reputable brands/suppliers.
+<br>b.&nbsp;&nbsp;&nbsp; Check online listings or product labels for age recommendations
+and safety instructions.
+<br>c.&nbsp;&nbsp;&nbsp;&nbsp; Compare reviews from reputable websites or
+other sources to assess product quality and potential safety concerns.
+<br>d.&nbsp;&nbsp;&nbsp; Before use, inspect the product for any unsafe parts
+(e.g. presence of detachable small parts and sharp points/edges).
+<br>e.&nbsp;&nbsp;&nbsp; Ensure that button or cell battery compartments are
+properly secured and cannot be easily accessed by children during use.</p>
 <p></p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consumers who encounter product
 safety issues are encouraged to report them to the CPSO at <a href="http://go.gov.sg/sg/contact-cpso" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/contact-cpso</a>.
@@ -149,7 +148,6 @@ at <a href="www.consumerproductsafety.gov.sg" rel="noopener noreferrer nofollow"
 <br>
 </p>
 <hr>
-<p><a href="#_ftnref1" rel="noopener noreferrer nofollow" target="_blank">[1]</a> The
-National Trauma Registry was established by the Ministry of Health to systematically
-capture data on trauma cases seen in public healthcare institutions in
-Singapore.</p>
+<p>[1] The National Trauma Registry was established by the Ministry of Health
+to systematically capture data on trauma cases seen in public healthcare
+institutions in Singapore.</p>
