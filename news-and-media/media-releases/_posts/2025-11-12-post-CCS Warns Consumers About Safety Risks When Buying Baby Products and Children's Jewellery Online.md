@@ -8,12 +8,9 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p><strong>MEDIA RELEASE</strong>
-</p>
-<p><strong>13 November 2025</strong>
-</p>
-<p><strong>CCS Warns Consumers About Safety Risks When Buying Baby Products and Children's Jewellery Online</strong>
-</p>
+<h4><strong>MEDIA RELEASE</strong></h4>
+<h4><strong>13 November 2025</strong></h4>
+<h4><strong>CCS Warns Consumers About Safety Risks When Buying Baby Products and Children's Jewellery Online</strong></h4>
 <p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; As part of ongoing
 efforts to safeguard consumers, the Consumer Product Safety Office (“<strong>CPSO</strong>”)
@@ -91,17 +88,15 @@ Group, noted: “We have seen a rise in cot- and stroller-related injuries
 over the past five years. This trend reminds us of the importance for parents
 and caregivers to be present, exercise greater caution, and provide closer
 supervision when using cots and strollers”.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong>Ensuring product safety for children</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The CPSO notes that
 most physical retailers in Singapore selling baby cots, strollers and toys
 surveyed can produce supporting documents indicating that their products
 had been tested to relevant safety requirements.</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Mr Alvin Koh, Chief
 Executive, CCS said: "Following our market surveillance efforts, we have
 worked closely with the e-commerce platforms and online retailers to remove
@@ -112,8 +107,7 @@ online must check the product listings for safety related instructions,
 appropriate age labelling, and customer reviews. While we urge consumers
 and parents to keep a watchful eye for risky products, CCS will continue
 our market surveillance efforts to keep our consumers safe."</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Under the CGSR, suppliers
 of general consumer goods in Singapore must ensure their products meet
 applicable safety standards. Children’s products must comply with applicable
@@ -127,14 +121,12 @@ or imprisonment not exceeding two years, or both.</p>
 <p></p>
 <p><strong>What should parents or caregivers do?</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents and caregivers
 play an important role in ensuring that children use safe products. The
 following safety tips can serve as a reference when buying or using children’s
 products (more product-specific safety tips can be found in <strong>Annex B</strong>):</p>
-<p><strong>&nbsp;</strong>
-</p>
+<p></p>
 <p><a rel="noopener noreferrer nofollow" target="_blank">a.&nbsp;&nbsp;&nbsp; Buy from authorised retailers or reputable brands/suppliers.</a>
 </p>
 <p>b.&nbsp;&nbsp;&nbsp; Check online listings or product labels for age recommendations
@@ -145,17 +137,15 @@ other sources to assess product quality and potential safety concerns.</p>
 (e.g. presence of detachable small parts and sharp points/edges).</p>
 <p>Ensure that button or cell battery compartments are properly secured and
 cannot be easily accessed by children during use.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consumers who encounter product
-safety issues are encouraged to report them to the CPSO at <a rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/contact-cpso</a>. For
-more information on consumer product safety, visit the CPSO’s website at
-<a rel="noopener noreferrer nofollow" target="_blank">www.consumerproductsafety.gov.sg</a>.</p>
+safety issues are encouraged to report them to the CPSO at <a href="http://go.gov.sg/sg/contact-cpso" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/contact-cpso</a>.
+For more information on consumer product safety, visit the CPSO’s website
+at <a href="www.consumerproductsafety.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.consumerproductsafety.gov.sg</a>.</p>
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+<p></p>
+<p></p>
 <p><strong>-END-</strong>
-</p>
-<p>
 <br>
 </p>
 <hr>
