@@ -177,8 +177,8 @@ administering the Weights and Measures Act 1975, and ensures the supply
 of safe consumer goods by enforcing and implementing the Consumer Protection
 (Trade Descriptions and Safety Requirements) Act 1975 and its associated
 Regulations.</p>
-<p></p>
 <p>For more information, please visit <a href="www.ccs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.ccs.gov.sg</a>.</p>
+<p></p>
 <p></p>
 <p>For media clarifications, please contact:</p>
 <p><strong>Ms. Winifred Kwok</strong>
