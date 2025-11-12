@@ -184,12 +184,12 @@ Regulations.</p>
 <p><strong>Ms. Winifred Kwok</strong>
 <br>Senior Assistant Director (Communications)&nbsp;&nbsp;&nbsp;&nbsp;
 <br>Competition and Consumer Commission of Singapore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">winifred_kwok@ccs.gov.sg</a>
+<br>Email: winifred_kwok@ccs.gov.sg
 <br>DID: 6302 4345</p>
 <p></p>
 <p><strong>Ms. Shamsiah Jemain</strong>
 <br>Senior Executive (Communications)
 <br>Competition and Consumer Commission of Singapore
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">shamsiah_jemain@ccs.gov.sg</a>
+<br>Email: shamsiah_jemain@ccs.gov.sg
 <br>DID: 6325 8206</p>
 <p></p>
