@@ -137,7 +137,7 @@ other sources to assess product quality and potential safety concerns.
 properly secured and cannot be easily accessed by children during use.</p>
 <p></p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consumers who encounter product
-safety issues are encouraged to report them to the CPSO at <a href="http://go.gov.sg/sg/contact-cpso" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/contact-cpso</a>.
+safety issues are encouraged to report them to the CPSO at <a href="https://go.gov.sg/contact-cpso" rel="noopener nofollow" target="_blank">https://go.gov.sg/contact-cpso</a>.
 For more information on consumer product safety, visit the CPSO’s website
 at <a href="https://www.consumerproductsafety.gov.sg/" rel="noopener nofollow" target="_blank">www.consumerproductsafety.gov.sg</a>.&nbsp;</p>
 <hr>
