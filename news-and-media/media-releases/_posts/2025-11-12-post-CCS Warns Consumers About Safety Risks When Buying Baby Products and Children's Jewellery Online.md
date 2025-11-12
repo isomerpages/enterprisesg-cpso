@@ -139,7 +139,7 @@ properly secured and cannot be easily accessed by children during use.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consumers who encounter product
 safety issues are encouraged to report them to the CPSO at <a href="http://go.gov.sg/sg/contact-cpso" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/contact-cpso</a>.
 For more information on consumer product safety, visit the CPSO’s website
-at <a href="www.consumerproductsafety.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.consumerproductsafety.gov.sg</a>.&nbsp;</p>
+at <a href="https://www.consumerproductsafety.gov.sg/" rel="noopener nofollow" target="_blank">www.consumerproductsafety.gov.sg</a>.&nbsp;</p>
 <hr>
 <p><sup>[1]</sup> The National Trauma Registry was established by the Ministry
 of Health to systematically capture data on trauma cases seen in public
