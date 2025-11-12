@@ -151,4 +151,32 @@ healthcare institutions in Singapore.</p>
 </p>
 <p><strong>Annex B: </strong><a href="/files/media-releases/2025_11_13_MR_annex_b.pdf" rel="noopener nofollow" target="_blank">Safety Tips on Baby Cots, Strollers, Children's Accessories, and Toys</a>
 </p>
+<p>______________________________________________________________________________________</p>
+<p></p>
+<p><strong>About Consumer Product Safety Office</strong>
+</p>
+<p>The Consumer Product Safety Office (“<strong>CPSO</strong>”) safeguards
+consumer safety by ensuring consumer products supplied in Singapore are
+safe for use and comply with applicable safety standards. The CPSO is an
+office of the Competition and Consumer Commission of Singapore.</p>
+<p>The CPSO conducts market surveillance to verify products’ compliance with
+safety requirements, investigates feedback on consumer product safety and
+informs consumers about latest product safety information.</p>
+<p></p>
+<p><strong>About the Competition and Consumer Commission of Singapore</strong>
+</p>
+<p>The Competition and Consumer Commission of Singapore (“<strong>CCS</strong>”)
+is a statutory board of the Ministry of Trade and Industry. Our mission
+is to make markets work well to create opportunities and choices for businesses
+and consumers in Singapore.</p>
+<p>CCS administers and enforces the Competition Act 2004 and the Consumer
+Protection (Fair Trading) Act 2003 (“<strong>CPFTA</strong>”), to guard
+against anti-competitive activities and unfair trade practices. Additionally,
+CCS ensures that businesses observe fair trade measurement practices by
+administering the Weights and Measures Act 1975, and ensures the supply
+of safe consumer goods by enforcing and implementing the Consumer Protection
+(Trade Descriptions and Safety Requirements) Act 1975 and its associated
+Regulations.</p>
+<p></p>
+<p>For more information, please visit <a href="www.ccs.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.ccs.gov.sg</a>.</p>
 <p></p>
