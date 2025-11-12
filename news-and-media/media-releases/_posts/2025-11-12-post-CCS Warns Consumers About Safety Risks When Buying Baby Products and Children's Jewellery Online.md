@@ -79,15 +79,15 @@ by the CPSO have continued to occur. &nbsp;The National Trauma Registry
 <a href="#_ftn1" rel="noopener noreferrer nofollow" target="_blank">[1]</a>records an average of about 140 cases of child injuries annually
 between 2022 and 2024 from the use of baby cots, strollers, button batteries
 and children’s jewellery. &nbsp;</p>
-<p></p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to KK Women’s and Children’s Hospital (“</a><strong><a rel="noopener noreferrer nofollow" target="_blank">KKH</a></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">”), incidents of children’s injuries involving baby cots and strollers
-were primarily head injuries from falls. Dr Ronald Tan, Senior Consultant</a>，Department
-of Emergency Medicine, KKH, and Chairman of the KKH Injury Prevention Working
-Group, noted: “We have seen a rise in cot- and stroller-related injuries
-over the past five years. This trend reminds us of the importance for parents
-and caregivers to be present, exercise greater caution, and provide closer
-supervision when using cots and strollers”.</p>
+<p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; According to KK Women's
+and Children's Hospital ("<strong>KKH</strong>"), incidents of children's
+injuries involving baby cots and strollers were primarily head injuries
+from falls. Dr Ronald Tan, Senior Consultant, Department of Emergency Medicine,
+KKH, and Chairman of the KKH Injury Prevention Working Group, noted: “We
+have seen a rise in cot- and stroller-related injuries over the past five
+years. This trend reminds us of the importance for parents and caregivers
+to be present, exercise greater caution, and provide closer supervision
+when using cots and strollers”.</p>
 <p></p>
 <p><strong>Ensuring product safety for children</strong>
 </p>
