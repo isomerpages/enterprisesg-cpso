@@ -151,7 +151,7 @@ healthcare institutions in Singapore.</p>
 </p>
 <p><strong>Annex B: </strong><a href="/files/media-releases/2025_11_13_MR_annex_b.pdf" rel="noopener nofollow" target="_blank">Safety Tips on Baby Cots, Strollers, Children's Accessories, and Toys</a>
 </p>
-<p>______________________________________________________________________________________</p>
+<p>___________________________________________________________________________________________</p>
 <p></p>
 <p><strong>About Consumer Product Safety Office</strong>
 </p>
