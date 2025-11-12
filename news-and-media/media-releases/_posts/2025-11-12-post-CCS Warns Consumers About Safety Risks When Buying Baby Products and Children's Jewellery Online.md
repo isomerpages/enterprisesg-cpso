@@ -139,17 +139,16 @@ properly secured and cannot be easily accessed by children during use.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Consumers who encounter product
 safety issues are encouraged to report them to the CPSO at <a href="http://go.gov.sg/sg/contact-cpso" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/contact-cpso</a>.
 For more information on consumer product safety, visit the CPSO’s website
-at <a href="www.consumerproductsafety.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.consumerproductsafety.gov.sg</a>.</p>
-<p>&nbsp;</p>
+at <a href="www.consumerproductsafety.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.consumerproductsafety.gov.sg</a>.&nbsp;</p>
+<hr>
+<p><sup>[1]</sup> The National Trauma Registry was established by the Ministry
+of Health to systematically capture data on trauma cases seen in public
+healthcare institutions in Singapore.</p>
 <p></p>
 <p><strong>-END-</strong>
-<br>
 </p>
 <p><strong>Annex A:</strong>  <a href="/files/media-releases/2025_11_13_MR_annex_a.pdf" rel="noopener nofollow" target="_blank">List of Unsafe Products and Specific Safety Hazards</a>
 </p>
 <p><strong>Annex B: </strong><a href="/files/media-releases/2025_11_13_MR_annex_b.pdf" rel="noopener nofollow" target="_blank">Safety Tips on Baby Cots, Strollers, Children's Accessories, and Toys</a>
 </p>
-<hr>
-<p><sup>[1]</sup> The National Trauma Registry was established by the Ministry
-of Health to systematically capture data on trauma cases seen in public
-healthcare institutions in Singapore.</p>
+<p></p>
