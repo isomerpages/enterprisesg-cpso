@@ -147,7 +147,7 @@ at <a href="www.consumerproductsafety.gov.sg" rel="noopener noreferrer nofollow"
 </p>
 <p><strong>Annex A:</strong>  <a href="/files/media-releases/2025_11_13_MR_annex_a.pdf" rel="noopener nofollow" target="_blank">List of Unsafe Products and Specific Safety Hazards</a>
 </p>
-<p><strong>Annex B:</strong> 
+<p><strong>Annex B: </strong><a href="/files/media-releases/2025_11_13_MR_annex_b.pdf" rel="noopener nofollow" target="_blank">Safety Tips on Baby Cots, Strollers, Children's Accessories, and Toys</a>
 </p>
 <hr>
 <p><sup>[1]</sup> The National Trauma Registry was established by the Ministry
