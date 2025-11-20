@@ -20,7 +20,7 @@ the age of 5 in 2013, compared to the same period in 2012.</p>
 by toys, such as choking, falls, cuts and bruises, by making informed purchasing
 decisions and proper supervision of a toy's use after it is bought. Follow
 the good practices below to protect your child:</p>
-<h4><strong>Good Practices</strong></h4>
+<h4>Good Practices</h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>Check if the toy is being recalled or banned. Read up on notices or alerts
@@ -115,62 +115,40 @@ they could be picked up by a young child.</p>
 toy or battery.</p>
 </li>
 </ol>
-<h4><strong>Don't buy toys that:</strong></h4>
+<h4>Don't buy toys that:</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>have any part that can fit into a child's mouth, nose, or ear;
-<br>
-</p>
+<p>have any part that can fit into a child's mouth, nose, or ear;</p>
 </li>
 <li>
-<p>have exposed wire(s);
-<br>
-</p>
+<p>have exposed wire(s);</p>
 </li>
 <li>
-<p>have parts that can heat up and/or catch fire;
-<br>
-</p>
+<p>have parts that can heat up and/or catch fire;</p>
 </li>
 <li>
-<p>have toxic material(s);
-<br>
-</p>
+<p>have toxic material(s);</p>
 </li>
 <li>
-<p>have detachable small part(s) with strong magnet(s);
-<br>
-</p>
+<p>have detachable small part(s) with strong magnet(s);</p>
 </li>
 <li>
-<p>have sharp edge(s);
-<br>
-</p>
+<p>have sharp edge(s);</p>
 </li>
 <li>
-<p>have glass or part(s) that might break easily;
-<br>
-</p>
+<p>have glass or part(s) that might break easily;</p>
 </li>
 <li>
-<p>have spring(s), gear(s), or hinged part(s) that may pinch or trap finger(s);
-<br>
-</p>
+<p>have spring(s), gear(s), or hinged part(s) that may pinch or trap finger(s);</p>
 </li>
 <li>
-<p>have long pull string(s) or cord(s) which might pose a strangulation hazard;
-<br>
-</p>
+<p>have long pull string(s) or cord(s) which might pose a strangulation hazard;</p>
 </li>
 <li>
-<p>have part(s) that are secured with straight pin(s) or staple(s);
-<br>
-</p>
+<p>have part(s) that are secured with straight pin(s) or staple(s);</p>
 </li>
 <li>
-<p>produce excessively high audio level that may damage hearing;
-<br>
-</p>
+<p>produce excessively high audio level that may damage hearing;</p>
 </li>
 <li>
 <p>fail to comply with international safety standards for toys (e.g. small
@@ -178,26 +156,18 @@ magnetic balls/water beads*)</p>
 </li>
 </ol>
 <p>*Note:</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Magnetic balls and water beads are unable to comply with toy standards
 and cannot be supplied or sold if they are marketed as toys for children
 under 14 years old.</p>
-</li>
-<li>
 <p>In addition to containing small parts, magnetic balls have high magnetic
 flux which may cause serious injury if multiple balls attract and stick
 together within the intestines. Water beads may expand to many times their
 original size as they absorb water and may cause obstructions or injuries
 within the body.</p>
-</li>
-<li>
 <p>Caregivers are advised to keep a lookout and ensure that these products
 are not made accessible to children, and avoid using magnetic balls and
 water beads as sensory toys for children.</p>
-</li>
-</ul>
 <p>For more information on keeping your child safe and healthy, visit the
-Health Promotion Board's <a href="https://go.gov.sg/parenthub-toysafety-cpso" rel="noopener noreferrer nofollow" target="_blank">Parent Hub</a>.</p>
+Health Promotion Board's Parent Hub.</p>
 <p><strong><a href="/consumers/product-safety-tips/children-product" rel="noopener noreferrer nofollow" target="_blank">← Back to Product safety tips</a></strong>
 </p>
