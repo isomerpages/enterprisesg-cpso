@@ -21,12 +21,18 @@ by toys, such as choking, falls, cuts and bruises, by making informed purchasing
 decisions and proper supervision of a toy's use after it is bought. Follow
 the good practices below to protect your child:</p>
 <h4><strong>Good Practices</strong></h4>
+<ol data-tight="true" class="tight">
+<li>
 <p>Check if the toy is being recalled or banned. Read up on notices or alerts
 on any safety issues or potential hazards here.</p>
+</li>
+<li>
 <p>Only buy from reputable brands and sellers.</p>
+</li>
+<li>
 <p>Buy toys that are right for your child's age. Toys for older children
 should be kept out of reach of younger ones.</p>
-<ol data-tight="true" class="tight">
+</li>
 <li>
 <p>Pay attention to the age-appropriateness of the toy and look out for age
 labels such as this:</p>
@@ -34,17 +40,24 @@ labels such as this:</p>
 <img style="width: 50%;" height="auto" width="100%" alt="age appropriateness labels of the toy" src="/images/product-safety-tips/age-appropriateness-labels-of-the-toy.png">
 </div>
 </li>
-</ol>
-<p></p>
+<li>
 <p>Follow age recommendations and other instructions that come with the product
 closely. Do not buy the product if such information is not available.</p>
+</li>
+<li>
 <p>Check toys frequently for any breakage which may result in sharp edges
 or small/loose parts that could cause choking. Do not let your child play
 with damaged toys.</p>
+</li>
+<li>
 <p>Ensure that toys with projectiles do not have sharp edges. Check that
 the toy cannot launch improvised projectiles such as pencils and other
 potentially dangerous items.</p>
+</li>
+<li>
 <p>Ensure that riding toys are stable and will not topple easily</p>
+</li>
+<li>
 <p>Look out for warnings or the safety alert symbol to be informed of the
 potential hazards e.g. when using product that comes with button/coin batteries.</p>
 <table style="minWidth: 50px">
@@ -70,27 +83,39 @@ potential hazards e.g. when using product that comes with button/coin batteries.
 </tr>
 </tbody>
 </table>
+</li>
+<li>
 <p>Check that compartments with button batteries are properly secured as
 swallowing such batteries can lead to serious internal injuries or even
 death. Look out for battery compartments where the fasteners used to secure
 the cover cannot be removed completely and will remain with the cover.
 This ensures the fasteners are not lost when replacing the batteries, as
 this may result in the child being able to access the battery inside easily.</p>
+</li>
+<li>
 <p>Remove batteries in electronic toys when not in use. Batteries left in
 toys for a long period of time may leak poisonous fluid.</p>
+</li>
+<li>
 <p>Keep new and used button batteries out of sight and out of reach of young
 children at all times.</p>
+</li>
+<li>
 <p>Ensure that toys are kept properly after play to avoid becoming a tripping
 hazard.</p>
+</li>
+<li>
 <p>Supervise young children carefully whenever toys with detachable small
 parts or magnets are being used in their vicinity and inspect play areas
 carefully after play to ensure that no parts or magnets are left where
 they could be picked up by a young child.</p>
+</li>
+<li>
 <p>Seek medical attention immediately if the child swallows any part of the
 toy or battery.</p>
-<p><strong>Don't buy toys that:</strong> 
-<br>
-</p>
+</li>
+</ol>
+<h4><strong>Don't buy toys that:</strong> </h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>have any part that can fit into a child's mouth, nose, or ear;
@@ -149,11 +174,10 @@ toy or battery.</p>
 </li>
 <li>
 <p>fail to comply with international Safety Standards for toys (e.g. small
-magnetic balls/water beads)</p>
+magnetic balls/water beads*)</p>
 </li>
 </ol>
-<p>*do take note of the following points regarding small magnetic balls/water
-beads:</p>
+<p>*Note:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Magnetic balls and water beads are unable to comply with toy standards
