@@ -24,7 +24,7 @@ the good practices below to protect your child:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Check if the toy is being recalled or banned. Read up on notices or alerts
-on any safety issues or potential hazards <a href="https://www.consumerproductsafety.gov.sg/consumers/product-safety-alerts-and-recalls/children-apparel" rel="noopener nofollow" target="_blank">here</a>.</p>
+on any safety issues or potential hazards <a href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-toys/" rel="noopener nofollow" target="_blank">here</a>.</p>
 </li>
 <li>
 <p>Only buy from reputable brands and sellers.</p>
