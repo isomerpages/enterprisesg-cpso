@@ -68,15 +68,31 @@ potential hazards e.g. when using product that comes with button/coin batteries.
 <br>
 <br>
 </p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
 <img style="width:500px;height:200px;" height="auto" width="100%" src="/images/product-safety-tips/keep-out-of-children-button-battery-symbol.png">
 </div>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>"Keep out of reach of children" symbol&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Button battery safety alert symbol</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Keep
-out of reach of children" symbol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Button
-battery safety alert symbol
-<br>
-</p>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </li>
 <li>
 <p>Check that compartments with button batteries are properly secured as
