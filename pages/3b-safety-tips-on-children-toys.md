@@ -37,7 +37,7 @@ should be kept out of reach of younger ones.</p>
 <p>Pay attention to the age-appropriateness of the toy and look out for age
 labels such as this:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="age appropriateness labels of the toy" src="/images/product-safety-tips/age-appropriateness-labels-of-the-toy.png">
+<img style="width: 25%;" height="auto" width="100%" alt="age appropriateness labels of the toy" src="/images/product-safety-tips/age-appropriateness-labels-of-the-toy.png">
 </div>
 </li>
 <li>
