@@ -152,21 +152,21 @@ toy or battery.</p>
 </li>
 <li>
 <p>fail to comply with international safety standards for toys (e.g. small
-magnetic balls/water beads*)</p>
+magnetic balls/water beads<strong>*</strong>)</p>
 </li>
 </ol>
-<p>*Note:</p>
-<p>Magnetic balls and water beads are unable to comply with toy standards
+<p><strong>*</strong>Note:
+<br>Magnetic balls and water beads are unable to comply with toy standards
 and cannot be supplied or sold if they are marketed as toys for children
-under 14 years old.</p>
-<p>In addition to containing small parts, magnetic balls have high magnetic
+under 14 years old.
+<br>In addition to containing small parts, magnetic balls have high magnetic
 flux which may cause serious injury if multiple balls attract and stick
-together within the intestines. Water beads may expand to many times their
+together in the intestines. Water beads may expand to many times their
 original size as they absorb water and may cause obstructions or injuries
-within the body.</p>
-<p>Caregivers are advised to keep a lookout and ensure that these products
-are not made accessible to children, and avoid using magnetic balls and
-water beads as sensory toys for children.</p>
+in the body.
+<br>Caregivers are advised to keep a lookout and ensure that these products
+are not accessible to children, and avoid using magnetic balls and water
+beads as sensory toys for children.</p>
 <p>For more information on keeping your child safe and healthy, visit the
 Health Promotion Board's <a href="https://www.healthhub.sg/programmes/parent-hub/preschool/safety-hygiene/" rel="noopener nofollow" target="_blank">Parent Hub</a>.</p>
 <p><strong><a href="/consumers/product-safety-tips/children-product" rel="noopener noreferrer nofollow" target="_blank">← Back to Product safety tips</a></strong>
