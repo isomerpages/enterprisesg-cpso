@@ -168,6 +168,6 @@ within the body.</p>
 are not made accessible to children, and avoid using magnetic balls and
 water beads as sensory toys for children.</p>
 <p>For more information on keeping your child safe and healthy, visit the
-Health Promotion Board's Parent Hub.</p>
+Health Promotion Board's <a href="https://www.healthhub.sg/programmes/parent-hub/preschool/safety-hygiene/" rel="noopener nofollow" target="_blank">Parent Hub</a>.</p>
 <p><strong><a href="/consumers/product-safety-tips/children-product" rel="noopener noreferrer nofollow" target="_blank">← Back to Product safety tips</a></strong>
 </p>
