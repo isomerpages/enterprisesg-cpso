@@ -56,7 +56,7 @@ potential hazards e.g. when using product that comes with button/coin batteries.
 <tr>
 <th rowspan="1" colspan="2">
 <div class="isomer-image-wrapper">
-<img style="width:500px;height:200px;" height="auto" width="100%" src="/images/product-safety-tips/keep-out-of-children-button-battery-symbol.png">
+<img style="width: 60%;" height="auto" width="100%" src="/images/product-safety-tips/keep-out-of-children-button-battery-symbol.png">
 </div>
 </th>
 </tr>
@@ -70,8 +70,6 @@ potential hazards e.g. when using product that comes with button/coin batteries.
 </tr>
 </tbody>
 </table>
-<p>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p>Check that compartments with button batteries are properly secured as
 swallowing such batteries can lead to serious internal injuries or even
 death. Look out for battery compartments where the fasteners used to secure
