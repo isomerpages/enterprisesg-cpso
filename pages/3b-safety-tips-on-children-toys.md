@@ -115,7 +115,7 @@ they could be picked up by a young child.</p>
 toy or battery.</p>
 </li>
 </ol>
-<h4><strong>Don't buy toys that:</strong> </h4>
+<h4><strong>Don't buy toys that:</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
 <p>have any part that can fit into a child's mouth, nose, or ear;
@@ -173,7 +173,7 @@ toy or battery.</p>
 </p>
 </li>
 <li>
-<p>fail to comply with international Safety Standards for toys (e.g. small
+<p>fail to comply with international safety standards for toys (e.g. small
 magnetic balls/water beads*)</p>
 </li>
 </ol>
