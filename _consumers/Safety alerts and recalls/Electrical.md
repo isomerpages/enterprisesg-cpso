@@ -9,85 +9,8 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>29 May 2025</strong>
-<br><strong>Yamaha Corporation Recalls AC Power Adaptor PA-300C</strong>
-<br>
-</p>
-<p>Yamaha Corporation has issued a voluntary recall for the PA-300C AC adaptor
-used with various Digital Piano models, and also sold separately as accessories.
-The DC plug may generate abnormal heat, potentially leading to melting,
-smoke, or ignition causing the DC plug to short circuit.</p>
+<h4><strong>3 Dec 2025</strong><br><strong>Belkin Recalls Portable Power Banks and Wireless Charging Stands Due to Fire and Burn Hazards</strong><br></h4>
 <p></p>
-<p><strong>Affected Products:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Individually Sold PA-300C Adaptors</p>
-</li>
-</ol>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Serial Numbers: XXXX0XXXXXX to XXXX25XXXXX</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Piano models with Included PA-300C Adaptors:</p>
-</li>
-</ol>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DTX900/DTX900M</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICP1</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOTIF-RACK XS</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UR824</p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Piano models with Built-in PA-300C Adaptors:</p>
-</li>
-</ol>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CLP-430 series (B/C/M/PE/R/WH models)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CVP-601 series (B/PE models)</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/electrical/Yamaha_AC_Power_Adaptor_PA_300C_1.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/electrical/Yamaha_AC_Power_Adaptor_PA_300C_2.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/electrical/Yamaha_AC_Power_Adaptor_PA_300C_3.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p>Consumers should immediately stop using the affected adaptor, and disconnect
-it from both the mains outlet as well as the product. Please contact Yamaha
-Service Center for a complimentary exchange.</p>
-<p></p>
-<p><strong>Contact Information:</strong>
-</p>
-<p>Yamaha Music (Asia) Private Limited – Service Center</p>
-<p>6 Changi South Street 2 #01-02</p>
-<p>Xilin District Center Building D</p>
-<p>Singapore 486349</p>
-<p>- Service Helpdesk: 67409262</p>
-<p>- WhatsApp: 84748684</p>
-<p>- Email: <a rel="noopener noreferrer nofollow" target="_blank">service-SGP@music.yamaha.com</a>
-</p>
-<p></p>
-<p>Yamaha is offering free home delivery/replacement or self-collection options
-at their Service Centre. Customers must provide the original adapter during
-the exchange process.&nbsp;</p>
-<p>For detailed serial number verification and additional information, please
-visit Yamaha's support <a href="https://sg.yamaha.com/en/news_events/2025/20250521_pa_300c_adaptor_notice.html" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
@@ -105,6 +28,15 @@ visit Yamaha's support <a href="https://sg.yamaha.com/en/news_events/2025/202505
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>3 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Belkin Recalls Portable Power Banks and Wireless Charging Stands Due to
+Fire and Burn Hazards</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
