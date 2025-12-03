@@ -35,6 +35,10 @@ sections:
         href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-apparel">
         here</a> for more notices.
       cards:
+        - title: Belkin Recalls Wireless Charging Stands
+          description: 3 December 2025<br> Belkin Auto-Tracking Stand Pro (Model no. MMA008)
+          linktext: Learn more
+          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/electrical/
         - title: Xiaomi Recalls a Batch of Power Banks
           description: 27 October 2025 <br> Model no. PB2030MI, manufactured between Aug -
             Sep 2024.
@@ -45,11 +49,6 @@ sections:
             serieses.
           linktext: Learn more
           url: ""
-        - title: Baseus Recalls Selected Portable Chargers
-          description: 1 August 2025 <br> Model no. BS-30KP365 with serial no.s ending in
-            0 - 9 or D
-          linktext: Learn more
-          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/
   - infopic:
       title: Find out more about children's product safety tips
       description: Keep these tips in mind to safeguard your children from injuries.
