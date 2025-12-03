@@ -9,85 +9,34 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<p><strong>29 May 2025</strong>
-<br><strong>Yamaha Corporation Recalls AC Power Adaptor PA-300C</strong>
-<br>
-</p>
-<p>Yamaha Corporation has issued a voluntary recall for the PA-300C AC adaptor
-used with various Digital Piano models, and also sold separately as accessories.
-The DC plug may generate abnormal heat, potentially leading to melting,
-smoke, or ignition causing the DC plug to short circuit.</p>
-<p></p>
-<p><strong>Affected Products:</strong>
-</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>Individually Sold PA-300C Adaptors</p>
-</li>
-</ol>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Serial Numbers: XXXX0XXXXXX to XXXX25XXXXX</p>
-<ol start="2" data-tight="true" class="tight">
-<li>
-<p>Piano models with Included PA-300C Adaptors:</p>
-</li>
-</ol>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DTX900/DTX900M</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ICP1</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MOTIF-RACK XS</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; UR824</p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>Piano models with Built-in PA-300C Adaptors:</p>
-</li>
-</ol>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CLP-430 series (B/C/M/PE/R/WH models)</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CVP-601 series (B/PE models)</p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
+<h4><strong>03 Dec 2025</strong><br><strong>Belkin Recalls Portable Power Banks and Wireless Charging Stands Due to Fire and Burn Hazards</strong></h4>
+<p>
+<br>Belkin is voluntarily recalling the Belkin Auto-Tracking Stand Pro (Model
+number: MMA008), the&nbsp;Belkin BoostCharge USB-C PD Power Bank 20K (Model
+number: BPB002)&nbsp;and the&nbsp;Belkin Playa USB-C PD Power Bank 20K
+(Model number: PB0003). Of these three recalled models, only the Belkin
+Auto-Tracking Stand Pro (with serial numbers 57X10F61E00046 - 57X10F67E06078)
+is sold by Belkin in Singapore.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/electrical/Yamaha_AC_Power_Adaptor_PA_300C_1.png">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/electrical/Belkin_wireless_charging_stand.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/electrical/Yamaha_AC_Power_Adaptor_PA_300C_2.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/electrical/Yamaha_AC_Power_Adaptor_PA_300C_3.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
-<p>Consumers should immediately stop using the affected adaptor, and disconnect
-it from both the mains outlet as well as the product. Please contact Yamaha
-Service Center for a complimentary exchange.</p>
-<p></p>
-<p><strong>Contact Information:</strong>
+<p>The lithium-ion battery in these portable chargers may overheat, posing
+a fire hazard.</p>
+<p>Consumers who have purchased these affected models should immediately
+stop using them and disconnect them from all power sources and devices.
+The product should be placed in a safe, dry location away from anything
+flammable.</p>
+<p>Consumers may register using this <a href="https://belkin.my.site.com/supportforms/product-recall-form" rel="noopener nofollow" target="_blank">link</a> to
+confirm eligibility for a full refund. Valid proof of purchase or serial
+number is required.</p>
+<p>After receiving confirmation of eligibility, consumers should dispose
+of the product at a certified facility that accepts recalled lithium-ion
+batteries. Do not dispose of such products in regular trash or recycling
+bins.</p>
+<p>For enquiries regarding this recall, please contact Belkin’s Customer
+Service Local Representatives. Local contact telephone numbers are available
+at the provided link <a href="https://www.belkin.com/support-article?articleNum=55022" rel="noopener nofollow" target="_blank">here.</a>
 </p>
-<p>Yamaha Music (Asia) Private Limited – Service Center</p>
-<p>6 Changi South Street 2 #01-02</p>
-<p>Xilin District Center Building D</p>
-<p>Singapore 486349</p>
-<p>- Service Helpdesk: 67409262</p>
-<p>- WhatsApp: 84748684</p>
-<p>- Email: <a rel="noopener noreferrer nofollow" target="_blank">service-SGP@music.yamaha.com</a>
-</p>
-<p></p>
-<p>Yamaha is offering free home delivery/replacement or self-collection options
-at their Service Centre. Customers must provide the original adapter during
-the exchange process.&nbsp;</p>
-<p>For detailed serial number verification and additional information, please
-visit Yamaha's support <a href="https://sg.yamaha.com/en/news_events/2025/20250521_pa_300c_adaptor_notice.html" rel="noopener noreferrer nofollow" target="_blank">website</a>.</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
@@ -105,6 +54,15 @@ visit Yamaha's support <a href="https://sg.yamaha.com/en/news_events/2025/202505
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>03 Dec 2025</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/electrical/electrical_recall_2025_12_03_belkin_wireless_charging_stands.pdf" rel="noopener noreferrer nofollow" target="_blank">Belkin Recalls Portable Power Banks and Wireless Charging Stands Due to Fire and Burn Hazards</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
