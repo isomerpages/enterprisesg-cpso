@@ -9,7 +9,7 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<h4><strong>3 Dec 2025</strong><br><strong>Belkin Recalls Portable Power Banks and Wireless Charging Stands Due to Fire and Burn Hazards</strong></h4>
+<h4><strong>03 Dec 2025</strong><br><strong>Belkin Recalls Portable Power Banks and Wireless Charging Stands Due to Fire and Burn Hazards</strong></h4>
 <p>
 <br>Belkin is voluntarily recalling the Belkin Auto-Tracking Stand Pro (Model
 number: MMA008), the&nbsp;Belkin BoostCharge USB-C PD Power Bank 20K (Model
