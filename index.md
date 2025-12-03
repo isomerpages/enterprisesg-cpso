@@ -36,7 +36,8 @@ sections:
         here</a> for more notices.
       cards:
         - title: Belkin Recalls Wireless Charging Stands
-          description: 3 December 2025<br> Belkin Auto-Tracking Stand Pro (Model no. MMA008)
+          description: 3 December 2025<br> Model no. MMA008. Affected serial no.s are in
+            the notice.
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/electrical/
         - title: Xiaomi Recalls a Batch of Power Banks
