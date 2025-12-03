@@ -57,7 +57,7 @@ at the provided link <a href="https://www.belkin.com/support-article?articleNum=
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3 Dec 2025</p>
+<p>03 Dec 2025</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/product-safety-alerts-and-recalls/electrical/electrical_recall_2025_12_03_belkin_wireless_charging_stands.pdf" rel="noopener noreferrer nofollow" target="_blank">Belkin Recalls Portable Power Banks and Wireless Charging Stands Due to Fire and Burn Hazards</a>
