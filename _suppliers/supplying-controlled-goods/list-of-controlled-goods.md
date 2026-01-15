@@ -41,7 +41,7 @@ the safety standards stated in the tables below), please refer to the
 <p>Definitions</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Minimum Edition of Safety Standard(s)</p>
+<p>Minimum Edition of Safety Standard</p>
 </th>
 </tr>
 <tr>
@@ -132,7 +132,8 @@ use with supply voltage of not more than 250 VAC.</p>
 <p>Definitions</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Safety Standards</p>
+<p><strong>Minimum Edition of Safety Standard(s)</strong>
+</p>
 </th>
 </tr>
 <tr>
@@ -638,7 +639,8 @@ connection and the mechanical retention of a suitable flexible cord.</p>
 <p>Definitions</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Safety Standards</p>
+<p><strong>Minimum Edition of Safety Standard(s)</strong>
+</p>
 </th>
 </tr>
 <tr>
