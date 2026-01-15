@@ -18,8 +18,10 @@ required for registration of the CG. Click to find out more about <a href="/supp
 <p>Suppliers must first apply to be a Registered Supplier before supplying
 these CGs. Click to find out more on how to <a href="/suppliers/cpsr/apply-to-be-a-registered-supplier" rel="noopener noreferrer nofollow" target="_blank">apply as a Registered Supplier.</a>
 </p>
-<p>For the full requirements for CGs (including additional ones besides the
-safety standards stated in the tables below), please refer to the <a href="/files/cps-info-booklet.pdf" rel="noopener nofollow" target="_blank">Consumer Protection (Safety Requirements) Regulations Information Booklet<u>.</u></a>
+<p>For the full requirements for CGs (including <strong>additional ones</strong> besides
+the safety standards stated in the tables below), please refer to the
+<a href="/files/cps-info-booklet.pdf" rel="noopener nofollow" target="_blank">Consumer Protection (Safety Requirements) Regulations Information Booklet<u>.</u>
+</a>
 </p>
 <p><strong>The 33 categories of Controlled Goods under CPSR are:</strong>
 </p>
@@ -39,7 +41,7 @@ safety standards stated in the tables below), please refer to the <a href="/file
 <p>Definitions</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Safety Standards</p>
+<p>Minimum Edition of Safety Standard(s)</p>
 </th>
 </tr>
 <tr>
