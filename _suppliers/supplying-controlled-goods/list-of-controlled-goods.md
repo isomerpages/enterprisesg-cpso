@@ -284,10 +284,6 @@ liquefied petroleum gases intended for household use with a portable gas
 cooker.</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Valid<strong> till 31 Dec 2025: </strong>
-<br>SS 400:1997
-<br>
-</p>
 <p>Effective <strong>from 1 Jan 2026:</strong>
 <br>SS 400:2023</p>
 </td>
@@ -728,8 +724,6 @@ gas canister up to 1.4 litres as fuel.</p>
 <br>EN 30-1-4:2012 + IEC 60335-2-102:2017 (Ed.2.0)</p>
 <p></p>
 <p><u>Portable gas appliance</u>
-<br>- Valid <strong>till 31 Dec 2025: </strong>
-<br>SS 401:1997
 <br>- Effective <strong>from 1 Jan 2026:</strong>
 <br>SS 401:2023</p>
 </td>
