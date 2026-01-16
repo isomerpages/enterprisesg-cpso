@@ -722,7 +722,7 @@ gas canister up to 1.4 litres as fuel.</p>
 <p><u>Gas cooker with automatic burner control system</u>
 <br>EN 30-1-4:2012 + IEC 60335-2-102:2017 (Ed.2.0)</p>
 <p></p>
-<p><u>Portable gas applianc</u>
+<p><u>Portable gas appliance</u>
 <br>SS 401:2023</p>
 </td>
 </tr>
