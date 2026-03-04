@@ -147,7 +147,7 @@ healthcare institutions in Singapore.</p>
 <p></p>
 <p><strong>-END-</strong>
 </p>
-<p><strong>Annex A:</strong>  <a href="/files/media-releases/2025_11_13_mr_annex_a_updated_2026_03_04.pdf" rel="noopener nofollow" target="_blank">List of Unsafe Products and Specific Safety Hazards</a>
+<p><strong>Annex A (updated on 4 March 2026):</strong>  <a href="/files/media-releases/2025_11_13_mr_annex_a_updated_2026_03_04.pdf" rel="noopener nofollow" target="_blank">List of Unsafe Products and Specific Safety Hazards</a>
 </p>
 <p><strong>Annex B: </strong><a href="/files/media-releases/2025_11_13_MR_annex_b.pdf" rel="noopener nofollow" target="_blank">Safety Tips on Baby Cots, Strollers, Children's Accessories, and Toys</a>
 </p>
