@@ -200,7 +200,8 @@ testing confirms the defect.</p>
 <p>26 Jun 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Children's Accessories: (Shopee Seller: Little Cute)</p>
+<p>Children's Accessories: Sakura - Unicorn Beaded Jewellery Set (Shopee
+Seller: Little Cute)</p>
 </td>
 </tr>
 <tr>
