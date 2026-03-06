@@ -124,8 +124,8 @@ the SAFETY Mark in Singapore. If you are aware of anyone who is advertising
 or supplying such Controlled Goods, please provide us with the relevant
 information (e.g. product type, brand/model, name of company, location
 / webpage link, photographs, etc.), so that appropriate enforcement action
-may be taken against the supplier. You can contact us&nbsp;at&nbsp;<a rel="noopener noreferrer nofollow" target="_blank">consumerproductsafety@enterprisesg.gov.sg</a>&nbsp;or
-6898 1800.</p>
+may be taken against the supplier. Please visit <a href="https://www.consumerproductsafety.gov.sg/contact-us/" rel="noopener nofollow" target="_blank">our Contact Us page</a> to
+lodge a complaint.</p>
 </div>
 </details>
 <details class="isomer-details">
