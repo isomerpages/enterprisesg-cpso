@@ -216,7 +216,8 @@ testing confirms the defect.</p>
 <p>26 Jun 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_alert_2025_06_26_children_accessories_iuiu16_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's Accessories: Perfect Baby - Character Beaded Jewellery Set (Lazada Seller: iuiu16)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -275,4 +276,4 @@ testing confirms the defect.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Child</p>
