@@ -200,8 +200,8 @@ testing confirms the defect.</p>
 <p>26 Jun 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Children's Accessories: Sakura - Unicorn Beaded Jewellery Set (Shopee
-Seller: Little Cute)</p>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_alert_2025_06_26_children_accessories_Little_Cute_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's Accessories: Sakura - Unicorn Beaded Jewellery Set (Shopee Seller: Little Cute)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -209,8 +209,8 @@ Seller: Little Cute)</p>
 <p>26 Jun 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Children's Accessories: Green Luminous Strap Watch with Light (Lazada
-Seller: Kingstar123)</p>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_alert_2025_06_26_children_accessories_Kingstar123_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's Accessories: Green Luminous Strap Watch with Light (Lazada Seller: Kingstar123)</a>
+</p>
 </td>
 </tr>
 <tr>
