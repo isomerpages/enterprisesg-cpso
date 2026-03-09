@@ -45,11 +45,10 @@ sections:
             Sep 2024.
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/
-        - title: DT Swiss Recalls Carbon Fibre Bicycle Wheels
-          description: 21 August 2025 <br> Please see the notice for the affected model
-            serieses.
+        - title: "SAFETY ALERT: Green Luminous Watch with Light"
+          description: "15 September 2025<br> Lazada Seller: “Sunclouds”"
           linktext: Learn more
-          url: ""
+          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/others/
   - infopic:
       title: Find out more about children's product safety tips
       description: Keep these tips in mind to safeguard your children from injuries.
