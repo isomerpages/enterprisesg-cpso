@@ -208,7 +208,8 @@ testing confirms the defect.</p>
 <p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Children's Accessories:</p>
+<p>Children's Accessories: Green Luminous Strap Watch with Light (Shopee
+Seller: labelshopth.sg)</p>
 </td>
 </tr>
 <tr>
