@@ -9,58 +9,59 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<h4><strong>21 August 2025<br>DT Swiss Recalls Carbon Fibre Bicycle Wheels Due to Crash Hazard</strong></h4>
-<p>DT Swiss has launched a voluntary recall for certain bicycle wheels with
-carbon fibre composite rims manufactured in Vietnam from 1 August 2024
-onwards due to potential delamination issues that could lead to structural
-failure. This defect increases the risk of accidents and crashes.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/DT_Swiss_0825_1.png">
-</div>
-<p>This recall involves bicycle wheels from the following model series: ARC
-1100, 1400, 1600 DICUT 50/55/65; ARC 1600 SPLINE 50/55/65; ERC 1100, 1400,
-1600 DICUT 35/45; ERC 1600 SPLINE 35/45; ERC LOG CLASSIC 45; CRC 1100 DICUT
-45; CRC 1400, 1600 SPLINE 35/45; and HEC 1400 SPLINE 45. These products
-were sold either as parts of complete bicycles or as individual components
-via online retailers or specialist shops.</p>
-<p>Consumers can check if their product is affected, by first identifying
-if it has a DT Swiss ID number of 2740000 or higher stamped on the product.
-Next, use the DT Swiss ID number to confirm whether your product is involved
-in this product safety recall on the <a href="https://www.dtswiss.com/en/recall" rel="noopener noreferrer nofollow" target="_blank">website</a> set up specifically
-for this purpose.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/DT_Swiss_0825_2.png">
-</div>
-<p>If the stickers with the DT Swiss ID number are no longer visible or have
-become illegible, consumers can email (recall@dtswiss.com) the rim series
-number located under the rim tape for verification.</p>
-<p>Consumers should immediately stop using the affected wheels and visit
-DT Swiss’ <a href="http://www.dtswiss.com/en/recall" rel="noopener noreferrer nofollow" target="_blank">website</a> to
-check if their product is affected by the recall. Affected consumers will
-receive a new bicycle wheel of the same type as a replacement after quality
-testing confirms the defect.</p>
-<p>For more information, consumers can:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Visit:&nbsp;<a href="https://www.dtswiss.com/en/recall" rel="noopener noreferrer nofollow" target="_blank">www.dtswiss.com/en/recall</a>
+<h4><strong>15 September 2025 <br>SAFETY ALERT: Green Luminous Strap Watch with Light</strong></h4>
+<p><em>Updated on 6 March 2026</em>
 </p>
-</li>
-<li>
-<p>Email: recall@dtswiss.com</p>
-</li>
-<li>
-<p>Call (Europe GMT+2, 09:00-12:00 &amp; 13:30-17:00):</p>
+<p></p>
+<p><strong>Date of notice</strong>
+<br>15 September 2025</p>
+<p><strong>Name of product</strong>
+<br>Green Luminous Strap Watch with Light</p>
+<p><strong>Product picture</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sunclouds_watch_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sunclouds_watch_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Sample taken from</strong>
+<br>Seller “Sunclouds” on Lazada</p>
+<p></p>
+<p><strong>The Consumer Product Safety Office has issued a notice to Sunclouds to cease supply of the product.</strong>
+<br>During the testing of this sample, it was found that the product did not
+comply with the following requirements from ASTM F2923-20: Standard Specification
+for consumer Product Safety for Children’s Jewelry:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Free Hotline: +800 0000 1994</p>
+<p>Coin cell battery can be accessible without the use of a coin, screwdriver
+or other common household tool and may cause chemical burn if swallowed.</p>
 </li>
-<li>
-<p>Alternative Phone: +41 32 344 62 44</p>
+</ul>
 <p></p>
-</li>
-</ul>
-</li>
-</ul>
+<p>No report of incident or injury related to the use of this product has
+been received to date.</p>
+<p>Consumers who have bought the product are advised to stop using it immediately.</p>
+<p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
 </p>
@@ -197,37 +198,73 @@ testing confirms the defect.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Jun 2025</p>
+<p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/others/others_recall_2025_06_26_Little_Cute_Sakura_Unicorn_Jewellery_Set.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's jewellery and accessories: Sakura - Unicorn Beaded Jewellery Set</a>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_alert_2025_09_15_children_accessories_Sunclouds_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's Accessories: Green Luminous Strap Watch with Light (Lazada Seller: Sunclouds)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Jun 2025</p>
+<p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/others/others_recall_2025_06_26_iuiu16_Perfect_Baby_Anna_Jewellery_Set.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's jewellery and accessories: Perfect Baby - Anna Character Beaded Jewellery Set</a>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_alert_2025_09_15_children_accessories_labelshopth_sg_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's Accessories: Green Luminous Strap Watch with Light (Shopee Seller: labelshopth.sg)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Jun 2025</p>
+<p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/others/others_recall_2025_06_26__Kingstar123_Hello_Kitty_Watch.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's jewellery and accessories: Hello Kitty Green Luminous Strap Watch with Light</a>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_alert_2025_09_15_children_accessories_ice_bumblebee_ventures_sg_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's Accessories: Green Luminous Strap Watch with Light (Shopee Seller: ice.bumblebee.ventures.sg)</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Jun 2025</p>
+<p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/others/others_recall__2025_06_26_DollyMall_Elsa_Jewellery_Set.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's jewellery and accessories: Elsa Character Chain Jewellery Set</a>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_alert_2025_09_15_children_accessories_bsy1_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's Accessories: Pink Strap Watch with Light (Lazada seller: bsy1)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Jun 2025 (updated on 6 Mar 2026)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_alert_2025_06_26_children_accessories_Little_Cute_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's Accessories: Sakura - Unicorn Beaded Jewellery Set (Shopee Seller: Little Cute)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Jun 2025 (updated on 6 Mar 2026)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_alert_2025_06_26_children_accessories_Kingstar123_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's Accessories: Green Luminous Strap Watch with Light (Lazada Seller: Kingstar123)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Jun 2025 (updated on 6 Mar 2026)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_alert_2025_06_26_children_accessories_iuiu16_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's Accessories: Perfect Baby - Character Beaded Jewellery Set (Lazada Seller: iuiu16)</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Jun 2025 (updated on 6 Mar 2026)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_alert_2025_06_26_children_accessories_DollyMall_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's Accessories: Character Chain Jewellery Set (Shopee Seller: DollyMall)</a>
 </p>
 </td>
 </tr>
@@ -272,7 +309,7 @@ testing confirms the defect.</p>
 <p>01 May 2012</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2012-05-01-children-products-testing.pdf" rel="noopener noreferrer nofollow" target="_blank">Jewellery and accessories: Children’s Products Testin</a>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2012-05-01-children-products-testing.pdf" rel="noopener noreferrer nofollow" target="_blank">Jewellery and accessories: Children’s Products Testing</a>
 </p>
 </td>
 </tr>
