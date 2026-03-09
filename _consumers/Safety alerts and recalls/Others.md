@@ -28,7 +28,7 @@ regarding unsafe consumer products identified in Singapore.</p>
 <tr>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sunclouds_watch_1.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sunclouds_watch_1.jpg">
 </div>
 </th>
 <th rowspan="1" colspan="1">
@@ -38,7 +38,7 @@ regarding unsafe consumer products identified in Singapore.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sunclouds_watch_2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sunclouds_watch_2.jpg">
 </div>
 </th>
 </tr>
