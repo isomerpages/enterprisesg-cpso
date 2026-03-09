@@ -216,8 +216,8 @@ testing confirms the defect.</p>
 <p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Children's Accessories: Green Luminous Strap Watch with Light (Shopee
-Seller: ice.bumblebee.ventures.sg)</p>
+<p><a href="/files/product-safety-alerts-and-recalls/others/others_alert_2025_09_15_children_accessories_ice_bumblebee_ventures_sg_updated.pdf" rel="noopener noreferrer nofollow" target="_blank">Children's Accessories: Green Luminous Strap Watch with Light (Shopee Seller: ice.bumblebee.ventures.sg)</a>
+</p>
 </td>
 </tr>
 <tr>
