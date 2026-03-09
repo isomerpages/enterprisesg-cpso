@@ -200,7 +200,7 @@ testing confirms the defect.</p>
 <p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Children's Accessories:</p>
 </td>
 </tr>
 <tr>
@@ -208,7 +208,7 @@ testing confirms the defect.</p>
 <p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Children's Accessories:</p>
 </td>
 </tr>
 <tr>
@@ -216,7 +216,8 @@ testing confirms the defect.</p>
 <p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Children's Accessories: Green Luminous Strap Watch with Light (Shopee
+Seller: ice.bumblebee.ventures.sg)</p>
 </td>
 </tr>
 <tr>
