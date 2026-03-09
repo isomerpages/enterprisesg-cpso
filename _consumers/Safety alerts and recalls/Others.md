@@ -224,7 +224,7 @@ testing confirms the defect.</p>
 <p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Children's Accessories: PInk Strap Watch with Light (Lazada seller: bsy1)</p>
 </td>
 </tr>
 <tr>
@@ -304,10 +304,10 @@ testing confirms the defect.</p>
 <p>01 May 2012</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2012-05-01-children-products-testing.pdf" rel="noopener noreferrer nofollow" target="_blank">Jewellery and accessories: Children’s Products Testin</a>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/children-products-alert-2012-05-01-children-products-testing.pdf" rel="noopener noreferrer nofollow" target="_blank">Jewellery and accessories: Children’s Products Testing</a>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>Child</p>
+<p></p>
