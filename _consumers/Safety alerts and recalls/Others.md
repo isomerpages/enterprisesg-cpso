@@ -224,7 +224,7 @@ testing confirms the defect.</p>
 <p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Children's Accessories: PInk Strap Watch with Light (Lazada seller: bsy1)</p>
+<p>Children's Accessories: Pink Strap Watch with Light (Lazada seller: bsy1)</p>
 </td>
 </tr>
 <tr>
