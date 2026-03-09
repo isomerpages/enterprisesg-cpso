@@ -197,7 +197,7 @@ testing confirms the defect.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -205,7 +205,7 @@ testing confirms the defect.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -213,7 +213,7 @@ testing confirms the defect.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -221,7 +221,7 @@ testing confirms the defect.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>15 Sep 2025 (updated on 6 Mar 2026)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
