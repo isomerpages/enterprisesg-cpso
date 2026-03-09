@@ -9,18 +9,59 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<h4><strong>15 September 2025<br>SAFETY ALERT: Green Luminous Strap Watch with Light</strong></h4>
+<h4><strong>15 September 2025 <br>SAFETY ALERT: Green Luminous Strap Watch with Light</strong></h4>
+<p><em>Updated on 6 March 2026</em>
+</p>
+<p></p>
+<p><strong>Date of notice</strong>
+<br>15 September 2025</p>
+<p><strong>Name of product</strong>
+<br>Green Luminous Strap Watch with Light</p>
+<p><strong>Product picture</strong>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sunclouds_watch_1.jpg">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<p>
+<br>
+<br>
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/others/Sunclouds_watch_2.jpg">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
+<p><strong>Sample taken from</strong>
+<br>Seller “Sunclouds” on Lazada</p>
+<p></p>
+<p><strong>The Consumer Product Safety Office has issued a notice to Sunclouds to cease supply of the product.</strong>
+<br>During the testing of this sample, it was found that the product did not
+comply with the following requirements from ASTM F2923-20: Standard Specification
+for consumer Product Safety for Children’s Jewelry:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p></p>
-<ul data-tight="true" class="tight">
-<li>
-<p></p>
-<p></p>
+<p>Coin cell battery can be accessible without the use of a coin, screwdriver
+or other common household tool and may cause chemical burn if swallowed.</p>
 </li>
 </ul>
-</li>
-</ul>
+<p></p>
+<p>No report of incident or injury related to the use of this product has
+been received to date.</p>
+<p>Consumers who have bought the product are advised to stop using it immediately.</p>
+<p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
 </p>
