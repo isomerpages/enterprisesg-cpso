@@ -46,7 +46,8 @@ sections:
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/
         - title: "SAFETY ALERT: Green Luminous Watch with Light"
-          description: "15 September 2025<br> Lazada Seller: “Sunclouds”"
+          description: "15 September 2025<br> Lazada Seller: “Sunclouds” <br> Updated 6
+            March 2026"
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/others/
   - infopic:
