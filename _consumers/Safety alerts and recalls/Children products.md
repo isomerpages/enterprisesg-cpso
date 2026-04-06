@@ -13,16 +13,38 @@ regarding unsafe consumer products identified in Singapore.</p>
 <h3><strong>SAFETY ALERT: Baby self-feeding pillows</strong></h3>
 <p><strong>Date of notice</strong>
 </p>
-<p>06 Apr 2026</p>
+<p>07 Apr 2026</p>
 <p><strong>Name of product</strong>
 </p>
 <p>Baby self-feeding pillow (pro feeder)</p>
 <p><strong>Product pictures</strong>
 </p>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/BSF_Pic_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BSF_Pic_1.png">
 </div>
-<p></p>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BSF_Pic_2.png">
+</div>
+</th>
+<th rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/BSF_Pic_3.png">
+</div>
+</th>
+</tr>
+</tbody>
+</table>
 <p><strong>The Consumer Product Safety Office would like to alert consumers about baby self-feeding pillows (also known as prop feeders) which can pose serious risks of choking and suffocation to babies.</strong>
 </p>
 <p>Baby self-feeding pillows enable a baby to be positioned on their back
@@ -219,7 +241,8 @@ below.</p>
 <p>07 Apr 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Baby self feeding pillow</p>
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/Safety_alert_Baby_self_feeding_pillow_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby self-feeding pillows</a>
+</p>
 </td>
 </tr>
 <tr>
