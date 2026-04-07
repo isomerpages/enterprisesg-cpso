@@ -37,7 +37,7 @@ regarding unsafe consumer products identified in Singapore.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/BSF_Pic_3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BSF_Pic_3.png">
 </div>
 </th>
 </tr>
