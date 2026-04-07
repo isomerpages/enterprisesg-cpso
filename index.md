@@ -36,12 +36,12 @@ sections:
         here</a> for more notices.
       cards:
         - title: "SAFETY ALERT: Baby Self-feeding Pillows"
-          description: 7 Apr 2026<br> Pose serious risks of choking and suffocation to
+          description: 7 April 2026<br> Posing serious risks of choking and suffocation to
             babies
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-products/
         - title: 'SAFETY ALERT: Syringe "Popping" Toys'
-          description: 7 April 2026 <br> Pose serious risks of injury and infection to
+          description: 7 April 2026 <br> Posing serious risks of injury and infection to
             children
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-toys/
