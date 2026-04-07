@@ -9,7 +9,7 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<h3>SAFETY ALERT: Air-injection “popping” toys sold with syringes</h3>
+<h3><strong>SAFETY ALERT: Air-injection “popping” toys sold with syringes</strong></h3>
 <p><strong>Date of notice</strong>
 <br>07 Apr 2026
 <br><strong>Name of product</strong>
