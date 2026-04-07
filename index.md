@@ -35,16 +35,16 @@ sections:
         href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-apparel">
         here</a> for more notices.
       cards:
-        - title: Belkin Recalls Wireless Charging Stands
-          description: 3 December 2025<br> Model no. MMA008. Affected serial no.s are in
-            the notice.
+        - title: "SAFETY ALERT: Baby Self-feeding Pillows"
+          description: 7 Apr 2026<br> Pose serious risks of choking and suffocation to
+            babies
           linktext: Learn more
-          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/electrical/
-        - title: Xiaomi Recalls a Batch of Power Banks
-          description: 27 October 2025 <br> Model no. PB2030MI, manufactured between Aug -
-            Sep 2024.
+          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-products/
+        - title: 'SAFETY ALERT: Syringe "Popping" Toys'
+          description: 7 April 2026 <br> Pose serious risks of injury and infection to
+            children
           linktext: Learn more
-          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/power-banks/
+          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-toys/
         - title: "SAFETY ALERT: Green Luminous Watch with Light"
           description: "15 September 2025<br> Lazada Seller: “Sunclouds” <br> Updated 6
             March 2026"
