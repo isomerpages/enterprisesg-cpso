@@ -16,33 +16,11 @@ regarding unsafe consumer products identified in Singapore.</p>
 <p><strong>Name of product</strong>
 <br>Baby self-feeding pillow (prop feeder)</p>
 <p><strong>Product pictures</strong>
+<br>
 </p>
-<table style="minWidth: 75px">
-<colgroup>
-<col>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BSF_Pic_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BSF_Pic_combined_final_070426.png">
 </div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BSF_Pic_2.png">
-</div>
-</th>
-<th rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BSF_Pic_3.png">
-</div>
-</th>
-</tr>
-</tbody>
-</table>
 <p><strong>The Consumer Product Safety Office would like to alert consumers about baby self-feeding pillows (also known as prop feeders) which can pose serious risks of choking and suffocation to babies.</strong>
 </p>
 <p>Baby self-feeding pillows enable a baby to be positioned on their back
