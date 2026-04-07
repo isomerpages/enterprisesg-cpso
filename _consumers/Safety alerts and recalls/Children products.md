@@ -37,7 +37,7 @@ regarding unsafe consumer products identified in Singapore.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BSF_Pic_3.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/BSF_Pic_3.png">
 </div>
 </th>
 </tr>
@@ -47,17 +47,20 @@ regarding unsafe consumer products identified in Singapore.</p>
 </p>
 <p>Baby self-feeding pillows enable a baby to be positioned on their back
 and attached to a bottle to self-feed without the assistance of a caregiver.
+<br>
 <br>This creates risks of serious harm, death, lung infection, suffocation
 and ear infection from choking on the feed. Babies do not have the dexterity
 or cognitive ability to control the flow of bottle feed, know when to stop
 feeding, take action if they gag or choke, or raise alarm if something
 is going wrong. Babies also risk being smothered by the pillow when they
 move.
+<br>
 <br>Consumers with such products are advised to stop using them immediately.
 Several jurisdictions including <a href="https://www.productsafety.gov.au/search-consumer-product-recalls/infant-feeding-pillow" rel="noopener nofollow" target="_blank">Australia</a>,
 the <a href="https://www.gov.uk/product-safety-alerts-reports-recalls/product-safety-alert-baby-self-feeding-pillows-slash-prop-feeders-psa3" rel="noopener nofollow" target="_blank">United Kingdom</a> and
 the<a href="https://www.cpsc.gov/Newsroom/News-Releases/2026/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Infant-Self-Feeding-Pillows-Due-to-Risk-of-Serious-Injury-or-Death-from-Aspiration-and-Suffocation" rel="noopener nofollow" target="_blank">United States of America</a> have
 also warned consumers on these baby self-feeding products.
+<br>
 <br>Parents and caregivers are reminded:</p>
 <ul data-tight="true" class="tight">
 <li>
