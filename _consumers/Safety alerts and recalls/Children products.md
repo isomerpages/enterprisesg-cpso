@@ -12,11 +12,9 @@ regarding unsafe consumer products identified in Singapore.</p>
 <p></p>
 <h3><strong>SAFETY ALERT: Baby self-feeding pillows</strong></h3>
 <p><strong>Date of notice</strong>
-</p>
-<p>07 Apr 2026</p>
+<br>07 Apr 2026</p>
 <p><strong>Name of product</strong>
-</p>
-<p>Baby self-feeding pillow (pro feeder)</p>
+<br>Baby self-feeding pillow (prop feeder)</p>
 <p><strong>Product pictures</strong>
 </p>
 <table style="minWidth: 75px">
@@ -39,7 +37,7 @@ regarding unsafe consumer products identified in Singapore.</p>
 </th>
 <th rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/BSF_Pic_3.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/BSF_Pic_3.png">
 </div>
 </th>
 </tr>
@@ -48,18 +46,18 @@ regarding unsafe consumer products identified in Singapore.</p>
 <p><strong>The Consumer Product Safety Office would like to alert consumers about baby self-feeding pillows (also known as prop feeders) which can pose serious risks of choking and suffocation to babies.</strong>
 </p>
 <p>Baby self-feeding pillows enable a baby to be positioned on their back
-and attached to a bottle to self-feed without the assistance of a caregiver.</p>
-<p>This creates risks of serious harm, death, lung infection, suffocation
+and attached to a bottle to self-feed without the assistance of a caregiver.
+<br>This creates risks of serious harm, death, lung infection, suffocation
 and ear infection from choking on the feed. Babies do not have the dexterity
 or cognitive ability to control the flow of bottle feed, know when to stop
 feeding, take action if they gag or choke, or raise alarm if something
 is going wrong. Babies also risk being smothered by the pillow when they
-move.</p>
-<p>Consumers with such products are advised to stop using them immediately.
+move.
+<br>Consumers with such products are advised to stop using them immediately.
 Several jurisdictions including Australia, the United Kingdom and the United
 States of America have also warned consumers on these baby self-feeding
-products.</p>
-<p>Parents and caregivers are reminded:</p>
+products.
+<br>Parents and caregivers are reminded:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Never leave a bottle propped in a baby’s mouth using a pillow, a self-feeding
