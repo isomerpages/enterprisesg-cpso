@@ -10,56 +10,48 @@ variant: tiptap
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
 <p></p>
-<h3><strong>SAFETY ALERT: Baby Cot</strong></h3>
+<h3><strong>SAFETY ALERT: Baby self-feeding pillows</strong></h3>
 <p><strong>Date of notice</strong>
-</p>
-<p>27 June 2025</p>
-<p><strong>Name of product</strong>
-</p>
-<p>Cobabies baby cot</p>
-<p><strong>Product pictures</strong>
+<br>07 Apr 2026
+<br><strong>Name of product</strong>
+<br>Baby self-feeding pillow (prop feeder)
+<br><strong>Product pictures</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cobabies_baby_cot.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/BSF_Pic_combined_final_070426.png">
 </div>
-<p></p>
-<p><strong>Sample taken from</strong>
+<p><strong>The Consumer Product Safety Office would like to alert consumers about baby self-feeding pillows (also known as prop feeders) which can pose serious risks of choking and suffocation to babies.</strong>
 </p>
-<p>Seller “Babymylovesg” on Lazada</p>
-<p></p>
-<p><strong>The Consumer Product Safety Office has issued a notice to Babymylovesg to cease supply of the cot.</strong>
-</p>
-<p>During the testing of this sample, it was found that the product did not
-comply with the following requirements from EN 716-1:2017 “Furniture -
-Children's cots and folding cots for domestic use”:</p>
+<p>Baby self-feeding pillows enable a baby to be positioned on their back
+and attached to a bottle to self-feed without the assistance of a caregiver.
+<br>
+<br>This creates risks of serious harm, death, lung infection, suffocation
+and ear infection from choking on the feed. Babies do not have the dexterity
+or cognitive ability to control the flow of bottle feed, know when to stop
+feeding, take action if they gag or choke, or raise alarm if something
+is going wrong. Babies also risk being smothered by the pillow when they
+move.
+<br>
+<br>Consumers with such products are advised to stop using them immediately.
+Several jurisdictions including <a href="https://www.productsafety.gov.au/search-consumer-product-recalls/infant-feeding-pillow" rel="noopener nofollow" target="_blank">Australia</a>,
+the <a href="https://www.gov.uk/product-safety-alerts-reports-recalls/product-safety-alert-baby-self-feeding-pillows-slash-prop-feeders-psa3" rel="noopener nofollow" target="_blank">United Kingdom</a> and
+the <a href="https://www.cpsc.gov/Newsroom/News-Releases/2026/CPSC-Warns-Consumers-to-Immediately-Stop-Using-Infant-Self-Feeding-Pillows-Due-to-Risk-of-Serious-Injury-or-Death-from-Aspiration-and-Suffocation" rel="noopener nofollow" target="_blank">United States of America</a> have
+also warned consumers on these baby self-feeding products.
+<br>
+<br>Parents and caregivers are reminded:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>There were gaps and openings in the baby cot that can pose an entrapment
-risk to the baby’s body parts such as the fingers and limbs.</p>
+<p>Never leave a bottle propped in a baby’s mouth using a pillow, a self-feeding
+pillow, blanket, or other support, even if the product is marketed as safe
+or is used under the supervision of a caregiver. Bottle propping could
+cause your baby to choke or aspirate and result in immediate serious injury
+or death.</p>
 </li>
 <li>
-<p>There was an opening on the storage pocket on the cots’ exterior that
-can pose an entrapment risk to a baby’s head.</p>
-</li>
-<li>
-<p>When the movable side was adjusted to its highest position, the force
-needed to operate the locking system was low enough for a baby to operate
-it, posing a fall risk to a baby from potentially escaping the cot due
-to the inadequate locking system.</p>
-</li>
-<li>
-<p>When the mattress base was in the upper position, the mattress folded
-easily when pulling or pushing actions were applied to the bed base, posing
-an entrapment risk to a baby from a folded mattress.</p>
-</li>
-<li>
-<p>The instructions and warnings provided were not in accordance with the
-requirements (e.g., content, format, language).</p>
+<p>Always hold and closely watch your baby when feeding with a bottle. Keep
+the baby semi-inclined. Never allow infants to feed unattended.</p>
 </li>
 </ul>
-<p>No report of incident or injury related to the use of this product has
-been received to date.</p>
-<p>Consumers who have bought the product are advised to stop using it immediately.</p>
 <p></p>
 <p>For more product safety alerts and recalls for children products, see
 below.</p>
@@ -222,6 +214,15 @@ below.</p>
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>07 Apr 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/children-products/Safety_alert_Baby_self_feeding_pillow_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Baby self-feeding pillows</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
