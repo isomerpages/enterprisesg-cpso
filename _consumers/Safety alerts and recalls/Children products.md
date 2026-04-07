@@ -12,11 +12,10 @@ regarding unsafe consumer products identified in Singapore.</p>
 <p></p>
 <h3><strong>SAFETY ALERT: Baby self-feeding pillows</strong></h3>
 <p><strong>Date of notice</strong>
-<br>07 Apr 2026</p>
-<p><strong>Name of product</strong>
-<br>Baby self-feeding pillow (prop feeder)</p>
-<p><strong>Product pictures</strong>
-<br>
+<br>07 Apr 2026
+<br><strong>Name of product</strong>
+<br>Baby self-feeding pillow (prop feeder)
+<br><strong>Product pictures</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/BSF_Pic_combined_final_070426.png">
