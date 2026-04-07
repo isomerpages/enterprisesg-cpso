@@ -9,7 +9,7 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<h3><strong>SAFETY ALERT: Air-injection “popping” toys sold with syringes</strong></h3>
+<h3>SAFETY ALERT: Air-injection “popping” toys sold with syringes</h3>
 <p><strong>Date of notice</strong>
 <br>07 Apr 2026
 <br><strong>Name of product</strong>
@@ -35,11 +35,13 @@ to keep any existing toys out of children’s reach. Owners of such toys
 are strongly encouraged to dispose of the sharp needle safely by placing
 them in a hard, puncture-resistant container with a secure lid before disposing
 with general waste.</p>
-<p>Several jurisdictions including Hong Kong, Macau, Philippines, Taiwan
-and Thailand have warned the public about the dangers of this product.
-This product is also known by other names such as “pimple popping toy”,
-“acne squeeze toy”, “bubble squeezing toy”, “inflatable squishy toy”, “pinch
-toy” or similar variations of such names.</p>
+<p>Several jurisdictions including <a href="https://www.customs.gov.hk/en/customs-announcement/press-release/index_id_4417.html?p=2&amp;y=2024&amp;m=12" rel="noopener nofollow" target="_blank">Hong Kong</a>,
+<a href="https://www.pj.gov.mo/Web/u/cms/www/202412/11154041qnd3.pdf" rel="noopener nofollow" target="_blank">Macau</a>, <a href="https://www.pna.gov.ph/index.php/articles/1237673" rel="noopener nofollow" target="_blank">Philippines</a>,
+<a href="https://www.rti.org.tw/en/news?uid=3&amp;pid=33853" rel="noopener nofollow" target="_blank">Taiwan</a>and <a href="https://thethaiger.com/guides/best-of/health/thai-health-officials-warn-against-dangerous-kids-pimple-popper-toy" rel="noopener nofollow" target="_blank">Thailand</a> have
+warned the public about the dangers of this product. This product is also
+known by other names such as “pimple popping toy”, “acne squeeze toy”,
+“bubble squeezing toy”, “inflatable squishy toy”, “pinch toy” or similar
+variations of such names.</p>
 <p>For more product safety alerts and recalls for children toys, see below.</p>
 <table style="minWidth: 50px">
 <colgroup>
