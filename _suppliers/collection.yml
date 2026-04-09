@@ -12,7 +12,7 @@ collections:
       - supplying-consumer-goods/.keep
       - supplying-consumer-goods/consumer-protection-consumer-goods-safety-requirements-regulations-cgsr.md
       - supplying-consumer-goods/resources.md
-      - Goods suspensions & recalls/.keep
-      - Goods suspensions & recalls/Overview of product recall.md
-      - Goods suspensions & recalls/Steps to conduct a product recall.md
-      - Goods suspensions & recalls/Resources.md
+      - Suspensions & recalls of goods/.keep
+      - Suspensions & recalls of goods/Overview of product recall.md
+      - Suspensions & recalls of goods/Steps to conduct a product recall.md
+      - Suspensions & recalls of goods/Resources.md
