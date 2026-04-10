@@ -5,9 +5,9 @@ variant: tiptap
 description: ""
 third_nav_title: Suspensions & recalls
 ---
-<h2>Overview </h2>
+<h2>Overview</h2>
 <p>Products that fail to comply with relevant safety regulations or pose
-a risks to consumer safety may be subject to enforcement actions, including
+a risk to consumer safety may be subject to enforcement actions, including
 stop-sale orders and product recalls, to protect public safety.</p>
 <p>A supplier is the entity that bears primary responsibility for the supply
 of safe consumer products in Singapore. "Suppliers" include manufacturers,
