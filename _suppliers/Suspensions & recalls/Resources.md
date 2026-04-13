@@ -3,7 +3,7 @@ title: Resources
 permalink: /resources/
 variant: tiptap
 description: ""
-third_nav_title: Product recall guide
+third_nav_title: Suspensions & recalls
 ---
 <table style="minWidth: 50px">
 <colgroup>

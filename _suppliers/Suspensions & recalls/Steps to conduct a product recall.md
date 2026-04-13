@@ -3,7 +3,7 @@ title: Steps to conduct a product recall
 permalink: /steps-to-conduct-a-product-recall/
 variant: tiptap
 description: ""
-third_nav_title: Product recall guide
+third_nav_title: Suspensions & recalls
 ---
 <h3>Steps to conduct a Product Recall</h3>
 <p><strong>Step 1: Incident notification &amp; investigation</strong>
