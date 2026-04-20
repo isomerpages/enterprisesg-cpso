@@ -35,6 +35,10 @@ sections:
         href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-apparel">
         here</a> for more notices.
       cards:
+        - title: "RECALL: Scubapro Monorail Weight Pockets"
+          description: 20 April 2026<br> Risk of serious injury or death from drowning
+          linktext: Learn more
+          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/recreational-products/
         - title: "SAFETY ALERT: Baby Self-feeding Pillows"
           description: 7 April 2026<br> Posing serious risks of choking and suffocation to
             babies
@@ -45,11 +49,6 @@ sections:
             children
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-toys/
-        - title: "SAFETY ALERT: Green Luminous Watch with Light"
-          description: "15 September 2025<br> Lazada Seller: “Sunclouds” <br> Updated 6
-            March 2026"
-          linktext: Learn more
-          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/others/
   - infopic:
       title: Find out more about children's product safety tips
       description: Keep these tips in mind to safeguard your children from injuries.
