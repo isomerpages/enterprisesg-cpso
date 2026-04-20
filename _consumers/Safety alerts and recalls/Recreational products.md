@@ -60,7 +60,7 @@ Ltd</p>
 <p>20 Apr 2026</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><u>SCUBAPRO Recalls Monorail Weight Pockets for Buoyancy Compensator Devices (BCDs) Due to Risk of Serious Injury or Death from Drowning</u>
+<p><a href="/files/product-safety-alerts-and-recalls/recreational-products/cgsr_recall_scubapro_monorail_weight_pockets_20 apr 26.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>SCUBAPRO Recalls Monorail Weight Pockets for Buoyancy Compensator Devices (BCDs) Due to Risk of Serious Injury or Death from Drowning</u></a>
 </p>
 </td>
 </tr>
