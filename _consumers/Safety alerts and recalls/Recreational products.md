@@ -17,27 +17,24 @@ regarding unsafe consumer products identified in Singapore.</p>
 recalling the SCUBAPRO Monorail Weight Pockets for BCDs <strong>sold between November 29, 2025 and February 13, 2026.</strong>&nbsp;</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Scubapro_20_Apr_26.png">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Scubapro_20_Apr_26.png">
 </div>
 <p>The D-ring handle that is used to unlock the weight pocket from the BCD
 can detach during use. If this happens, a diver may not be able to remove
 the weights quickly in an emergency to rise to the surface, posing a risk
 of serious injury or death from a drowning hazard.</p>
-<p>&nbsp;</p>
 <p>Consumers should immediately stop using the recalled Monorail Weight Pocket
 and register <a href="https://scubapro.johnsonoutdoors.com/us/recalls" rel="noopener noreferrer nofollow" target="_blank">online</a> for
 a free repair of the D-ring handle at a local authorised dealer or to obtain
 a prepaid shipping label to return the recalled weight pocket to SCUBAPRO
 for a free repair and free return shipping. Local authorised distributors
 are:</p>
-<p>&nbsp;</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CF Divers Pte Ltd</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dive Box</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ren Supplies &amp; Services Pte
 Ltd</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waikiki Watersports Trading Pte
 Ltd</p>
-<p>&nbsp;</p>
 <p>For enquiries regarding this recall, please email <a href="mailto:mwpockets@scubapro.com" rel="noopener noreferrer nofollow" target="_blank">mwpockets@scubapro.com</a>.</p>
 <p><strong>Product recalls</strong>
 </p>
