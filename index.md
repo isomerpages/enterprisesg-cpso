@@ -35,7 +35,7 @@ sections:
         href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-apparel">
         here</a> for more notices.
       cards:
-        - title: "RECALL: Scubapro Monorail Weight Pockets"
+        - title: "RECALL: SCUBAPRO Monorail Weight Pockets"
           description: 20 April 2026<br> Risk of serious injury or death from drowning
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/recreational-products/
