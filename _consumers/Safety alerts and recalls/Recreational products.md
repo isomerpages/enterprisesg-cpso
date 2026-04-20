@@ -116,7 +116,8 @@ are:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>29 Jul 2019</p>
+<p>29 Jul
+<br>2019</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="/files/product-safety-alerts-and-recalls/recreational-products/recreational-products-recall-2019-07-29-decathlon-recalls-rocky-screwgate-carabiner.pdf" rel="noopener noreferrer nofollow" target="_blank">Decathlon recalls Rocky Screwgate Carabiner</a>
