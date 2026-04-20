@@ -29,12 +29,20 @@ a free repair of the D-ring handle at a local authorised dealer or to obtain
 a prepaid shipping label to return the recalled weight pocket to SCUBAPRO
 for a free repair and free return shipping. Local authorised distributors
 are:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; CF Divers Pte Ltd</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Dive Box</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ren Supplies &amp; Services Pte
-Ltd</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Waikiki Watersports Trading Pte
-Ltd</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>CF Divers Pte Ltd</p>
+</li>
+<li>
+<p>Dive Box</p>
+</li>
+<li>
+<p>Ren Supplies &amp; Services Pte Ltd</p>
+</li>
+<li>
+<p>Waikiki Watersports Trading Pte Ltd</p>
+</li>
+</ul>
 <p>For enquiries regarding this recall, please email <a href="mailto:mwpockets@scubapro.com" rel="noopener noreferrer nofollow" target="_blank">mwpockets@scubapro.com</a>.</p>
 <p><strong>Product recalls</strong>
 </p>
