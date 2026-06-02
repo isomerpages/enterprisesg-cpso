@@ -8,11 +8,13 @@ description: The Consumer Product Safety Office (CPSO) is an office overseen by
   (CGSR).
 image: /images/isomer-logo.svg
 permalink: /
-notification: From 1 July 2025, the Consumer Product Safety Office is
-  transferred to the Competition and Consumer Commission of
-  Singapore.<br><br>Government officials will NEVER ask you to transfer money or
-  disclose bank log-in details over a phone call. If in doubt, call the 24/7
-  ScamShield Helpline at 1799 or visit https://www.scamshield.gov.sg.
+notification: The CPSA+ online portal will be undergoing scheduled maintenance
+  from 9 Jun 2026, 6:00 PM to 15 Jun 2026, 9.00 AM. Access to the system will
+  not be available during this period. For queries, please use the online
+  feedback form under ‘Contact Us’. <br><br> Government officials will NEVER ask
+  you to transfer money or disclose bank log-in details over a phone call. If in
+  doubt, call the 24/7 ScamShield Helpline at 1799 or visit <a
+  href="https://www.scamshield.gov.sg">https://www.scamshield.gov.sg</a>.
 sections:
   - hero:
       subtitle: <h3>Consumer product safety for consumers and suppliers</h3><h3></h3>
@@ -35,6 +37,10 @@ sections:
         href="https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-apparel">
         here</a> for more notices.
       cards:
+        - title: "RECALL: BenQ GV31 Portable Mini Projector"
+          description: 2 June 2026 <br> Poses fire harzard due to battery overheating issue
+          linktext: Learn more
+          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/electrical/
         - title: "RECALL: SCUBAPRO Monorail Weight Pockets"
           description: 20 April 2026<br> Risk of serious injury or death from drowning
           linktext: Learn more
@@ -44,11 +50,6 @@ sections:
             babies
           linktext: Learn more
           url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-products/
-        - title: 'SAFETY ALERT: Syringe "Popping" Toys'
-          description: 7 April 2026 <br> Posing serious risks of injury and infection to
-            children
-          linktext: Learn more
-          url: https://www.consumerproductsafety.gov.sg/consumers/safety-alerts-and-recalls/children-toys/
   - infopic:
       title: Find out more about children's product safety tips
       description: Keep these tips in mind to safeguard your children from injuries.

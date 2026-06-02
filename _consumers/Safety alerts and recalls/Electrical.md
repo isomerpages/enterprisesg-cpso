@@ -9,34 +9,22 @@ variant: tiptap
 <p>We conduct compliance checks on consumer products sold locally to ensure
 they adhere to safety requirements. Stay up to date with the latest news
 regarding unsafe consumer products identified in Singapore.</p>
-<h4><strong>03 Dec 2025</strong><br><strong>Belkin Recalls Portable Power Banks and Wireless Charging Stands Due to Fire and Burn Hazards</strong></h4>
-<p>
-<br>Belkin is voluntarily recalling the Belkin Auto-Tracking Stand Pro (Model
-number: MMA008), the&nbsp;Belkin BoostCharge USB-C PD Power Bank 20K (Model
-number: BPB002)&nbsp;and the&nbsp;Belkin Playa USB-C PD Power Bank 20K
-(Model number: PB0003). Of these three recalled models, only the Belkin
-Auto-Tracking Stand Pro (with serial numbers 57X10F61E00046 - 57X10F67E06078)
-is sold by Belkin in Singapore.</p>
+<h4><strong>02 Jun 2026</strong><br><strong>BenQ Singapore Recalls GV31 Portable Mini Projector Due to Possible Overheating and Fire Risk</strong></h4>
+<p>BenQ Singapore is recalling all GV31 Portable Mini Projectors. This recall
+is due to a battery overheating issue. This problem may cause a fire hazard.</p>
+<p>Consumers who own a GV31 Portable Mini Projector, should stop using it
+immediately.</p>
+<p>To learn more, please scan the QR code below or visit the BenQ <a href="https://www.benq.com/en-sg/support/repair-service/gv31-recall-notification.html" rel="noopener noreferrer nofollow" target="_blank">website</a>.
+You can apply for:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a free battery service and firmware
+update; or</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a free upgrade to a GV32 projector.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/electrical/Belkin_wireless_charging_stand.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/product-safety-alerts-and-recalls/electrical/BenQ_mini_projector.jpg">
 </div>
-<p>The lithium-ion battery in these portable chargers may overheat, posing
-a fire hazard.</p>
-<p>Consumers who have purchased these affected models should immediately
-stop using them and disconnect them from all power sources and devices.
-The product should be placed in a safe, dry location away from anything
-flammable.</p>
-<p>Consumers may register using this <a href="https://belkin.my.site.com/supportforms/product-recall-form" rel="noopener nofollow" target="_blank">link</a> to
-confirm eligibility for a full refund. Valid proof of purchase or serial
-number is required.</p>
-<p>After receiving confirmation of eligibility, consumers should dispose
-of the product at a certified facility that accepts recalled lithium-ion
-batteries. Do not dispose of such products in regular trash or recycling
-bins.</p>
-<p>For enquiries regarding this recall, please contact Belkin’s Customer
-Service Local Representatives. Local contact telephone numbers are available
-at the provided link <a href="https://www.belkin.com/support-article?articleNum=55022" rel="noopener nofollow" target="_blank">here.</a>
-</p>
+<p>If you have questions about this recall, please contact BenQ's customer
+support at <a href="mailto:benqsupport.sg@benq.com" rel="noopener noreferrer nofollow" target="_blank">benqsupport.sg@benq.com</a> or
+via WhatsApp at +65 8717 0626.</p>
 <p></p>
 <p>Refer to the listing below for more product safety alerts and recalls.</p>
 <p><strong>Product recalls</strong>
@@ -54,6 +42,15 @@ at the provided link <a href="https://www.belkin.com/support-article?articleNum=
 <th rowspan="1" colspan="1">
 <p>Title</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>02 Jun 2026</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="/files/product-safety-alerts-and-recalls/electrical/electrical_recall_2026_06_02_benq_GV31_mini_projector.pdf" rel="noopener noreferrer nofollow" target="_blank">BenQ Singapore Recalls GV31 Portable Mini Projector Due to Possible Overheating and Fire Risk</a>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
