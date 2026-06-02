@@ -11,7 +11,7 @@ permalink: /
 notification: The CPSA+ online portal will be undergoing scheduled maintenance
   from 9 Jun 2026, 6:00 PM to 15 Jun 2026, 9.00 AM. Access to the system will
   not be available during this period. For queries, please use the online
-  feedback form under ‘Contact Us’. <br><br>Government officials will NEVER ask
+  feedback form under ‘Contact Us’. <br><br> Government officials will NEVER ask
   you to transfer money or disclose bank log-in details over a phone call. If in
   doubt, call the 24/7 ScamShield Helpline at 1799 or visit <a
   href="https://www.scamshield.gov.sg"> https://www.scamshield.gov.sg </a>.
