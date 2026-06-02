@@ -14,7 +14,7 @@ notification: The CPSA+ online portal will be undergoing scheduled maintenance
   feedback form under ‘Contact Us’. <br><br> Government officials will NEVER ask
   you to transfer money or disclose bank log-in details over a phone call. If in
   doubt, call the 24/7 ScamShield Helpline at 1799 or visit <a
-  href="https://www.scamshield.gov.sg"> https://www.scamshield.gov.sg </a>.
+  href="https://www.scamshield.gov.sg">https://www.scamshield.gov.sg</a>.
 sections:
   - hero:
       subtitle: <h3>Consumer product safety for consumers and suppliers</h3><h3></h3>
