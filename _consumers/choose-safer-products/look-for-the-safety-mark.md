@@ -5,9 +5,9 @@ third_nav_title: Choose safer products
 variant: tiptap
 ---
 <h2>Controlled Goods Must have the SAFETY Mark</h2>
-<p>Consumers can do their part in keeping their families safe by out for
-the SAFETY Mark when purchasing household electrical, electronic and gas
-appliances.</p>
+<p>Consumers can do their part in keeping their families safe by looking
+out for the SAFETY Mark when purchasing household electrical, electronic
+and gas appliances.</p>
 <p></p>
 <div data-type="detailGroup" class="isomer-accordion isomer-accordion-white">
 <details class="isomer-details">
