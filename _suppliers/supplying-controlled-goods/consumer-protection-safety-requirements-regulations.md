@@ -59,8 +59,8 @@ models.</p>
 <p>Visit <a href="https://www.go.gov.sg/safety-mark" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/safety-mark</a> and
 click on "Register of Registered Controlled Goods"</p>
 <p></p>
-<p><strong>Note: </strong>Our Register is down now. Please check , for the
-Controlled Goods with active registrations as of<strong> 9 June 2026, 5pm</strong>.</p>
+<p><strong>Note: </strong>Our Register is down now. Please check <strong><a href="/files/Active_CG_registrations_as_of_9_Jun_2026__5pm.pdf" rel="noopener nofollow" target="_blank">this file</a></strong>,
+for the Controlled Goods with active registrations as of<strong> 9 June 2026, 5pm</strong>.</p>
 </td>
 </tr>
 <tr>
