@@ -395,5 +395,4 @@ safely. Click <a href="http://www.consumerproductsafety.gov.sg/consumers/product
 </details>
 </div>
 <p></p>
-<p><a href="/files/Active_CG_registrations_as_of_9_Jun_2026__5pm.pdf" rel="noopener nofollow" target="_blank">file</a>
-</p>
+<p></p>
