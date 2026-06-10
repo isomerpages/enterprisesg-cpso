@@ -88,6 +88,9 @@ on them. One on the appliance and another on the plug.</p>
 <td rowspan="1" colspan="1">
 <p>Visit <a href="https://www.go.gov.sg/safety-mark" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/safety-mark</a> to
 access the Register of Registered Controlled Goods.</p>
+<p></p>
+<p><strong>Note: </strong>Our Register is down now. Please check this file,
+for the Controlled Goods with active registrations as of<strong> 9 June 2026, 5pm</strong>.</p>
 </td>
 </tr>
 <tr>
