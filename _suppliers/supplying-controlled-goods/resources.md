@@ -62,7 +62,7 @@ for Certification</p>
 and definitions of Controlled Goods</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>26 Sep 2025</p>
+<p>24 Jun 2026</p>
 </td>
 </tr>
 <tr>
